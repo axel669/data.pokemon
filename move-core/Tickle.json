@@ -1,0 +1,8 @@
+{
+  "name": "Tickle",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user tickles the target into laughing, lowering its Attack and Defense stats."
+}

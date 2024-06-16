@@ -1,0 +1,238 @@
+{
+  "name": "Kricketune",
+  "national": "0402",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cricket Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 25.5,
+        "imperial": 56.2
+      },
+      "ability": {
+        "normal": [
+          "Swarm"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 77,
+        "atk": 85,
+        "def": 51,
+        "satk": 55,
+        "sdef": 51,
+        "spd": 65
+      },
+      "moves": [
+        [
+          "evo",
+          "Fury Cutter"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          14,
+          "Absorb"
+        ],
+        [
+          18,
+          "Sing"
+        ],
+        [
+          22,
+          "Focus Energy"
+        ],
+        [
+          26,
+          "Slash"
+        ],
+        [
+          30,
+          "X-Scissor"
+        ],
+        [
+          34,
+          "Screech"
+        ],
+        [
+          36,
+          "Fell Stinger"
+        ],
+        [
+          38,
+          "Taunt"
+        ],
+        [
+          42,
+          "Night Slash"
+        ],
+        [
+          44,
+          "Sticky Web"
+        ],
+        [
+          46,
+          "Bug Buzz"
+        ],
+        [
+          50,
+          "Perish Song"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "pre",
+          "Struggle Bug"
+        ],
+        [
+          "pre",
+          "Bug Bite"
+        ]
+      ]
+    }
+  ]
+}

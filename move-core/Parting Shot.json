@@ -1,0 +1,8 @@
+{
+  "name": "Parting Shot",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches places with a party Pokémon in waiting."
+}

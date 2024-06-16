@@ -1,0 +1,8 @@
+{
+  "name": "Ceaseless Edge",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes."
+}

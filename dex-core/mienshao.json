@@ -1,0 +1,295 @@
+{
+  "name": "Mienshao",
+  "national": "0620",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Martial Arts Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 35.5,
+        "imperial": 78.3
+      },
+      "ability": {
+        "normal": [
+          "Inner Focus",
+          "Regenerator"
+        ],
+        "hidden": "Reckless"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 125,
+        "def": 60,
+        "satk": 95,
+        "sdef": 60,
+        "spd": 105
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Reversal"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Quick Guard"
+        ],
+        [
+          15,
+          "Fury Swipes"
+        ],
+        [
+          20,
+          "Wide Guard"
+        ],
+        [
+          25,
+          "Force Palm"
+        ],
+        [
+          30,
+          "U-turn"
+        ],
+        [
+          35,
+          "Drain Punch"
+        ],
+        [
+          40,
+          "Hone Claws"
+        ],
+        [
+          45,
+          "Aura Sphere"
+        ],
+        [
+          53,
+          "Bounce"
+        ],
+        [
+          59,
+          "Calm Mind"
+        ],
+        [
+          66,
+          "High Jump Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Focus Punch"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Feint"
+        ]
+      ]
+    }
+  ]
+}

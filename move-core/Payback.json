@@ -1,0 +1,8 @@
+{
+  "name": "Payback",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user stores power, then attacks. This move's power is doubled if the user moves after the target."
+}

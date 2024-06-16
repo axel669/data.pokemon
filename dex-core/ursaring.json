@@ -1,0 +1,375 @@
+{
+  "name": "Ursaring",
+  "national": "0217",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hibernator Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 125.8,
+        "imperial": 277.3
+      },
+      "ability": {
+        "normal": [
+          "Guts",
+          "Quick Feet"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 130,
+        "def": 75,
+        "satk": 75,
+        "sdef": 75,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Lick"
+        ],
+        [
+          null,
+          "Covet"
+        ],
+        [
+          null,
+          "Fake Tears"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          13,
+          "Payback"
+        ],
+        [
+          17,
+          "Sweet Scent"
+        ],
+        [
+          22,
+          "Slash"
+        ],
+        [
+          25,
+          "Play Nice"
+        ],
+        [
+          29,
+          "Play Rough"
+        ],
+        [
+          35,
+          "Scary Face"
+        ],
+        [
+          41,
+          "Rest"
+        ],
+        [
+          41,
+          "Snore"
+        ],
+        [
+          48,
+          "High Horsepower"
+        ],
+        [
+          56,
+          "Thrash"
+        ],
+        [
+          64,
+          "Hammer Arm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Seismic Toss"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Fury Cutter"
+        ],
+        [
+          "egg",
+          "Metal Claw"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Crunch"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Fake Tears"
+        ],
+        [
+          "egg",
+          "Close Combat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "pre",
+          "Fling"
+        ],
+        [
+          "pre",
+          "Baby-doll Eyes"
+        ],
+        [
+          "pre",
+          "Charm"
+        ]
+      ]
+    }
+  ]
+}

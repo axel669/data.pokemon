@@ -1,0 +1,355 @@
+{
+  "name": "Scraggy",
+  "national": "0559",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Shedding Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 11.8,
+        "imperial": 26
+      },
+      "ability": {
+        "normal": [
+          "Shed Skin",
+          "Moxie"
+        ],
+        "hidden": "Intimidate"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 75,
+        "def": 70,
+        "satk": 35,
+        "sdef": 70,
+        "spd": 48
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Low Kick"
+        ],
+        [
+          4,
+          "Payback"
+        ],
+        [
+          8,
+          "Headbutt"
+        ],
+        [
+          12,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Facade"
+        ],
+        [
+          20,
+          "Torment"
+        ],
+        [
+          24,
+          "Beat Up"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Brick Break"
+        ],
+        [
+          36,
+          "Swagger"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          44,
+          "High Jump Kick"
+        ],
+        [
+          48,
+          "Focus Punch"
+        ],
+        [
+          52,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "name": "Galvantula",
+  "national": "0596",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleSpider Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 14.3,
+        "imperial": 31.5
+      },
+      "ability": {
+        "normal": [
+          "Compound Eyes",
+          "Unnerve"
+        ],
+        "hidden": "Swarm"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 77,
+        "def": 60,
+        "satk": 97,
+        "sdef": 60,
+        "spd": 108
+      },
+      "moves": [
+        [
+          "evo",
+          "Sticky Web"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Fury Cutter"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          null,
+          "Electroweb"
+        ],
+        [
+          12,
+          "String Shot"
+        ],
+        [
+          16,
+          "Thunder Wave"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          24,
+          "Agility"
+        ],
+        [
+          28,
+          "Sucker Punch"
+        ],
+        [
+          32,
+          "Slash"
+        ],
+        [
+          39,
+          "Discharge"
+        ],
+        [
+          44,
+          "Screech"
+        ],
+        [
+          50,
+          "Gastro Acid"
+        ],
+        [
+          56,
+          "Bug Buzz"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Poison Sting"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Struggle Bug"
+        ],
+        [
+          "egg",
+          "Infestation"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Dreepy",
+  "national": "0885",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Lingering Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 2,
+        "imperial": 4.4
+      },
+      "ability": {
+        "normal": [
+          "Clear Body",
+          "Infiltrator"
+        ],
+        "hidden": "Cursed Body"
+      },
+      "stats": {
+        "hp": 28,
+        "atk": 60,
+        "def": 30,
+        "satk": 40,
+        "sdef": 30,
+        "spd": 82
+      },
+      "moves": [
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Infestation"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Dragon Tail"
+        ]
+      ]
+    }
+  ]
+}

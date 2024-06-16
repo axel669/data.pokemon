@@ -1,0 +1,8 @@
+{
+  "name": "Seismic Toss",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+}

@@ -1,0 +1,282 @@
+{
+  "name": "Komala",
+  "national": "0775",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Drowsing Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 19.9,
+        "imperial": 43.9
+      },
+      "ability": {
+        "normal": [
+          "Comatose"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 115,
+        "def": 65,
+        "satk": 75,
+        "sdef": 95,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Rollout"
+        ],
+        [
+          6,
+          "Stockpile"
+        ],
+        [
+          6,
+          "Spit Up"
+        ],
+        [
+          6,
+          "Swallow"
+        ],
+        [
+          11,
+          "Rapid Spin"
+        ],
+        [
+          16,
+          "Yawn"
+        ],
+        [
+          21,
+          "Slam"
+        ],
+        [
+          26,
+          "Flail"
+        ],
+        [
+          31,
+          "Sucker Punch"
+        ],
+        [
+          36,
+          "Psych Up"
+        ],
+        [
+          41,
+          "Wood Hammer"
+        ],
+        [
+          46,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Sing"
+        ],
+        [
+          "egg",
+          "Charm"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Play Rough"
+        ]
+      ]
+    }
+  ]
+}

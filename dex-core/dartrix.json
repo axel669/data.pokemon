@@ -1,0 +1,274 @@
+{
+  "name": "Dartrix",
+  "national": "0723",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Blade Quill Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Long Reach"
+      },
+      "stats": {
+        "hp": 78,
+        "atk": 75,
+        "def": 75,
+        "satk": 70,
+        "sdef": 70,
+        "spd": 52
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          9,
+          "Peck"
+        ],
+        [
+          12,
+          "Shadow Sneak"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Synthesis"
+        ],
+        [
+          25,
+          "Pluck"
+        ],
+        [
+          30,
+          "Nasty Plot"
+        ],
+        [
+          35,
+          "Sucker Punch"
+        ],
+        [
+          40,
+          "Leaf Blade"
+        ],
+        [
+          45,
+          "Feather Dance"
+        ],
+        [
+          50,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

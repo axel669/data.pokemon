@@ -1,0 +1,8 @@
+{
+  "name": "Mud-slap",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+}

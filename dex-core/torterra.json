@@ -1,0 +1,370 @@
+{
+  "name": "Torterra",
+  "national": "0389",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Continent Pokémon",
+      "height": {
+        "metric": 2.2,
+        "imperial": 87
+      },
+      "weight": {
+        "metric": 310,
+        "imperial": 683.4
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 109,
+        "def": 105,
+        "satk": 75,
+        "sdef": 85,
+        "spd": 56
+      },
+      "moves": [
+        [
+          "evo",
+          "Earthquake"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Wood Hammer"
+        ],
+        [
+          17,
+          "Curse"
+        ],
+        [
+          22,
+          "Bite"
+        ],
+        [
+          27,
+          "Mega Drain"
+        ],
+        [
+          33,
+          "Leech Seed"
+        ],
+        [
+          39,
+          "Synthesis"
+        ],
+        [
+          45,
+          "Crunch"
+        ],
+        [
+          51,
+          "Giga Drain"
+        ],
+        [
+          57,
+          "Leaf Storm"
+        ],
+        [
+          63,
+          "Headlong Rush"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM155",
+          "Frenzy Plant"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "egg",
+          "Shell Smash"
+        ]
+      ]
+    }
+  ]
+}

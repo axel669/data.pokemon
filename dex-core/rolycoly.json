@@ -1,0 +1,211 @@
+{
+  "name": "Rolycoly",
+  "national": "0837",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Coal Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 12,
+        "imperial": 26.5
+      },
+      "ability": {
+        "normal": [
+          "Steam Engine",
+          "Heatproof"
+        ],
+        "hidden": "Flash Fire"
+      },
+      "stats": {
+        "hp": 30,
+        "atk": 40,
+        "def": 50,
+        "satk": 40,
+        "sdef": 50,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          5,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Smack Down"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Incinerate"
+        ],
+        [
+          30,
+          "Stealth Rock"
+        ],
+        [
+          35,
+          "Heat Crash"
+        ],
+        [
+          40,
+          "Rock Blast"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Block"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Mystical Power",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks by emitting a mysterious power. This also boosts the user's Sp. Atk stat."
+}

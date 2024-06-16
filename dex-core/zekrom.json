@@ -1,0 +1,350 @@
+{
+  "name": "Zekrom",
+  "national": "0644",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Deep Black Pokémon",
+      "height": {
+        "metric": 2.9,
+        "imperial": 114
+      },
+      "weight": {
+        "metric": 345,
+        "imperial": 760.6
+      },
+      "ability": {
+        "normal": [
+          "Teravolt"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 120,
+        "satk": 120,
+        "sdef": 100,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Thunder Fang"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          8,
+          "Slash"
+        ],
+        [
+          16,
+          "Crunch"
+        ],
+        [
+          24,
+          "Zen Headbutt"
+        ],
+        [
+          32,
+          "Dragon Claw"
+        ],
+        [
+          40,
+          "Thunderbolt"
+        ],
+        [
+          48,
+          "Fusion Bolt"
+        ],
+        [
+          56,
+          "Hyper Voice"
+        ],
+        [
+          64,
+          "Thunder"
+        ],
+        [
+          72,
+          "Imprison"
+        ],
+        [
+          80,
+          "Outrage"
+        ],
+        [
+          88,
+          "Bolt Strike"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

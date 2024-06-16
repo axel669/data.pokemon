@@ -1,0 +1,8 @@
+{
+  "name": "Detect",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession."
+}

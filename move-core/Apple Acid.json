@@ -1,0 +1,8 @@
+{
+  "name": "Apple Acid",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat."
+}

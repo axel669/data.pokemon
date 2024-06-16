@@ -1,0 +1,576 @@
+{
+  "name": "Basculegion",
+  "national": "0902",
+  "forms": [
+    {
+      "name": "Male",
+      "species": "Big Fish Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 110,
+        "imperial": 242.5
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Adaptability"
+        ],
+        "hidden": "Mold Breaker"
+      },
+      "stats": {
+        "hp": 120,
+        "atk": 112,
+        "def": 65,
+        "satk": 80,
+        "sdef": 75,
+        "spd": 78
+      },
+      "moves": [
+        [
+          null,
+          "Shadow Ball"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Phantom Force"
+        ],
+        [
+          4,
+          "Tackle"
+        ],
+        [
+          8,
+          "Flail"
+        ],
+        [
+          12,
+          "Aqua Jet"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Scary Face"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Soak"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Uproar"
+        ],
+        [
+          44,
+          "Wave Crash"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Double-Edge"
+        ],
+        [
+          56,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Last Respects"
+        ]
+      ]
+    },
+    {
+      "name": "Female",
+      "species": "Big Fish Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 110,
+        "imperial": 242.5
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Adaptability"
+        ],
+        "hidden": "Mold Breaker"
+      },
+      "stats": {
+        "hp": 120,
+        "atk": 92,
+        "def": 65,
+        "satk": 100,
+        "sdef": 75,
+        "spd": 78
+      },
+      "moves": [
+        [
+          null,
+          "Shadow Ball"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Phantom Force"
+        ],
+        [
+          4,
+          "Tackle"
+        ],
+        [
+          8,
+          "Flail"
+        ],
+        [
+          12,
+          "Aqua Jet"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Scary Face"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Soak"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Uproar"
+        ],
+        [
+          44,
+          "Wave Crash"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Double-Edge"
+        ],
+        [
+          56,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Last Respects"
+        ]
+      ]
+    }
+  ]
+}

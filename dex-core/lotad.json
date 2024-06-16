@@ -1,0 +1,255 @@
+{
+  "name": "Lotad",
+  "national": "0270",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Weed Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 2.6,
+        "imperial": 5.7
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Rain Dish"
+        ],
+        "hidden": "Own Tempo"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 30,
+        "satk": 40,
+        "sdef": 50,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          3,
+          "Absorb"
+        ],
+        [
+          6,
+          "Water Gun"
+        ],
+        [
+          9,
+          "Mist"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          20,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Leech Seed"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          38,
+          "Zen Headbutt"
+        ],
+        [
+          43,
+          "Energy Ball"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Razor Leaf"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ]
+      ]
+    }
+  ]
+}

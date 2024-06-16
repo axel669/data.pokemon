@@ -1,0 +1,271 @@
+{
+  "name": "Lumineon",
+  "national": "0457",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Neon Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 24,
+        "imperial": 52.9
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Storm Drain"
+        ],
+        "hidden": "Water Veil"
+      },
+      "stats": {
+        "hp": 69,
+        "atk": 69,
+        "def": 76,
+        "satk": 69,
+        "sdef": 86,
+        "spd": 91
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Soak"
+        ],
+        [
+          13,
+          "Rain Dance"
+        ],
+        [
+          22,
+          "Water Pulse"
+        ],
+        [
+          26,
+          "Attract"
+        ],
+        [
+          29,
+          "Safeguard"
+        ],
+        [
+          35,
+          "Aqua Ring"
+        ],
+        [
+          42,
+          "Whirlpool"
+        ],
+        [
+          48,
+          "U-turn"
+        ],
+        [
+          53,
+          "Bounce"
+        ],
+        [
+          59,
+          "Tailwind"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Aurora Beam"
+        ],
+        [
+          "egg",
+          "Agility"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Sweet Kiss"
+        ],
+        [
+          "egg",
+          "Charm"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ]
+      ]
+    }
+  ]
+}

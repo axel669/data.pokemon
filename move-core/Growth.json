@@ -1,0 +1,8 @@
+{
+  "name": "Growth",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user's body grows all at once, boosting the Attack and Sp. Atk stats."
+}

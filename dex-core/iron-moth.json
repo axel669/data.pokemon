@@ -1,0 +1,286 @@
+{
+  "name": "Iron Moth",
+  "national": "0994",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 36,
+        "imperial": 79.4
+      },
+      "ability": {
+        "normal": [
+          "Quark Drive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 60,
+        "satk": 140,
+        "sdef": 110,
+        "spd": 110
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Whirlwind"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Acid Spray"
+        ],
+        [
+          7,
+          "Struggle Bug"
+        ],
+        [
+          14,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Take Down"
+        ],
+        [
+          28,
+          "Lunge"
+        ],
+        [
+          35,
+          "Screech"
+        ],
+        [
+          42,
+          "Discharge"
+        ],
+        [
+          49,
+          "Sludge Wave"
+        ],
+        [
+          56,
+          "Fiery Dance"
+        ],
+        [
+          63,
+          "Metal Sound"
+        ],
+        [
+          70,
+          "Morning Sun"
+        ],
+        [
+          77,
+          "Hurricane"
+        ],
+        [
+          84,
+          "Bug Buzz"
+        ],
+        [
+          91,
+          "Overheat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "rem",
+          "Electric Terrain"
+        ]
+      ]
+    }
+  ]
+}

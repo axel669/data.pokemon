@@ -1,0 +1,500 @@
+{
+  "name": "Eternatus",
+  "national": "0890",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Gigantic Pokémon",
+      "height": {
+        "metric": 20,
+        "imperial": 787
+      },
+      "weight": {
+        "metric": 950,
+        "imperial": 2094.4
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 140,
+        "atk": 85,
+        "def": 95,
+        "satk": 145,
+        "sdef": 95,
+        "spd": 130
+      },
+      "moves": [
+        [
+          null,
+          "Agility"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Poison Tail"
+        ],
+        [
+          null,
+          "Dragon Tail"
+        ],
+        [
+          8,
+          "Toxic"
+        ],
+        [
+          16,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Dragon Dance"
+        ],
+        [
+          32,
+          "Cross Poison"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Dynamax Cannon"
+        ],
+        [
+          64,
+          "Cosmic Power"
+        ],
+        [
+          72,
+          "Recover"
+        ],
+        [
+          80,
+          "Hyper Beam"
+        ],
+        [
+          88,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    },
+    {
+      "name": "Eternamax",
+      "species": "Gigantic Pokémon",
+      "height": {
+        "metric": 100,
+        "imperial": 3937
+      },
+      "weight": {
+        "metric": null,
+        "imperial": null
+      },
+      "ability": {
+        "normal": [],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 255,
+        "atk": 115,
+        "def": 250,
+        "satk": 125,
+        "sdef": 250,
+        "spd": 130
+      },
+      "moves": [
+        [
+          null,
+          "Agility"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Poison Tail"
+        ],
+        [
+          null,
+          "Dragon Tail"
+        ],
+        [
+          8,
+          "Toxic"
+        ],
+        [
+          16,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Dragon Dance"
+        ],
+        [
+          32,
+          "Cross Poison"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Dynamax Cannon"
+        ],
+        [
+          64,
+          "Cosmic Power"
+        ],
+        [
+          72,
+          "Recover"
+        ],
+        [
+          80,
+          "Hyper Beam"
+        ],
+        [
+          88,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    }
+  ]
+}

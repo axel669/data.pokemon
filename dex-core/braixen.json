@@ -1,0 +1,298 @@
+{
+  "name": "Braixen",
+  "national": "0654",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fox Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 14.5,
+        "imperial": 32
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Magician"
+      },
+      "stats": {
+        "hp": 59,
+        "atk": 59,
+        "def": 58,
+        "satk": 90,
+        "sdef": 70,
+        "spd": 73
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          11,
+          "Howl"
+        ],
+        [
+          14,
+          "Flame Charge"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          22,
+          "Fire Spin"
+        ],
+        [
+          28,
+          "Light Screen"
+        ],
+        [
+          36,
+          "Psyshock"
+        ],
+        [
+          41,
+          "Flamethrower"
+        ],
+        [
+          45,
+          "Will-O-Wisp"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          52,
+          "Sunny Day"
+        ],
+        [
+          56,
+          "Magic Room"
+        ],
+        [
+          59,
+          "Fire Blast"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "egg",
+          "Hypnosis"
+        ],
+        [
+          "egg",
+          "Heat Wave"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Magic Room"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "name": "Sandaconda",
+  "national": "0844",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sand Snake Pokémon",
+      "height": {
+        "metric": 3.8,
+        "imperial": 150
+      },
+      "weight": {
+        "metric": 65.5,
+        "imperial": 144.4
+      },
+      "ability": {
+        "normal": [
+          "Sand Spit",
+          "Shed Skin"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 72,
+        "atk": 107,
+        "def": 125,
+        "satk": 65,
+        "sdef": 70,
+        "spd": 71
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Minimize"
+        ],
+        [
+          null,
+          "Brutal Swing"
+        ],
+        [
+          15,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Glare"
+        ],
+        [
+          30,
+          "Dig"
+        ],
+        [
+          35,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Slam"
+        ],
+        [
+          49,
+          "Coil"
+        ],
+        [
+          51,
+          "Sand Tomb"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Poison Tail"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

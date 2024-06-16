@@ -1,0 +1,282 @@
+{
+  "name": "Dewott",
+  "national": "0502",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Discipline Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 24.5,
+        "imperial": 54
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 60,
+        "satk": 83,
+        "sdef": 60,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Soak"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Razor Shell"
+        ],
+        [
+          21,
+          "Fury Cutter"
+        ],
+        [
+          26,
+          "Water Pulse"
+        ],
+        [
+          29,
+          "Aerial Ace"
+        ],
+        [
+          34,
+          "Aqua Jet"
+        ],
+        [
+          37,
+          "Encore"
+        ],
+        [
+          42,
+          "Aqua Tail"
+        ],
+        [
+          45,
+          "Retaliate"
+        ],
+        [
+          50,
+          "Swords Dance"
+        ],
+        [
+          53,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Air Slash"
+        ],
+        [
+          "egg",
+          "Sacred Sword"
+        ],
+        [
+          "egg",
+          "Aqua Cutter"
+        ]
+      ]
+    }
+  ]
+}

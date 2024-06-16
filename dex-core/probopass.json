@@ -1,0 +1,339 @@
+{
+  "name": "Probopass",
+  "national": "0476",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Compass Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 340,
+        "imperial": 749.6
+      },
+      "ability": {
+        "normal": [
+          "Sturdy",
+          "Magnet Pull"
+        ],
+        "hidden": "Sand Force"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 145,
+        "satk": 75,
+        "sdef": 150,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Magnetic Flux"
+        ],
+        [
+          null,
+          "Magnet Rise"
+        ],
+        [
+          null,
+          "Gravity"
+        ],
+        [
+          null,
+          "Block"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          null,
+          "Iron Defense"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          13,
+          "Thunder Wave"
+        ],
+        [
+          16,
+          "Rest"
+        ],
+        [
+          19,
+          "Spark"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          25,
+          "Power Gem"
+        ],
+        [
+          28,
+          "Rock Blast"
+        ],
+        [
+          31,
+          "Discharge"
+        ],
+        [
+          34,
+          "Sandstorm"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Stone Edge"
+        ],
+        [
+          43,
+          "Zap Cannon"
+        ],
+        [
+          43,
+          "Lock-On"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "pre",
+          "Harden"
+        ],
+        [
+          "pre",
+          "Rock Throw"
+        ]
+      ]
+    }
+  ]
+}

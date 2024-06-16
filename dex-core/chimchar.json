@@ -1,0 +1,350 @@
+{
+  "name": "Chimchar",
+  "national": "0390",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Chimp Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 6.2,
+        "imperial": 13.7
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Iron Fist"
+      },
+      "stats": {
+        "hp": 44,
+        "atk": 58,
+        "def": 44,
+        "satk": 58,
+        "sdef": 44,
+        "spd": 61
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          7,
+          "Ember"
+        ],
+        [
+          9,
+          "Taunt"
+        ],
+        [
+          15,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Flame Wheel"
+        ],
+        [
+          23,
+          "Nasty Plot"
+        ],
+        [
+          25,
+          "Torment"
+        ],
+        [
+          31,
+          "Facade"
+        ],
+        [
+          33,
+          "Fire Spin"
+        ],
+        [
+          39,
+          "Acrobatics"
+        ],
+        [
+          41,
+          "Slack Off"
+        ],
+        [
+          47,
+          "Flamethrower"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "egg",
+          "Fire Punch"
+        ],
+        [
+          "egg",
+          "Thunder Punch"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Focus Energy"
+        ],
+        [
+          "egg",
+          "Encore"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Heat Wave"
+        ],
+        [
+          "egg",
+          "Helping Hand"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

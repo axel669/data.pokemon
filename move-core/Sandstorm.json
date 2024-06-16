@@ -1,0 +1,8 @@
+{
+  "name": "Sandstorm",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "A five-turn sandstorm is summoned to damage all Pokémon except Rock, Ground, and Steel types. The sandstorm also boosts the Sp. Def stats of Rock types."
+}

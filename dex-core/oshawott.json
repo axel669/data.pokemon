@@ -1,0 +1,274 @@
+{
+  "name": "Oshawott",
+  "national": "0501",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Otter Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 5.9,
+        "imperial": 13
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 45,
+        "satk": 63,
+        "sdef": 45,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          5,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Water Gun"
+        ],
+        [
+          11,
+          "Soak"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          17,
+          "Razor Shell"
+        ],
+        [
+          19,
+          "Fury Cutter"
+        ],
+        [
+          23,
+          "Water Pulse"
+        ],
+        [
+          25,
+          "Aerial Ace"
+        ],
+        [
+          29,
+          "Aqua Jet"
+        ],
+        [
+          31,
+          "Encore"
+        ],
+        [
+          35,
+          "Aqua Tail"
+        ],
+        [
+          37,
+          "Retaliate"
+        ],
+        [
+          41,
+          "Swords Dance"
+        ],
+        [
+          43,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Air Slash"
+        ],
+        [
+          "egg",
+          "Sacred Sword"
+        ],
+        [
+          "egg",
+          "Aqua Cutter"
+        ]
+      ]
+    }
+  ]
+}

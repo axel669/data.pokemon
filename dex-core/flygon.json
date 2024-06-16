@@ -1,0 +1,430 @@
+{
+  "name": "Flygon",
+  "national": "0330",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mystic Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 82,
+        "imperial": 180.8
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 80,
+        "satk": 80,
+        "sdef": 80,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Claw"
+        ],
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Sand Tomb"
+        ],
+        [
+          20,
+          "Dragon Tail"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Bug Buzz"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Earth Power"
+        ],
+        [
+          44,
+          "Earthquake"
+        ],
+        [
+          52,
+          "Uproar"
+        ],
+        [
+          60,
+          "Dragon Rush"
+        ],
+        [
+          68,
+          "Boomburst"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Gust"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Fury Cutter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ],
+        [
+          "rem",
+          "Bite"
+        ],
+        [
+          "rem",
+          "Fissure"
+        ],
+        [
+          "rem",
+          "Dig"
+        ],
+        [
+          "rem",
+          "Crunch"
+        ],
+        [
+          "rem",
+          "Superpower"
+        ],
+        [
+          "rem",
+          "Astonish"
+        ],
+        [
+          "rem",
+          "Dragon Dance"
+        ],
+        [
+          "rem",
+          "Feint"
+        ],
+        [
+          "pre",
+          "Bite"
+        ],
+        [
+          "pre",
+          "Dig"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Crunch"
+        ],
+        [
+          "pre",
+          "Superpower"
+        ],
+        [
+          "pre",
+          "Fissure"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Population Bomb",
+  "power": 20,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user's fellows gather in droves to perform a combo attack that hits the target one to ten times in a row."
+}

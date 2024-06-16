@@ -1,0 +1,234 @@
+{
+  "name": "Popplio",
+  "national": "0728",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Lion Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 7.5,
+        "imperial": 16.5
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Liquid Voice"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 54,
+        "def": 54,
+        "satk": 66,
+        "sdef": 56,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          3,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Disarming Voice"
+        ],
+        [
+          9,
+          "Aqua Jet"
+        ],
+        [
+          12,
+          "Baby-Doll Eyes"
+        ],
+        [
+          15,
+          "Icy Wind"
+        ],
+        [
+          18,
+          "Sing"
+        ],
+        [
+          21,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Encore"
+        ],
+        [
+          27,
+          "Misty Terrain"
+        ],
+        [
+          30,
+          "Hyper Voice"
+        ],
+        [
+          33,
+          "Moonblast"
+        ],
+        [
+          36,
+          "Hydro Pump"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ]
+      ]
+    }
+  ]
+}

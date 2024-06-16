@@ -1,0 +1,8 @@
+{
+  "name": "Avalanche",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "This move's power is doubled if the target has inflicted damage on the user in the same turn."
+}

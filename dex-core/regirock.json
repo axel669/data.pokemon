@@ -1,0 +1,286 @@
+{
+  "name": "Regirock",
+  "national": "0377",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Peak Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 230,
+        "imperial": 507.1
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Sturdy"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 200,
+        "satk": 50,
+        "sdef": 100,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Charge Beam"
+        ],
+        [
+          6,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Ancient Power"
+        ],
+        [
+          18,
+          "Stomp"
+        ],
+        [
+          24,
+          "Rock Slide"
+        ],
+        [
+          30,
+          "Curse"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          42,
+          "Hammer Arm"
+        ],
+        [
+          48,
+          "Stone Edge"
+        ],
+        [
+          54,
+          "Superpower"
+        ],
+        [
+          60,
+          "Lock-On"
+        ],
+        [
+          66,
+          "Zap Cannon"
+        ],
+        [
+          72,
+          "Hyper Beam"
+        ],
+        [
+          78,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ]
+      ]
+    }
+  ]
+}

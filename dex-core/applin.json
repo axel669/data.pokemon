@@ -1,0 +1,67 @@
+{
+  "name": "Applin",
+  "national": "0840",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Apple Core Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.5,
+        "imperial": 1.1
+      },
+      "ability": {
+        "normal": [
+          "Ripen",
+          "Gluttony"
+        ],
+        "hidden": "Bulletproof"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 80,
+        "satk": 40,
+        "sdef": 40,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ]
+      ]
+    }
+  ]
+}

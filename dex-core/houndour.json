@@ -1,0 +1,323 @@
+{
+  "name": "Houndour",
+  "national": "0228",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dark Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 10.8,
+        "imperial": 23.8
+      },
+      "ability": {
+        "normal": [
+          "Early Bird",
+          "Flash Fire"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 60,
+        "def": 30,
+        "satk": 80,
+        "sdef": 50,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          8,
+          "Smog"
+        ],
+        [
+          13,
+          "Roar"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Incinerate"
+        ],
+        [
+          25,
+          "Beat Up"
+        ],
+        [
+          28,
+          "Fire Fang"
+        ],
+        [
+          32,
+          "Torment"
+        ],
+        [
+          37,
+          "Comeuppance"
+        ],
+        [
+          40,
+          "Foul Play"
+        ],
+        [
+          44,
+          "Flamethrower"
+        ],
+        [
+          49,
+          "Crunch"
+        ],
+        [
+          52,
+          "Nasty Plot"
+        ],
+        [
+          56,
+          "Inferno"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Fire Spin"
+        ],
+        [
+          "egg",
+          "Reversal"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Thunder Fang"
+        ]
+      ]
+    }
+  ]
+}

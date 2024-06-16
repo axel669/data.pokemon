@@ -1,0 +1,742 @@
+{
+  "name": "Latias",
+  "national": "0380",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Eon Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 40,
+        "imperial": 88.2
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 90,
+        "satk": 110,
+        "sdef": 130,
+        "spd": 110
+      },
+      "moves": [
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Stored Power"
+        ],
+        [
+          5,
+          "Helping Hand"
+        ],
+        [
+          10,
+          "Recover"
+        ],
+        [
+          15,
+          "Confusion"
+        ],
+        [
+          20,
+          "Tailwind"
+        ],
+        [
+          25,
+          "Dragon Breath"
+        ],
+        [
+          30,
+          "Wish"
+        ],
+        [
+          35,
+          "Mist Ball"
+        ],
+        [
+          40,
+          "Zen Headbutt"
+        ],
+        [
+          45,
+          "Dragon Pulse"
+        ],
+        [
+          50,
+          "Heal Pulse"
+        ],
+        [
+          55,
+          "Reflect Type"
+        ],
+        [
+          60,
+          "Psychic"
+        ],
+        [
+          65,
+          "Guard Split"
+        ],
+        [
+          70,
+          "Healing Wish"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Eon Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 52,
+        "imperial": 114.6
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 120,
+        "satk": 140,
+        "sdef": 150,
+        "spd": 110
+      },
+      "moves": [
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Stored Power"
+        ],
+        [
+          5,
+          "Helping Hand"
+        ],
+        [
+          10,
+          "Recover"
+        ],
+        [
+          15,
+          "Confusion"
+        ],
+        [
+          20,
+          "Tailwind"
+        ],
+        [
+          25,
+          "Dragon Breath"
+        ],
+        [
+          30,
+          "Wish"
+        ],
+        [
+          35,
+          "Mist Ball"
+        ],
+        [
+          40,
+          "Zen Headbutt"
+        ],
+        [
+          45,
+          "Dragon Pulse"
+        ],
+        [
+          50,
+          "Heal Pulse"
+        ],
+        [
+          55,
+          "Reflect Type"
+        ],
+        [
+          60,
+          "Psychic"
+        ],
+        [
+          65,
+          "Guard Split"
+        ],
+        [
+          70,
+          "Healing Wish"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ]
+      ]
+    }
+  ]
+}

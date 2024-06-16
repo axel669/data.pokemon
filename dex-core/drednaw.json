@@ -1,0 +1,311 @@
+{
+  "name": "Drednaw",
+  "national": "0834",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bite Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 115.5,
+        "imperial": 254.6
+      },
+      "ability": {
+        "normal": [
+          "Strong Jaw",
+          "Shell Armor"
+        ],
+        "hidden": "Swift Swim"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 115,
+        "def": 90,
+        "satk": 48,
+        "sdef": 68,
+        "spd": 74
+      },
+      "moves": [
+        [
+          "evo",
+          "Rock Tomb"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Rock Polish"
+        ],
+        [
+          null,
+          "Razor Shell"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Counter"
+        ],
+        [
+          39,
+          "Jaw Lock"
+        ],
+        [
+          48,
+          "Liquidation"
+        ],
+        [
+          57,
+          "Body Slam"
+        ],
+        [
+          66,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Gastro Acid"
+        ],
+        [
+          "egg",
+          "Shell Smash"
+        ],
+        [
+          "egg",
+          "Dragon Tail"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "First Impression",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "Although this move has great power, it works only on the first turn each time the user enters battle."
+}

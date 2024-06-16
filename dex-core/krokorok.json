@@ -1,0 +1,327 @@
+{
+  "name": "Krokorok",
+  "national": "0552",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Desert Croc Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 33.4,
+        "imperial": 73.6
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Moxie"
+        ],
+        "hidden": "Anger Point"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 82,
+        "def": 45,
+        "satk": 45,
+        "sdef": 45,
+        "spd": 74
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Hone Claws"
+        ],
+        [
+          null,
+          "Power Trip"
+        ],
+        [
+          9,
+          "Sand Tomb"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          18,
+          "Torment"
+        ],
+        [
+          21,
+          "Dig"
+        ],
+        [
+          24,
+          "Swagger"
+        ],
+        [
+          27,
+          "Crunch"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          35,
+          "Foul Play"
+        ],
+        [
+          42,
+          "Earthquake"
+        ],
+        [
+          47,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ]
+      ]
+    }
+  ]
+}

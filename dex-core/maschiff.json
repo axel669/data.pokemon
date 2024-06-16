@@ -1,0 +1,239 @@
+{
+  "name": "Maschiff",
+  "national": "0942",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rascal Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Run Away"
+        ],
+        "hidden": "Stakeout"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 78,
+        "def": 60,
+        "satk": 40,
+        "sdef": 51,
+        "spd": 51
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          4,
+          "Lick"
+        ],
+        [
+          7,
+          "Snarl"
+        ],
+        [
+          10,
+          "Hone Claws"
+        ],
+        [
+          14,
+          "Bite"
+        ],
+        [
+          18,
+          "Roar"
+        ],
+        [
+          22,
+          "Headbutt"
+        ],
+        [
+          26,
+          "Payback"
+        ],
+        [
+          31,
+          "Crunch"
+        ],
+        [
+          35,
+          "Swagger"
+        ],
+        [
+          39,
+          "Reversal"
+        ],
+        [
+          43,
+          "Jaw Lock"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Retaliate"
+        ],
+        [
+          "egg",
+          "Play Rough"
+        ]
+      ]
+    }
+  ]
+}

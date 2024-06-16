@@ -1,0 +1,411 @@
+{
+  "name": "Granbull",
+  "national": "0210",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fairy Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 48.7,
+        "imperial": 107.4
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Quick Feet"
+        ],
+        "hidden": "Rattled"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 120,
+        "def": 75,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Outrage"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Ice Fang"
+        ],
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Thunder Fang"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Lick"
+        ],
+        [
+          19,
+          "Headbutt"
+        ],
+        [
+          27,
+          "Roar"
+        ],
+        [
+          35,
+          "Last Resort"
+        ],
+        [
+          43,
+          "Play Rough"
+        ],
+        [
+          51,
+          "Payback"
+        ],
+        [
+          59,
+          "Crunch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Mimic"
+        ],
+        [
+          "egg",
+          "Snore"
+        ],
+        [
+          "egg",
+          "Present"
+        ],
+        [
+          "egg",
+          "Retaliate"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": "Arrokuda",
+  "national": "0846",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rush Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim"
+        ],
+        "hidden": "Propeller Tail"
+      },
+      "stats": {
+        "hp": 41,
+        "atk": 63,
+        "def": 40,
+        "satk": 40,
+        "sdef": 30,
+        "spd": 66
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Aqua Jet"
+        ],
+        [
+          6,
+          "Fury Attack"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          18,
+          "Agility"
+        ],
+        [
+          24,
+          "Dive"
+        ],
+        [
+          30,
+          "Focus Energy"
+        ],
+        [
+          36,
+          "Crunch"
+        ],
+        [
+          42,
+          "Liquidation"
+        ],
+        [
+          48,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ]
+      ]
+    }
+  ]
+}

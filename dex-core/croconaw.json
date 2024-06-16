@@ -1,0 +1,314 @@
+{
+  "name": "Croconaw",
+  "national": "0159",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Big Jaw Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 25,
+        "imperial": 55.1
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 80,
+        "def": 80,
+        "satk": 59,
+        "sdef": 63,
+        "spd": 58
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          13,
+          "Bite"
+        ],
+        [
+          15,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Ice Fang"
+        ],
+        [
+          24,
+          "Flail"
+        ],
+        [
+          30,
+          "Crunch"
+        ],
+        [
+          34,
+          "Slash"
+        ],
+        [
+          37,
+          "Screech"
+        ],
+        [
+          42,
+          "Thrash"
+        ],
+        [
+          47,
+          "Aqua Tail"
+        ],
+        [
+          50,
+          "Superpower"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ]
+      ]
+    }
+  ]
+}

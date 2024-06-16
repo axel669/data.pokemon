@@ -1,0 +1,291 @@
+{
+  "name": "Mightyena",
+  "national": "0262",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bite Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 37,
+        "imperial": 81.6
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Quick Feet"
+        ],
+        "hidden": "Moxie"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 90,
+        "def": 70,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Snarl"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Ice Fang"
+        ],
+        [
+          null,
+          "Thunder Fang"
+        ],
+        [
+          null,
+          "Thief"
+        ],
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          13,
+          "Howl"
+        ],
+        [
+          13,
+          "Leer"
+        ],
+        [
+          16,
+          "Roar"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Assurance"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          36,
+          "Taunt"
+        ],
+        [
+          44,
+          "Yawn"
+        ],
+        [
+          48,
+          "Take Down"
+        ],
+        [
+          52,
+          "Sucker Punch"
+        ],
+        [
+          56,
+          "Play Rough"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Poison Fang"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Covet"
+        ]
+      ]
+    }
+  ]
+}

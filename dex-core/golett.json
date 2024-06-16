@@ -1,0 +1,319 @@
+{
+  "name": "Golett",
+  "national": "0622",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Automaton Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 92,
+        "imperial": 202.8
+      },
+      "ability": {
+        "normal": [
+          "Iron Fist",
+          "Klutz"
+        ],
+        "hidden": "No Guard"
+      },
+      "stats": {
+        "hp": 59,
+        "atk": 74,
+        "def": 50,
+        "satk": 35,
+        "sdef": 50,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Pound"
+        ],
+        [
+          12,
+          "Shadow Punch"
+        ],
+        [
+          16,
+          "Curse"
+        ],
+        [
+          20,
+          "Night Shade"
+        ],
+        [
+          24,
+          "Stomping Tantrum"
+        ],
+        [
+          28,
+          "Iron Defense"
+        ],
+        [
+          32,
+          "Mega Punch"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Heavy Slam"
+        ],
+        [
+          44,
+          "Phantom Force"
+        ],
+        [
+          48,
+          "Hammer Arm"
+        ],
+        [
+          52,
+          "Earthquake"
+        ],
+        [
+          56,
+          "Dynamic Punch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    }
+  ]
+}

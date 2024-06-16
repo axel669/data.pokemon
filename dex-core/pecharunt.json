@@ -1,0 +1,190 @@
+{
+  "name": "Pecharunt",
+  "national": "1025",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Subjugation Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Poison Puppeteer"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 88,
+        "atk": 88,
+        "def": 160,
+        "satk": 88,
+        "sdef": 88,
+        "spd": 88
+      },
+      "moves": [
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          null,
+          "Memento"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          8,
+          "Withdraw"
+        ],
+        [
+          16,
+          "Destiny Bond"
+        ],
+        [
+          24,
+          "Fake Tears"
+        ],
+        [
+          32,
+          "Parting Shot"
+        ],
+        [
+          40,
+          "Shadow Ball"
+        ],
+        [
+          48,
+          "Malignant Chain"
+        ],
+        [
+          56,
+          "Toxic"
+        ],
+        [
+          64,
+          "Nasty Plot"
+        ],
+        [
+          72,
+          "Recover"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "rem",
+          "Defense Curl"
+        ],
+        [
+          "rem",
+          "Rollout"
+        ],
+        [
+          "rem",
+          "Mean Look"
+        ]
+      ]
+    }
+  ]
+}

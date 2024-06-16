@@ -1,0 +1,303 @@
+{
+  "name": "Grimmsnarl",
+  "national": "0861",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bulk Up Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 61,
+        "imperial": 134.5
+      },
+      "ability": {
+        "normal": [
+          "Prankster",
+          "Frisk"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 120,
+        "def": 65,
+        "satk": 95,
+        "sdef": 75,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Spirit Break"
+        ],
+        [
+          null,
+          "False Surrender"
+        ],
+        [
+          null,
+          "Confide"
+        ],
+        [
+          null,
+          "Bulk Up"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Flatter"
+        ],
+        [
+          12,
+          "Fake Tears"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Torment"
+        ],
+        [
+          35,
+          "Dark Pulse"
+        ],
+        [
+          40,
+          "Nasty Plot"
+        ],
+        [
+          48,
+          "Play Rough"
+        ],
+        [
+          56,
+          "Foul Play"
+        ],
+        [
+          64,
+          "Hammer Arm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

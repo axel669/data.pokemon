@@ -1,0 +1,426 @@
+{
+  "name": "Dragonite",
+  "national": "0149",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dragon Pokémon",
+      "height": {
+        "metric": 2.2,
+        "imperial": 87
+      },
+      "weight": {
+        "metric": 210,
+        "imperial": 463
+      },
+      "ability": {
+        "normal": [
+          "Inner Focus"
+        ],
+        "hidden": "Multiscale"
+      },
+      "stats": {
+        "hp": 91,
+        "atk": 134,
+        "def": 95,
+        "satk": 100,
+        "sdef": 100,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Hurricane"
+        ],
+        [
+          null,
+          "Roost"
+        ],
+        [
+          null,
+          "Extreme Speed"
+        ],
+        [
+          null,
+          "Twister"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Fire Punch"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          null,
+          "Thunder Punch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          15,
+          "Dragon Tail"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Slam"
+        ],
+        [
+          33,
+          "Aqua Tail"
+        ],
+        [
+          39,
+          "Dragon Rush"
+        ],
+        [
+          41,
+          "Outrage"
+        ],
+        [
+          46,
+          "Safeguard"
+        ],
+        [
+          53,
+          "Rain Dance"
+        ],
+        [
+          62,
+          "Dragon Dance"
+        ],
+        [
+          80,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Extreme Speed"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ]
+      ]
+    }
+  ]
+}

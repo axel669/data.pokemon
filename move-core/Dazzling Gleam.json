@@ -1,0 +1,8 @@
+{
+  "name": "Dazzling Gleam",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user damages opposing Pokémon by emitting a powerful flash."
+}

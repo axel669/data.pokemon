@@ -1,0 +1,298 @@
+{
+  "name": "Gogoat",
+  "national": "0673",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mount Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 91,
+        "imperial": 200.6
+      },
+      "ability": {
+        "normal": [
+          "Sap Sipper"
+        ],
+        "hidden": "Grass Pelt"
+      },
+      "stats": {
+        "hp": 123,
+        "atk": 100,
+        "def": 62,
+        "satk": 97,
+        "sdef": 81,
+        "spd": 68
+      },
+      "moves": [
+        [
+          "evo",
+          "Aerial Ace"
+        ],
+        [
+          null,
+          "Earthquake"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Vine Whip"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          12,
+          "Leech Seed"
+        ],
+        [
+          13,
+          "Razor Leaf"
+        ],
+        [
+          16,
+          "Worry Seed"
+        ],
+        [
+          20,
+          "Synthesis"
+        ],
+        [
+          22,
+          "Take Down"
+        ],
+        [
+          26,
+          "Bulldoze"
+        ],
+        [
+          30,
+          "Seed Bomb"
+        ],
+        [
+          34,
+          "Bulk Up"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          47,
+          "Horn Leech"
+        ],
+        [
+          55,
+          "Leaf Blade"
+        ],
+        [
+          58,
+          "Milk Drink"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Milk Drink"
+        ],
+        [
+          "egg",
+          "Grassy Terrain"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "name": "Electrode",
+  "national": "0101",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ball Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 66.6,
+        "imperial": 146.8
+      },
+      "ability": {
+        "normal": [
+          "Soundproof",
+          "Static"
+        ],
+        "hidden": "Aftermath"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 70,
+        "satk": 80,
+        "sdef": 80,
+        "spd": 150
+      },
+      "moves": [
+        [
+          null,
+          "Eerie Impulse"
+        ],
+        [
+          null,
+          "Charge"
+        ],
+        [
+          null,
+          "Magnetic Flux"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          9,
+          "Spark"
+        ],
+        [
+          11,
+          "Rollout"
+        ],
+        [
+          13,
+          "Screech"
+        ],
+        [
+          16,
+          "Charge Beam"
+        ],
+        [
+          20,
+          "Swift"
+        ],
+        [
+          22,
+          "Electro Ball"
+        ],
+        [
+          26,
+          "Self-Destruct"
+        ],
+        [
+          29,
+          "Light Screen"
+        ],
+        [
+          36,
+          "Magnet Rise"
+        ],
+        [
+          41,
+          "Discharge"
+        ],
+        [
+          47,
+          "Explosion"
+        ],
+        [
+          54,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Mirror Coat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Sphere Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 71,
+        "imperial": 156.5
+      },
+      "ability": {
+        "normal": [
+          "Soundproof",
+          "Static"
+        ],
+        "hidden": "Aftermath"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 70,
+        "satk": 80,
+        "sdef": 80,
+        "spd": 150
+      },
+      "moves": [
+        [
+          "evo",
+          "Chloroblast"
+        ],
+        [
+          null,
+          "Charge"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          4,
+          "Thunder Shock"
+        ],
+        [
+          6,
+          "Stun Spore"
+        ],
+        [
+          9,
+          "Bullet Seed"
+        ],
+        [
+          11,
+          "Rollout"
+        ],
+        [
+          13,
+          "Screech"
+        ],
+        [
+          16,
+          "Charge Beam"
+        ],
+        [
+          20,
+          "Swift"
+        ],
+        [
+          22,
+          "Electro Ball"
+        ],
+        [
+          26,
+          "Self-Destruct"
+        ],
+        [
+          29,
+          "Energy Ball"
+        ],
+        [
+          34,
+          "Seed Bomb"
+        ],
+        [
+          34,
+          "Discharge"
+        ],
+        [
+          41,
+          "Explosion"
+        ],
+        [
+          46,
+          "Gyro Ball"
+        ],
+        [
+          50,
+          "Grassy Terrain"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ]
+      ]
+    }
+  ]
+}

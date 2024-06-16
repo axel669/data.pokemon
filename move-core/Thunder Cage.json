@@ -1,0 +1,8 @@
+{
+  "name": "Thunder Cage",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "effect": 100,
+  "desc": "The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns."
+}

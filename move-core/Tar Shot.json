@@ -1,0 +1,8 @@
+{
+  "name": "Tar Shot",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 100,
+  "desc": "The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves."
+}

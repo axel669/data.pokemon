@@ -1,0 +1,8 @@
+{
+  "name": "Darkest Lariat",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user swings both arms and hits the target. The target's stat changes don't affect the damage inflicted by this move."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Slam",
+  "power": 80,
+  "accuracy": 75,
+  "pp": 20,
+  "effect": null,
+  "desc": "The target is slammed with a long tail, vines, or the like to inflict damage."
+}

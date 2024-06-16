@@ -1,0 +1,206 @@
+{
+  "name": "Frigibax",
+  "national": "0996",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ice Fin Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 17,
+        "imperial": 37.5
+      },
+      "ability": {
+        "normal": [
+          "Thermal Exchange"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 75,
+        "def": 45,
+        "satk": 35,
+        "sdef": 45,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Dragon Tail"
+        ],
+        [
+          6,
+          "Icy Wind"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          18,
+          "Focus Energy"
+        ],
+        [
+          24,
+          "Bite"
+        ],
+        [
+          29,
+          "Ice Fang"
+        ],
+        [
+          32,
+          "Dragon Claw"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Ice Beam"
+        ],
+        [
+          44,
+          "Crunch"
+        ],
+        [
+          48,
+          "Icicle Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "egg",
+          "Icicle Spear"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Freeze-Dry"
+        ]
+      ]
+    }
+  ]
+}

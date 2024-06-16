@@ -1,0 +1,378 @@
+{
+  "name": "Hydreigon",
+  "national": "0635",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Brutal Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 160,
+        "imperial": 352.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 92,
+        "atk": 105,
+        "def": 90,
+        "satk": 125,
+        "sdef": 90,
+        "spd": 98
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Double Hit"
+        ],
+        [
+          12,
+          "Roar"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Work Up"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          44,
+          "Body Slam"
+        ],
+        [
+          48,
+          "Hyper Voice"
+        ],
+        [
+          54,
+          "Dragon Rush"
+        ],
+        [
+          60,
+          "Nasty Plot"
+        ],
+        [
+          68,
+          "Outrage"
+        ],
+        [
+          76,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Double Hit"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

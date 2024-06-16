@@ -1,0 +1,266 @@
+{
+  "name": "Zweilous",
+  "national": "0634",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hostile Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 50,
+        "imperial": 110.2
+      },
+      "ability": {
+        "normal": [
+          "Hustle"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 72,
+        "atk": 85,
+        "def": 70,
+        "satk": 65,
+        "sdef": 70,
+        "spd": 58
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Double Hit"
+        ],
+        [
+          12,
+          "Roar"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Work Up"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          44,
+          "Body Slam"
+        ],
+        [
+          48,
+          "Hyper Voice"
+        ],
+        [
+          54,
+          "Dragon Rush"
+        ],
+        [
+          60,
+          "Nasty Plot"
+        ],
+        [
+          66,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Double Hit"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

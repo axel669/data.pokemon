@@ -1,0 +1,327 @@
+{
+  "name": "Illumise",
+  "national": "0314",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Firefly Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 17.7,
+        "imperial": 39
+      },
+      "ability": {
+        "normal": [
+          "Oblivious",
+          "Tinted Lens"
+        ],
+        "hidden": "Prankster"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 47,
+        "def": 75,
+        "satk": 73,
+        "sdef": 85,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Play Nice"
+        ],
+        [
+          5,
+          "Sweet Scent"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          12,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Struggle Bug"
+        ],
+        [
+          19,
+          "Moonlight"
+        ],
+        [
+          22,
+          "Wish"
+        ],
+        [
+          26,
+          "Encore"
+        ],
+        [
+          29,
+          "Flatter"
+        ],
+        [
+          33,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Helping Hand"
+        ],
+        [
+          40,
+          "Bug Buzz"
+        ],
+        [
+          43,
+          "Play Rough"
+        ],
+        [
+          47,
+          "Infestation"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Attract"
+        ],
+        [
+          "egg",
+          "Roost"
+        ]
+      ]
+    }
+  ]
+}

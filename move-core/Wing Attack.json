@@ -1,0 +1,8 @@
+{
+  "name": "Wing Attack",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": null,
+  "desc": "The target is struck with large, imposing wings spread wide to inflict damage."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sacred Sword",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this move."
+}

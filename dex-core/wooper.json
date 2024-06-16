@@ -1,0 +1,624 @@
+{
+  "name": "Wooper",
+  "national": "0194",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Fish Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Damp",
+          "Water Absorb"
+        ],
+        "hidden": "Unaware"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 45,
+        "def": 45,
+        "satk": 25,
+        "sdef": 25,
+        "spd": 15
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Rain Dance"
+        ],
+        [
+          8,
+          "Mud Shot"
+        ],
+        [
+          12,
+          "Mist"
+        ],
+        [
+          12,
+          "Haze"
+        ],
+        [
+          16,
+          "Slam"
+        ],
+        [
+          21,
+          "Yawn"
+        ],
+        [
+          24,
+          "Aqua Tail"
+        ],
+        [
+          28,
+          "Muddy Water"
+        ],
+        [
+          32,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Recover"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Acid Spray"
+        ],
+        [
+          "egg",
+          "After You"
+        ]
+      ]
+    },
+    {
+      "name": "Paldean",
+      "species": "Poison Fish Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 11,
+        "imperial": 24.3
+      },
+      "ability": {
+        "normal": [
+          "Poison Point",
+          "Water Absorb"
+        ],
+        "hidden": "Unaware"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 45,
+        "def": 45,
+        "satk": 25,
+        "sdef": 25,
+        "spd": 15
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Mud Shot"
+        ],
+        [
+          4,
+          "Tackle"
+        ],
+        [
+          8,
+          "Poison Tail"
+        ],
+        [
+          12,
+          "Toxic Spikes"
+        ],
+        [
+          16,
+          "Slam"
+        ],
+        [
+          21,
+          "Yawn"
+        ],
+        [
+          24,
+          "Poison Jab"
+        ],
+        [
+          28,
+          "Sludge Wave"
+        ],
+        [
+          32,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Recover"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Acid Spray"
+        ],
+        [
+          "egg",
+          "After You"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Haze"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "name": "Cinccino",
+  "national": "0573",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scarf Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 7.5,
+        "imperial": 16.5
+      },
+      "ability": {
+        "normal": [
+          "Cute Charm",
+          "Technician"
+        ],
+        "hidden": "Skill Link"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 60,
+        "satk": 65,
+        "sdef": 60,
+        "spd": 115
+      },
+      "moves": [
+        [
+          "evo",
+          "Tail Slap"
+        ],
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Sing"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Bullet Seed"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Tail Whip"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "Tidy Up"
+        ],
+        [
+          "rem",
+          "Slam"
+        ],
+        [
+          "rem",
+          "Swift"
+        ],
+        [
+          "rem",
+          "Encore"
+        ],
+        [
+          "rem",
+          "Helping Hand"
+        ],
+        [
+          "rem",
+          "Hyper Voice"
+        ],
+        [
+          "rem",
+          "Tickle"
+        ],
+        [
+          "rem",
+          "Rock Blast"
+        ],
+        [
+          "rem",
+          "Last Resort"
+        ],
+        [
+          "rem",
+          "After You"
+        ],
+        [
+          "rem",
+          "Echoed Voice"
+        ],
+        [
+          "rem",
+          "Baby-doll Eyes"
+        ],
+        [
+          "pre",
+          "Baby-doll Eyes"
+        ],
+        [
+          "pre",
+          "Helping Hand"
+        ],
+        [
+          "pre",
+          "Echoed Voice"
+        ],
+        [
+          "pre",
+          "Swift"
+        ],
+        [
+          "pre",
+          "Encore"
+        ],
+        [
+          "pre",
+          "After You"
+        ],
+        [
+          "pre",
+          "Tickle"
+        ],
+        [
+          "pre",
+          "Slam"
+        ],
+        [
+          "pre",
+          "Hyper Voice"
+        ],
+        [
+          "pre",
+          "Last Resort"
+        ]
+      ]
+    }
+  ]
+}

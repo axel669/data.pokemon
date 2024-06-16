@@ -1,0 +1,8 @@
+{
+  "name": "No Retreat",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "This move boosts all the user's stats but prevents the user from switching out or fleeing."
+}

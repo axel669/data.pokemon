@@ -1,0 +1,335 @@
+{
+  "name": "Stantler",
+  "national": "0234",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Big Horn Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 71.2,
+        "imperial": 157
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Frisk"
+        ],
+        "hidden": "Sap Sipper"
+      },
+      "stats": {
+        "hp": 73,
+        "atk": 95,
+        "def": 62,
+        "satk": 85,
+        "sdef": 65,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leer"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Hypnosis"
+        ],
+        [
+          13,
+          "Stomp"
+        ],
+        [
+          16,
+          "Sand Attack"
+        ],
+        [
+          21,
+          "Take Down"
+        ],
+        [
+          23,
+          "Confuse Ray"
+        ],
+        [
+          27,
+          "Calm Mind"
+        ],
+        [
+          32,
+          "Role Play"
+        ],
+        [
+          37,
+          "Zen Headbutt"
+        ],
+        [
+          49,
+          "Imprison"
+        ],
+        [
+          55,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Megahorn"
+        ],
+        [
+          "egg",
+          "Extrasensory"
+        ],
+        [
+          "egg",
+          "Psyshield Bash"
+        ]
+      ]
+    }
+  ]
+}

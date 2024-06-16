@@ -1,0 +1,290 @@
+{
+  "name": "Vespiquen",
+  "national": "0416",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Beehive Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 38.5,
+        "imperial": 84.9
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 80,
+        "def": 102,
+        "satk": 80,
+        "sdef": 102,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Slash"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Struggle Bug"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          4,
+          "Fury Cutter"
+        ],
+        [
+          8,
+          "Aromatic Mist"
+        ],
+        [
+          12,
+          "Fell Stinger"
+        ],
+        [
+          16,
+          "Fury Swipes"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Roost"
+        ],
+        [
+          28,
+          "Air Slash"
+        ],
+        [
+          32,
+          "Power Gem"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Attack Order"
+        ],
+        [
+          40,
+          "Defend Order"
+        ],
+        [
+          44,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ]
+      ]
+    }
+  ]
+}

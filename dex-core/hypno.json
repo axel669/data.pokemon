@@ -1,0 +1,391 @@
+{
+  "name": "Hypno",
+  "national": "0097",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hypnosis Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 75.6,
+        "imperial": 166.7
+      },
+      "ability": {
+        "normal": [
+          "Insomnia",
+          "Forewarn"
+        ],
+        "hidden": "Inner Focus"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 73,
+        "def": 70,
+        "satk": 73,
+        "sdef": 115,
+        "spd": 67
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Disable"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          null,
+          "Switcheroo"
+        ],
+        [
+          13,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Poison Gas"
+        ],
+        [
+          21,
+          "Psybeam"
+        ],
+        [
+          25,
+          "Psych Up"
+        ],
+        [
+          32,
+          "Zen Headbutt"
+        ],
+        [
+          37,
+          "Swagger"
+        ],
+        [
+          42,
+          "Psychic"
+        ],
+        [
+          47,
+          "Nasty Plot"
+        ],
+        [
+          51,
+          "Psyshock"
+        ],
+        [
+          56,
+          "Future Sight"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Fire Punch"
+        ],
+        [
+          "egg",
+          "Ice Punch"
+        ],
+        [
+          "egg",
+          "Thunder Punch"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Role Play"
+        ],
+        [
+          "egg",
+          "Guard Swap"
+        ],
+        [
+          "egg",
+          "Psycho Cut"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ]
+      ]
+    }
+  ]
+}

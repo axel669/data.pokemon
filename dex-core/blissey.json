@@ -1,0 +1,395 @@
+{
+  "name": "Blissey",
+  "national": "0242",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Happiness Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 46.8,
+        "imperial": 103.2
+      },
+      "ability": {
+        "normal": [
+          "Natural Cure",
+          "Serene Grace"
+        ],
+        "hidden": "Healer"
+      },
+      "stats": {
+        "hp": 255,
+        "atk": 10,
+        "def": 10,
+        "satk": 75,
+        "sdef": 135,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Covet"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          null,
+          "Sweet Kiss"
+        ],
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          4,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Echoed Voice"
+        ],
+        [
+          12,
+          "Life Dew"
+        ],
+        [
+          16,
+          "Sing"
+        ],
+        [
+          20,
+          "Fling"
+        ],
+        [
+          24,
+          "Take Down"
+        ],
+        [
+          28,
+          "Heal Pulse"
+        ],
+        [
+          32,
+          "Helping Hand"
+        ],
+        [
+          36,
+          "Light Screen"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          44,
+          "Soft-Boiled"
+        ],
+        [
+          48,
+          "Last Resort"
+        ],
+        [
+          52,
+          "Healing Wish"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Seismic Toss"
+        ],
+        [
+          "egg",
+          "Heal Bell"
+        ],
+        [
+          "egg",
+          "Present"
+        ],
+        [
+          "egg",
+          "Gravity"
+        ]
+      ]
+    }
+  ]
+}

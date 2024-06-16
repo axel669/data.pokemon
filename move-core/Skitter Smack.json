@@ -1,0 +1,8 @@
+{
+  "name": "Skitter Smack",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat."
+}

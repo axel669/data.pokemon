@@ -1,0 +1,822 @@
+{
+  "name": "Blaziken",
+  "national": "0257",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Blaze Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 52,
+        "imperial": 114.6
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Speed Boost"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 70,
+        "satk": 110,
+        "sdef": 70,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Blaze Kick"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Double Kick"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Flame Charge"
+        ],
+        [
+          12,
+          "Detect"
+        ],
+        [
+          15,
+          "Sand Attack"
+        ],
+        [
+          20,
+          "Aerial Ace"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          30,
+          "Bounce"
+        ],
+        [
+          35,
+          "Focus Energy"
+        ],
+        [
+          42,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Reversal"
+        ],
+        [
+          56,
+          "Flare Blitz"
+        ],
+        [
+          63,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM153",
+          "Blast Burn"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Peck"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Crush Claw"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "rem",
+          "Fire Punch"
+        ],
+        [
+          "rem",
+          "Ember"
+        ],
+        [
+          "rem",
+          "Flamethrower"
+        ],
+        [
+          "rem",
+          "Feather Dance"
+        ],
+        [
+          "pre",
+          "Ember"
+        ],
+        [
+          "pre",
+          "Flamethrower"
+        ],
+        [
+          "pre",
+          "Feather Dance"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Blaze Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 52,
+        "imperial": 114.6
+      },
+      "ability": {
+        "normal": [
+          "Speed Boost"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 160,
+        "def": 80,
+        "satk": 130,
+        "sdef": 80,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Blaze Kick"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Double Kick"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Flame Charge"
+        ],
+        [
+          12,
+          "Detect"
+        ],
+        [
+          15,
+          "Sand Attack"
+        ],
+        [
+          20,
+          "Aerial Ace"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          30,
+          "Bounce"
+        ],
+        [
+          35,
+          "Focus Energy"
+        ],
+        [
+          42,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Reversal"
+        ],
+        [
+          56,
+          "Flare Blitz"
+        ],
+        [
+          63,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM153",
+          "Blast Burn"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Peck"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Crush Claw"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "rem",
+          "Fire Punch"
+        ],
+        [
+          "rem",
+          "Ember"
+        ],
+        [
+          "rem",
+          "Flamethrower"
+        ],
+        [
+          "rem",
+          "Feather Dance"
+        ],
+        [
+          "pre",
+          "Ember"
+        ],
+        [
+          "pre",
+          "Flamethrower"
+        ],
+        [
+          "pre",
+          "Feather Dance"
+        ]
+      ]
+    }
+  ]
+}

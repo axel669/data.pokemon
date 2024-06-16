@@ -1,0 +1,267 @@
+{
+  "name": "Tinkaton",
+  "national": "0959",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hammer Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 112.8,
+        "imperial": 248.7
+      },
+      "ability": {
+        "normal": [
+          "Mold Breaker",
+          "Own Tempo"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 75,
+        "def": 77,
+        "satk": 70,
+        "sdef": 105,
+        "spd": 94
+      },
+      "moves": [
+        [
+          "evo",
+          "Gigaton Hammer"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Baby-Doll Eyes"
+        ],
+        [
+          8,
+          "Metal Claw"
+        ],
+        [
+          11,
+          "Covet"
+        ],
+        [
+          14,
+          "Rock Smash"
+        ],
+        [
+          17,
+          "Draining Kiss"
+        ],
+        [
+          21,
+          "Sweet Kiss"
+        ],
+        [
+          24,
+          "Brutal Swing"
+        ],
+        [
+          27,
+          "Slam"
+        ],
+        [
+          31,
+          "Flash Cannon"
+        ],
+        [
+          35,
+          "Play Rough"
+        ],
+        [
+          39,
+          "Fake Out"
+        ],
+        [
+          43,
+          "Flatter"
+        ],
+        [
+          47,
+          "Skitter Smack"
+        ],
+        [
+          52,
+          "Knock Off"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Quash"
+        ],
+        [
+          "egg",
+          "Ice Hammer"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Extreme Speed",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user charges the target at blinding speed. This move always goes first."
+}

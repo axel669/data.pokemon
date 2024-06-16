@@ -1,0 +1,8 @@
+{
+  "name": "Round",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks the target with a song. If others use this move, they will act immediately after the initial user, and the power of their Rounds will be boosted."
+}

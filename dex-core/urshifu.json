@@ -1,0 +1,614 @@
+{
+  "name": "Urshifu",
+  "national": "0892",
+  "forms": [
+    {
+      "name": "Single Strike Style",
+      "species": "Wushu Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 105,
+        "imperial": 231.5
+      },
+      "ability": {
+        "normal": [
+          "Unseen Fist"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 130,
+        "def": 100,
+        "satk": 63,
+        "sdef": 60,
+        "spd": 97
+      },
+      "moves": [
+        [
+          "evo",
+          "Wicked Blow"
+        ],
+        [
+          null,
+          "Endure"
+        ],
+        [
+          null,
+          "Sucker Punch"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Aerial Ace"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Brick Break"
+        ],
+        [
+          28,
+          "Detect"
+        ],
+        [
+          32,
+          "Bulk Up"
+        ],
+        [
+          36,
+          "Iron Head"
+        ],
+        [
+          40,
+          "Dynamic Punch"
+        ],
+        [
+          44,
+          "Counter"
+        ],
+        [
+          48,
+          "Close Combat"
+        ],
+        [
+          52,
+          "Focus Punch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    },
+    {
+      "name": "Rapid Strike Style",
+      "species": "Wushu Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 105,
+        "imperial": 231.5
+      },
+      "ability": {
+        "normal": [
+          "Unseen Fist"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 130,
+        "def": 100,
+        "satk": 63,
+        "sdef": 60,
+        "spd": 97
+      },
+      "moves": [
+        [
+          "evo",
+          "Surging Strikes"
+        ],
+        [
+          null,
+          "Endure"
+        ],
+        [
+          null,
+          "Aqua Jet"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Aerial Ace"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Brick Break"
+        ],
+        [
+          28,
+          "Detect"
+        ],
+        [
+          32,
+          "Bulk Up"
+        ],
+        [
+          36,
+          "Iron Head"
+        ],
+        [
+          40,
+          "Dynamic Punch"
+        ],
+        [
+          44,
+          "Counter"
+        ],
+        [
+          48,
+          "Close Combat"
+        ],
+        [
+          52,
+          "Focus Punch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ]
+      ]
+    }
+  ]
+}

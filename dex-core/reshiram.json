@@ -1,0 +1,330 @@
+{
+  "name": "Reshiram",
+  "national": "0643",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Vast White Pokémon",
+      "height": {
+        "metric": 3.2,
+        "imperial": 126
+      },
+      "weight": {
+        "metric": 330,
+        "imperial": 727.5
+      },
+      "ability": {
+        "normal": [
+          "Turboblaze"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 100,
+        "satk": 150,
+        "sdef": 120,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          8,
+          "Slash"
+        ],
+        [
+          16,
+          "Crunch"
+        ],
+        [
+          24,
+          "Extrasensory"
+        ],
+        [
+          32,
+          "Dragon Pulse"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          48,
+          "Fusion Flare"
+        ],
+        [
+          56,
+          "Hyper Voice"
+        ],
+        [
+          64,
+          "Fire Blast"
+        ],
+        [
+          72,
+          "Imprison"
+        ],
+        [
+          80,
+          "Outrage"
+        ],
+        [
+          88,
+          "Blue Flare"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

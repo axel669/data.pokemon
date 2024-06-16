@@ -1,0 +1,8 @@
+{
+  "name": "Mega Punch",
+  "power": 80,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": null,
+  "desc": "The target is slugged by a punch thrown with muscle- packed power."
+}

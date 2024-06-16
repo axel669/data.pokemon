@@ -1,0 +1,278 @@
+{
+  "name": "Elekid",
+  "national": "0239",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Electric Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 23.5,
+        "imperial": 51.8
+      },
+      "ability": {
+        "normal": [
+          "Static"
+        ],
+        "hidden": "Vital Spirit"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 63,
+        "def": 37,
+        "satk": 65,
+        "sdef": 55,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          4,
+          "Thunder Shock"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          12,
+          "Swift"
+        ],
+        [
+          16,
+          "Shock Wave"
+        ],
+        [
+          20,
+          "Thunder Wave"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Thunder Punch"
+        ],
+        [
+          32,
+          "Discharge"
+        ],
+        [
+          36,
+          "Low Kick"
+        ],
+        [
+          40,
+          "Thunderbolt"
+        ],
+        [
+          44,
+          "Light Screen"
+        ],
+        [
+          48,
+          "Thunder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Focus Punch"
+        ],
+        [
+          "egg",
+          "Follow Me"
+        ],
+        [
+          "egg",
+          "Hammer Arm"
+        ],
+        [
+          "egg",
+          "Feint"
+        ]
+      ]
+    }
+  ]
+}

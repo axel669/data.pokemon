@@ -1,0 +1,210 @@
+{
+  "name": "Fomantis",
+  "national": "0753",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sickle Grass Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 1.5,
+        "imperial": 3.3
+      },
+      "ability": {
+        "normal": [
+          "Leaf Guard"
+        ],
+        "hidden": "Contrary"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 35,
+        "satk": 50,
+        "sdef": 35,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Fury Cutter"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          5,
+          "Growth"
+        ],
+        [
+          10,
+          "Ingrain"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Sweet Scent"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          30,
+          "X-Scissor"
+        ],
+        [
+          35,
+          "Synthesis"
+        ],
+        [
+          40,
+          "Leaf Blade"
+        ],
+        [
+          45,
+          "Sunny Day"
+        ],
+        [
+          50,
+          "Solar Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "name": "Pincurchin",
+  "national": "0871",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Urchin Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Lightning Rod"
+        ],
+        "hidden": "Electric Surge"
+      },
+      "stats": {
+        "hp": 48,
+        "atk": 101,
+        "def": 95,
+        "satk": 91,
+        "sdef": 85,
+        "spd": 15
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Water Gun"
+        ],
+        [
+          10,
+          "Charge"
+        ],
+        [
+          15,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          35,
+          "Curse"
+        ],
+        [
+          40,
+          "Electric Terrain"
+        ],
+        [
+          45,
+          "Poison Jab"
+        ],
+        [
+          50,
+          "Zing Zap"
+        ],
+        [
+          55,
+          "Acupressure"
+        ],
+        [
+          60,
+          "Discharge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "name": "Fuecoco",
+  "national": "0909",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Croc Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 9.8,
+        "imperial": 21.6
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Unaware"
+      },
+      "stats": {
+        "hp": 67,
+        "atk": 45,
+        "def": 59,
+        "satk": 63,
+        "sdef": 40,
+        "spd": 36
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          7,
+          "Round"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          15,
+          "Incinerate"
+        ],
+        [
+          17,
+          "Yawn"
+        ],
+        [
+          21,
+          "Snarl"
+        ],
+        [
+          25,
+          "Roar"
+        ],
+        [
+          28,
+          "Flamethrower"
+        ],
+        [
+          32,
+          "Hyper Voice"
+        ],
+        [
+          36,
+          "Fire Blast"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Encore"
+        ],
+        [
+          "egg",
+          "Slack Off"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

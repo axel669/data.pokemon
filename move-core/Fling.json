@@ -1,0 +1,8 @@
+{
+  "name": "Fling",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user flings its held item at the target to attack. This move's power and effects depend on the item."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Simple Beam",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user emits a mysterious psychic wave that changes the target's Ability to Simple."
+}

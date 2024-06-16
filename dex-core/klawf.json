@@ -1,0 +1,295 @@
+{
+  "name": "Klawf",
+  "national": "0950",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ambush Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 79,
+        "imperial": 174.2
+      },
+      "ability": {
+        "normal": [
+          "Anger Shell",
+          "Shell Armor"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 115,
+        "satk": 35,
+        "sdef": 55,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Vise Grip"
+        ],
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          6,
+          "Harden"
+        ],
+        [
+          9,
+          "Rock Smash"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          17,
+          "Metal Claw"
+        ],
+        [
+          21,
+          "Protect"
+        ],
+        [
+          24,
+          "Rock Blast"
+        ],
+        [
+          29,
+          "X-Scissor"
+        ],
+        [
+          33,
+          "Swords Dance"
+        ],
+        [
+          37,
+          "Flail"
+        ],
+        [
+          42,
+          "Rock Slide"
+        ],
+        [
+          47,
+          "High Horsepower"
+        ],
+        [
+          51,
+          "Iron Defense"
+        ],
+        [
+          56,
+          "Guillotine"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Crabhammer"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ]
+      ]
+    }
+  ]
+}

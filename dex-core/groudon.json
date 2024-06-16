@@ -1,0 +1,678 @@
+{
+  "name": "Groudon",
+  "national": "0383",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Continent Pokémon",
+      "height": {
+        "metric": 3.5,
+        "imperial": 138
+      },
+      "weight": {
+        "metric": 950,
+        "imperial": 2094.4
+      },
+      "ability": {
+        "normal": [
+          "Drought"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 140,
+        "satk": 100,
+        "sdef": 90,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Mud Shot"
+        ],
+        [
+          null,
+          "Lava Plume"
+        ],
+        [
+          null,
+          "Precipice Blades"
+        ],
+        [
+          9,
+          "Earth Power"
+        ],
+        [
+          18,
+          "Bulk Up"
+        ],
+        [
+          27,
+          "Earthquake"
+        ],
+        [
+          36,
+          "Hammer Arm"
+        ],
+        [
+          45,
+          "Fissure"
+        ],
+        [
+          54,
+          "Rest"
+        ],
+        [
+          72,
+          "Fire Blast"
+        ],
+        [
+          81,
+          "Solar Beam"
+        ],
+        [
+          90,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ]
+      ]
+    },
+    {
+      "name": "Primal",
+      "species": "Continent Pokémon",
+      "height": {
+        "metric": 5,
+        "imperial": 197
+      },
+      "weight": {
+        "metric": 999.7,
+        "imperial": 2204
+      },
+      "ability": {
+        "normal": [
+          "Desolate Land"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 180,
+        "def": 160,
+        "satk": 150,
+        "sdef": 90,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Mud Shot"
+        ],
+        [
+          null,
+          "Lava Plume"
+        ],
+        [
+          null,
+          "Precipice Blades"
+        ],
+        [
+          9,
+          "Earth Power"
+        ],
+        [
+          18,
+          "Bulk Up"
+        ],
+        [
+          27,
+          "Earthquake"
+        ],
+        [
+          36,
+          "Hammer Arm"
+        ],
+        [
+          45,
+          "Fissure"
+        ],
+        [
+          54,
+          "Rest"
+        ],
+        [
+          72,
+          "Fire Blast"
+        ],
+        [
+          81,
+          "Solar Beam"
+        ],
+        [
+          90,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ]
+      ]
+    }
+  ]
+}

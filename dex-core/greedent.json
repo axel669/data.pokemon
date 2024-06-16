@@ -1,0 +1,270 @@
+{
+  "name": "Greedent",
+  "national": "0820",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Greedy Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 6,
+        "imperial": 13.2
+      },
+      "ability": {
+        "normal": [
+          "Cheek Pouch"
+        ],
+        "hidden": "Gluttony"
+      },
+      "stats": {
+        "hp": 120,
+        "atk": 95,
+        "def": 95,
+        "satk": 55,
+        "sdef": 75,
+        "spd": 20
+      },
+      "moves": [
+        [
+          "evo",
+          "Covet"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Stuff Cheeks"
+        ],
+        [
+          15,
+          "Stockpile"
+        ],
+        [
+          15,
+          "Spit Up"
+        ],
+        [
+          15,
+          "Swallow"
+        ],
+        [
+          20,
+          "Body Slam"
+        ],
+        [
+          27,
+          "Rest"
+        ],
+        [
+          34,
+          "Counter"
+        ],
+        [
+          41,
+          "Bullet Seed"
+        ],
+        [
+          48,
+          "Super Fang"
+        ],
+        [
+          55,
+          "Belch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ]
+      ]
+    }
+  ]
+}

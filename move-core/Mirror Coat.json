@@ -1,0 +1,8 @@
+{
+  "name": "Mirror Coat",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "A retaliatory attack that counters any special move, inflicting double the damage taken."
+}

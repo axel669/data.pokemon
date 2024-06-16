@@ -1,0 +1,306 @@
+{
+  "name": "Victreebel",
+  "national": "0071",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flycatcher Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 15.5,
+        "imperial": 34.2
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Gluttony"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 105,
+        "def": 65,
+        "satk": 100,
+        "sdef": 70,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Vine Whip"
+        ],
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Sleep Powder"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ],
+        [
+          "rem",
+          "Stockpile"
+        ],
+        [
+          "rem",
+          "Spit Up"
+        ],
+        [
+          "rem",
+          "Swallow"
+        ],
+        [
+          "rem",
+          "Gastro Acid"
+        ],
+        [
+          "rem",
+          "Power Whip"
+        ],
+        [
+          "pre",
+          "Wrap"
+        ],
+        [
+          "pre",
+          "Growth"
+        ],
+        [
+          "pre",
+          "Poison Powder"
+        ],
+        [
+          "pre",
+          "Stun Spore"
+        ],
+        [
+          "pre",
+          "Acid"
+        ],
+        [
+          "pre",
+          "Knock Off"
+        ],
+        [
+          "pre",
+          "Gastro Acid"
+        ],
+        [
+          "pre",
+          "Poison Jab"
+        ],
+        [
+          "pre",
+          "Slam"
+        ],
+        [
+          "pre",
+          "Power Whip"
+        ]
+      ]
+    }
+  ]
+}

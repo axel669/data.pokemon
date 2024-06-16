@@ -1,0 +1,8 @@
+{
+  "name": "Haze",
+  "power": null,
+  "accuracy": 101,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+}

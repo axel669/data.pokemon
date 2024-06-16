@@ -1,0 +1,8 @@
+{
+  "name": "Hydro Cannon",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The target is hit with a watery blast. The user can't move on the next turn."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Rock Smash",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 50,
+  "desc": "The user attacks with a punch. This may also lower the target's Defense stat."
+}

@@ -1,0 +1,311 @@
+{
+  "name": "Kleavor",
+  "national": "0900",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Axe Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 89,
+        "imperial": 196.2
+      },
+      "ability": {
+        "normal": [
+          "Swarm",
+          "Sheer Force"
+        ],
+        "hidden": "Sharpness"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 135,
+        "def": 95,
+        "satk": 45,
+        "sdef": 70,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Stone Axe"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          4,
+          "Fury Cutter"
+        ],
+        [
+          8,
+          "False Swipe"
+        ],
+        [
+          12,
+          "Smack Down"
+        ],
+        [
+          16,
+          "Double Team"
+        ],
+        [
+          20,
+          "Double Hit"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          28,
+          "Focus Energy"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          36,
+          "Rock Slide"
+        ],
+        [
+          40,
+          "X-Scissor"
+        ],
+        [
+          44,
+          "Swords Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ],
+        [
+          "pre",
+          "Wing Attack"
+        ],
+        [
+          "pre",
+          "Air Slash"
+        ]
+      ]
+    }
+  ]
+}

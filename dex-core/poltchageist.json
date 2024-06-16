@@ -1,0 +1,206 @@
+{
+  "name": "Poltchageist",
+  "national": "1012",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Matcha Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 1.1,
+        "imperial": 2.4
+      },
+      "ability": {
+        "normal": [
+          "Hospitality"
+        ],
+        "hidden": "Heatproof"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 45,
+        "satk": 74,
+        "sdef": 54,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          6,
+          "Absorb"
+        ],
+        [
+          12,
+          "Life Dew"
+        ],
+        [
+          18,
+          "Foul Play"
+        ],
+        [
+          24,
+          "Mega Drain"
+        ],
+        [
+          30,
+          "Hex"
+        ],
+        [
+          36,
+          "Rage Powder"
+        ],
+        [
+          42,
+          "Giga Drain"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Memento"
+        ],
+        [
+          60,
+          "Leaf Storm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    }
+  ]
+}

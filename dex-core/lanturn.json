@@ -1,0 +1,291 @@
+{
+  "name": "Lanturn",
+  "national": "0171",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Light Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 22.5,
+        "imperial": 49.6
+      },
+      "ability": {
+        "normal": [
+          "Volt Absorb",
+          "Illuminate"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 125,
+        "atk": 58,
+        "def": 58,
+        "satk": 76,
+        "sdef": 76,
+        "spd": 67
+      },
+      "moves": [
+        [
+          "evo",
+          "Swallow"
+        ],
+        [
+          "evo",
+          "Spit Up"
+        ],
+        [
+          "evo",
+          "Stockpile"
+        ],
+        [
+          null,
+          "Eerie Impulse"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Electro Ball"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Confuse Ray"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          24,
+          "Charge"
+        ],
+        [
+          30,
+          "Discharge"
+        ],
+        [
+          36,
+          "Aqua Ring"
+        ],
+        [
+          42,
+          "Flail"
+        ],
+        [
+          48,
+          "Take Down"
+        ],
+        [
+          54,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Soak"
+        ]
+      ]
+    }
+  ]
+}

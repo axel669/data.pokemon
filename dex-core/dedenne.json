@@ -1,0 +1,275 @@
+{
+  "name": "Dedenne",
+  "national": "0702",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Antenna Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 2.2,
+        "imperial": 4.9
+      },
+      "ability": {
+        "normal": [
+          "Cheek Pouch",
+          "Pickup"
+        ],
+        "hidden": "Plus"
+      },
+      "stats": {
+        "hp": 67,
+        "atk": 58,
+        "def": 57,
+        "satk": 81,
+        "sdef": 67,
+        "spd": 101
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Nuzzle"
+        ],
+        [
+          5,
+          "Tackle"
+        ],
+        [
+          10,
+          "Charge"
+        ],
+        [
+          15,
+          "Thunder Shock"
+        ],
+        [
+          20,
+          "Charm"
+        ],
+        [
+          25,
+          "Parabolic Charge"
+        ],
+        [
+          30,
+          "Volt Switch"
+        ],
+        [
+          35,
+          "Rest"
+        ],
+        [
+          35,
+          "Snore"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          45,
+          "Play Rough"
+        ],
+        [
+          50,
+          "Super Fang"
+        ],
+        [
+          55,
+          "Entrainment"
+        ],
+        [
+          60,
+          "Thunder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Covet"
+        ],
+        [
+          "egg",
+          "Magnet Rise"
+        ],
+        [
+          "egg",
+          "Tearful Look"
+        ]
+      ]
+    }
+  ]
+}

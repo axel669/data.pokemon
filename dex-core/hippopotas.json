@@ -1,0 +1,258 @@
+{
+  "name": "Hippopotas",
+  "national": "0449",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hippo Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 49.5,
+        "imperial": 109.1
+      },
+      "ability": {
+        "normal": [
+          "Sand Stream"
+        ],
+        "hidden": "Sand Force"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 72,
+        "def": 78,
+        "satk": 38,
+        "sdef": 42,
+        "spd": 32
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          4,
+          "Bite"
+        ],
+        [
+          8,
+          "Yawn"
+        ],
+        [
+          12,
+          "Sand Tomb"
+        ],
+        [
+          16,
+          "Dig"
+        ],
+        [
+          20,
+          "Crunch"
+        ],
+        [
+          24,
+          "Sandstorm"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          32,
+          "Roar"
+        ],
+        [
+          36,
+          "Rest"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          44,
+          "Double-Edge"
+        ],
+        [
+          48,
+          "Fissure"
+        ],
+        [
+          52,
+          "Slack Off"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ]
+      ]
+    }
+  ]
+}

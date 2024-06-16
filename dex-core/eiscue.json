@@ -1,0 +1,510 @@
+{
+  "name": "Eiscue",
+  "national": "0875",
+  "forms": [
+    {
+      "name": "Ice Face",
+      "species": "Penguin Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 89,
+        "imperial": 196.2
+      },
+      "ability": {
+        "normal": [
+          "Ice Face"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 110,
+        "satk": 65,
+        "sdef": 90,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          6,
+          "Mist"
+        ],
+        [
+          12,
+          "Weather Ball"
+        ],
+        [
+          18,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Freeze-Dry"
+        ],
+        [
+          42,
+          "Snowscape"
+        ],
+        [
+          48,
+          "Aurora Veil"
+        ],
+        [
+          54,
+          "Surf"
+        ],
+        [
+          60,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Soak"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    },
+    {
+      "name": "Noice Face",
+      "species": "Penguin Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 89,
+        "imperial": 196.2
+      },
+      "ability": {
+        "normal": [
+          "Ice Face"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 70,
+        "satk": 65,
+        "sdef": 50,
+        "spd": 130
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          6,
+          "Mist"
+        ],
+        [
+          12,
+          "Weather Ball"
+        ],
+        [
+          18,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Freeze-Dry"
+        ],
+        [
+          42,
+          "Snowscape"
+        ],
+        [
+          48,
+          "Aurora Veil"
+        ],
+        [
+          54,
+          "Surf"
+        ],
+        [
+          60,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Soak"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    }
+  ]
+}

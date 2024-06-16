@@ -1,0 +1,8 @@
+{
+  "name": "Shadow Claw",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit."
+}

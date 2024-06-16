@@ -1,0 +1,250 @@
+{
+  "name": "Cryogonal",
+  "national": "0615",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Crystallizing Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 148,
+        "imperial": 326.3
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 50,
+        "def": 50,
+        "satk": 95,
+        "sdef": 135,
+        "spd": 105
+      },
+      "moves": [
+        [
+          null,
+          "Bind"
+        ],
+        [
+          null,
+          "Ice Shard"
+        ],
+        [
+          4,
+          "Confuse Ray"
+        ],
+        [
+          8,
+          "Rapid Spin"
+        ],
+        [
+          12,
+          "Icy Wind"
+        ],
+        [
+          16,
+          "Mist"
+        ],
+        [
+          16,
+          "Haze"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          24,
+          "Aurora Beam"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          32,
+          "Night Slash"
+        ],
+        [
+          36,
+          "Freeze-Dry"
+        ],
+        [
+          40,
+          "Light Screen"
+        ],
+        [
+          40,
+          "Reflect"
+        ],
+        [
+          44,
+          "Recover"
+        ],
+        [
+          48,
+          "Ice Beam"
+        ],
+        [
+          52,
+          "Acid Armor"
+        ],
+        [
+          56,
+          "Solar Beam"
+        ],
+        [
+          60,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Frost Breath"
+        ],
+        [
+          "egg",
+          "Aurora Veil"
+        ]
+      ]
+    }
+  ]
+}

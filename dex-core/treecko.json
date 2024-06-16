@@ -1,0 +1,290 @@
+{
+  "name": "Treecko",
+  "national": "0252",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wood Gecko Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 5,
+        "imperial": 11
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Unburden"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 45,
+        "def": 35,
+        "satk": 65,
+        "sdef": 55,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          3,
+          "Leafage"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Mega Drain"
+        ],
+        [
+          12,
+          "Detect"
+        ],
+        [
+          15,
+          "Quick Guard"
+        ],
+        [
+          18,
+          "Assurance"
+        ],
+        [
+          21,
+          "Giga Drain"
+        ],
+        [
+          24,
+          "Slam"
+        ],
+        [
+          27,
+          "Double Team"
+        ],
+        [
+          30,
+          "Energy Ball"
+        ],
+        [
+          33,
+          "Screech"
+        ],
+        [
+          36,
+          "Endeavor"
+        ],
+        [
+          39,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Absorb"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ]
+      ]
+    }
+  ]
+}

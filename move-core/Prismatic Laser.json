@@ -1,0 +1,8 @@
+{
+  "name": "Prismatic Laser",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user shoots powerful lasers using the power of a prism. The user can't move on the next turn."
+}

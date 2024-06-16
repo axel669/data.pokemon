@@ -1,0 +1,8 @@
+{
+  "name": "Cosmic Power",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user absorbs a mystical power from space to boost its Defense and Sp. Def stats."
+}

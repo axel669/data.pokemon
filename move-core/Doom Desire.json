@@ -1,0 +1,8 @@
+{
+  "name": "Doom Desire",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "Two turns after this move is used, a concentrated bundle of light blasts the target."
+}

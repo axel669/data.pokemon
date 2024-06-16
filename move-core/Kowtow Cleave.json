@@ -1,0 +1,8 @@
+{
+  "name": "Kowtow Cleave",
+  "power": 85,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+}

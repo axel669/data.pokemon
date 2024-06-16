@@ -1,0 +1,686 @@
+{
+  "name": "Metagross",
+  "national": "0376",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Iron Leg Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 550,
+        "imperial": 1212.5
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Light Metal"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 135,
+        "def": 130,
+        "satk": 95,
+        "sdef": 90,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Hammer Arm"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Bullet Punch"
+        ],
+        [
+          6,
+          "Zen Headbutt"
+        ],
+        [
+          12,
+          "Magnet Rise"
+        ],
+        [
+          16,
+          "Flash Cannon"
+        ],
+        [
+          26,
+          "Take Down"
+        ],
+        [
+          34,
+          "Psychic"
+        ],
+        [
+          42,
+          "Scary Face"
+        ],
+        [
+          52,
+          "Meteor Mash"
+        ],
+        [
+          62,
+          "Iron Defense"
+        ],
+        [
+          72,
+          "Agility"
+        ],
+        [
+          82,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "rem",
+          "Explosion"
+        ],
+        [
+          "rem",
+          "Hone Claws"
+        ],
+        [
+          "pre",
+          "Hone Claws"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Iron Leg Pokémon",
+      "height": {
+        "metric": 2.5,
+        "imperial": 98
+      },
+      "weight": {
+        "metric": 942.9,
+        "imperial": 2078.7
+      },
+      "ability": {
+        "normal": [
+          "Tough Claws"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 145,
+        "def": 150,
+        "satk": 105,
+        "sdef": 110,
+        "spd": 110
+      },
+      "moves": [
+        [
+          "evo",
+          "Hammer Arm"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Bullet Punch"
+        ],
+        [
+          6,
+          "Zen Headbutt"
+        ],
+        [
+          12,
+          "Magnet Rise"
+        ],
+        [
+          16,
+          "Flash Cannon"
+        ],
+        [
+          26,
+          "Take Down"
+        ],
+        [
+          34,
+          "Psychic"
+        ],
+        [
+          42,
+          "Scary Face"
+        ],
+        [
+          52,
+          "Meteor Mash"
+        ],
+        [
+          62,
+          "Iron Defense"
+        ],
+        [
+          72,
+          "Agility"
+        ],
+        [
+          82,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "rem",
+          "Explosion"
+        ],
+        [
+          "rem",
+          "Hone Claws"
+        ],
+        [
+          "pre",
+          "Hone Claws"
+        ]
+      ]
+    }
+  ]
+}

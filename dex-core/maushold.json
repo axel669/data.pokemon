@@ -1,0 +1,568 @@
+{
+  "name": "Maushold",
+  "national": "0925",
+  "forms": [
+    {
+      "name": "Family of Four",
+      "species": "Family Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.8,
+        "imperial": 6.2
+      },
+      "ability": {
+        "normal": [
+          "Friend Guard",
+          "Cheek Pouch"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 74,
+        "atk": 75,
+        "def": 70,
+        "satk": 65,
+        "sdef": 75,
+        "spd": 111
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Follow Me"
+        ],
+        [
+          null,
+          "Baby-Doll Eyes"
+        ],
+        [
+          null,
+          "Tidy Up"
+        ],
+        [
+          5,
+          "Echoed Voice"
+        ],
+        [
+          8,
+          "Helping Hand"
+        ],
+        [
+          11,
+          "Super Fang"
+        ],
+        [
+          14,
+          "Double Hit"
+        ],
+        [
+          18,
+          "Bullet Seed"
+        ],
+        [
+          22,
+          "Encore"
+        ],
+        [
+          29,
+          "Play Rough"
+        ],
+        [
+          33,
+          "Hyper Voice"
+        ],
+        [
+          37,
+          "Charm"
+        ],
+        [
+          41,
+          "Beat Up"
+        ],
+        [
+          46,
+          "Copycat"
+        ],
+        [
+          53,
+          "Population Bomb"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "After You"
+        ]
+      ]
+    },
+    {
+      "name": "Family of Three",
+      "species": "Family Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.3,
+        "imperial": 5.1
+      },
+      "ability": {
+        "normal": [
+          "Friend Guard",
+          "Cheek Pouch"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 74,
+        "atk": 75,
+        "def": 70,
+        "satk": 65,
+        "sdef": 75,
+        "spd": 111
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Follow Me"
+        ],
+        [
+          null,
+          "Baby-Doll Eyes"
+        ],
+        [
+          null,
+          "Tidy Up"
+        ],
+        [
+          5,
+          "Echoed Voice"
+        ],
+        [
+          8,
+          "Helping Hand"
+        ],
+        [
+          11,
+          "Super Fang"
+        ],
+        [
+          14,
+          "Double Hit"
+        ],
+        [
+          18,
+          "Bullet Seed"
+        ],
+        [
+          22,
+          "Encore"
+        ],
+        [
+          29,
+          "Play Rough"
+        ],
+        [
+          33,
+          "Hyper Voice"
+        ],
+        [
+          37,
+          "Charm"
+        ],
+        [
+          41,
+          "Beat Up"
+        ],
+        [
+          46,
+          "Copycat"
+        ],
+        [
+          53,
+          "Population Bomb"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "After You"
+        ]
+      ]
+    }
+  ]
+}

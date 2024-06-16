@@ -1,0 +1,227 @@
+{
+  "name": "Wugtrio",
+  "national": "0961",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Garden Eel Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 5.4,
+        "imperial": 11.9
+      },
+      "ability": {
+        "normal": [
+          "Gooey",
+          "Rattled"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 100,
+        "def": 50,
+        "satk": 50,
+        "sdef": 70,
+        "spd": 120
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          12,
+          "Aqua Jet"
+        ],
+        [
+          16,
+          "Slam"
+        ],
+        [
+          20,
+          "Water Pulse"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Triple Dive"
+        ],
+        [
+          36,
+          "Dig"
+        ],
+        [
+          42,
+          "Sucker Punch"
+        ],
+        [
+          48,
+          "Throat Chop"
+        ],
+        [
+          54,
+          "Liquidation"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ]
+      ]
+    }
+  ]
+}

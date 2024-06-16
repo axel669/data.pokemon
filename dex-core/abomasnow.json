@@ -1,0 +1,638 @@
+{
+  "name": "Abomasnow",
+  "national": "0460",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Frost Tree Pokémon",
+      "height": {
+        "metric": 2.2,
+        "imperial": 87
+      },
+      "weight": {
+        "metric": 135.5,
+        "imperial": 298.7
+      },
+      "ability": {
+        "normal": [
+          "Snow Warning"
+        ],
+        "hidden": "Soundproof"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 92,
+        "def": 75,
+        "satk": 92,
+        "sdef": 85,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Ice Punch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          null,
+          "Aurora Veil"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Razor Leaf"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Swagger"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          43,
+          "Wood Hammer"
+        ],
+        [
+          49,
+          "Blizzard"
+        ],
+        [
+          56,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Frost Tree Pokémon",
+      "height": {
+        "metric": 2.7,
+        "imperial": 106
+      },
+      "weight": {
+        "metric": 185,
+        "imperial": 407.9
+      },
+      "ability": {
+        "normal": [
+          "Snow Warning"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 132,
+        "def": 105,
+        "satk": 132,
+        "sdef": 105,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Ice Punch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          null,
+          "Aurora Veil"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Razor Leaf"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Swagger"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          43,
+          "Wood Hammer"
+        ],
+        [
+          49,
+          "Blizzard"
+        ],
+        [
+          56,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ]
+      ]
+    }
+  ]
+}

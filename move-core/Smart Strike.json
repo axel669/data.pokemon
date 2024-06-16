@@ -1,0 +1,8 @@
+{
+  "name": "Smart Strike",
+  "power": 70,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user stabs the target with a sharp horn. This attack never misses."
+}

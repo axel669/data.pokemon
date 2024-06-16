@@ -1,0 +1,8 @@
+{
+  "name": "Feint",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Absorb",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": null,
+  "desc": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target."
+}

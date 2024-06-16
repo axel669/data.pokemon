@@ -1,0 +1,8 @@
+{
+  "name": "Electroweb",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats."
+}

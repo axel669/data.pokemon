@@ -1,0 +1,347 @@
+{
+  "name": "Sudowoodo",
+  "national": "0185",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Imitation Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 38,
+        "imperial": 83.8
+      },
+      "ability": {
+        "normal": [
+          "Sturdy",
+          "Rock Head"
+        ],
+        "hidden": "Rattled"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 115,
+        "satk": 30,
+        "sdef": 65,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Slam"
+        ],
+        [
+          null,
+          "Wood Hammer"
+        ],
+        [
+          null,
+          "Stone Edge"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Hammer Arm"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Fake Tears"
+        ],
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          12,
+          "Block"
+        ],
+        [
+          16,
+          "Mimic"
+        ],
+        [
+          20,
+          "Rock Tomb"
+        ],
+        [
+          24,
+          "Tearful Look"
+        ],
+        [
+          28,
+          "Sucker Punch"
+        ],
+        [
+          32,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Low Kick"
+        ],
+        [
+          40,
+          "Counter"
+        ],
+        [
+          44,
+          "Double-Edge"
+        ],
+        [
+          48,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Headbutt"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Rock Polish"
+        ]
+      ]
+    }
+  ]
+}

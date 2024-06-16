@@ -1,0 +1,8 @@
+{
+  "name": "Dynamic Punch",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "effect": 100,
+  "desc": "The user attacks by punching the target with full concentrated power. This also confuses the target."
+}

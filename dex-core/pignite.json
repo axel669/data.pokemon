@@ -1,0 +1,346 @@
+{
+  "name": "Pignite",
+  "national": "0499",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Pig Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 55.5,
+        "imperial": 122.4
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Thick Fat"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 93,
+        "def": 55,
+        "satk": 70,
+        "sdef": 55,
+        "spd": 55
+      },
+      "moves": [
+        [
+          "evo",
+          "Arm Thrust"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Endure"
+        ],
+        [
+          13,
+          "Defense Curl"
+        ],
+        [
+          15,
+          "Flame Charge"
+        ],
+        [
+          20,
+          "Smog"
+        ],
+        [
+          23,
+          "Rollout"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Heat Crash"
+        ],
+        [
+          36,
+          "Assurance"
+        ],
+        [
+          39,
+          "Flamethrower"
+        ],
+        [
+          44,
+          "Head Smash"
+        ],
+        [
+          47,
+          "Roar"
+        ],
+        [
+          52,
+          "Flare Blitz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ]
+      ]
+    }
+  ]
+}

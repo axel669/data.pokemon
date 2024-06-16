@@ -1,0 +1,8 @@
+{
+  "name": "Rock Wrecker",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user launches a huge boulder at the target to attack. The user can't move on the next turn."
+}

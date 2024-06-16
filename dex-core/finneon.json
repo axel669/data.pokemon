@@ -1,0 +1,251 @@
+{
+  "name": "Finneon",
+  "national": "0456",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wing Fish Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 7,
+        "imperial": 15.4
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Storm Drain"
+        ],
+        "hidden": "Water Veil"
+      },
+      "stats": {
+        "hp": 49,
+        "atk": 49,
+        "def": 56,
+        "satk": 49,
+        "sdef": 61,
+        "spd": 66
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          6,
+          "Water Gun"
+        ],
+        [
+          13,
+          "Rain Dance"
+        ],
+        [
+          17,
+          "Gust"
+        ],
+        [
+          22,
+          "Water Pulse"
+        ],
+        [
+          26,
+          "Attract"
+        ],
+        [
+          29,
+          "Safeguard"
+        ],
+        [
+          33,
+          "Aqua Ring"
+        ],
+        [
+          38,
+          "Whirlpool"
+        ],
+        [
+          42,
+          "U-turn"
+        ],
+        [
+          45,
+          "Bounce"
+        ],
+        [
+          49,
+          "Tailwind"
+        ],
+        [
+          54,
+          "Soak"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Aurora Beam"
+        ],
+        [
+          "egg",
+          "Agility"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Sweet Kiss"
+        ],
+        [
+          "egg",
+          "Charm"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ]
+      ]
+    }
+  ]
+}

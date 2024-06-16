@@ -1,0 +1,823 @@
+{
+  "name": "Lucario",
+  "national": "0448",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Aura Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 54,
+        "imperial": 119
+      },
+      "ability": {
+        "normal": [
+          "Steadfast",
+          "Inner Focus"
+        ],
+        "hidden": "Justified"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 70,
+        "satk": 115,
+        "sdef": 70,
+        "spd": 90
+      },
+      "moves": [
+        [
+          "evo",
+          "Aura Sphere"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Feint"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Vacuum Wave"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          null,
+          "Reversal"
+        ],
+        [
+          null,
+          "Screech"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Final Gambit"
+        ],
+        [
+          null,
+          "Life Dew"
+        ],
+        [
+          12,
+          "Counter"
+        ],
+        [
+          16,
+          "Work Up"
+        ],
+        [
+          20,
+          "Force Palm"
+        ],
+        [
+          24,
+          "Calm Mind"
+        ],
+        [
+          28,
+          "Metal Sound"
+        ],
+        [
+          32,
+          "Quick Guard"
+        ],
+        [
+          36,
+          "Bone Rush"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          44,
+          "Heal Pulse"
+        ],
+        [
+          48,
+          "Meteor Mash"
+        ],
+        [
+          52,
+          "Dragon Pulse"
+        ],
+        [
+          56,
+          "Extreme Speed"
+        ],
+        [
+          60,
+          "Close Combat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "High Jump Kick"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Circle Throw"
+        ],
+        [
+          "pre",
+          "Endure"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Aura Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 57.5,
+        "imperial": 126.8
+      },
+      "ability": {
+        "normal": [
+          "Adaptability"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 145,
+        "def": 88,
+        "satk": 140,
+        "sdef": 70,
+        "spd": 112
+      },
+      "moves": [
+        [
+          "evo",
+          "Aura Sphere"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Feint"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Vacuum Wave"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          null,
+          "Reversal"
+        ],
+        [
+          null,
+          "Screech"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Final Gambit"
+        ],
+        [
+          null,
+          "Life Dew"
+        ],
+        [
+          12,
+          "Counter"
+        ],
+        [
+          16,
+          "Work Up"
+        ],
+        [
+          20,
+          "Force Palm"
+        ],
+        [
+          24,
+          "Calm Mind"
+        ],
+        [
+          28,
+          "Metal Sound"
+        ],
+        [
+          32,
+          "Quick Guard"
+        ],
+        [
+          36,
+          "Bone Rush"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          44,
+          "Heal Pulse"
+        ],
+        [
+          48,
+          "Meteor Mash"
+        ],
+        [
+          52,
+          "Dragon Pulse"
+        ],
+        [
+          56,
+          "Extreme Speed"
+        ],
+        [
+          60,
+          "Close Combat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "High Jump Kick"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Circle Throw"
+        ],
+        [
+          "pre",
+          "Endure"
+        ]
+      ]
+    }
+  ]
+}

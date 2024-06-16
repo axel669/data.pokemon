@@ -1,0 +1,234 @@
+{
+  "name": "Glimmet",
+  "national": "0969",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ore Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [
+          "Toxic Debris"
+        ],
+        "hidden": "Corrosion"
+      },
+      "stats": {
+        "hp": 48,
+        "atk": 35,
+        "def": 42,
+        "satk": 105,
+        "sdef": 60,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Smack Down"
+        ],
+        [
+          7,
+          "Acid Spray"
+        ],
+        [
+          11,
+          "Ancient Power"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          18,
+          "Stealth Rock"
+        ],
+        [
+          22,
+          "Venoshock"
+        ],
+        [
+          26,
+          "Sandstorm"
+        ],
+        [
+          29,
+          "Self-Destruct"
+        ],
+        [
+          33,
+          "Rock Slide"
+        ],
+        [
+          37,
+          "Power Gem"
+        ],
+        [
+          41,
+          "Acid Armor"
+        ],
+        [
+          46,
+          "Sludge Wave"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Memento"
+        ]
+      ]
+    }
+  ]
+}

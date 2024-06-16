@@ -1,0 +1,8 @@
+{
+  "name": "Body Press",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this move deals."
+}

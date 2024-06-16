@@ -1,0 +1,247 @@
+{
+  "name": "Wattrel",
+  "national": "0940",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Storm Petrel Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 3.6,
+        "imperial": 7.9
+      },
+      "ability": {
+        "normal": [
+          "Wind Power",
+          "Volt Absorb"
+        ],
+        "hidden": "Competitive"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "satk": 55,
+        "sdef": 40,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          4,
+          "Thunder Shock"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          11,
+          "Pluck"
+        ],
+        [
+          15,
+          "Spark"
+        ],
+        [
+          19,
+          "Uproar"
+        ],
+        [
+          23,
+          "Roost"
+        ],
+        [
+          27,
+          "Dual Wingbeat"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          37,
+          "Volt Switch"
+        ],
+        [
+          43,
+          "Discharge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ]
+      ]
+    }
+  ]
+}

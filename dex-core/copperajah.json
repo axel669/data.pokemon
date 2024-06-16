@@ -1,0 +1,302 @@
+{
+  "name": "Copperajah",
+  "national": "0879",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Copperderm Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 650,
+        "imperial": 1433
+      },
+      "ability": {
+        "normal": [
+          "Sheer Force"
+        ],
+        "hidden": "Heavy Metal"
+      },
+      "stats": {
+        "hp": 122,
+        "atk": 130,
+        "def": 69,
+        "satk": 80,
+        "sdef": 69,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Heavy Slam"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Rollout"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          15,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Stomp"
+        ],
+        [
+          25,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Dig"
+        ],
+        [
+          37,
+          "Strength"
+        ],
+        [
+          44,
+          "Iron Head"
+        ],
+        [
+          51,
+          "Play Rough"
+        ],
+        [
+          58,
+          "High Horsepower"
+        ],
+        [
+          65,
+          "Superpower"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Slam"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Swagger"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

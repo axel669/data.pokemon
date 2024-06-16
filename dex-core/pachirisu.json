@@ -1,0 +1,331 @@
+{
+  "name": "Pachirisu",
+  "national": "0417",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleSquirrel Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 3.9,
+        "imperial": 8.6
+      },
+      "ability": {
+        "normal": [
+          "Run Away",
+          "Pickup"
+        ],
+        "hidden": "Volt Absorb"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 45,
+        "def": 70,
+        "satk": 45,
+        "sdef": 90,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          17,
+          "Endure"
+        ],
+        [
+          19,
+          "Nuzzle"
+        ],
+        [
+          21,
+          "Swift"
+        ],
+        [
+          25,
+          "Electro Ball"
+        ],
+        [
+          29,
+          "Sweet Kiss"
+        ],
+        [
+          33,
+          "Thunder Wave"
+        ],
+        [
+          37,
+          "Super Fang"
+        ],
+        [
+          41,
+          "Discharge"
+        ],
+        [
+          45,
+          "Last Resort"
+        ],
+        [
+          49,
+          "Thunder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Tail Whip"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Follow Me"
+        ],
+        [
+          "egg",
+          "Charge"
+        ],
+        [
+          "egg",
+          "Fake Tears"
+        ],
+        [
+          "egg",
+          "Covet"
+        ],
+        [
+          "egg",
+          "Baby-Doll Eyes"
+        ]
+      ]
+    }
+  ]
+}

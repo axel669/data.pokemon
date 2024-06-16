@@ -1,0 +1,343 @@
+{
+  "name": "Ralts",
+  "national": "0280",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Feeling Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 6.6,
+        "imperial": 14.6
+      },
+      "ability": {
+        "normal": [
+          "Synchronize",
+          "Trace"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 28,
+        "atk": 25,
+        "def": 25,
+        "satk": 45,
+        "sdef": 35,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          3,
+          "Double Team"
+        ],
+        [
+          6,
+          "Confusion"
+        ],
+        [
+          9,
+          "Hypnosis"
+        ],
+        [
+          12,
+          "Draining Kiss"
+        ],
+        [
+          15,
+          "Teleport"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          21,
+          "Life Dew"
+        ],
+        [
+          24,
+          "Charm"
+        ],
+        [
+          27,
+          "Calm Mind"
+        ],
+        [
+          30,
+          "Psychic"
+        ],
+        [
+          33,
+          "Heal Pulse"
+        ],
+        [
+          36,
+          "Dream Eater"
+        ],
+        [
+          39,
+          "Future Sight"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Mean Look"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Shadow Sneak"
+        ],
+        [
+          "egg",
+          "Mystical Fire"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Headbutt",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 30,
+  "desc": "The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch."
+}

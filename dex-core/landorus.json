@@ -1,0 +1,582 @@
+{
+  "name": "Landorus",
+  "national": "0645",
+  "forms": [
+    {
+      "name": "Incarnate Forme",
+      "species": "Abundance Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 68,
+        "imperial": 149.9
+      },
+      "ability": {
+        "normal": [
+          "Sand Force"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 89,
+        "atk": 125,
+        "def": 90,
+        "satk": 115,
+        "sdef": 80,
+        "spd": 101
+      },
+      "moves": [
+        [
+          null,
+          "Smack Down"
+        ],
+        [
+          null,
+          "Sand Tomb"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Block"
+        ],
+        [
+          15,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Rock Tomb"
+        ],
+        [
+          30,
+          "Imprison"
+        ],
+        [
+          35,
+          "Rock Slide"
+        ],
+        [
+          40,
+          "Earth Power"
+        ],
+        [
+          45,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Stone Edge"
+        ],
+        [
+          55,
+          "Hammer Arm"
+        ],
+        [
+          60,
+          "Sandstorm"
+        ],
+        [
+          65,
+          "Earthquake"
+        ],
+        [
+          70,
+          "Outrage"
+        ],
+        [
+          75,
+          "Fissure"
+        ],
+        [
+          80,
+          "Sandsear Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ]
+      ]
+    },
+    {
+      "name": "Therian Forme",
+      "species": "Abundance Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 68,
+        "imperial": 149.9
+      },
+      "ability": {
+        "normal": [
+          "Intimidate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 89,
+        "atk": 145,
+        "def": 90,
+        "satk": 105,
+        "sdef": 80,
+        "spd": 91
+      },
+      "moves": [
+        [
+          null,
+          "Smack Down"
+        ],
+        [
+          null,
+          "Sand Tomb"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Block"
+        ],
+        [
+          15,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Rock Tomb"
+        ],
+        [
+          30,
+          "Imprison"
+        ],
+        [
+          35,
+          "Rock Slide"
+        ],
+        [
+          40,
+          "Earth Power"
+        ],
+        [
+          45,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Stone Edge"
+        ],
+        [
+          55,
+          "Hammer Arm"
+        ],
+        [
+          60,
+          "Sandstorm"
+        ],
+        [
+          65,
+          "Earthquake"
+        ],
+        [
+          70,
+          "Outrage"
+        ],
+        [
+          75,
+          "Fissure"
+        ],
+        [
+          80,
+          "Sandsear Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ]
+      ]
+    }
+  ]
+}

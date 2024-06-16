@@ -1,0 +1,8 @@
+{
+  "name": "Eruption",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power."
+}

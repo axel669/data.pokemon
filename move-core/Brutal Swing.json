@@ -1,0 +1,8 @@
+{
+  "name": "Brutal Swing",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user swings its body around violently to inflict damage on everything in its vicinity."
+}

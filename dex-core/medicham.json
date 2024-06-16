@@ -1,0 +1,798 @@
+{
+  "name": "Medicham",
+  "national": "0308",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Meditate Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 31.5,
+        "imperial": 69.4
+      },
+      "ability": {
+        "normal": [
+          "Pure Power"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 75,
+        "satk": 60,
+        "sdef": 75,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Fire Punch"
+        ],
+        [
+          null,
+          "Ice Punch"
+        ],
+        [
+          null,
+          "Thunder Punch"
+        ],
+        [
+          null,
+          "Work Up"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          12,
+          "Endure"
+        ],
+        [
+          15,
+          "Feint"
+        ],
+        [
+          17,
+          "Force Palm"
+        ],
+        [
+          20,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Calm Mind"
+        ],
+        [
+          25,
+          "Zen Headbutt"
+        ],
+        [
+          28,
+          "High Jump Kick"
+        ],
+        [
+          31,
+          "Psych Up"
+        ],
+        [
+          33,
+          "Acupressure"
+        ],
+        [
+          36,
+          "Power Trick"
+        ],
+        [
+          47,
+          "Recover"
+        ],
+        [
+          53,
+          "Counter"
+        ],
+        [
+          53,
+          "Axe Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Fire Punch"
+        ],
+        [
+          "egg",
+          "Ice Punch"
+        ],
+        [
+          "egg",
+          "Thunder Punch"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Power Swap"
+        ],
+        [
+          "egg",
+          "Guard Swap"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Psycho Cut"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ],
+        [
+          "pre",
+          "Reversal"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Meditate Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 31.5,
+        "imperial": 69.4
+      },
+      "ability": {
+        "normal": [
+          "Pure Power"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 85,
+        "satk": 80,
+        "sdef": 85,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Fire Punch"
+        ],
+        [
+          null,
+          "Ice Punch"
+        ],
+        [
+          null,
+          "Thunder Punch"
+        ],
+        [
+          null,
+          "Work Up"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          12,
+          "Endure"
+        ],
+        [
+          15,
+          "Feint"
+        ],
+        [
+          17,
+          "Force Palm"
+        ],
+        [
+          20,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Calm Mind"
+        ],
+        [
+          25,
+          "Zen Headbutt"
+        ],
+        [
+          28,
+          "High Jump Kick"
+        ],
+        [
+          31,
+          "Psych Up"
+        ],
+        [
+          33,
+          "Acupressure"
+        ],
+        [
+          36,
+          "Power Trick"
+        ],
+        [
+          47,
+          "Recover"
+        ],
+        [
+          53,
+          "Counter"
+        ],
+        [
+          53,
+          "Axe Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Fire Punch"
+        ],
+        [
+          "egg",
+          "Ice Punch"
+        ],
+        [
+          "egg",
+          "Thunder Punch"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Power Swap"
+        ],
+        [
+          "egg",
+          "Guard Swap"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Psycho Cut"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ],
+        [
+          "pre",
+          "Reversal"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "name": "Lokix",
+  "national": "0920",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Grasshopper Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 17.5,
+        "imperial": 38.6
+      },
+      "ability": {
+        "normal": [
+          "Swarm"
+        ],
+        "hidden": "Tinted Lens"
+      },
+      "stats": {
+        "hp": 71,
+        "atk": 102,
+        "def": 78,
+        "satk": 52,
+        "sdef": 55,
+        "spd": 92
+      },
+      "moves": [
+        [
+          "evo",
+          "Lunge"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Low Kick"
+        ],
+        [
+          null,
+          "Detect"
+        ],
+        [
+          4,
+          "Struggle Bug"
+        ],
+        [
+          6,
+          "Astonish"
+        ],
+        [
+          9,
+          "Assurance"
+        ],
+        [
+          11,
+          "Double Kick"
+        ],
+        [
+          14,
+          "Screech"
+        ],
+        [
+          18,
+          "Endure"
+        ],
+        [
+          22,
+          "Bug Bite"
+        ],
+        [
+          28,
+          "Feint"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          36,
+          "Throat Chop"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "First Impression"
+        ],
+        [
+          48,
+          "Bounce"
+        ],
+        [
+          53,
+          "Axe Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Skitter Smack"
+        ]
+      ]
+    }
+  ]
+}

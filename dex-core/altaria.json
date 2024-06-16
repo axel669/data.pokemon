@@ -1,0 +1,670 @@
+{
+  "name": "Altaria",
+  "national": "0334",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Humming Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 20.6,
+        "imperial": 45.4
+      },
+      "ability": {
+        "normal": [
+          "Natural Cure"
+        ],
+        "hidden": "Cloud Nine"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 90,
+        "satk": 70,
+        "sdef": 105,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Pulse"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Pluck"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Round"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          28,
+          "Sing"
+        ],
+        [
+          32,
+          "Cotton Guard"
+        ],
+        [
+          38,
+          "Take Down"
+        ],
+        [
+          44,
+          "Moonblast"
+        ],
+        [
+          50,
+          "Perish Song"
+        ],
+        [
+          56,
+          "Sky Attack"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Tailwind"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Humming Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 20.6,
+        "imperial": 45.4
+      },
+      "ability": {
+        "normal": [
+          "Pixilate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 110,
+        "def": 110,
+        "satk": 110,
+        "sdef": 105,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Pulse"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Pluck"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Round"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          28,
+          "Sing"
+        ],
+        [
+          32,
+          "Cotton Guard"
+        ],
+        [
+          38,
+          "Take Down"
+        ],
+        [
+          44,
+          "Moonblast"
+        ],
+        [
+          50,
+          "Perish Song"
+        ],
+        [
+          56,
+          "Sky Attack"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Tailwind"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

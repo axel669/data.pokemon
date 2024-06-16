@@ -1,0 +1,219 @@
+{
+  "name": "Cottonee",
+  "national": "0546",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cotton Puff Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.6,
+        "imperial": 1.3
+      },
+      "ability": {
+        "normal": [
+          "Prankster",
+          "Infiltrator"
+        ],
+        "hidden": "Chlorophyll"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 27,
+        "def": 60,
+        "satk": 37,
+        "sdef": 50,
+        "spd": 66
+      },
+      "moves": [
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          3,
+          "Fairy Wind"
+        ],
+        [
+          6,
+          "Stun Spore"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          18,
+          "Growth"
+        ],
+        [
+          21,
+          "Poison Powder"
+        ],
+        [
+          24,
+          "Giga Drain"
+        ],
+        [
+          27,
+          "Charm"
+        ],
+        [
+          30,
+          "Leech Seed"
+        ],
+        [
+          33,
+          "Cotton Spore"
+        ],
+        [
+          36,
+          "Energy Ball"
+        ],
+        [
+          39,
+          "Sunny Day"
+        ],
+        [
+          42,
+          "Endeavor"
+        ],
+        [
+          45,
+          "Cotton Guard"
+        ],
+        [
+          48,
+          "Solar Beam"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Beat Up"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

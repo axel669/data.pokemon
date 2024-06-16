@@ -1,0 +1,346 @@
+{
+  "name": "Haunter",
+  "national": "0093",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Gas Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 0.1,
+        "imperial": 0.2
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 45,
+        "satk": 115,
+        "sdef": 55,
+        "spd": 95
+      },
+      "moves": [
+        [
+          "evo",
+          "Shadow Punch"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Lick"
+        ],
+        [
+          null,
+          "Mean Look"
+        ],
+        [
+          12,
+          "Payback"
+        ],
+        [
+          16,
+          "Spite"
+        ],
+        [
+          20,
+          "Curse"
+        ],
+        [
+          24,
+          "Hex"
+        ],
+        [
+          30,
+          "Night Shade"
+        ],
+        [
+          36,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Dark Pulse"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ],
+        [
+          60,
+          "Dream Eater"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Smog"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ],
+        [
+          "egg",
+          "Reflect Type"
+        ]
+      ]
+    }
+  ]
+}

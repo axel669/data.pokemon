@@ -1,0 +1,286 @@
+{
+  "name": "Turtwig",
+  "national": "0387",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tiny Leaf Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 10.2,
+        "imperial": 22.5
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 68,
+        "def": 64,
+        "satk": 45,
+        "sdef": 55,
+        "spd": 31
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          5,
+          "Withdraw"
+        ],
+        [
+          9,
+          "Absorb"
+        ],
+        [
+          13,
+          "Razor Leaf"
+        ],
+        [
+          17,
+          "Curse"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          25,
+          "Mega Drain"
+        ],
+        [
+          29,
+          "Leech Seed"
+        ],
+        [
+          33,
+          "Synthesis"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          41,
+          "Giga Drain"
+        ],
+        [
+          45,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "egg",
+          "Shell Smash"
+        ]
+      ]
+    }
+  ]
+}

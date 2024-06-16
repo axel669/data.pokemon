@@ -1,0 +1,8 @@
+{
+  "name": "Magic Powder",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user scatters a cloud of magic powder that changes the target's type to Psychic."
+}

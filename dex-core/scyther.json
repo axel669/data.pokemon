@@ -1,0 +1,267 @@
+{
+  "name": "Scyther",
+  "national": "0123",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mantis Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 56,
+        "imperial": 123.5
+      },
+      "ability": {
+        "normal": [
+          "Swarm",
+          "Technician"
+        ],
+        "hidden": "Steadfast"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 80,
+        "satk": 55,
+        "sdef": 80,
+        "spd": 105
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          4,
+          "Fury Cutter"
+        ],
+        [
+          8,
+          "False Swipe"
+        ],
+        [
+          12,
+          "Wing Attack"
+        ],
+        [
+          16,
+          "Double Team"
+        ],
+        [
+          20,
+          "Double Hit"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          28,
+          "Focus Energy"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "X-Scissor"
+        ],
+        [
+          44,
+          "Swords Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ditto",
+  "national": "0132",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Transform Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Limber"
+        ],
+        "hidden": "Imposter"
+      },
+      "stats": {
+        "hp": 48,
+        "atk": 48,
+        "def": 48,
+        "satk": 48,
+        "sdef": 48,
+        "spd": 48
+      },
+      "moves": [
+        [
+          null,
+          "Transform"
+        ]
+      ]
+    }
+  ]
+}

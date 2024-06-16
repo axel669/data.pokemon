@@ -1,0 +1,8 @@
+{
+  "name": "Dragon Claw",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user slashes the target with huge, sharp claws to inflict damage."
+}

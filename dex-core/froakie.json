@@ -1,0 +1,266 @@
+{
+  "name": "Froakie",
+  "national": "0656",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bubble Frog Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 7,
+        "imperial": 15.4
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Protean"
+      },
+      "stats": {
+        "hp": 41,
+        "atk": 56,
+        "def": 40,
+        "satk": 62,
+        "sdef": 44,
+        "spd": 71
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          5,
+          "Water Gun"
+        ],
+        [
+          8,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Lick"
+        ],
+        [
+          14,
+          "Water Pulse"
+        ],
+        [
+          18,
+          "Smokescreen"
+        ],
+        [
+          21,
+          "Round"
+        ],
+        [
+          25,
+          "Fling"
+        ],
+        [
+          29,
+          "Smack Down"
+        ],
+        [
+          35,
+          "Substitute"
+        ],
+        [
+          39,
+          "Bounce"
+        ],
+        [
+          43,
+          "Double Team"
+        ],
+        [
+          48,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Spikes"
+        ],
+        [
+          "egg",
+          "Toxic Spikes"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Retaliate"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "name": "Tyrogue",
+  "national": "0236",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scuffle Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 21,
+        "imperial": 46.3
+      },
+      "ability": {
+        "normal": [
+          "Guts",
+          "Steadfast"
+        ],
+        "hidden": "Vital Spirit"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 35,
+        "def": 35,
+        "satk": 35,
+        "sdef": 35,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "High Jump Kick"
+        ],
+        [
+          "egg",
+          "Mach Punch"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Vacuum Wave"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ]
+      ]
+    }
+  ]
+}

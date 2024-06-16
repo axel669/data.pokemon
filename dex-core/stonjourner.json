@@ -1,0 +1,250 @@
+{
+  "name": "Stonjourner",
+  "national": "0874",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Big Rock Pokémon",
+      "height": {
+        "metric": 2.5,
+        "imperial": 98
+      },
+      "weight": {
+        "metric": 520,
+        "imperial": 1146.4
+      },
+      "ability": {
+        "normal": [
+          "Power Spot"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 135,
+        "satk": 20,
+        "sdef": 20,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Block"
+        ],
+        [
+          6,
+          "Rock Polish"
+        ],
+        [
+          12,
+          "Rock Tomb"
+        ],
+        [
+          18,
+          "Gravity"
+        ],
+        [
+          24,
+          "Stomp"
+        ],
+        [
+          30,
+          "Stealth Rock"
+        ],
+        [
+          36,
+          "Rock Slide"
+        ],
+        [
+          42,
+          "Body Slam"
+        ],
+        [
+          48,
+          "Wide Guard"
+        ],
+        [
+          54,
+          "Heavy Slam"
+        ],
+        [
+          60,
+          "Stone Edge"
+        ],
+        [
+          66,
+          "Mega Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ]
+      ]
+    }
+  ]
+}

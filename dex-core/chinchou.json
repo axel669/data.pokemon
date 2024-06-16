@@ -1,0 +1,267 @@
+{
+  "name": "Chinchou",
+  "national": "0170",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Angler Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 12,
+        "imperial": 26.5
+      },
+      "ability": {
+        "normal": [
+          "Volt Absorb",
+          "Illuminate"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 38,
+        "def": 38,
+        "satk": 56,
+        "sdef": 56,
+        "spd": 67
+      },
+      "moves": [
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Electro Ball"
+        ],
+        [
+          8,
+          "Thunder Wave"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Confuse Ray"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          24,
+          "Charge"
+        ],
+        [
+          28,
+          "Discharge"
+        ],
+        [
+          32,
+          "Aqua Ring"
+        ],
+        [
+          36,
+          "Flail"
+        ],
+        [
+          40,
+          "Take Down"
+        ],
+        [
+          44,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Soak"
+        ]
+      ]
+    }
+  ]
+}

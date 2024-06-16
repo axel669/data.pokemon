@@ -1,0 +1,142 @@
+{
+  "name": "Milcery",
+  "national": "0868",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cream Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Sweet Veil"
+        ],
+        "hidden": "Aroma Veil"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 40,
+        "def": 40,
+        "satk": 50,
+        "sdef": 61,
+        "spd": 34
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Aromatic Mist"
+        ],
+        [
+          5,
+          "Sweet Kiss"
+        ],
+        [
+          10,
+          "Sweet Scent"
+        ],
+        [
+          15,
+          "Draining Kiss"
+        ],
+        [
+          20,
+          "Charm"
+        ],
+        [
+          25,
+          "Attract"
+        ],
+        [
+          30,
+          "Acid Armor"
+        ],
+        [
+          35,
+          "Dazzling Gleam"
+        ],
+        [
+          40,
+          "Recover"
+        ],
+        [
+          45,
+          "Misty Terrain"
+        ],
+        [
+          50,
+          "Entrainment"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Baby-Doll Eyes"
+        ]
+      ]
+    }
+  ]
+}

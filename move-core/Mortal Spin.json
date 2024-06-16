@@ -1,0 +1,8 @@
+{
+  "name": "Mortal Spin",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 100,
+  "desc": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons opposing Pokémon."
+}

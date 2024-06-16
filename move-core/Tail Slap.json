@@ -1,0 +1,8 @@
+{
+  "name": "Tail Slap",
+  "power": 25,
+  "accuracy": 85,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks by striking the target with its hard tail. This move hits two to five times in a row."
+}

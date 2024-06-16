@@ -1,0 +1,303 @@
+{
+  "name": "Torkoal",
+  "national": "0324",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Coal Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 80.4,
+        "imperial": 177.3
+      },
+      "ability": {
+        "normal": [
+          "White Smoke",
+          "Drought"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 140,
+        "satk": 85,
+        "sdef": 70,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          4,
+          "Withdraw"
+        ],
+        [
+          8,
+          "Rapid Spin"
+        ],
+        [
+          12,
+          "Smokescreen"
+        ],
+        [
+          16,
+          "Clear Smog"
+        ],
+        [
+          20,
+          "Flame Wheel"
+        ],
+        [
+          24,
+          "Protect"
+        ],
+        [
+          28,
+          "Lava Plume"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          44,
+          "Curse"
+        ],
+        [
+          48,
+          "Heat Wave"
+        ],
+        [
+          52,
+          "Amnesia"
+        ],
+        [
+          56,
+          "Inferno"
+        ],
+        [
+          60,
+          "Shell Smash"
+        ],
+        [
+          64,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ]
+      ]
+    }
+  ]
+}

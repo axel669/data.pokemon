@@ -1,0 +1,266 @@
+{
+  "name": "Tepig",
+  "national": "0498",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Pig Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 9.9,
+        "imperial": 21.8
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Thick Fat"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 63,
+        "def": 45,
+        "satk": 45,
+        "sdef": 45,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          3,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Ember"
+        ],
+        [
+          9,
+          "Endure"
+        ],
+        [
+          13,
+          "Defense Curl"
+        ],
+        [
+          15,
+          "Flame Charge"
+        ],
+        [
+          19,
+          "Smog"
+        ],
+        [
+          21,
+          "Rollout"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          27,
+          "Heat Crash"
+        ],
+        [
+          31,
+          "Assurance"
+        ],
+        [
+          33,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Head Smash"
+        ],
+        [
+          39,
+          "Roar"
+        ],
+        [
+          43,
+          "Flare Blitz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ]
+      ]
+    }
+  ]
+}

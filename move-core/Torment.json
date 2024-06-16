@@ -1,0 +1,8 @@
+{
+  "name": "Torment",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+}

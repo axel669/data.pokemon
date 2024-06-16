@@ -1,0 +1,250 @@
+{
+  "name": "Mareep",
+  "national": "0179",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wool Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 7.8,
+        "imperial": 17.2
+      },
+      "ability": {
+        "normal": [
+          "Static"
+        ],
+        "hidden": "Plus"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 40,
+        "satk": 65,
+        "sdef": 45,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          4,
+          "Thunder Wave"
+        ],
+        [
+          8,
+          "Thunder Shock"
+        ],
+        [
+          11,
+          "Cotton Spore"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          18,
+          "Take Down"
+        ],
+        [
+          22,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Confuse Ray"
+        ],
+        [
+          29,
+          "Power Gem"
+        ],
+        [
+          32,
+          "Discharge"
+        ],
+        [
+          36,
+          "Cotton Guard"
+        ],
+        [
+          39,
+          "Dazzling Gleam"
+        ],
+        [
+          43,
+          "Light Screen"
+        ],
+        [
+          46,
+          "Thunder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Agility"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "After You"
+        ],
+        [
+          "egg",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Eerie Impulse"
+        ],
+        [
+          "egg",
+          "Electric Terrain"
+        ]
+      ]
+    }
+  ]
+}

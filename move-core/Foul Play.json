@@ -1,0 +1,8 @@
+{
+  "name": "Foul Play",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts."
+}

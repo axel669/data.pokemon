@@ -1,0 +1,8 @@
+{
+  "name": "Play Nice",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+}

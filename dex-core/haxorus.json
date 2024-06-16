@@ -1,0 +1,343 @@
+{
+  "name": "Haxorus",
+  "national": "0612",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Axe Jaw Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 105.5,
+        "imperial": 232.6
+      },
+      "ability": {
+        "normal": [
+          "Rivalry",
+          "Mold Breaker"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 76,
+        "atk": 147,
+        "def": 90,
+        "satk": 60,
+        "sdef": 70,
+        "spd": 97
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "False Swipe"
+        ],
+        [
+          9,
+          "Assurance"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Slash"
+        ],
+        [
+          18,
+          "Dragon Claw"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          27,
+          "Dragon Dance"
+        ],
+        [
+          30,
+          "Breaking Swipe"
+        ],
+        [
+          33,
+          "Focus Energy"
+        ],
+        [
+          36,
+          "Dragon Pulse"
+        ],
+        [
+          41,
+          "Swords Dance"
+        ],
+        [
+          46,
+          "Outrage"
+        ],
+        [
+          53,
+          "Guillotine"
+        ],
+        [
+          60,
+          "Giga Impact"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Iron Tail"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ]
+      ]
+    }
+  ]
+}

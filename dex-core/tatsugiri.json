@@ -1,0 +1,602 @@
+{
+  "name": "Tatsugiri",
+  "national": "0978",
+  "forms": [
+    {
+      "name": "Curly Form",
+      "species": "Mimicry Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [
+          "Commander"
+        ],
+        "hidden": "Storm Drain"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 50,
+        "def": 60,
+        "satk": 120,
+        "sdef": 95,
+        "spd": 82
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          6,
+          "Harden"
+        ],
+        [
+          12,
+          "Helping Hand"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          23,
+          "Soak"
+        ],
+        [
+          28,
+          "Taunt"
+        ],
+        [
+          34,
+          "Memento"
+        ],
+        [
+          39,
+          "Muddy Water"
+        ],
+        [
+          43,
+          "Nasty Plot"
+        ],
+        [
+          47,
+          "Mirror Coat"
+        ],
+        [
+          52,
+          "Dragon Pulse"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ]
+      ]
+    },
+    {
+      "name": "Droopy Form",
+      "species": "Mimicry Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 50,
+        "def": 60,
+        "satk": 120,
+        "sdef": 95,
+        "spd": 82
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          6,
+          "Harden"
+        ],
+        [
+          12,
+          "Helping Hand"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          23,
+          "Soak"
+        ],
+        [
+          28,
+          "Taunt"
+        ],
+        [
+          34,
+          "Memento"
+        ],
+        [
+          39,
+          "Muddy Water"
+        ],
+        [
+          43,
+          "Nasty Plot"
+        ],
+        [
+          47,
+          "Mirror Coat"
+        ],
+        [
+          52,
+          "Dragon Pulse"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ]
+      ]
+    },
+    {
+      "name": "Stretchy Form",
+      "species": "Mimicry Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 50,
+        "def": 60,
+        "satk": 120,
+        "sdef": 95,
+        "spd": 82
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          6,
+          "Harden"
+        ],
+        [
+          12,
+          "Helping Hand"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          23,
+          "Soak"
+        ],
+        [
+          28,
+          "Taunt"
+        ],
+        [
+          34,
+          "Memento"
+        ],
+        [
+          39,
+          "Muddy Water"
+        ],
+        [
+          43,
+          "Nasty Plot"
+        ],
+        [
+          47,
+          "Mirror Coat"
+        ],
+        [
+          52,
+          "Dragon Pulse"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ]
+      ]
+    }
+  ]
+}

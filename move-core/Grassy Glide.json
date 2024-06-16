@@ -1,0 +1,8 @@
+{
+  "name": "Grassy Glide",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain."
+}

@@ -1,0 +1,255 @@
+{
+  "name": "Magneton",
+  "national": "0082",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Magnet Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 60,
+        "imperial": 132.3
+      },
+      "ability": {
+        "normal": [
+          "Magnet Pull",
+          "Sturdy"
+        ],
+        "hidden": "Analytic"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 60,
+        "def": 95,
+        "satk": 120,
+        "sdef": 70,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          12,
+          "Electro Ball"
+        ],
+        [
+          16,
+          "Gyro Ball"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Magnet Rise"
+        ],
+        [
+          34,
+          "Flash Cannon"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          46,
+          "Metal Sound"
+        ],
+        [
+          52,
+          "Light Screen"
+        ],
+        [
+          58,
+          "Lock-On"
+        ],
+        [
+          64,
+          "Zap Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Electroweb"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "name": "Scrafty",
+  "national": "0560",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Hoodlum Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 30,
+        "imperial": 66.1
+      },
+      "ability": {
+        "normal": [
+          "Shed Skin",
+          "Moxie"
+        ],
+        "hidden": "Intimidate"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 90,
+        "def": 115,
+        "satk": 45,
+        "sdef": 115,
+        "spd": 58
+      },
+      "moves": [
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Low Kick"
+        ],
+        [
+          null,
+          "Payback"
+        ],
+        [
+          12,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Facade"
+        ],
+        [
+          20,
+          "Torment"
+        ],
+        [
+          24,
+          "Beat Up"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Brick Break"
+        ],
+        [
+          36,
+          "Swagger"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          48,
+          "High Jump Kick"
+        ],
+        [
+          54,
+          "Focus Punch"
+        ],
+        [
+          60,
+          "Head Smash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

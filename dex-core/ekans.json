@@ -1,0 +1,299 @@
+{
+  "name": "Ekans",
+  "national": "0023",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Snake Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 6.9,
+        "imperial": 15.2
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Shed Skin"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 60,
+        "def": 44,
+        "satk": 40,
+        "sdef": 54,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          4,
+          "Poison Sting"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Glare"
+        ],
+        [
+          17,
+          "Screech"
+        ],
+        [
+          20,
+          "Acid"
+        ],
+        [
+          25,
+          "Swallow"
+        ],
+        [
+          25,
+          "Stockpile"
+        ],
+        [
+          25,
+          "Spit Up"
+        ],
+        [
+          28,
+          "Acid Spray"
+        ],
+        [
+          33,
+          "Sludge Bomb"
+        ],
+        [
+          36,
+          "Gastro Acid"
+        ],
+        [
+          38,
+          "Belch"
+        ],
+        [
+          41,
+          "Haze"
+        ],
+        [
+          44,
+          "Coil"
+        ],
+        [
+          49,
+          "Gunk Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Scary Face"
+        ],
+        [
+          "egg",
+          "Poison Fang"
+        ],
+        [
+          "egg",
+          "Poison Tail"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

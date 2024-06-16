@@ -1,0 +1,8 @@
+{
+  "name": "Overdrive",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration."
+}

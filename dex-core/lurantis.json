@@ -1,0 +1,262 @@
+{
+  "name": "Lurantis",
+  "national": "0754",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bloom Sickle Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 18.5,
+        "imperial": 40.8
+      },
+      "ability": {
+        "normal": [
+          "Leaf Guard"
+        ],
+        "hidden": "Contrary"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 105,
+        "def": 90,
+        "satk": 80,
+        "sdef": 90,
+        "spd": 45
+      },
+      "moves": [
+        [
+          "evo",
+          "Petal Blizzard"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Solar Beam"
+        ],
+        [
+          null,
+          "Fury Cutter"
+        ],
+        [
+          null,
+          "Ingrain"
+        ],
+        [
+          null,
+          "Night Slash"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Sweet Scent"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          30,
+          "X-Scissor"
+        ],
+        [
+          37,
+          "Synthesis"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ],
+        [
+          51,
+          "Sunny Day"
+        ],
+        [
+          63,
+          "Solar Blade"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

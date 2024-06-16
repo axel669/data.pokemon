@@ -1,0 +1,90 @@
+{
+  "name": "Spewpa",
+  "national": "0665",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scatterdust Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8.4,
+        "imperial": 18.5
+      },
+      "ability": {
+        "normal": [
+          "Shed Skin"
+        ],
+        "hidden": "Friend Guard"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 22,
+        "def": 60,
+        "satk": 27,
+        "sdef": 30,
+        "spd": 29
+      },
+      "moves": [
+        [
+          "evo",
+          "Protect"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ],
+        [
+          "pre",
+          "String Shot"
+        ],
+        [
+          "pre",
+          "Stun Spore"
+        ],
+        [
+          "pre",
+          "Bug Bite"
+        ]
+      ]
+    }
+  ]
+}

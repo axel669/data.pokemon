@@ -1,0 +1,295 @@
+{
+  "name": "Appletun",
+  "national": "0842",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Apple Nectar Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 13,
+        "imperial": 28.7
+      },
+      "ability": {
+        "normal": [
+          "Ripen",
+          "Gluttony"
+        ],
+        "hidden": "Thick Fat"
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 85,
+        "def": 80,
+        "satk": 100,
+        "sdef": 80,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Headbutt"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Recycle"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          4,
+          "Curse"
+        ],
+        [
+          8,
+          "Stomp"
+        ],
+        [
+          12,
+          "Leech Seed"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Bullet Seed"
+        ],
+        [
+          24,
+          "Recover"
+        ],
+        [
+          28,
+          "Apple Acid"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          44,
+          "Energy Ball"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ]
+      ]
+    }
+  ]
+}

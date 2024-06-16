@@ -1,0 +1,318 @@
+{
+  "name": "Dusclops",
+  "national": "0356",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Beckon Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 30.6,
+        "imperial": 67.5
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Frisk"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 70,
+        "def": 130,
+        "satk": 60,
+        "sdef": 130,
+        "spd": 25
+      },
+      "moves": [
+        [
+          "evo",
+          "Shadow Punch"
+        ],
+        [
+          null,
+          "Fire Punch"
+        ],
+        [
+          null,
+          "Ice Punch"
+        ],
+        [
+          null,
+          "Thunder Punch"
+        ],
+        [
+          null,
+          "Bind"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Disable"
+        ],
+        [
+          null,
+          "Shadow Sneak"
+        ],
+        [
+          null,
+          "Gravity"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          12,
+          "Confuse Ray"
+        ],
+        [
+          16,
+          "Night Shade"
+        ],
+        [
+          20,
+          "Payback"
+        ],
+        [
+          24,
+          "Will-O-Wisp"
+        ],
+        [
+          28,
+          "Mean Look"
+        ],
+        [
+          32,
+          "Hex"
+        ],
+        [
+          36,
+          "Curse"
+        ],
+        [
+          42,
+          "Shadow Ball"
+        ],
+        [
+          48,
+          "Future Sight"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Memento"
+        ]
+      ]
+    }
+  ]
+}

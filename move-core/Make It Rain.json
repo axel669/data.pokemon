@@ -1,0 +1,8 @@
+{
+  "name": "Make It Rain",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle."
+}

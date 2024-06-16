@@ -1,0 +1,314 @@
+{
+  "name": "Ceruledge",
+  "national": "0937",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Blades Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 62,
+        "imperial": 136.7
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire"
+        ],
+        "hidden": "Weak Armor"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 80,
+        "satk": 60,
+        "sdef": 100,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Shadow Claw"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          8,
+          "Clear Smog"
+        ],
+        [
+          12,
+          "Fire Spin"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Night Shade"
+        ],
+        [
+          24,
+          "Flame Charge"
+        ],
+        [
+          28,
+          "Incinerate"
+        ],
+        [
+          32,
+          "Lava Plume"
+        ],
+        [
+          37,
+          "Swords Dance"
+        ],
+        [
+          42,
+          "Ally Switch"
+        ],
+        [
+          48,
+          "Bitter Blade"
+        ],
+        [
+          56,
+          "Psycho Cut"
+        ],
+        [
+          62,
+          "Flare Blitz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "rem",
+          "Night Slash"
+        ],
+        [
+          "rem",
+          "Shadow Sneak"
+        ],
+        [
+          "rem",
+          "Quick Guard"
+        ],
+        [
+          "rem",
+          "Solar Blade"
+        ],
+        [
+          "pre",
+          "Celebrate"
+        ]
+      ]
+    }
+  ]
+}

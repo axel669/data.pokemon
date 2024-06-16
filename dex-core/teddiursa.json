@@ -1,0 +1,327 @@
+{
+  "name": "Teddiursa",
+  "national": "0216",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Little Bear Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 8.8,
+        "imperial": 19.4
+      },
+      "ability": {
+        "normal": [
+          "Pickup",
+          "Quick Feet"
+        ],
+        "hidden": "Honey Gather"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 80,
+        "def": 50,
+        "satk": 50,
+        "sdef": 50,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Lick"
+        ],
+        [
+          null,
+          "Covet"
+        ],
+        [
+          null,
+          "Fling"
+        ],
+        [
+          null,
+          "Baby-Doll Eyes"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          13,
+          "Payback"
+        ],
+        [
+          17,
+          "Sweet Scent"
+        ],
+        [
+          22,
+          "Slash"
+        ],
+        [
+          25,
+          "Play Nice"
+        ],
+        [
+          29,
+          "Play Rough"
+        ],
+        [
+          33,
+          "Charm"
+        ],
+        [
+          37,
+          "Rest"
+        ],
+        [
+          37,
+          "Snore"
+        ],
+        [
+          41,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Seismic Toss"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Fury Cutter"
+        ],
+        [
+          "egg",
+          "Metal Claw"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Crunch"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Fake Tears"
+        ],
+        [
+          "egg",
+          "Close Combat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "name": "Glalie",
+  "national": "0362",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Face Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 256.5,
+        "imperial": 565.5
+      },
+      "ability": {
+        "normal": [
+          "Inner Focus",
+          "Ice Body"
+        ],
+        "hidden": "Moody"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 80,
+        "satk": 80,
+        "sdef": 80,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Freeze-Dry"
+        ],
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Sheer Cold"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Protect"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Frost Breath"
+        ],
+        [
+          35,
+          "Bite"
+        ],
+        [
+          40,
+          "Ice Fang"
+        ],
+        [
+          47,
+          "Snowscape"
+        ],
+        [
+          54,
+          "Weather Ball"
+        ],
+        [
+          61,
+          "Crunch"
+        ],
+        [
+          68,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Face Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 350.2,
+        "imperial": 772.1
+      },
+      "ability": {
+        "normal": [
+          "Refrigerate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 80,
+        "satk": 120,
+        "sdef": 80,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Freeze-Dry"
+        ],
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Sheer Cold"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Protect"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Frost Breath"
+        ],
+        [
+          35,
+          "Bite"
+        ],
+        [
+          40,
+          "Ice Fang"
+        ],
+        [
+          47,
+          "Snowscape"
+        ],
+        [
+          54,
+          "Weather Ball"
+        ],
+        [
+          61,
+          "Crunch"
+        ],
+        [
+          68,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    }
+  ]
+}

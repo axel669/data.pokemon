@@ -1,0 +1,274 @@
+{
+  "name": "Carbink",
+  "national": "0703",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Jewel Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 5.7,
+        "imperial": 12.6
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Sturdy"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 150,
+        "satk": 50,
+        "sdef": 150,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          5,
+          "Guard Split"
+        ],
+        [
+          10,
+          "Smack Down"
+        ],
+        [
+          15,
+          "Flail"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Rock Polish"
+        ],
+        [
+          30,
+          "Light Screen"
+        ],
+        [
+          35,
+          "Rock Slide"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          45,
+          "Power Gem"
+        ],
+        [
+          50,
+          "Stealth Rock"
+        ],
+        [
+          55,
+          "Moonblast"
+        ],
+        [
+          60,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    }
+  ]
+}

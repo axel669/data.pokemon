@@ -1,0 +1,8 @@
+{
+  "name": "Fusion Bolt",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user throws down a giant lightning bolt. This move's power is boosted when influenced by an enormous flame."
+}

@@ -1,0 +1,342 @@
+{
+  "name": "Rillaboom",
+  "national": "0812",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Drummer Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 90,
+        "imperial": 198.4
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Grassy Surge"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 90,
+        "satk": 60,
+        "sdef": 70,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Drum Beating"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Taunt"
+        ],
+        [
+          null,
+          "Double Hit"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Grassy Terrain"
+        ],
+        [
+          null,
+          "Branch Poke"
+        ],
+        [
+          12,
+          "Razor Leaf"
+        ],
+        [
+          19,
+          "Screech"
+        ],
+        [
+          24,
+          "Knock Off"
+        ],
+        [
+          30,
+          "Slam"
+        ],
+        [
+          38,
+          "Uproar"
+        ],
+        [
+          46,
+          "Wood Hammer"
+        ],
+        [
+          54,
+          "Endeavor"
+        ],
+        [
+          62,
+          "Boomburst"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM155",
+          "Frenzy Plant"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Strength"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Growth"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Hammer Arm"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ]
+      ]
+    }
+  ]
+}

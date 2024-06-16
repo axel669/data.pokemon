@@ -1,0 +1,270 @@
+{
+  "name": "Dachsbun",
+  "national": "0927",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dog Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 14.9,
+        "imperial": 32.8
+      },
+      "ability": {
+        "normal": [
+          "Well-Baked Body"
+        ],
+        "hidden": "Aroma Veil"
+      },
+      "stats": {
+        "hp": 57,
+        "atk": 80,
+        "def": 115,
+        "satk": 50,
+        "sdef": 80,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          3,
+          "Lick"
+        ],
+        [
+          6,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Covet"
+        ],
+        [
+          11,
+          "Bite"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          18,
+          "Play Rough"
+        ],
+        [
+          22,
+          "Work Up"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Roar"
+        ],
+        [
+          38,
+          "Double-Edge"
+        ],
+        [
+          42,
+          "Charm"
+        ],
+        [
+          47,
+          "Crunch"
+        ],
+        [
+          53,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ]
+      ]
+    }
+  ]
+}

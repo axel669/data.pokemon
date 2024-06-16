@@ -1,0 +1,722 @@
+{
+  "name": "Exeggutor",
+  "national": "0103",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Coconut Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 120,
+        "imperial": 264.6
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Harvest"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 95,
+        "def": 85,
+        "satk": 125,
+        "sdef": 75,
+        "spd": 55
+      },
+      "moves": [
+        [
+          "evo",
+          "Stomp"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Seed Bomb"
+        ],
+        [
+          null,
+          "Worry Seed"
+        ],
+        [
+          null,
+          "Bullet Seed"
+        ],
+        [
+          null,
+          "Extrasensory"
+        ],
+        [
+          null,
+          "Uproar"
+        ],
+        [
+          null,
+          "Synthesis"
+        ],
+        [
+          null,
+          "Psyshock"
+        ],
+        [
+          null,
+          "Reflect"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Solar Beam"
+        ],
+        [
+          null,
+          "Leech Seed"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Wood Hammer"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Stun Spore"
+        ],
+        [
+          "egg",
+          "Sleep Powder"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Moonlight"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "rem",
+          "Growth"
+        ]
+      ]
+    },
+    {
+      "name": "Alolan",
+      "species": "Coconut Pokémon",
+      "height": {
+        "metric": 10.9,
+        "imperial": 429
+      },
+      "weight": {
+        "metric": 415.6,
+        "imperial": 916.2
+      },
+      "ability": {
+        "normal": [
+          "Frisk"
+        ],
+        "hidden": "Harvest"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 105,
+        "def": 85,
+        "satk": 125,
+        "sdef": 75,
+        "spd": 45
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Hammer"
+        ],
+        [
+          null,
+          "Wood Hammer"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Seed Bomb"
+        ],
+        [
+          null,
+          "Worry Seed"
+        ],
+        [
+          null,
+          "Bullet Seed"
+        ],
+        [
+          null,
+          "Extrasensory"
+        ],
+        [
+          null,
+          "Uproar"
+        ],
+        [
+          null,
+          "Synthesis"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          null,
+          "Reflect"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Solar Beam"
+        ],
+        [
+          null,
+          "Leech Seed"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Psyshock"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Stun Spore"
+        ],
+        [
+          "egg",
+          "Sleep Powder"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Moonlight"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "rem",
+          "Growth"
+        ]
+      ]
+    }
+  ]
+}

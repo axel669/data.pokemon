@@ -1,0 +1,351 @@
+{
+  "name": "Croagunk",
+  "national": "0453",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Toxic Mouth Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 23,
+        "imperial": 50.7
+      },
+      "ability": {
+        "normal": [
+          "Anticipation",
+          "Dry Skin"
+        ],
+        "hidden": "Poison Touch"
+      },
+      "stats": {
+        "hp": 48,
+        "atk": 61,
+        "def": 40,
+        "satk": 61,
+        "sdef": 40,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          4,
+          "Astonish"
+        ],
+        [
+          8,
+          "Taunt"
+        ],
+        [
+          12,
+          "Flatter"
+        ],
+        [
+          16,
+          "Low Kick"
+        ],
+        [
+          20,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Swagger"
+        ],
+        [
+          32,
+          "Poison Jab"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Nasty Plot"
+        ],
+        [
+          44,
+          "Sludge Bomb"
+        ],
+        [
+          48,
+          "Belch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Headbutt"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Vacuum Wave"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

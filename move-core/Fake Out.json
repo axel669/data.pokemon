@@ -1,0 +1,8 @@
+{
+  "name": "Fake Out",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": 100,
+  "desc": "This attack hits first and makes the target flinch. It works only on the first turn each time the user enters battle."
+}

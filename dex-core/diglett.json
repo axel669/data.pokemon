@@ -1,0 +1,544 @@
+{
+  "name": "Diglett",
+  "national": "0050",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mole Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.8,
+        "imperial": 1.8
+      },
+      "ability": {
+        "normal": [
+          "Sand Veil",
+          "Arena Trap"
+        ],
+        "hidden": "Sand Force"
+      },
+      "stats": {
+        "hp": 10,
+        "atk": 55,
+        "def": 25,
+        "satk": 35,
+        "sdef": 45,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          12,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Sucker Punch"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          28,
+          "Sandstorm"
+        ],
+        [
+          32,
+          "Dig"
+        ],
+        [
+          36,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          44,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Headbutt"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Hone Claws"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ]
+      ]
+    },
+    {
+      "name": "Alolan",
+      "species": "Mole Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Sand Veil",
+          "Tangling Hair"
+        ],
+        "hidden": "Sand Force"
+      },
+      "stats": {
+        "hp": 10,
+        "atk": 55,
+        "def": 30,
+        "satk": 35,
+        "sdef": 45,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          12,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Sucker Punch"
+        ],
+        [
+          24,
+          "Iron Head"
+        ],
+        [
+          28,
+          "Sandstorm"
+        ],
+        [
+          32,
+          "Dig"
+        ],
+        [
+          36,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          44,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Headbutt"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Hone Claws"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

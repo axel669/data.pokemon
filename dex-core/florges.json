@@ -1,0 +1,278 @@
+{
+  "name": "Florges",
+  "national": "0671",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Garden Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 10,
+        "imperial": 22
+      },
+      "ability": {
+        "normal": [
+          "Flower Veil"
+        ],
+        "hidden": "Symbiosis"
+      },
+      "stats": {
+        "hp": 78,
+        "atk": 65,
+        "def": 68,
+        "satk": 112,
+        "sdef": 154,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Solar Beam"
+        ],
+        [
+          null,
+          "Petal Dance"
+        ],
+        [
+          null,
+          "Safeguard"
+        ],
+        [
+          null,
+          "Synthesis"
+        ],
+        [
+          null,
+          "Wish"
+        ],
+        [
+          null,
+          "Magical Leaf"
+        ],
+        [
+          null,
+          "Grass Knot"
+        ],
+        [
+          null,
+          "Petal Blizzard"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          null,
+          "Grassy Terrain"
+        ],
+        [
+          null,
+          "Misty Terrain"
+        ],
+        [
+          5,
+          "Moonblast"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Tearful Look"
+        ],
+        [
+          "pre",
+          "Vine Whip"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ],
+        [
+          "pre",
+          "Fairy Wind"
+        ],
+        [
+          "pre",
+          "Razor Leaf"
+        ],
+        [
+          "pre",
+          "Celebrate"
+        ]
+      ]
+    }
+  ]
+}

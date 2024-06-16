@@ -1,0 +1,39 @@
+{
+  "name": "Smeargle",
+  "national": "0235",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Painter Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 58,
+        "imperial": 127.9
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo",
+          "Technician"
+        ],
+        "hidden": "Moody"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 20,
+        "def": 35,
+        "satk": 20,
+        "sdef": 45,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Sketch"
+        ]
+      ]
+    }
+  ]
+}

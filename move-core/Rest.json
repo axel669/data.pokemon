@@ -1,0 +1,8 @@
+{
+  "name": "Rest",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user goes to sleep for two turns. This fully restores the user's HP and cures any status conditions."
+}

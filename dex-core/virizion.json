@@ -1,0 +1,290 @@
+{
+  "name": "Virizion",
+  "national": "0640",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Grassland Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 200,
+        "imperial": 440.9
+      },
+      "ability": {
+        "normal": [
+          "Justified"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 91,
+        "atk": 90,
+        "def": 72,
+        "satk": 90,
+        "sdef": 129,
+        "spd": 108
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Work Up"
+        ],
+        [
+          7,
+          "Magical Leaf"
+        ],
+        [
+          14,
+          "Quick Guard"
+        ],
+        [
+          21,
+          "Double Kick"
+        ],
+        [
+          28,
+          "Retaliate"
+        ],
+        [
+          35,
+          "Giga Drain"
+        ],
+        [
+          42,
+          "Synthesis"
+        ],
+        [
+          49,
+          "Sacred Sword"
+        ],
+        [
+          56,
+          "Swords Dance"
+        ],
+        [
+          63,
+          "Leaf Blade"
+        ],
+        [
+          70,
+          "Close Combat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "rem",
+          "Take Down"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Psychic Noise",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": 100,
+  "desc": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items."
+}

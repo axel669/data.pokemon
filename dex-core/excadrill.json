@@ -1,0 +1,291 @@
+{
+  "name": "Excadrill",
+  "national": "0530",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Subterrene Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 40.4,
+        "imperial": 89.1
+      },
+      "ability": {
+        "normal": [
+          "Sand Rush",
+          "Sand Force"
+        ],
+        "hidden": "Mold Breaker"
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 135,
+        "def": 60,
+        "satk": 50,
+        "sdef": 65,
+        "spd": 88
+      },
+      "moves": [
+        [
+          "evo",
+          "Horn Drill"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Hone Claws"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          16,
+          "Metal Claw"
+        ],
+        [
+          20,
+          "Sandstorm"
+        ],
+        [
+          24,
+          "Crush Claw"
+        ],
+        [
+          28,
+          "Rock Slide"
+        ],
+        [
+          34,
+          "Dig"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          46,
+          "Drill Run"
+        ],
+        [
+          52,
+          "Earthquake"
+        ],
+        [
+          58,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Confusion",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": 10,
+  "desc": "The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target."
+}

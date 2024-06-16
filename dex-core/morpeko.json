@@ -1,0 +1,638 @@
+{
+  "name": "Morpeko",
+  "national": "0877",
+  "forms": [
+    {
+      "name": "Full Belly Mode",
+      "species": "Two-Sided Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 3,
+        "imperial": 6.6
+      },
+      "ability": {
+        "normal": [
+          "Hunger Switch"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 58,
+        "atk": 95,
+        "def": 58,
+        "satk": 70,
+        "sdef": 58,
+        "spd": 97
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Power Trip"
+        ],
+        [
+          15,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flatter"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Spark"
+        ],
+        [
+          35,
+          "Torment"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          45,
+          "Bullet Seed"
+        ],
+        [
+          50,
+          "Crunch"
+        ],
+        [
+          55,
+          "Aura Wheel"
+        ],
+        [
+          60,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Super Fang"
+        ],
+        [
+          "egg",
+          "Swagger"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Charge"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Quash"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    },
+    {
+      "name": "Hangry Mode",
+      "species": "Two-Sided Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 3,
+        "imperial": 6.6
+      },
+      "ability": {
+        "normal": [
+          "Hunger Switch"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 58,
+        "atk": 95,
+        "def": 58,
+        "satk": 70,
+        "sdef": 58,
+        "spd": 97
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Power Trip"
+        ],
+        [
+          15,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flatter"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Spark"
+        ],
+        [
+          35,
+          "Torment"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          45,
+          "Bullet Seed"
+        ],
+        [
+          50,
+          "Crunch"
+        ],
+        [
+          55,
+          "Aura Wheel"
+        ],
+        [
+          60,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Super Fang"
+        ],
+        [
+          "egg",
+          "Swagger"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Charge"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Quash"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

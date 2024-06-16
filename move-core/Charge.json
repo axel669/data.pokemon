@@ -1,0 +1,8 @@
+{
+  "name": "Charge",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Topsy-Turvy",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were."
+}

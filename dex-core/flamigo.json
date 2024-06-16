@@ -1,0 +1,267 @@
+{
+  "name": "Flamigo",
+  "national": "0973",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Synchronize Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 37,
+        "imperial": 81.6
+      },
+      "ability": {
+        "normal": [
+          "Scrappy",
+          "Tangled Feet"
+        ],
+        "hidden": "Costar"
+      },
+      "stats": {
+        "hp": 82,
+        "atk": 115,
+        "def": 74,
+        "satk": 75,
+        "sdef": 64,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          5,
+          "Double Kick"
+        ],
+        [
+          9,
+          "Detect"
+        ],
+        [
+          12,
+          "Wing Attack"
+        ],
+        [
+          15,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Low Kick"
+        ],
+        [
+          21,
+          "Feint"
+        ],
+        [
+          27,
+          "Payback"
+        ],
+        [
+          31,
+          "Roost"
+        ],
+        [
+          35,
+          "Air Slash"
+        ],
+        [
+          39,
+          "Mega Kick"
+        ],
+        [
+          44,
+          "Wide Guard"
+        ],
+        [
+          48,
+          "Throat Chop"
+        ],
+        [
+          54,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

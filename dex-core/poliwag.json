@@ -1,0 +1,251 @@
+{
+  "name": "Poliwag",
+  "national": "0060",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tadpole Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 12.4,
+        "imperial": 27.3
+      },
+      "ability": {
+        "normal": [
+          "Water Absorb",
+          "Damp"
+        ],
+        "hidden": "Swift Swim"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "satk": 40,
+        "sdef": 40,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          6,
+          "Pound"
+        ],
+        [
+          12,
+          "Mud Shot"
+        ],
+        [
+          18,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Rain Dance"
+        ],
+        [
+          30,
+          "Body Slam"
+        ],
+        [
+          36,
+          "Earth Power"
+        ],
+        [
+          42,
+          "Hydro Pump"
+        ],
+        [
+          48,
+          "Belly Drum"
+        ],
+        [
+          54,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Splash"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ]
+      ]
+    }
+  ]
+}

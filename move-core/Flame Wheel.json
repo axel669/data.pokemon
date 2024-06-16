@@ -1,0 +1,8 @@
+{
+  "name": "Flame Wheel",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": 10,
+  "desc": "The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn."
+}

@@ -1,0 +1,251 @@
+{
+  "name": "Naclstack",
+  "national": "0933",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Salt Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 105,
+        "imperial": 231.5
+      },
+      "ability": {
+        "normal": [
+          "Purifying Salt",
+          "Sturdy"
+        ],
+        "hidden": "Clear Body"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 100,
+        "satk": 35,
+        "sdef": 65,
+        "spd": 35
+      },
+      "moves": [
+        [
+          "evo",
+          "Salt Cure"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          5,
+          "Rock Throw"
+        ],
+        [
+          7,
+          "Mud Shot"
+        ],
+        [
+          10,
+          "Smack Down"
+        ],
+        [
+          13,
+          "Rock Polish"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          38,
+          "Stealth Rock"
+        ],
+        [
+          41,
+          "Heavy Slam"
+        ],
+        [
+          45,
+          "Earthquake"
+        ],
+        [
+          51,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Power Gem"
+        ]
+      ]
+    }
+  ]
+}

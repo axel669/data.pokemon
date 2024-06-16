@@ -1,0 +1,279 @@
+{
+  "name": "Scovillain",
+  "national": "0952",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Spicy Pepper Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 15,
+        "imperial": 33.1
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Insomnia"
+        ],
+        "hidden": "Moody"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 108,
+        "def": 65,
+        "satk": 108,
+        "sdef": 65,
+        "spd": 75
+      },
+      "moves": [
+        [
+          "evo",
+          "Spicy Extract"
+        ],
+        [
+          "evo",
+          "Flamethrower"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          4,
+          "Bite"
+        ],
+        [
+          10,
+          "Growth"
+        ],
+        [
+          13,
+          "Razor Leaf"
+        ],
+        [
+          17,
+          "Sunny Day"
+        ],
+        [
+          21,
+          "Bullet Seed"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Zen Headbutt"
+        ],
+        [
+          33,
+          "Worry Seed"
+        ],
+        [
+          38,
+          "Crunch"
+        ],
+        [
+          44,
+          "Seed Bomb"
+        ],
+        [
+          48,
+          "Solar Beam"
+        ],
+        [
+          48,
+          "Overheat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ]
+      ]
+    }
+  ]
+}

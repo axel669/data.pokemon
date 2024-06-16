@@ -1,0 +1,203 @@
+{
+  "name": "Azurill",
+  "national": "0298",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Polka Dot Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 2,
+        "imperial": 4.4
+      },
+      "ability": {
+        "normal": [
+          "Thick Fat",
+          "Huge Power"
+        ],
+        "hidden": "Sap Sipper"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 20,
+        "def": 40,
+        "satk": 20,
+        "sdef": 40,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          3,
+          "Helping Hand"
+        ],
+        [
+          6,
+          "Bubble Beam"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          12,
+          "Slam"
+        ],
+        [
+          15,
+          "Bounce"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Sing"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Present"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Soak"
+        ]
+      ]
+    }
+  ]
+}

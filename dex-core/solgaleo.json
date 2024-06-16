@@ -1,0 +1,350 @@
+{
+  "name": "Solgaleo",
+  "national": "0791",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sunne Pokémon",
+      "height": {
+        "metric": 3.4,
+        "imperial": 134
+      },
+      "weight": {
+        "metric": 230,
+        "imperial": 507.1
+      },
+      "ability": {
+        "normal": [
+          "Full Metal Body"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 137,
+        "atk": 137,
+        "def": 107,
+        "satk": 113,
+        "sdef": 89,
+        "spd": 97
+      },
+      "moves": [
+        [
+          "evo",
+          "Sunsteel Strike"
+        ],
+        [
+          null,
+          "Teleport"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Cosmic Power"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          7,
+          "Iron Head"
+        ],
+        [
+          14,
+          "Metal Sound"
+        ],
+        [
+          21,
+          "Zen Headbutt"
+        ],
+        [
+          28,
+          "Flash Cannon"
+        ],
+        [
+          35,
+          "Morning Sun"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          49,
+          "Metal Burst"
+        ],
+        [
+          56,
+          "Wild Charge"
+        ],
+        [
+          63,
+          "Solar Beam"
+        ],
+        [
+          70,
+          "Flare Blitz"
+        ],
+        [
+          77,
+          "Wide Guard"
+        ],
+        [
+          84,
+          "Giga Impact"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "pre",
+          "Splash"
+        ]
+      ]
+    }
+  ]
+}

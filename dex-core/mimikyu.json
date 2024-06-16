@@ -1,0 +1,294 @@
+{
+  "name": "Mimikyu",
+  "national": "0778",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Disguise Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.7,
+        "imperial": 1.5
+      },
+      "ability": {
+        "normal": [
+          "Disguise"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 90,
+        "def": 80,
+        "satk": 50,
+        "sdef": 105,
+        "spd": 96
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Wood Hammer"
+        ],
+        [
+          6,
+          "Shadow Sneak"
+        ],
+        [
+          12,
+          "Double Team"
+        ],
+        [
+          18,
+          "Baby-Doll Eyes"
+        ],
+        [
+          24,
+          "Mimic"
+        ],
+        [
+          30,
+          "Hone Claws"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          42,
+          "Shadow Claw"
+        ],
+        [
+          48,
+          "Charm"
+        ],
+        [
+          54,
+          "Play Rough"
+        ],
+        [
+          60,
+          "Pain Split"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ]
+      ]
+    }
+  ]
+}

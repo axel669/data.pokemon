@@ -1,0 +1,294 @@
+{
+  "name": "Slither Wing",
+  "national": "0988",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 3.2,
+        "imperial": 126
+      },
+      "weight": {
+        "metric": 92,
+        "imperial": 202.8
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 135,
+        "def": 79,
+        "satk": 85,
+        "sdef": 105,
+        "spd": 81
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          7,
+          "Poison Powder"
+        ],
+        [
+          7,
+          "Stun Spore"
+        ],
+        [
+          14,
+          "Flame Charge"
+        ],
+        [
+          21,
+          "Stomp"
+        ],
+        [
+          28,
+          "Low Sweep"
+        ],
+        [
+          35,
+          "Morning Sun"
+        ],
+        [
+          42,
+          "Lunge"
+        ],
+        [
+          49,
+          "Superpower"
+        ],
+        [
+          56,
+          "Bulk Up"
+        ],
+        [
+          63,
+          "Dual Wingbeat"
+        ],
+        [
+          70,
+          "First Impression"
+        ],
+        [
+          77,
+          "Whirlwind"
+        ],
+        [
+          84,
+          "Leech Life"
+        ],
+        [
+          91,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "rem",
+          "Sunny Day"
+        ]
+      ]
+    }
+  ]
+}

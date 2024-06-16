@@ -1,0 +1,187 @@
+{
+  "name": "Chewtle",
+  "national": "0833",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Snapping Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Strong Jaw",
+          "Shell Armor"
+        ],
+        "hidden": "Swift Swim"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 64,
+        "def": 50,
+        "satk": 38,
+        "sdef": 38,
+        "spd": 44
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          14,
+          "Protect"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Counter"
+        ],
+        [
+          35,
+          "Jaw Lock"
+        ],
+        [
+          42,
+          "Liquidation"
+        ],
+        [
+          49,
+          "Body Slam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Gastro Acid"
+        ],
+        [
+          "egg",
+          "Shell Smash"
+        ],
+        [
+          "egg",
+          "Dragon Tail"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Sewaddle",
+  "national": "0540",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sewing Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.5,
+        "imperial": 5.5
+      },
+      "ability": {
+        "normal": [
+          "Swarm",
+          "Chlorophyll"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 53,
+        "def": 70,
+        "satk": 40,
+        "sdef": 60,
+        "spd": 42
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          8,
+          "Bug Bite"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          22,
+          "Struggle Bug"
+        ],
+        [
+          29,
+          "Endure"
+        ],
+        [
+          31,
+          "Sticky Web"
+        ],
+        [
+          36,
+          "Bug Buzz"
+        ],
+        [
+          43,
+          "Flail"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Snore"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

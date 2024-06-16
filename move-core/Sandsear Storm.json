@@ -1,0 +1,8 @@
+{
+  "name": "Sandsear Storm",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "effect": 20,
+  "desc": "The user attacks by wrapping opposing Pokémon in fierce winds and searingly hot sand. This may also leave them with a burn."
+}

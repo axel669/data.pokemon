@@ -1,0 +1,930 @@
+{
+  "name": "Kyurem",
+  "national": "0646",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Boundary Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 325,
+        "imperial": 716.5
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 125,
+        "atk": 130,
+        "def": 90,
+        "satk": 130,
+        "sdef": 90,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Freeze-Dry"
+        ],
+        [
+          8,
+          "Slash"
+        ],
+        [
+          16,
+          "Endeavor"
+        ],
+        [
+          24,
+          "Dragon Pulse"
+        ],
+        [
+          32,
+          "Ice Beam"
+        ],
+        [
+          40,
+          "Hyper Voice"
+        ],
+        [
+          48,
+          "Scary Face"
+        ],
+        [
+          56,
+          "Blizzard"
+        ],
+        [
+          64,
+          "Imprison"
+        ],
+        [
+          72,
+          "Outrage"
+        ],
+        [
+          80,
+          "Glaciate"
+        ],
+        [
+          88,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    },
+    {
+      "name": "White",
+      "species": "Boundary Pokémon",
+      "height": {
+        "metric": 3.6,
+        "imperial": 142
+      },
+      "weight": {
+        "metric": 325,
+        "imperial": 716.5
+      },
+      "ability": {
+        "normal": [
+          "Turboblaze"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 125,
+        "atk": 120,
+        "def": 90,
+        "satk": 170,
+        "sdef": 100,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Freeze-Dry"
+        ],
+        [
+          8,
+          "Slash"
+        ],
+        [
+          16,
+          "Endeavor"
+        ],
+        [
+          24,
+          "Dragon Pulse"
+        ],
+        [
+          32,
+          "Ice Beam"
+        ],
+        [
+          40,
+          "Hyper Voice"
+        ],
+        [
+          48,
+          "Fusion Flare"
+        ],
+        [
+          56,
+          "Blizzard"
+        ],
+        [
+          64,
+          "Imprison"
+        ],
+        [
+          72,
+          "Outrage"
+        ],
+        [
+          80,
+          "Ice Burn"
+        ],
+        [
+          88,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    },
+    {
+      "name": "Black",
+      "species": "Boundary Pokémon",
+      "height": {
+        "metric": 3.3,
+        "imperial": 130
+      },
+      "weight": {
+        "metric": 325,
+        "imperial": 716.5
+      },
+      "ability": {
+        "normal": [
+          "Teravolt"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 125,
+        "atk": 170,
+        "def": 100,
+        "satk": 120,
+        "sdef": 90,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Freeze-Dry"
+        ],
+        [
+          8,
+          "Slash"
+        ],
+        [
+          16,
+          "Endeavor"
+        ],
+        [
+          24,
+          "Dragon Pulse"
+        ],
+        [
+          32,
+          "Ice Beam"
+        ],
+        [
+          40,
+          "Hyper Voice"
+        ],
+        [
+          48,
+          "Fusion Bolt"
+        ],
+        [
+          56,
+          "Blizzard"
+        ],
+        [
+          64,
+          "Imprison"
+        ],
+        [
+          72,
+          "Outrage"
+        ],
+        [
+          80,
+          "Freeze Shock"
+        ],
+        [
+          88,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

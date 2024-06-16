@@ -1,0 +1,206 @@
+{
+  "name": "Regidrago",
+  "national": "0895",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dragon Orb Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 200,
+        "imperial": 440.9
+      },
+      "ability": {
+        "normal": [
+          "Dragon's Maw"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 200,
+        "atk": 100,
+        "def": 50,
+        "satk": 100,
+        "sdef": 50,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Vise Grip"
+        ],
+        [
+          null,
+          "Twister"
+        ],
+        [
+          6,
+          "Bite"
+        ],
+        [
+          12,
+          "Ancient Power"
+        ],
+        [
+          18,
+          "Dragon Breath"
+        ],
+        [
+          30,
+          "Crunch"
+        ],
+        [
+          36,
+          "Dragon Claw"
+        ],
+        [
+          42,
+          "Hammer Arm"
+        ],
+        [
+          48,
+          "Dragon Dance"
+        ],
+        [
+          54,
+          "Thrash"
+        ],
+        [
+          60,
+          "Focus Energy"
+        ],
+        [
+          66,
+          "Dragon Energy"
+        ],
+        [
+          72,
+          "Hyper Beam"
+        ],
+        [
+          78,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

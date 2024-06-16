@@ -1,0 +1,394 @@
+{
+  "name": "Donphan",
+  "national": "0232",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Armor Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 120,
+        "imperial": 264.6
+      },
+      "ability": {
+        "normal": [
+          "Sturdy"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 120,
+        "def": 120,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 50
+      },
+      "moves": [
+        [
+          "evo",
+          "Fury Attack"
+        ],
+        [
+          null,
+          "Horn Attack"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Thunder Fang"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Bulldoze"
+        ],
+        [
+          6,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          15,
+          "Assurance"
+        ],
+        [
+          19,
+          "Knock Off"
+        ],
+        [
+          24,
+          "Slam"
+        ],
+        [
+          30,
+          "Stomping Tantrum"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          43,
+          "Earthquake"
+        ],
+        [
+          50,
+          "Giga Impact"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Body Slam"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Focus Energy"
+        ],
+        [
+          "egg",
+          "Snore"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Ice Shard"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Heavy Slam"
+        ],
+        [
+          "egg",
+          "Play Rough"
+        ],
+        [
+          "egg",
+          "High Horsepower"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ],
+        [
+          "pre",
+          "Flail"
+        ],
+        [
+          "pre",
+          "Endure"
+        ],
+        [
+          "pre",
+          "Take Down"
+        ],
+        [
+          "pre",
+          "Charm"
+        ],
+        [
+          "pre",
+          "Last Resort"
+        ],
+        [
+          "pre",
+          "Double-edge"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "name": "Arcanine",
+  "national": "0059",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Legendary Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 155,
+        "imperial": 341.7
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Flash Fire"
+        ],
+        "hidden": "Justified"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 110,
+        "def": 80,
+        "satk": 100,
+        "sdef": 80,
+        "spd": 95
+      },
+      "moves": [
+        [
+          "evo",
+          "Extreme Speed"
+        ],
+        [
+          null,
+          "Play Rough"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Flare Blitz"
+        ],
+        [
+          null,
+          "Howl"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Retaliate"
+        ],
+        [
+          null,
+          "Reversal"
+        ],
+        [
+          null,
+          "Agility"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Roar"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Flame Wheel"
+        ],
+        [
+          null,
+          "Take Down"
+        ],
+        [
+          5,
+          "Flamethrower"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ],
+        [
+          "egg",
+          "Covet"
+        ],
+        [
+          "egg",
+          "Raging Fury"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Legendary Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 168,
+        "imperial": 370.4
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Flash Fire"
+        ],
+        "hidden": "Rock Head"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 115,
+        "def": 80,
+        "satk": 95,
+        "sdef": 80,
+        "spd": 90
+      },
+      "moves": [
+        [
+          "evo",
+          "Extreme Speed"
+        ],
+        [
+          null,
+          "Flame Wheel"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          null,
+          "Flare Blitz"
+        ],
+        [
+          null,
+          "Howl"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Reversal"
+        ],
+        [
+          null,
+          "Retaliate"
+        ],
+        [
+          null,
+          "Take Down"
+        ],
+        [
+          null,
+          "Agility"
+        ],
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Roar"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Rock Slide"
+        ],
+        [
+          5,
+          "Flamethrower"
+        ],
+        [
+          64,
+          "Raging Fury"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ],
+        [
+          "egg",
+          "Covet"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ]
+      ]
+    }
+  ]
+}

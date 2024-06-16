@@ -1,0 +1,255 @@
+{
+  "name": "Vivillon",
+  "national": "0666",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scale Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 17,
+        "imperial": 37.5
+      },
+      "ability": {
+        "normal": [
+          "Shield Dust",
+          "Compound Eyes"
+        ],
+        "hidden": "Friend Guard"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 52,
+        "def": 50,
+        "satk": 90,
+        "sdef": 50,
+        "spd": 89
+      },
+      "moves": [
+        [
+          "evo",
+          "Gust"
+        ],
+        [
+          null,
+          "Poison Powder"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Sleep Powder"
+        ],
+        [
+          null,
+          "Struggle Bug"
+        ],
+        [
+          12,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Psybeam"
+        ],
+        [
+          21,
+          "Supersonic"
+        ],
+        [
+          25,
+          "Draining Kiss"
+        ],
+        [
+          31,
+          "Safeguard"
+        ],
+        [
+          35,
+          "Bug Buzz"
+        ],
+        [
+          45,
+          "Quiver Dance"
+        ],
+        [
+          50,
+          "Hurricane"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ],
+        [
+          "pre",
+          "Protect"
+        ],
+        [
+          "pre",
+          "Harden"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ],
+        [
+          "pre",
+          "String Shot"
+        ],
+        [
+          "pre",
+          "Bug Bite"
+        ]
+      ]
+    }
+  ]
+}

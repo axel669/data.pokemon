@@ -1,0 +1,514 @@
+{
+  "name": "Articuno",
+  "national": "0144",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Freeze Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 55.4,
+        "imperial": 122.1
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Snow Cloak"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 85,
+        "def": 100,
+        "satk": 95,
+        "sdef": 125,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          5,
+          "Powder Snow"
+        ],
+        [
+          10,
+          "Reflect"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Tailwind"
+        ],
+        [
+          35,
+          "Freeze-Dry"
+        ],
+        [
+          40,
+          "Roost"
+        ],
+        [
+          45,
+          "Ice Beam"
+        ],
+        [
+          50,
+          "Snowscape"
+        ],
+        [
+          55,
+          "Hurricane"
+        ],
+        [
+          60,
+          "Haze"
+        ],
+        [
+          65,
+          "Blizzard"
+        ],
+        [
+          70,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ]
+      ]
+    },
+    {
+      "name": "Galarian",
+      "species": "Cruel Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 50.9,
+        "imperial": 112.2
+      },
+      "ability": {
+        "normal": [
+          "Competitive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 85,
+        "def": 85,
+        "satk": 125,
+        "sdef": 100,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          5,
+          "Confusion"
+        ],
+        [
+          10,
+          "Reflect"
+        ],
+        [
+          15,
+          "Hypnosis"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Tailwind"
+        ],
+        [
+          35,
+          "Psycho Cut"
+        ],
+        [
+          40,
+          "Recover"
+        ],
+        [
+          45,
+          "Freezing Glare"
+        ],
+        [
+          50,
+          "Dream Eater"
+        ],
+        [
+          55,
+          "Hurricane"
+        ],
+        [
+          60,
+          "Double Team"
+        ],
+        [
+          65,
+          "Future Sight"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ]
+      ]
+    }
+  ]
+}

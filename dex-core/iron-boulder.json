@@ -1,0 +1,254 @@
+{
+  "name": "Iron Boulder",
+  "national": "1022",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 162.5,
+        "imperial": 358.3
+      },
+      "ability": {
+        "normal": [
+          "Quark Drive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 120,
+        "def": 80,
+        "satk": 68,
+        "sdef": 108,
+        "spd": 124
+      },
+      "moves": [
+        [
+          null,
+          "Horn Attack"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          14,
+          "Slash"
+        ],
+        [
+          21,
+          "Agility"
+        ],
+        [
+          28,
+          "Psycho Cut"
+        ],
+        [
+          35,
+          "Counter"
+        ],
+        [
+          42,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sacred Sword"
+        ],
+        [
+          56,
+          "Mighty Cleave"
+        ],
+        [
+          63,
+          "Swords Dance"
+        ],
+        [
+          70,
+          "Megahorn"
+        ],
+        [
+          77,
+          "Quick Guard"
+        ],
+        [
+          84,
+          "Stone Edge"
+        ],
+        [
+          91,
+          "Giga Impact"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    }
+  ]
+}

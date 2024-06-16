@@ -1,0 +1,254 @@
+{
+  "name": "Swablu",
+  "national": "0333",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cotton Bird Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 1.2,
+        "imperial": 2.6
+      },
+      "ability": {
+        "normal": [
+          "Natural Cure"
+        ],
+        "hidden": "Cloud Nine"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 40,
+        "def": 60,
+        "satk": 40,
+        "sdef": 75,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          4,
+          "Disarming Voice"
+        ],
+        [
+          8,
+          "Mist"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Round"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          28,
+          "Sing"
+        ],
+        [
+          32,
+          "Cotton Guard"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Moonblast"
+        ],
+        [
+          44,
+          "Perish Song"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Tailwind"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

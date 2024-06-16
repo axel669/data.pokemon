@@ -1,0 +1,8 @@
+{
+  "name": "Fly",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user flies up into the sky on the first turn, then attacks on the next turn."
+}

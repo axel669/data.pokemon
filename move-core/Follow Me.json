@@ -1,0 +1,8 @@
+{
+  "name": "Follow Me",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user draws attention to itself, making all opposing Pokémon take aim only at the user."
+}

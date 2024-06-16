@@ -1,0 +1,8 @@
+{
+  "name": "Shadow Punch",
+  "power": 60,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user throws a punch from the shadows. This attack never misses."
+}

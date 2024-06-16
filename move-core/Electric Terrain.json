@@ -1,0 +1,8 @@
+{
+  "name": "Electric Terrain",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user turns the ground into Electric Terrain for five turns, powering up Electric-type moves. Pokémon on the ground can no longer fall asleep."
+}

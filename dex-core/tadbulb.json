@@ -1,0 +1,219 @@
+{
+  "name": "Tadbulb",
+  "national": "0938",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleTadpole Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.4,
+        "imperial": 0.9
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo",
+          "Static"
+        ],
+        "hidden": "Damp"
+      },
+      "stats": {
+        "hp": 61,
+        "atk": 31,
+        "def": 41,
+        "satk": 59,
+        "sdef": 35,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          7,
+          "Thunder Shock"
+        ],
+        [
+          11,
+          "Water Gun"
+        ],
+        [
+          17,
+          "Charge"
+        ],
+        [
+          21,
+          "Spark"
+        ],
+        [
+          24,
+          "Mud Shot"
+        ],
+        [
+          25,
+          "Flail"
+        ],
+        [
+          32,
+          "Discharge"
+        ],
+        [
+          36,
+          "Weather Ball"
+        ],
+        [
+          40,
+          "Electric Terrain"
+        ],
+        [
+          45,
+          "Sucker Punch"
+        ],
+        [
+          50,
+          "Zap Cannon"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Soak"
+        ],
+        [
+          "egg",
+          "Parabolic Charge"
+        ]
+      ]
+    }
+  ]
+}

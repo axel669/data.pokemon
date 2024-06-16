@@ -1,0 +1,8 @@
+{
+  "name": "Bubble Beam",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": 10,
+  "desc": "A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat."
+}

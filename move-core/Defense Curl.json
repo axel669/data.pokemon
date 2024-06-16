@@ -1,0 +1,8 @@
+{
+  "name": "Defense Curl",
+  "power": null,
+  "accuracy": 101,
+  "pp": 40,
+  "effect": null,
+  "desc": "The user curls up and boosts its Defense stat."
+}

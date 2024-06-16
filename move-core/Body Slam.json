@@ -1,0 +1,8 @@
+{
+  "name": "Body Slam",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 30,
+  "desc": "The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis."
+}

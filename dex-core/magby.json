@@ -1,0 +1,258 @@
+{
+  "name": "Magby",
+  "national": "0240",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Live Coal Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 21.4,
+        "imperial": 47.2
+      },
+      "ability": {
+        "normal": [
+          "Flame Body"
+        ],
+        "hidden": "Vital Spirit"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 75,
+        "def": 37,
+        "satk": 70,
+        "sdef": 55,
+        "spd": 83
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          8,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Clear Smog"
+        ],
+        [
+          16,
+          "Flame Wheel"
+        ],
+        [
+          20,
+          "Confuse Ray"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Fire Punch"
+        ],
+        [
+          32,
+          "Lava Plume"
+        ],
+        [
+          36,
+          "Low Kick"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          44,
+          "Sunny Day"
+        ],
+        [
+          48,
+          "Fire Blast"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mach Punch"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Focus Punch"
+        ],
+        [
+          "egg",
+          "Follow Me"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Servine",
+  "national": "0496",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Grass Snake Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Contrary"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 75,
+        "satk": 60,
+        "sdef": 75,
+        "spd": 83
+      },
+      "moves": [
+        [
+          null,
+          "Vine Whip"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          13,
+          "Growth"
+        ],
+        [
+          16,
+          "Magical Leaf"
+        ],
+        [
+          20,
+          "Leech Seed"
+        ],
+        [
+          24,
+          "Mega Drain"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Leaf Blade"
+        ],
+        [
+          36,
+          "Coil"
+        ],
+        [
+          40,
+          "Giga Drain"
+        ],
+        [
+          44,
+          "Gastro Acid"
+        ],
+        [
+          48,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "egg",
+          "Glare"
+        ],
+        [
+          "egg",
+          "Mean Look"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Iron Tail"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Twister"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ]
+      ]
+    }
+  ]
+}

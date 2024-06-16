@@ -1,0 +1,299 @@
+{
+  "name": "Cubchoo",
+  "national": "0613",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Chill Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Snow Cloak",
+          "Slush Rush"
+        ],
+        "hidden": "Rattled"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 70,
+        "def": 40,
+        "satk": 60,
+        "sdef": 40,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          3,
+          "Endure"
+        ],
+        [
+          6,
+          "Fury Swipes"
+        ],
+        [
+          9,
+          "Icy Wind"
+        ],
+        [
+          12,
+          "Play Nice"
+        ],
+        [
+          15,
+          "Brine"
+        ],
+        [
+          18,
+          "Frost Breath"
+        ],
+        [
+          21,
+          "Slash"
+        ],
+        [
+          24,
+          "Flail"
+        ],
+        [
+          27,
+          "Charm"
+        ],
+        [
+          30,
+          "Snowscape"
+        ],
+        [
+          33,
+          "Thrash"
+        ],
+        [
+          36,
+          "Rest"
+        ],
+        [
+          39,
+          "Blizzard"
+        ],
+        [
+          42,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Focus Punch"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ]
+      ]
+    }
+  ]
+}

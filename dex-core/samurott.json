@@ -1,0 +1,674 @@
+{
+  "name": "Samurott",
+  "national": "0503",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Formidable Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 94.6,
+        "imperial": 208.6
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Shell Armor"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 100,
+        "def": 85,
+        "satk": 108,
+        "sdef": 70,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Slash"
+        ],
+        [
+          null,
+          "Megahorn"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Soak"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Razor Shell"
+        ],
+        [
+          21,
+          "Fury Cutter"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          29,
+          "Aerial Ace"
+        ],
+        [
+          34,
+          "Aqua Jet"
+        ],
+        [
+          39,
+          "Encore"
+        ],
+        [
+          46,
+          "Aqua Tail"
+        ],
+        [
+          51,
+          "Retaliate"
+        ],
+        [
+          58,
+          "Swords Dance"
+        ],
+        [
+          63,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM154",
+          "Hydro Cannon"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Air Slash"
+        ],
+        [
+          "egg",
+          "Sacred Sword"
+        ],
+        [
+          "egg",
+          "Aqua Cutter"
+        ],
+        [
+          "pre",
+          "Soak"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Formidable Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 58.2,
+        "imperial": 128.3
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Sharpness"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 108,
+        "def": 80,
+        "satk": 100,
+        "sdef": 65,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Ceaseless Edge"
+        ],
+        [
+          null,
+          "Slash"
+        ],
+        [
+          null,
+          "Sucker Punch"
+        ],
+        [
+          null,
+          "Megahorn"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Razor Shell"
+        ],
+        [
+          21,
+          "Fury Cutter"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          29,
+          "Aerial Ace"
+        ],
+        [
+          34,
+          "Aqua Jet"
+        ],
+        [
+          39,
+          "Encore"
+        ],
+        [
+          46,
+          "Aqua Tail"
+        ],
+        [
+          51,
+          "Retaliate"
+        ],
+        [
+          58,
+          "Swords Dance"
+        ],
+        [
+          63,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM154",
+          "Hydro Cannon"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Air Slash"
+        ],
+        [
+          "egg",
+          "Sacred Sword"
+        ],
+        [
+          "egg",
+          "Aqua Cutter"
+        ],
+        [
+          "pre",
+          "Soak"
+        ]
+      ]
+    }
+  ]
+}

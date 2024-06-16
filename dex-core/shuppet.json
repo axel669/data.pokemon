@@ -1,0 +1,291 @@
+{
+  "name": "Shuppet",
+  "national": "0353",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Puppet Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 2.3,
+        "imperial": 5.1
+      },
+      "ability": {
+        "normal": [
+          "Insomnia",
+          "Frisk"
+        ],
+        "hidden": "Cursed Body"
+      },
+      "stats": {
+        "hp": 44,
+        "atk": 75,
+        "def": 35,
+        "satk": 63,
+        "sdef": 33,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Screech"
+        ],
+        [
+          7,
+          "Night Shade"
+        ],
+        [
+          10,
+          "Spite"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          19,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Hex"
+        ],
+        [
+          26,
+          "Curse"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Role Play"
+        ],
+        [
+          38,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Trick"
+        ],
+        [
+          48,
+          "Phantom Force"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Imprison"
+        ],
+        [
+          "egg",
+          "Gunk Shot"
+        ]
+      ]
+    }
+  ]
+}

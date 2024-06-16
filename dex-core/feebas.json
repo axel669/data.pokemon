@@ -1,0 +1,175 @@
+{
+  "name": "Feebas",
+  "national": "0349",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fish Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 7.4,
+        "imperial": 16.3
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Oblivious"
+        ],
+        "hidden": "Adaptability"
+      },
+      "stats": {
+        "hp": 20,
+        "atk": 15,
+        "def": 20,
+        "satk": 10,
+        "sdef": 55,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Splash"
+        ],
+        [
+          15,
+          "Tackle"
+        ],
+        [
+          25,
+          "Flail"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Hypnosis"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ]
+      ]
+    }
+  ]
+}

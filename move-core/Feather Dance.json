@@ -1,0 +1,8 @@
+{
+  "name": "Feather Dance",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+}

@@ -1,0 +1,596 @@
+{
+  "name": "Braviary",
+  "national": "0628",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Valiant Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 41,
+        "imperial": 90.4
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Sheer Force"
+        ],
+        "hidden": "Defiant"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 123,
+        "def": 75,
+        "satk": 57,
+        "sdef": 75,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Superpower"
+        ],
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Sky Attack"
+        ],
+        [
+          null,
+          "Hone Claws"
+        ],
+        [
+          18,
+          "Tailwind"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Aerial Ace"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          42,
+          "Whirlwind"
+        ],
+        [
+          48,
+          "Crush Claw"
+        ],
+        [
+          57,
+          "Air Slash"
+        ],
+        [
+          64,
+          "Defog"
+        ],
+        [
+          72,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Rock Smash"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "pre",
+          "Brave Bird"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Battle Cry Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 43.4,
+        "imperial": 95.7
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Sheer Force"
+        ],
+        "hidden": "Tinted Lens"
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 83,
+        "def": 70,
+        "satk": 112,
+        "sdef": 70,
+        "spd": 65
+      },
+      "moves": [
+        [
+          "evo",
+          "Esper Wing"
+        ],
+        [
+          null,
+          "Hone Claws"
+        ],
+        [
+          null,
+          "Sky Attack"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Superpower"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          18,
+          "Tailwind"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Aerial Ace"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          42,
+          "Whirlwind"
+        ],
+        [
+          48,
+          "Crush Claw"
+        ],
+        [
+          57,
+          "Air Slash"
+        ],
+        [
+          64,
+          "Defog"
+        ],
+        [
+          72,
+          "Thrash"
+        ],
+        [
+          80,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Rock Smash"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "pre",
+          "Brave Bird"
+        ]
+      ]
+    }
+  ]
+}

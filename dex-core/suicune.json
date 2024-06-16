@@ -1,0 +1,274 @@
+{
+  "name": "Suicune",
+  "national": "0245",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Aurora Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 187,
+        "imperial": 412.3
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Inner Focus"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 75,
+        "def": 115,
+        "satk": 90,
+        "sdef": 115,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Mist"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Water Pulse"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          18,
+          "Calm Mind"
+        ],
+        [
+          24,
+          "Roar"
+        ],
+        [
+          30,
+          "Ice Fang"
+        ],
+        [
+          36,
+          "Tailwind"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          48,
+          "Extrasensory"
+        ],
+        [
+          54,
+          "Surf"
+        ],
+        [
+          60,
+          "Mirror Coat"
+        ],
+        [
+          66,
+          "Rain Dance"
+        ],
+        [
+          72,
+          "Hydro Pump"
+        ],
+        [
+          78,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "rem",
+          "Extreme Speed"
+        ],
+        [
+          "rem",
+          "Sheer Cold"
+        ]
+      ]
+    }
+  ]
+}

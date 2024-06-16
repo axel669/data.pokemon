@@ -1,0 +1,1422 @@
+{
+  "name": "Rotom",
+  "national": "0479",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 77,
+        "satk": 95,
+        "sdef": 77,
+        "spd": 91
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    },
+    {
+      "name": "Heat",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "satk": 105,
+        "sdef": 107,
+        "spd": 86
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    },
+    {
+      "name": "Wash",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "satk": 105,
+        "sdef": 107,
+        "spd": 86
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    },
+    {
+      "name": "Frost",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "satk": 105,
+        "sdef": 107,
+        "spd": 86
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    },
+    {
+      "name": "Fan",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "satk": 105,
+        "sdef": 107,
+        "spd": 86
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    },
+    {
+      "name": "Mow",
+      "species": "Plasma Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "satk": 105,
+        "sdef": 107,
+        "spd": 86
+      },
+      "moves": [
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Charge"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          25,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Shock Wave"
+        ],
+        [
+          35,
+          "Hex"
+        ],
+        [
+          40,
+          "Substitute"
+        ],
+        [
+          45,
+          "Trick"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          55,
+          "Uproar"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    }
+  ]
+}

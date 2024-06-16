@@ -1,0 +1,235 @@
+{
+  "name": "Rufflet",
+  "national": "0627",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Eaglet Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 10.5,
+        "imperial": 23.1
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Sheer Force"
+        ],
+        "hidden": "Hustle"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 83,
+        "def": 50,
+        "satk": 37,
+        "sdef": 50,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          6,
+          "Hone Claws"
+        ],
+        [
+          12,
+          "Wing Attack"
+        ],
+        [
+          18,
+          "Tailwind"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Aerial Ace"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          42,
+          "Whirlwind"
+        ],
+        [
+          48,
+          "Crush Claw"
+        ],
+        [
+          55,
+          "Air Slash"
+        ],
+        [
+          60,
+          "Defog"
+        ],
+        [
+          66,
+          "Thrash"
+        ],
+        [
+          72,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Rock Smash"
+        ],
+        [
+          "egg",
+          "Roost"
+        ]
+      ]
+    }
+  ]
+}

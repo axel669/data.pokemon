@@ -1,0 +1,270 @@
+{
+  "name": "Squirtle",
+  "national": "0007",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tiny Turtle Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 9,
+        "imperial": 19.8
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Rain Dish"
+      },
+      "stats": {
+        "hp": 44,
+        "atk": 48,
+        "def": 65,
+        "satk": 50,
+        "sdef": 64,
+        "spd": 43
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          3,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Withdraw"
+        ],
+        [
+          9,
+          "Rapid Spin"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          15,
+          "Water Pulse"
+        ],
+        [
+          18,
+          "Protect"
+        ],
+        [
+          21,
+          "Rain Dance"
+        ],
+        [
+          24,
+          "Aqua Tail"
+        ],
+        [
+          27,
+          "Shell Smash"
+        ],
+        [
+          30,
+          "Iron Defense"
+        ],
+        [
+          33,
+          "Hydro Pump"
+        ],
+        [
+          36,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Water Spout"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ]
+      ]
+    }
+  ]
+}

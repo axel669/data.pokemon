@@ -1,0 +1,254 @@
+{
+  "name": "Varoom",
+  "national": "0965",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Single-Cyl Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 35,
+        "imperial": 77.2
+      },
+      "ability": {
+        "normal": [
+          "Overcoat"
+        ],
+        "hidden": "Slow Start"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 70,
+        "def": 63,
+        "satk": 30,
+        "sdef": 45,
+        "spd": 47
+      },
+      "moves": [
+        [
+          null,
+          "Lick"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          4,
+          "Smog"
+        ],
+        [
+          7,
+          "Taunt"
+        ],
+        [
+          10,
+          "Assurance"
+        ],
+        [
+          13,
+          "Sludge"
+        ],
+        [
+          17,
+          "Gyro Ball"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Screech"
+        ],
+        [
+          28,
+          "Iron Head"
+        ],
+        [
+          32,
+          "Swagger"
+        ],
+        [
+          36,
+          "Poison Jab"
+        ],
+        [
+          41,
+          "Uproar"
+        ],
+        [
+          46,
+          "Spin Out"
+        ],
+        [
+          50,
+          "Gunk Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Self-Destruct"
+        ],
+        [
+          "egg",
+          "Torment"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

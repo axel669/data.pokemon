@@ -1,0 +1,263 @@
+{
+  "name": "Dodrio",
+  "national": "0085",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Triple Bird Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 85.2,
+        "imperial": 187.8
+      },
+      "ability": {
+        "normal": [
+          "Run Away",
+          "Early Bird"
+        ],
+        "hidden": "Tangled Feet"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 110,
+        "def": 70,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 110
+      },
+      "moves": [
+        [
+          "evo",
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          15,
+          "Pluck"
+        ],
+        [
+          19,
+          "Double Hit"
+        ],
+        [
+          23,
+          "Agility"
+        ],
+        [
+          26,
+          "Uproar"
+        ],
+        [
+          30,
+          "Acupressure"
+        ],
+        [
+          34,
+          "Swords Dance"
+        ],
+        [
+          38,
+          "Drill Peck"
+        ],
+        [
+          43,
+          "Endeavor"
+        ],
+        [
+          50,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Assurance"
+        ]
+      ]
+    }
+  ]
+}

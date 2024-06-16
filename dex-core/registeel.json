@@ -1,0 +1,290 @@
+{
+  "name": "Registeel",
+  "national": "0379",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Iron Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 205,
+        "imperial": 451.9
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Light Metal"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 75,
+        "def": 150,
+        "satk": 75,
+        "sdef": 150,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          null,
+          "Charge Beam"
+        ],
+        [
+          6,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Ancient Power"
+        ],
+        [
+          18,
+          "Stomp"
+        ],
+        [
+          24,
+          "Flash Cannon"
+        ],
+        [
+          24,
+          "Iron Head"
+        ],
+        [
+          30,
+          "Curse"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          42,
+          "Hammer Arm"
+        ],
+        [
+          48,
+          "Heavy Slam"
+        ],
+        [
+          54,
+          "Superpower"
+        ],
+        [
+          60,
+          "Lock-On"
+        ],
+        [
+          66,
+          "Zap Cannon"
+        ],
+        [
+          72,
+          "Hyper Beam"
+        ],
+        [
+          78,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Safeguard",
+  "power": null,
+  "accuracy": 101,
+  "pp": 25,
+  "effect": null,
+  "desc": "The user creates a protective field that prevents status conditions for five turns."
+}

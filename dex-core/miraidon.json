@@ -1,0 +1,294 @@
+{
+  "name": "Miraidon",
+  "national": "1008",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 3.5,
+        "imperial": 138
+      },
+      "weight": {
+        "metric": 240,
+        "imperial": 529.1
+      },
+      "ability": {
+        "normal": [
+          "Hadron Engine"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 85,
+        "def": 100,
+        "satk": 135,
+        "sdef": 115,
+        "spd": 135
+      },
+      "moves": [
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          7,
+          "Shock Wave"
+        ],
+        [
+          14,
+          "Charge"
+        ],
+        [
+          21,
+          "Parabolic Charge"
+        ],
+        [
+          28,
+          "Discharge"
+        ],
+        [
+          35,
+          "Agility"
+        ],
+        [
+          42,
+          "Dragon Pulse"
+        ],
+        [
+          56,
+          "Electro Drift"
+        ],
+        [
+          63,
+          "Metal Sound"
+        ],
+        [
+          70,
+          "Mirror Coat"
+        ],
+        [
+          77,
+          "Outrage"
+        ],
+        [
+          84,
+          "Thunder"
+        ],
+        [
+          91,
+          "Overheat"
+        ],
+        [
+          98,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

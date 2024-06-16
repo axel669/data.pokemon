@@ -1,0 +1,243 @@
+{
+  "name": "Trumbeak",
+  "national": "0732",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bugle Beak Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 14.8,
+        "imperial": 32.6
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Skill Link"
+        ],
+        "hidden": "Pickup"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 85,
+        "def": 50,
+        "satk": 40,
+        "sdef": 50,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          null,
+          "Rock Blast"
+        ],
+        [
+          13,
+          "Supersonic"
+        ],
+        [
+          16,
+          "Pluck"
+        ],
+        [
+          21,
+          "Roost"
+        ],
+        [
+          24,
+          "Fury Attack"
+        ],
+        [
+          29,
+          "Screech"
+        ],
+        [
+          32,
+          "Drill Peck"
+        ],
+        [
+          37,
+          "Bullet Seed"
+        ],
+        [
+          40,
+          "Feather Dance"
+        ],
+        [
+          45,
+          "Hyper Voice"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Gunk Shot"
+        ],
+        [
+          "egg",
+          "Boomburst"
+        ],
+        [
+          "rem",
+          "Echoed Voice"
+        ],
+        [
+          "pre",
+          "Echoed Voice"
+        ]
+      ]
+    }
+  ]
+}

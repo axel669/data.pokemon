@@ -1,0 +1,8 @@
+{
+  "name": "Icicle Spear",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user attacks by launching sharp icicles at the target. This move hits two to five times in a row."
+}

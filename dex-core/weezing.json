@@ -1,0 +1,588 @@
+{
+  "name": "Weezing",
+  "national": "0110",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Poison Gas Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 9.5,
+        "imperial": 20.9
+      },
+      "ability": {
+        "normal": [
+          "Levitate",
+          "Neutralizing Gas"
+        ],
+        "hidden": "Stench"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 90,
+        "def": 120,
+        "satk": 85,
+        "sdef": 70,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Double Hit"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          null,
+          "Heat Wave"
+        ],
+        [
+          12,
+          "Clear Smog"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Sludge"
+        ],
+        [
+          24,
+          "Haze"
+        ],
+        [
+          28,
+          "Self-Destruct"
+        ],
+        [
+          32,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Toxic"
+        ],
+        [
+          44,
+          "Belch"
+        ],
+        [
+          50,
+          "Explosion"
+        ],
+        [
+          56,
+          "Memento"
+        ],
+        [
+          62,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ]
+      ]
+    },
+    {
+      "name": "Galarian",
+      "species": "Poison Gas Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Levitate",
+          "Neutralizing Gas"
+        ],
+        "hidden": "Misty Surge"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 90,
+        "def": 120,
+        "satk": 85,
+        "sdef": 70,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Double Hit"
+        ],
+        [
+          null,
+          "Strange Steam"
+        ],
+        [
+          null,
+          "Defog"
+        ],
+        [
+          null,
+          "Heat Wave"
+        ],
+        [
+          null,
+          "Aromatic Mist"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Haze"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Clear Smog"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Sludge"
+        ],
+        [
+          24,
+          "Fairy Wind"
+        ],
+        [
+          28,
+          "Self-Destruct"
+        ],
+        [
+          32,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Toxic"
+        ],
+        [
+          44,
+          "Belch"
+        ],
+        [
+          50,
+          "Explosion"
+        ],
+        [
+          56,
+          "Memento"
+        ],
+        [
+          62,
+          "Destiny Bond"
+        ],
+        [
+          68,
+          "Misty Terrain"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ]
+      ]
+    }
+  ]
+}

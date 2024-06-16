@@ -1,0 +1,306 @@
+{
+  "name": "Iron Jugulis",
+  "national": "0993",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 111,
+        "imperial": 244.7
+      },
+      "ability": {
+        "normal": [
+          "Quark Drive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 94,
+        "atk": 80,
+        "def": 86,
+        "satk": 122,
+        "sdef": 80,
+        "spd": 108
+      },
+      "moves": [
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          null,
+          "Work Up"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Air Cutter"
+        ],
+        [
+          7,
+          "Roar"
+        ],
+        [
+          14,
+          "Assurance"
+        ],
+        [
+          21,
+          "Dragon Breath"
+        ],
+        [
+          28,
+          "Snarl"
+        ],
+        [
+          35,
+          "Crunch"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          56,
+          "Air Slash"
+        ],
+        [
+          63,
+          "Knock Off"
+        ],
+        [
+          70,
+          "Dark Pulse"
+        ],
+        [
+          77,
+          "Outrage"
+        ],
+        [
+          84,
+          "Dragon Pulse"
+        ],
+        [
+          91,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "name": "Gyarados",
+  "national": "0130",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Atrocious Pokémon",
+      "height": {
+        "metric": 6.5,
+        "imperial": 256
+      },
+      "weight": {
+        "metric": 235,
+        "imperial": 518.1
+      },
+      "ability": {
+        "normal": [
+          "Intimidate"
+        ],
+        "hidden": "Moxie"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 125,
+        "def": 79,
+        "satk": 60,
+        "sdef": 100,
+        "spd": 81
+      },
+      "moves": [
+        [
+          "evo",
+          "Bite"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Twister"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          4,
+          "Whirlpool"
+        ],
+        [
+          8,
+          "Ice Fang"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Waterfall"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Rain Dance"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Dragon Dance"
+        ],
+        [
+          40,
+          "Hydro Pump"
+        ],
+        [
+          44,
+          "Hurricane"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    },
+    {
+      "name": "Mega",
+      "species": "Atrocious Pokémon",
+      "height": {
+        "metric": 6.5,
+        "imperial": 256
+      },
+      "weight": {
+        "metric": 305,
+        "imperial": 672.4
+      },
+      "ability": {
+        "normal": [
+          "Mold Breaker"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 155,
+        "def": 109,
+        "satk": 70,
+        "sdef": 130,
+        "spd": 81
+      },
+      "moves": [
+        [
+          "evo",
+          "Bite"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Twister"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          4,
+          "Whirlpool"
+        ],
+        [
+          8,
+          "Ice Fang"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Waterfall"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Rain Dance"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Dragon Dance"
+        ],
+        [
+          40,
+          "Hydro Pump"
+        ],
+        [
+          44,
+          "Hurricane"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ]
+      ]
+    }
+  ]
+}

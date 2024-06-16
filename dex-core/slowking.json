@@ -1,0 +1,900 @@
+{
+  "name": "Slowking",
+  "national": "0199",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Royal Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 79.5,
+        "imperial": 175.3
+      },
+      "ability": {
+        "normal": [
+          "Oblivious",
+          "Own Tempo"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 75,
+        "def": 80,
+        "satk": 100,
+        "sdef": 110,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Curse"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Power Gem"
+        ],
+        [
+          null,
+          "Nasty Plot"
+        ],
+        [
+          null,
+          "Swagger"
+        ],
+        [
+          9,
+          "Yawn"
+        ],
+        [
+          12,
+          "Confusion"
+        ],
+        [
+          15,
+          "Disable"
+        ],
+        [
+          18,
+          "Water Pulse"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          27,
+          "Amnesia"
+        ],
+        [
+          30,
+          "Surf"
+        ],
+        [
+          33,
+          "Slack Off"
+        ],
+        [
+          36,
+          "Psychic"
+        ],
+        [
+          39,
+          "Psych Up"
+        ],
+        [
+          42,
+          "Rain Dance"
+        ],
+        [
+          45,
+          "Heal Pulse"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "rem",
+          "Future Sight"
+        ],
+        [
+          "rem",
+          "Chilly Reception"
+        ],
+        [
+          "pre",
+          "Zen Headbutt"
+        ]
+      ]
+    },
+    {
+      "name": "Galarian",
+      "species": "Hexpert Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 79.5,
+        "imperial": 175.3
+      },
+      "ability": {
+        "normal": [
+          "Curious Medicine",
+          "Own Tempo"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 65,
+        "def": 80,
+        "satk": 110,
+        "sdef": 110,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Eerie Spell"
+        ],
+        [
+          null,
+          "Nasty Plot"
+        ],
+        [
+          null,
+          "Power Gem"
+        ],
+        [
+          null,
+          "Curse"
+        ],
+        [
+          null,
+          "Swagger"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          9,
+          "Yawn"
+        ],
+        [
+          12,
+          "Confusion"
+        ],
+        [
+          15,
+          "Disable"
+        ],
+        [
+          18,
+          "Water Pulse"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Zen Headbutt"
+        ],
+        [
+          27,
+          "Amnesia"
+        ],
+        [
+          30,
+          "Surf"
+        ],
+        [
+          33,
+          "Slack Off"
+        ],
+        [
+          36,
+          "Psychic"
+        ],
+        [
+          39,
+          "Psych Up"
+        ],
+        [
+          42,
+          "Rain Dance"
+        ],
+        [
+          45,
+          "Heal Pulse"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "rem",
+          "Future Sight"
+        ],
+        [
+          "rem",
+          "Chilly Reception"
+        ],
+        [
+          "rem",
+          "Toxic"
+        ],
+        [
+          "pre",
+          "Zen Headbutt"
+        ]
+      ]
+    }
+  ]
+}

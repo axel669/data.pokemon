@@ -1,0 +1,263 @@
+{
+  "name": "Venonat",
+  "national": "0048",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Insect Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 30,
+        "imperial": 66.1
+      },
+      "ability": {
+        "normal": [
+          "Compound Eyes",
+          "Tinted Lens"
+        ],
+        "hidden": "Run Away"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 50,
+        "satk": 40,
+        "sdef": 55,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Disable"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          11,
+          "Confusion"
+        ],
+        [
+          13,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Stun Spore"
+        ],
+        [
+          25,
+          "Bug Buzz"
+        ],
+        [
+          29,
+          "Sleep Powder"
+        ],
+        [
+          35,
+          "Leech Life"
+        ],
+        [
+          37,
+          "Zen Headbutt"
+        ],
+        [
+          41,
+          "Poison Fang"
+        ],
+        [
+          47,
+          "Psychic"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Agility"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Baton Pass"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ],
+        [
+          "egg",
+          "Toxic Spikes"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Venoshock"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ]
+      ]
+    }
+  ]
+}

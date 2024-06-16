@@ -1,0 +1,8 @@
+{
+  "name": "Swift",
+  "power": 60,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "Star-shaped rays are shot at opposing Pokémon. This attack never misses."
+}

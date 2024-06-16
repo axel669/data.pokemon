@@ -1,0 +1,8 @@
+{
+  "name": "Quash",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user suppresses the target and makes its move go last."
+}

@@ -1,0 +1,270 @@
+{
+  "name": "Wo-Chien",
+  "national": "1001",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ruinous Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 74.2,
+        "imperial": 163.6
+      },
+      "ability": {
+        "normal": [
+          "Tablets of Ruin"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 85,
+        "def": 100,
+        "satk": 95,
+        "sdef": 135,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Spite"
+        ],
+        [
+          null,
+          "Mean Look"
+        ],
+        [
+          5,
+          "Tickle"
+        ],
+        [
+          10,
+          "Payback"
+        ],
+        [
+          15,
+          "Poison Powder"
+        ],
+        [
+          15,
+          "Stun Spore"
+        ],
+        [
+          20,
+          "Mega Drain"
+        ],
+        [
+          25,
+          "Leech Seed"
+        ],
+        [
+          30,
+          "Growth"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          40,
+          "Dark Pulse"
+        ],
+        [
+          45,
+          "Giga Drain"
+        ],
+        [
+          50,
+          "Ruination"
+        ],
+        [
+          55,
+          "Foul Play"
+        ],
+        [
+          60,
+          "Power Whip"
+        ],
+        [
+          65,
+          "Grassy Terrain"
+        ],
+        [
+          70,
+          "Knock Off"
+        ],
+        [
+          75,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ]
+      ]
+    }
+  ]
+}

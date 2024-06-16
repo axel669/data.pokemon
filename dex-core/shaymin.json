@@ -1,0 +1,462 @@
+{
+  "name": "Shaymin",
+  "national": "0492",
+  "forms": [
+    {
+      "name": "Land Forme",
+      "species": "Gratitude Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 2.1,
+        "imperial": 4.6
+      },
+      "ability": {
+        "normal": [
+          "Natural Cure"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 100,
+        "satk": 100,
+        "sdef": 100,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Growth"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          19,
+          "Leech Seed"
+        ],
+        [
+          28,
+          "Synthesis"
+        ],
+        [
+          37,
+          "Sweet Scent"
+        ],
+        [
+          46,
+          "Play Rough"
+        ],
+        [
+          55,
+          "Worry Seed"
+        ],
+        [
+          64,
+          "Grassy Terrain"
+        ],
+        [
+          73,
+          "Energy Ball"
+        ],
+        [
+          82,
+          "Sweet Kiss"
+        ],
+        [
+          91,
+          "Healing Wish"
+        ],
+        [
+          100,
+          "Seed Flare"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ]
+      ]
+    },
+    {
+      "name": "Sky Forme",
+      "species": "Gratitude Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 5.2,
+        "imperial": 11.5
+      },
+      "ability": {
+        "normal": [
+          "Serene Grace"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 103,
+        "def": 75,
+        "satk": 120,
+        "sdef": 75,
+        "spd": 127
+      },
+      "moves": [
+        [
+          null,
+          "Growth"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          19,
+          "Leech Seed"
+        ],
+        [
+          28,
+          "Quick Attack"
+        ],
+        [
+          37,
+          "Sweet Scent"
+        ],
+        [
+          46,
+          "Play Rough"
+        ],
+        [
+          55,
+          "Worry Seed"
+        ],
+        [
+          64,
+          "Air Slash"
+        ],
+        [
+          73,
+          "Energy Ball"
+        ],
+        [
+          82,
+          "Sweet Kiss"
+        ],
+        [
+          91,
+          "Leaf Storm"
+        ],
+        [
+          100,
+          "Seed Flare"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ]
+      ]
+    }
+  ]
+}

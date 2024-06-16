@@ -1,0 +1,8 @@
+{
+  "name": "Draining Kiss",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user steals the target's HP with a kiss. The user's HP is restored by over half the damage taken by the target."
+}

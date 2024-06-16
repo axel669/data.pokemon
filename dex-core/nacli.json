@@ -1,0 +1,231 @@
+{
+  "name": "Nacli",
+  "national": "0932",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Salt Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Purifying Salt",
+          "Sturdy"
+        ],
+        "hidden": "Clear Body"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 75,
+        "satk": 35,
+        "sdef": 35,
+        "spd": 25
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          5,
+          "Rock Throw"
+        ],
+        [
+          7,
+          "Mud Shot"
+        ],
+        [
+          10,
+          "Smack Down"
+        ],
+        [
+          13,
+          "Rock Polish"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Iron Defense"
+        ],
+        [
+          25,
+          "Recover"
+        ],
+        [
+          30,
+          "Rock Slide"
+        ],
+        [
+          33,
+          "Stealth Rock"
+        ],
+        [
+          35,
+          "Heavy Slam"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          45,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Power Gem"
+        ]
+      ]
+    }
+  ]
+}

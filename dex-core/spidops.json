@@ -1,0 +1,286 @@
+{
+  "name": "Spidops",
+  "national": "0918",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Trap Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 16.5,
+        "imperial": 36.4
+      },
+      "ability": {
+        "normal": [
+          "Insomnia"
+        ],
+        "hidden": "Stakeout"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 79,
+        "def": 92,
+        "satk": 52,
+        "sdef": 86,
+        "spd": 35
+      },
+      "moves": [
+        [
+          "evo",
+          "Silk Trap"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          5,
+          "Struggle Bug"
+        ],
+        [
+          8,
+          "Assurance"
+        ],
+        [
+          11,
+          "Feint"
+        ],
+        [
+          14,
+          "Bug Bite"
+        ],
+        [
+          19,
+          "Block"
+        ],
+        [
+          24,
+          "Counter"
+        ],
+        [
+          28,
+          "Headbutt"
+        ],
+        [
+          33,
+          "Sticky Web"
+        ],
+        [
+          37,
+          "Gastro Acid"
+        ],
+        [
+          41,
+          "Circle Throw"
+        ],
+        [
+          45,
+          "Throat Chop"
+        ],
+        [
+          49,
+          "Skitter Smack"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

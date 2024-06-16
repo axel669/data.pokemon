@@ -1,0 +1,8 @@
+{
+  "name": "Copycat",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user mimics the move used immediately before it. This move fails if no other move has been used yet."
+}

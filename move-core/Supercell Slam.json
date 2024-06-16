@@ -1,0 +1,8 @@
+{
+  "name": "Supercell Slam",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+}

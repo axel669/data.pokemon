@@ -1,0 +1,572 @@
+{
+  "name": "Geodude",
+  "national": "0074",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 20,
+        "imperial": 44.1
+      },
+      "ability": {
+        "normal": [
+          "Rock Head",
+          "Sturdy"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 80,
+        "def": 100,
+        "satk": 30,
+        "sdef": 30,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          6,
+          "Rock Polish"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          12,
+          "Bulldoze"
+        ],
+        [
+          16,
+          "Rock Throw"
+        ],
+        [
+          18,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Self-Destruct"
+        ],
+        [
+          28,
+          "Stealth Rock"
+        ],
+        [
+          30,
+          "Rock Blast"
+        ],
+        [
+          34,
+          "Earthquake"
+        ],
+        [
+          36,
+          "Explosion"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          42,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mega Punch"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Dynamic Punch"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Hammer Arm"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ]
+      ]
+    },
+    {
+      "name": "Alolan",
+      "species": "Rock Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 20.3,
+        "imperial": 44.8
+      },
+      "ability": {
+        "normal": [
+          "Magnet Pull",
+          "Sturdy"
+        ],
+        "hidden": "Galvanize"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 80,
+        "def": 100,
+        "satk": 30,
+        "sdef": 30,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          4,
+          "Charge"
+        ],
+        [
+          6,
+          "Rock Polish"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          12,
+          "Spark"
+        ],
+        [
+          16,
+          "Rock Throw"
+        ],
+        [
+          18,
+          "Smack Down"
+        ],
+        [
+          22,
+          "Thunder Punch"
+        ],
+        [
+          24,
+          "Self-Destruct"
+        ],
+        [
+          28,
+          "Stealth Rock"
+        ],
+        [
+          30,
+          "Rock Blast"
+        ],
+        [
+          34,
+          "Discharge"
+        ],
+        [
+          36,
+          "Explosion"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          42,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Zap Cannon"
+        ],
+        [
+          "egg",
+          "Endure"
+        ]
+      ]
+    }
+  ]
+}

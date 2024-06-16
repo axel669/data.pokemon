@@ -1,0 +1,331 @@
+{
+  "name": "Skuntank",
+  "national": "0435",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Skunk Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 38,
+        "imperial": 83.8
+      },
+      "ability": {
+        "normal": [
+          "Stench",
+          "Aftermath"
+        ],
+        "hidden": "Keen Eye"
+      },
+      "stats": {
+        "hp": 103,
+        "atk": 93,
+        "def": 67,
+        "satk": 71,
+        "sdef": 61,
+        "spd": 84
+      },
+      "moves": [
+        [
+          "evo",
+          "Flamethrower"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          null,
+          "Feint"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Bite"
+        ],
+        [
+          21,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          27,
+          "Toxic"
+        ],
+        [
+          30,
+          "Sucker Punch"
+        ],
+        [
+          33,
+          "Memento"
+        ],
+        [
+          38,
+          "Night Slash"
+        ],
+        [
+          43,
+          "Belch"
+        ],
+        [
+          48,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Leer"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Smog"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Acid Spray"
+        ]
+      ]
+    }
+  ]
+}

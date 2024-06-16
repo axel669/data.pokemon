@@ -1,0 +1,331 @@
+{
+  "name": "Leavanny",
+  "national": "0542",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Nurturing Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 20.5,
+        "imperial": 45.2
+      },
+      "ability": {
+        "normal": [
+          "Swarm",
+          "Chlorophyll"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 103,
+        "def": 80,
+        "satk": 70,
+        "sdef": 80,
+        "spd": 92
+      },
+      "moves": [
+        [
+          "evo",
+          "Slash"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          null,
+          "False Swipe"
+        ],
+        [
+          22,
+          "Struggle Bug"
+        ],
+        [
+          29,
+          "Fell Stinger"
+        ],
+        [
+          32,
+          "Helping Hand"
+        ],
+        [
+          36,
+          "Leaf Blade"
+        ],
+        [
+          39,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Entrainment"
+        ],
+        [
+          46,
+          "Swords Dance"
+        ],
+        [
+          50,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Snore"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "rem",
+          "Bug Bite"
+        ],
+        [
+          "pre",
+          "Protect"
+        ],
+        [
+          "pre",
+          "Bug Bite"
+        ],
+        [
+          "pre",
+          "Endure"
+        ],
+        [
+          "pre",
+          "Sticky Web"
+        ],
+        [
+          "pre",
+          "Bug Buzz"
+        ],
+        [
+          "pre",
+          "Flail"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Vine Whip",
+  "power": 45,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": null,
+  "desc": "The target is struck with slender, whiplike vines to inflict damage."
+}

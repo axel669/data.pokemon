@@ -1,0 +1,215 @@
+{
+  "name": "Silicobra",
+  "national": "0843",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sand Snake Pokémon",
+      "height": {
+        "metric": 2.2,
+        "imperial": 87
+      },
+      "weight": {
+        "metric": 7.6,
+        "imperial": 16.8
+      },
+      "ability": {
+        "normal": [
+          "Sand Spit",
+          "Shed Skin"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 52,
+        "atk": 57,
+        "def": 75,
+        "satk": 35,
+        "sdef": 50,
+        "spd": 46
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          5,
+          "Minimize"
+        ],
+        [
+          10,
+          "Brutal Swing"
+        ],
+        [
+          15,
+          "Bulldoze"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Glare"
+        ],
+        [
+          30,
+          "Dig"
+        ],
+        [
+          35,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Slam"
+        ],
+        [
+          45,
+          "Coil"
+        ],
+        [
+          50,
+          "Sand Tomb"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Poison Tail"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

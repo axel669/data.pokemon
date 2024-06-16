@@ -1,0 +1,290 @@
+{
+  "name": "Fezandipiti",
+  "national": "1016",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Retainer Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 30.1,
+        "imperial": 66.4
+      },
+      "ability": {
+        "normal": [
+          "Toxic Chain"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 88,
+        "atk": 91,
+        "def": 82,
+        "satk": 70,
+        "sdef": 125,
+        "spd": 99
+      },
+      "moves": [
+        [
+          null,
+          "Double Kick"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          null,
+          "Disarming Voice"
+        ],
+        [
+          8,
+          "Quick Attack"
+        ],
+        [
+          16,
+          "Attract"
+        ],
+        [
+          24,
+          "Wing Attack"
+        ],
+        [
+          32,
+          "Cross Poison"
+        ],
+        [
+          40,
+          "Tail Slap"
+        ],
+        [
+          48,
+          "Beat Up"
+        ],
+        [
+          56,
+          "Swagger"
+        ],
+        [
+          56,
+          "Flatter"
+        ],
+        [
+          64,
+          "Roost"
+        ],
+        [
+          72,
+          "Moonblast"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ]
+      ]
+    }
+  ]
+}

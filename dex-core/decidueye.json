@@ -1,0 +1,734 @@
+{
+  "name": "Decidueye",
+  "national": "0724",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Arrow Quill Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 36.6,
+        "imperial": 80.7
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Long Reach"
+      },
+      "stats": {
+        "hp": 78,
+        "atk": 107,
+        "def": 75,
+        "satk": 100,
+        "sdef": 100,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Spirit Shackle"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          null,
+          "Phantom Force"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "U-turn"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Spite"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          9,
+          "Peck"
+        ],
+        [
+          12,
+          "Shadow Sneak"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Synthesis"
+        ],
+        [
+          25,
+          "Pluck"
+        ],
+        [
+          30,
+          "Nasty Plot"
+        ],
+        [
+          37,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ],
+        [
+          51,
+          "Feather Dance"
+        ],
+        [
+          58,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM155",
+          "Frenzy Plant"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Nasty Plot"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Arrow Quill Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 37,
+        "imperial": 81.6
+      },
+      "ability": {
+        "normal": [
+          "Overgrow"
+        ],
+        "hidden": "Scrappy"
+      },
+      "stats": {
+        "hp": 88,
+        "atk": 112,
+        "def": 80,
+        "satk": 95,
+        "sdef": 95,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Triple Arrows"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "U-turn"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Leafage"
+        ],
+        [
+          9,
+          "Peck"
+        ],
+        [
+          12,
+          "Shadow Sneak"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Synthesis"
+        ],
+        [
+          25,
+          "Pluck"
+        ],
+        [
+          30,
+          "Bulk Up"
+        ],
+        [
+          37,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ],
+        [
+          51,
+          "Feather Dance"
+        ],
+        [
+          58,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM146",
+          "Grass Pledge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM155",
+          "Frenzy Plant"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Nasty Plot"
+        ]
+      ]
+    }
+  ]
+}

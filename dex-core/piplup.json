@@ -1,0 +1,262 @@
+{
+  "name": "Piplup",
+  "national": "0393",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Penguin Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 5.2,
+        "imperial": 11.5
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Defiant"
+      },
+      "stats": {
+        "hp": 53,
+        "atk": 51,
+        "def": 53,
+        "satk": 61,
+        "sdef": 56,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Water Gun"
+        ],
+        [
+          11,
+          "Charm"
+        ],
+        [
+          15,
+          "Peck"
+        ],
+        [
+          18,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Swagger"
+        ],
+        [
+          25,
+          "Fury Attack"
+        ],
+        [
+          29,
+          "Brine"
+        ],
+        [
+          32,
+          "Whirlpool"
+        ],
+        [
+          36,
+          "Mist"
+        ],
+        [
+          39,
+          "Drill Peck"
+        ],
+        [
+          43,
+          "Hydro Pump"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Snore"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Power Trip"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sleep Powder",
+  "power": null,
+  "accuracy": 75,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user scatters a cloud of soporific dust that puts the target to sleep."
+}

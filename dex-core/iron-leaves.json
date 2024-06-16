@@ -1,0 +1,290 @@
+{
+  "name": "Iron Leaves",
+  "national": "1010",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 125,
+        "imperial": 275.6
+      },
+      "ability": {
+        "normal": [
+          "Quark Drive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 130,
+        "def": 88,
+        "satk": 70,
+        "sdef": 108,
+        "spd": 104
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Work Up"
+        ],
+        [
+          7,
+          "Magical Leaf"
+        ],
+        [
+          14,
+          "Retaliate"
+        ],
+        [
+          21,
+          "Quick Guard"
+        ],
+        [
+          28,
+          "Night Slash"
+        ],
+        [
+          35,
+          "Swords Dance"
+        ],
+        [
+          42,
+          "Sacred Sword"
+        ],
+        [
+          49,
+          "Leaf Blade"
+        ],
+        [
+          56,
+          "Psyblade"
+        ],
+        [
+          63,
+          "Close Combat"
+        ],
+        [
+          70,
+          "Imprison"
+        ],
+        [
+          77,
+          "Megahorn"
+        ],
+        [
+          84,
+          "Ally Switch"
+        ],
+        [
+          91,
+          "Solar Blade"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "rem",
+          "Quash"
+        ],
+        [
+          "rem",
+          "Electric Terrain"
+        ]
+      ]
+    }
+  ]
+}

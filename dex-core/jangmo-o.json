@@ -1,0 +1,251 @@
+{
+  "name": "Jangmo-o",
+  "national": "0782",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scaly Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 29.7,
+        "imperial": 65.5
+      },
+      "ability": {
+        "normal": [
+          "Bulletproof",
+          "Soundproof"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 55,
+        "def": 65,
+        "satk": 45,
+        "sdef": 45,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          4,
+          "Protect"
+        ],
+        [
+          8,
+          "Dragon Tail"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Work Up"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Iron Defense"
+        ],
+        [
+          32,
+          "Dragon Claw"
+        ],
+        [
+          36,
+          "Noble Roar"
+        ],
+        [
+          40,
+          "Dragon Dance"
+        ],
+        [
+          44,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Focus Punch"
+        ]
+      ]
+    }
+  ]
+}

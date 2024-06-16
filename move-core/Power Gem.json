@@ -1,0 +1,8 @@
+{
+  "name": "Power Gem",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user attacks with a ray of light that sparkles as if it were made of gemstones."
+}

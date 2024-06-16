@@ -1,0 +1,8 @@
+{
+  "name": "Doodle",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user captures the very essence of the target in a sketch. This changes the Abilities of the user and its ally Pokémon to that of the target."
+}

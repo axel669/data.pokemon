@@ -1,0 +1,8 @@
+{
+  "name": "Substitute",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy."
+}

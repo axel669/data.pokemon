@@ -1,0 +1,486 @@
+{
+  "name": "Kyogre",
+  "national": "0382",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Basin Pokémon",
+      "height": {
+        "metric": 4.5,
+        "imperial": 177
+      },
+      "weight": {
+        "metric": 352,
+        "imperial": 776
+      },
+      "ability": {
+        "normal": [
+          "Drizzle"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 90,
+        "satk": 150,
+        "sdef": 140,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Body Slam"
+        ],
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Water Pulse"
+        ],
+        [
+          null,
+          "Origin Pulse"
+        ],
+        [
+          9,
+          "Aqua Tail"
+        ],
+        [
+          18,
+          "Calm Mind"
+        ],
+        [
+          27,
+          "Muddy Water"
+        ],
+        [
+          36,
+          "Ice Beam"
+        ],
+        [
+          45,
+          "Sheer Cold"
+        ],
+        [
+          54,
+          "Aqua Ring"
+        ],
+        [
+          72,
+          "Hydro Pump"
+        ],
+        [
+          81,
+          "Double-Edge"
+        ],
+        [
+          90,
+          "Water Spout"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ]
+      ]
+    },
+    {
+      "name": "Primal",
+      "species": "Sea Basin Pokémon",
+      "height": {
+        "metric": 9.8,
+        "imperial": 386
+      },
+      "weight": {
+        "metric": 430,
+        "imperial": 948
+      },
+      "ability": {
+        "normal": [
+          "Primordial Sea"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 90,
+        "satk": 180,
+        "sdef": 160,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Body Slam"
+        ],
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Ancient Power"
+        ],
+        [
+          null,
+          "Water Pulse"
+        ],
+        [
+          null,
+          "Origin Pulse"
+        ],
+        [
+          9,
+          "Aqua Tail"
+        ],
+        [
+          18,
+          "Calm Mind"
+        ],
+        [
+          27,
+          "Muddy Water"
+        ],
+        [
+          36,
+          "Ice Beam"
+        ],
+        [
+          45,
+          "Sheer Cold"
+        ],
+        [
+          54,
+          "Aqua Ring"
+        ],
+        [
+          72,
+          "Hydro Pump"
+        ],
+        [
+          81,
+          "Double-Edge"
+        ],
+        [
+          90,
+          "Water Spout"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ]
+      ]
+    }
+  ]
+}

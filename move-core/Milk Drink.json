@@ -1,0 +1,8 @@
+{
+  "name": "Milk Drink",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user restores its own HP by up to half its max HP."
+}

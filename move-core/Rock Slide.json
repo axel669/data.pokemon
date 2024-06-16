@@ -1,0 +1,8 @@
+{
+  "name": "Rock Slide",
+  "power": 75,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": 30,
+  "desc": "Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch."
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Tynamo",
+  "national": "0602",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleFish Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 55,
+        "def": 40,
+        "satk": 45,
+        "sdef": 40,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Spark"
+        ],
+        [
+          null,
+          "Charge Beam"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ]
+      ]
+    }
+  ]
+}

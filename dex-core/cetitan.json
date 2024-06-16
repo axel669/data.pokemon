@@ -1,0 +1,271 @@
+{
+  "name": "Cetitan",
+  "national": "0975",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Terra Whale Pokémon",
+      "height": {
+        "metric": 4.5,
+        "imperial": 177
+      },
+      "weight": {
+        "metric": 700,
+        "imperial": 1543.2
+      },
+      "ability": {
+        "normal": [
+          "Thick Fat",
+          "Slush Rush"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 170,
+        "atk": 113,
+        "def": 65,
+        "satk": 45,
+        "sdef": 55,
+        "spd": 73
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          6,
+          "Growl"
+        ],
+        [
+          9,
+          "Echoed Voice"
+        ],
+        [
+          12,
+          "Ice Shard"
+        ],
+        [
+          15,
+          "Rest"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          25,
+          "Flail"
+        ],
+        [
+          27,
+          "Avalanche"
+        ],
+        [
+          31,
+          "Bounce"
+        ],
+        [
+          36,
+          "Body Slam"
+        ],
+        [
+          40,
+          "Amnesia"
+        ],
+        [
+          44,
+          "Ice Spinner"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          53,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Superpower"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    }
+  ]
+}

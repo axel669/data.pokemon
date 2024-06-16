@@ -1,0 +1,8 @@
+{
+  "name": "Disable",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "For four turns, the target will be unable to use whichever move it last used."
+}

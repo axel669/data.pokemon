@@ -1,0 +1,8 @@
+{
+  "name": "Thunder Shock",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": 10,
+  "desc": "The user attacks the target with a jolt of electricity. This may also leave the target with paralysis."
+}

@@ -1,0 +1,298 @@
+{
+  "name": "Revavroom",
+  "national": "0966",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Multi-Cyl Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 120,
+        "imperial": 264.6
+      },
+      "ability": {
+        "normal": [
+          "Overcoat"
+        ],
+        "hidden": "Filter"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 119,
+        "def": 90,
+        "satk": 54,
+        "sdef": 67,
+        "spd": 90
+      },
+      "moves": [
+        [
+          "evo",
+          "Shift Gear"
+        ],
+        [
+          null,
+          "Magnet Rise"
+        ],
+        [
+          null,
+          "Lick"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          4,
+          "Smog"
+        ],
+        [
+          7,
+          "Taunt"
+        ],
+        [
+          10,
+          "Assurance"
+        ],
+        [
+          13,
+          "Sludge"
+        ],
+        [
+          17,
+          "Gyro Ball"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Screech"
+        ],
+        [
+          28,
+          "Iron Head"
+        ],
+        [
+          32,
+          "Swagger"
+        ],
+        [
+          36,
+          "Poison Jab"
+        ],
+        [
+          46,
+          "Uproar"
+        ],
+        [
+          52,
+          "Spin Out"
+        ],
+        [
+          58,
+          "Gunk Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Self-Destruct"
+        ],
+        [
+          "egg",
+          "Torment"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

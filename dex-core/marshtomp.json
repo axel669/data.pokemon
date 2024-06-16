@@ -1,0 +1,334 @@
+{
+  "name": "Marshtomp",
+  "national": "0259",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mud Fish Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 28,
+        "imperial": 61.7
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Damp"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 70,
+        "satk": 60,
+        "sdef": 70,
+        "spd": 50
+      },
+      "moves": [
+        [
+          "evo",
+          "Mud Shot"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          9,
+          "Rock Throw"
+        ],
+        [
+          12,
+          "Protect"
+        ],
+        [
+          15,
+          "Supersonic"
+        ],
+        [
+          20,
+          "Water Pulse"
+        ],
+        [
+          25,
+          "Rock Slide"
+        ],
+        [
+          30,
+          "Take Down"
+        ],
+        [
+          35,
+          "Amnesia"
+        ],
+        [
+          40,
+          "Muddy Water"
+        ],
+        [
+          45,
+          "Screech"
+        ],
+        [
+          50,
+          "Endeavor"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Sludge"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "rem",
+          "Rock Smash"
+        ],
+        [
+          "pre",
+          "Rock Smash"
+        ],
+        [
+          "pre",
+          "Surf"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "name": "Torracat",
+  "national": "0726",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Cat Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 25,
+        "imperial": 55.1
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Intimidate"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 85,
+        "def": 50,
+        "satk": 80,
+        "sdef": 50,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Lick"
+        ],
+        [
+          9,
+          "Roar"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          20,
+          "Double Kick"
+        ],
+        [
+          25,
+          "Fire Fang"
+        ],
+        [
+          30,
+          "Scary Face"
+        ],
+        [
+          35,
+          "Swagger"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          45,
+          "Thrash"
+        ],
+        [
+          50,
+          "Flare Blitz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ],
+        [
+          "egg",
+          "Power Trip"
+        ]
+      ]
+    }
+  ]
+}

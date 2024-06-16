@@ -1,0 +1,8 @@
+{
+  "name": "Infestation",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": 100,
+  "desc": "The target is infested and attacked for four to five turns. The target can't flee during this time."
+}

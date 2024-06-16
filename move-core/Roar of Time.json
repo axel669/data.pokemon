@@ -1,0 +1,8 @@
+{
+  "name": "Roar of Time",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user blasts the target with power that distorts even time. The user can't move on the next turn."
+}

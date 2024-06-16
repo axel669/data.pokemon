@@ -1,0 +1,291 @@
+{
+  "name": "Ribombee",
+  "national": "0743",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bee Fly Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.5,
+        "imperial": 1.1
+      },
+      "ability": {
+        "normal": [
+          "Honey Gather",
+          "Shield Dust"
+        ],
+        "hidden": "Sweet Veil"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 60,
+        "satk": 95,
+        "sdef": 70,
+        "spd": 124
+      },
+      "moves": [
+        [
+          "evo",
+          "Pollen Puff"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          18,
+          "Draining Kiss"
+        ],
+        [
+          24,
+          "Struggle Bug"
+        ],
+        [
+          32,
+          "Covet"
+        ],
+        [
+          40,
+          "Switcheroo"
+        ],
+        [
+          48,
+          "Dazzling Gleam"
+        ],
+        [
+          56,
+          "Bug Buzz"
+        ],
+        [
+          64,
+          "Quiver Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Sticky Web"
+        ],
+        [
+          "egg",
+          "Moonblast"
+        ],
+        [
+          "egg",
+          "Aromatic Mist"
+        ]
+      ]
+    }
+  ]
+}

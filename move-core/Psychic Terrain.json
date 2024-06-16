@@ -1,0 +1,8 @@
+{
+  "name": "Psychic Terrain",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns."
+}

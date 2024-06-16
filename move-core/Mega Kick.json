@@ -1,0 +1,8 @@
+{
+  "name": "Mega Kick",
+  "power": 120,
+  "accuracy": 75,
+  "pp": 5,
+  "effect": null,
+  "desc": "The target is attacked by a kick launched with muscle- packed power."
+}

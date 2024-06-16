@@ -1,0 +1,351 @@
+{
+  "name": "Bronzong",
+  "national": "0437",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bronze Bell Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 187,
+        "imperial": 412.3
+      },
+      "ability": {
+        "normal": [
+          "Levitate",
+          "Heatproof"
+        ],
+        "hidden": "Heavy Metal"
+      },
+      "stats": {
+        "hp": 67,
+        "atk": 89,
+        "def": 116,
+        "satk": 79,
+        "sdef": 116,
+        "spd": 33
+      },
+      "moves": [
+        [
+          "evo",
+          "Block"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Weather Ball"
+        ],
+        [
+          null,
+          "Payback"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Imprison"
+        ],
+        [
+          16,
+          "Gyro Ball"
+        ],
+        [
+          20,
+          "Hypnosis"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          28,
+          "Extrasensory"
+        ],
+        [
+          32,
+          "Heavy Slam"
+        ],
+        [
+          38,
+          "Iron Defense"
+        ],
+        [
+          44,
+          "Metal Sound"
+        ],
+        [
+          50,
+          "Future Sight"
+        ],
+        [
+          56,
+          "Rain Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Gravity"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Surf",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks everything around it by swamping its surroundings with a giant wave."
+}

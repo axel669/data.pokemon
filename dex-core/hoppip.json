@@ -1,0 +1,287 @@
+{
+  "name": "Hoppip",
+  "national": "0187",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cottonweed Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 0.5,
+        "imperial": 1.1
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Leaf Guard"
+        ],
+        "hidden": "Infiltrator"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 35,
+        "def": 40,
+        "satk": 35,
+        "sdef": 55,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          4,
+          "Tail Whip"
+        ],
+        [
+          6,
+          "Absorb"
+        ],
+        [
+          8,
+          "Fairy Wind"
+        ],
+        [
+          10,
+          "Poison Powder"
+        ],
+        [
+          10,
+          "Stun Spore"
+        ],
+        [
+          10,
+          "Sleep Powder"
+        ],
+        [
+          12,
+          "Bullet Seed"
+        ],
+        [
+          15,
+          "Synthesis"
+        ],
+        [
+          19,
+          "Leech Seed"
+        ],
+        [
+          22,
+          "Mega Drain"
+        ],
+        [
+          24,
+          "Acrobatics"
+        ],
+        [
+          27,
+          "Cotton Spore"
+        ],
+        [
+          29,
+          "U-turn"
+        ],
+        [
+          32,
+          "Giga Drain"
+        ],
+        [
+          35,
+          "Bounce"
+        ],
+        [
+          38,
+          "Memento"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Encore"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Seed Bomb"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ],
+        [
+          "egg",
+          "Cotton Guard"
+        ],
+        [
+          "egg",
+          "Grassy Terrain"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

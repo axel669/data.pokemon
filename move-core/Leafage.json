@@ -1,0 +1,8 @@
+{
+  "name": "Leafage",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "effect": null,
+  "desc": "The user attacks by pelting the target with leaves."
+}

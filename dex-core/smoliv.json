@@ -1,0 +1,198 @@
+{
+  "name": "Smoliv",
+  "national": "0928",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Olive Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 6.5,
+        "imperial": 14.3
+      },
+      "ability": {
+        "normal": [
+          "Early Bird"
+        ],
+        "hidden": "Harvest"
+      },
+      "stats": {
+        "hp": 41,
+        "atk": 35,
+        "def": 45,
+        "satk": 58,
+        "sdef": 51,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          7,
+          "Growth"
+        ],
+        [
+          10,
+          "Razor Leaf"
+        ],
+        [
+          13,
+          "Helping Hand"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          20,
+          "Mega Drain"
+        ],
+        [
+          23,
+          "Grassy Terrain"
+        ],
+        [
+          27,
+          "Seed Bomb"
+        ],
+        [
+          30,
+          "Energy Ball"
+        ],
+        [
+          34,
+          "Leech Seed"
+        ],
+        [
+          38,
+          "Terrain Pulse"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

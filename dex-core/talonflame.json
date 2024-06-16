@@ -1,0 +1,274 @@
+{
+  "name": "Talonflame",
+  "national": "0663",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scorching Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 24.5,
+        "imperial": 54
+      },
+      "ability": {
+        "normal": [
+          "Flame Body"
+        ],
+        "hidden": "Gale Wings"
+      },
+      "stats": {
+        "hp": 78,
+        "atk": 81,
+        "def": 71,
+        "satk": 74,
+        "sdef": 69,
+        "spd": 126
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Feint"
+        ],
+        [
+          null,
+          "Flare Blitz"
+        ],
+        [
+          null,
+          "Flame Charge"
+        ],
+        [
+          15,
+          "Flail"
+        ],
+        [
+          22,
+          "Acrobatics"
+        ],
+        [
+          29,
+          "Agility"
+        ],
+        [
+          38,
+          "Aerial Ace"
+        ],
+        [
+          47,
+          "Tailwind"
+        ],
+        [
+          56,
+          "Steel Wing"
+        ],
+        [
+          65,
+          "Roost"
+        ],
+        [
+          74,
+          "Fly"
+        ],
+        [
+          83,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Flame Charge"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

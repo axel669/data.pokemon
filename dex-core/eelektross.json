@@ -1,0 +1,350 @@
+{
+  "name": "Eelektross",
+  "national": "0604",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleFish Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 80.5,
+        "imperial": 177.5
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 115,
+        "def": 80,
+        "satk": 105,
+        "sdef": 80,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Thrash"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Zap Cannon"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Crush Claw"
+        ],
+        [
+          null,
+          "Gastro Acid"
+        ],
+        [
+          null,
+          "Discharge"
+        ],
+        [
+          null,
+          "Coil"
+        ],
+        [
+          5,
+          "Wild Charge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "pre",
+          "Thunder Wave"
+        ],
+        [
+          "pre",
+          "Spark"
+        ],
+        [
+          "pre",
+          "Charge Beam"
+        ],
+        [
+          "pre",
+          "Bind"
+        ],
+        [
+          "pre",
+          "Thunderbolt"
+        ],
+        [
+          "pre",
+          "Acid Spray"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ]
+      ]
+    }
+  ]
+}

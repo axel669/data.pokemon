@@ -1,0 +1,8 @@
+{
+  "name": "Low Kick",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power."
+}

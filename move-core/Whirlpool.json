@@ -1,0 +1,8 @@
+{
+  "name": "Whirlpool",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "effect": 100,
+  "desc": "The user traps the target inside a violent, swirling whirlpool that inflicts damage for four to five turns."
+}

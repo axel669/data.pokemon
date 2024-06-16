@@ -1,0 +1,8 @@
+{
+  "name": "Psych Up",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user hypnotizes itself into copying any stat change made by the target."
+}

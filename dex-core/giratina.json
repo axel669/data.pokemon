@@ -1,0 +1,582 @@
+{
+  "name": "Giratina",
+  "national": "0487",
+  "forms": [
+    {
+      "name": "Altered Forme",
+      "species": "Renegade Pokémon",
+      "height": {
+        "metric": 4.5,
+        "imperial": 177
+      },
+      "weight": {
+        "metric": 750,
+        "imperial": 1653.5
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 150,
+        "atk": 100,
+        "def": 120,
+        "satk": 100,
+        "sdef": 120,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Shadow Sneak"
+        ],
+        [
+          null,
+          "Defog"
+        ],
+        [
+          7,
+          "Dragon Breath"
+        ],
+        [
+          14,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Hex"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          35,
+          "Scary Face"
+        ],
+        [
+          42,
+          "Shadow Claw"
+        ],
+        [
+          49,
+          "Pain Split"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          63,
+          "Dragon Claw"
+        ],
+        [
+          70,
+          "Earth Power"
+        ],
+        [
+          77,
+          "Shadow Force"
+        ],
+        [
+          84,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    },
+    {
+      "name": "Origin Forme",
+      "species": "Renegade Pokémon",
+      "height": {
+        "metric": 6.9,
+        "imperial": 272
+      },
+      "weight": {
+        "metric": 650,
+        "imperial": 1433
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 150,
+        "atk": 120,
+        "def": 100,
+        "satk": 120,
+        "sdef": 100,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Shadow Sneak"
+        ],
+        [
+          null,
+          "Defog"
+        ],
+        [
+          7,
+          "Dragon Breath"
+        ],
+        [
+          14,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Hex"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          35,
+          "Scary Face"
+        ],
+        [
+          42,
+          "Shadow Claw"
+        ],
+        [
+          49,
+          "Pain Split"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          63,
+          "Dragon Claw"
+        ],
+        [
+          70,
+          "Earth Power"
+        ],
+        [
+          77,
+          "Shadow Force"
+        ],
+        [
+          84,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    }
+  ]
+}

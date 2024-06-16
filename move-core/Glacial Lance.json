@@ -1,0 +1,8 @@
+{
+  "name": "Glacial Lance",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Discharge",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 30,
+  "desc": "The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Taunt",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+}

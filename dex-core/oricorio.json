@@ -1,0 +1,982 @@
+{
+  "name": "Oricorio",
+  "national": "0741",
+  "forms": [
+    {
+      "name": "Baile Style",
+      "species": "Dancing Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 3.4,
+        "imperial": 7.5
+      },
+      "ability": {
+        "normal": [
+          "Dancer"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "satk": 98,
+        "sdef": 70,
+        "spd": 93
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          6,
+          "Peck"
+        ],
+        [
+          10,
+          "Helping Hand"
+        ],
+        [
+          13,
+          "Air Cutter"
+        ],
+        [
+          16,
+          "Baton Pass"
+        ],
+        [
+          20,
+          "Feather Dance"
+        ],
+        [
+          23,
+          "Acrobatics"
+        ],
+        [
+          26,
+          "Teeter Dance"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          33,
+          "Flatter"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "Revelation Dance"
+        ],
+        [
+          43,
+          "Agility"
+        ],
+        [
+          47,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Attract"
+        ],
+        [
+          "egg",
+          "Safeguard"
+        ],
+        [
+          "egg",
+          "Pluck"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quiver Dance"
+        ]
+      ]
+    },
+    {
+      "name": "Pom-Pom Style",
+      "species": "Dancing Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 3.4,
+        "imperial": 7.5
+      },
+      "ability": {
+        "normal": [
+          "Dancer"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "satk": 98,
+        "sdef": 70,
+        "spd": 93
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          6,
+          "Peck"
+        ],
+        [
+          10,
+          "Helping Hand"
+        ],
+        [
+          13,
+          "Air Cutter"
+        ],
+        [
+          16,
+          "Baton Pass"
+        ],
+        [
+          20,
+          "Feather Dance"
+        ],
+        [
+          23,
+          "Acrobatics"
+        ],
+        [
+          26,
+          "Teeter Dance"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          33,
+          "Flatter"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "Revelation Dance"
+        ],
+        [
+          43,
+          "Agility"
+        ],
+        [
+          47,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Attract"
+        ],
+        [
+          "egg",
+          "Safeguard"
+        ],
+        [
+          "egg",
+          "Pluck"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quiver Dance"
+        ]
+      ]
+    },
+    {
+      "name": "Pa'u Style",
+      "species": "Dancing Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 3.4,
+        "imperial": 7.5
+      },
+      "ability": {
+        "normal": [
+          "Dancer"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "satk": 98,
+        "sdef": 70,
+        "spd": 93
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          6,
+          "Peck"
+        ],
+        [
+          10,
+          "Helping Hand"
+        ],
+        [
+          13,
+          "Air Cutter"
+        ],
+        [
+          16,
+          "Baton Pass"
+        ],
+        [
+          20,
+          "Feather Dance"
+        ],
+        [
+          23,
+          "Acrobatics"
+        ],
+        [
+          26,
+          "Teeter Dance"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          33,
+          "Flatter"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "Revelation Dance"
+        ],
+        [
+          43,
+          "Agility"
+        ],
+        [
+          47,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Attract"
+        ],
+        [
+          "egg",
+          "Safeguard"
+        ],
+        [
+          "egg",
+          "Pluck"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quiver Dance"
+        ]
+      ]
+    },
+    {
+      "name": "Sensu Style",
+      "species": "Dancing Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 3.4,
+        "imperial": 7.5
+      },
+      "ability": {
+        "normal": [
+          "Dancer"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 70,
+        "def": 70,
+        "satk": 98,
+        "sdef": 70,
+        "spd": 93
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          6,
+          "Peck"
+        ],
+        [
+          10,
+          "Helping Hand"
+        ],
+        [
+          13,
+          "Air Cutter"
+        ],
+        [
+          16,
+          "Baton Pass"
+        ],
+        [
+          20,
+          "Feather Dance"
+        ],
+        [
+          23,
+          "Acrobatics"
+        ],
+        [
+          26,
+          "Teeter Dance"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          33,
+          "Flatter"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "Revelation Dance"
+        ],
+        [
+          43,
+          "Agility"
+        ],
+        [
+          47,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Attract"
+        ],
+        [
+          "egg",
+          "Safeguard"
+        ],
+        [
+          "egg",
+          "Pluck"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Quiver Dance"
+        ]
+      ]
+    }
+  ]
+}

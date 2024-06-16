@@ -1,0 +1,8 @@
+{
+  "name": "Take Down",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": null,
+  "desc": "A reckless full-body charge attack for slamming into the target. This also damages the user a little."
+}

@@ -1,0 +1,283 @@
+{
+  "name": "Slugma",
+  "national": "0218",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Lava Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 35,
+        "imperial": 77.2
+      },
+      "ability": {
+        "normal": [
+          "Magma Armor",
+          "Flame Body"
+        ],
+        "hidden": "Weak Armor"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 40,
+        "satk": 70,
+        "sdef": 40,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Yawn"
+        ],
+        [
+          6,
+          "Ember"
+        ],
+        [
+          8,
+          "Rock Throw"
+        ],
+        [
+          13,
+          "Harden"
+        ],
+        [
+          20,
+          "Clear Smog"
+        ],
+        [
+          22,
+          "Ancient Power"
+        ],
+        [
+          27,
+          "Incinerate"
+        ],
+        [
+          29,
+          "Rock Slide"
+        ],
+        [
+          34,
+          "Lava Plume"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          41,
+          "Body Slam"
+        ],
+        [
+          43,
+          "Recover"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          50,
+          "Earth Power"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Smokescreen"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Guard Swap"
+        ],
+        [
+          "egg",
+          "Inferno"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "name": "Flareon",
+  "national": "0136",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flame Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 25,
+        "imperial": 55.1
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire"
+        ],
+        "hidden": "Guts"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 130,
+        "def": 60,
+        "satk": 95,
+        "sdef": 110,
+        "spd": 65
+      },
+      "moves": [
+        [
+          "evo",
+          "Ember"
+        ],
+        [
+          null,
+          "Swift"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Take Down"
+        ],
+        [
+          null,
+          "Double-Edge"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Covet"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Baton Pass"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          20,
+          "Smog"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Fire Fang"
+        ],
+        [
+          35,
+          "Fire Spin"
+        ],
+        [
+          40,
+          "Lava Plume"
+        ],
+        [
+          45,
+          "Scary Face"
+        ],
+        [
+          50,
+          "Flare Blitz"
+        ],
+        [
+          55,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ]
+      ]
+    }
+  ]
+}

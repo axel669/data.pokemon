@@ -1,0 +1,8 @@
+{
+  "name": "Powder Snow",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": 10,
+  "desc": "The user attacks with a chilling gust of powdery snow. This may also leave opposing Pokémon frozen."
+}

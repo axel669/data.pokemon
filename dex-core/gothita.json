@@ -1,0 +1,283 @@
+{
+  "name": "Gothita",
+  "national": "0574",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fixation Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 5.8,
+        "imperial": 12.8
+      },
+      "ability": {
+        "normal": [
+          "Frisk",
+          "Competitive"
+        ],
+        "hidden": "Shadow Tag"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 50,
+        "satk": 55,
+        "sdef": 65,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          4,
+          "Play Nice"
+        ],
+        [
+          8,
+          "Tickle"
+        ],
+        [
+          12,
+          "Psybeam"
+        ],
+        [
+          16,
+          "Charm"
+        ],
+        [
+          20,
+          "Psyshock"
+        ],
+        [
+          24,
+          "Hypnosis"
+        ],
+        [
+          28,
+          "Fake Tears"
+        ],
+        [
+          33,
+          "Psych Up"
+        ],
+        [
+          36,
+          "Psychic"
+        ],
+        [
+          40,
+          "Flatter"
+        ],
+        [
+          44,
+          "Future Sight"
+        ],
+        [
+          48,
+          "Magic Room"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Mean Look"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Torment"
+        ],
+        [
+          "egg",
+          "Heal Pulse"
+        ]
+      ]
+    }
+  ]
+}

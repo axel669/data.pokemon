@@ -1,0 +1,8 @@
+{
+  "name": "Low Sweep",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user makes a swift attack on the target's legs, which lowers the target's Speed stat."
+}

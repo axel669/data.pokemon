@@ -1,0 +1,267 @@
+{
+  "name": "Shellos",
+  "national": "0422",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Slug Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 6.3,
+        "imperial": 13.9
+      },
+      "ability": {
+        "normal": [
+          "Sticky Hold",
+          "Storm Drain"
+        ],
+        "hidden": "Sand Force"
+      },
+      "stats": {
+        "hp": 76,
+        "atk": 48,
+        "def": 48,
+        "satk": 57,
+        "sdef": 62,
+        "spd": 34
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          5,
+          "Harden"
+        ],
+        [
+          10,
+          "Recover"
+        ],
+        [
+          15,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Body Slam"
+        ],
+        [
+          31,
+          "Muddy Water"
+        ],
+        [
+          35,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Rain Dance"
+        ],
+        [
+          45,
+          "Memento"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Sludge"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Blast Burn",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The target is razed by a fiery explosion. The user can't move on the next turn."
+}

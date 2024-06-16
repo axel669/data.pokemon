@@ -1,0 +1,302 @@
+{
+  "name": "Gouging Fire",
+  "national": "1020",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 3.5,
+        "imperial": 138
+      },
+      "weight": {
+        "metric": 590,
+        "imperial": 1300.7
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 105,
+        "atk": 115,
+        "def": 121,
+        "satk": 65,
+        "sdef": 93,
+        "spd": 91
+      },
+      "moves": [
+        [
+          null,
+          "Stomp"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Incinerate"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          7,
+          "Fire Fang"
+        ],
+        [
+          14,
+          "Howl"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          28,
+          "Dragon Claw"
+        ],
+        [
+          35,
+          "Crush Claw"
+        ],
+        [
+          42,
+          "Morning Sun"
+        ],
+        [
+          49,
+          "Burning Bulwark"
+        ],
+        [
+          56,
+          "Dragon Rush"
+        ],
+        [
+          63,
+          "Fire Blast"
+        ],
+        [
+          70,
+          "Lava Plume"
+        ],
+        [
+          77,
+          "Outrage"
+        ],
+        [
+          84,
+          "Flare Blitz"
+        ],
+        [
+          91,
+          "Raging Fury"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "rem",
+          "Double Kick"
+        ],
+        [
+          "rem",
+          "Ancient Power"
+        ],
+        [
+          "rem",
+          "Noble Roar"
+        ]
+      ]
+    }
+  ]
+}

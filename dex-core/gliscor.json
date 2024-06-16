@@ -1,0 +1,387 @@
+{
+  "name": "Gliscor",
+  "national": "0472",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fang Scorp Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 42.5,
+        "imperial": 93.7
+      },
+      "ability": {
+        "normal": [
+          "Hyper Cutter",
+          "Sand Veil"
+        ],
+        "hidden": "Poison Heal"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 125,
+        "satk": 45,
+        "sdef": 75,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Poison Jab"
+        ],
+        [
+          null,
+          "Thunder Fang"
+        ],
+        [
+          null,
+          "Ice Fang"
+        ],
+        [
+          null,
+          "Fire Fang"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          16,
+          "Fury Cutter"
+        ],
+        [
+          19,
+          "Knock Off"
+        ],
+        [
+          22,
+          "Acrobatics"
+        ],
+        [
+          27,
+          "Night Slash"
+        ],
+        [
+          30,
+          "U-turn"
+        ],
+        [
+          35,
+          "Screech"
+        ],
+        [
+          40,
+          "X-Scissor"
+        ],
+        [
+          45,
+          "Crabhammer"
+        ],
+        [
+          50,
+          "Swords Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "egg",
+          "Wing Attack"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Cross Poison"
+        ],
+        [
+          "pre",
+          "Poison Sting"
+        ],
+        [
+          "pre",
+          "Poison Tail"
+        ],
+        [
+          "pre",
+          "Slash"
+        ]
+      ]
+    }
+  ]
+}

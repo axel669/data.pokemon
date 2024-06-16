@@ -1,0 +1,8 @@
+{
+  "name": "Guard Swap",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target."
+}

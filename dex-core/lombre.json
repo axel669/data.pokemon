@@ -1,0 +1,327 @@
+{
+  "name": "Lombre",
+  "national": "0271",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Jolly Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 32.5,
+        "imperial": 71.7
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Rain Dish"
+        ],
+        "hidden": "Own Tempo"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 50,
+        "satk": 60,
+        "sdef": 70,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Teeter Dance"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Knock Off"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          9,
+          "Mist"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          18,
+          "Fury Swipes"
+        ],
+        [
+          24,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Leech Seed"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          50,
+          "Zen Headbutt"
+        ],
+        [
+          57,
+          "Energy Ball"
+        ],
+        [
+          64,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Razor Leaf"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "pre",
+          "Rain Dance"
+        ]
+      ]
+    }
+  ]
+}

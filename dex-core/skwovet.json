@@ -1,0 +1,202 @@
+{
+  "name": "Skwovet",
+  "national": "0819",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cheeky Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.5,
+        "imperial": 5.5
+      },
+      "ability": {
+        "normal": [
+          "Cheek Pouch"
+        ],
+        "hidden": "Gluttony"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 55,
+        "satk": 35,
+        "sdef": 35,
+        "spd": 25
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Bite"
+        ],
+        [
+          10,
+          "Stuff Cheeks"
+        ],
+        [
+          15,
+          "Stockpile"
+        ],
+        [
+          15,
+          "Spit Up"
+        ],
+        [
+          15,
+          "Swallow"
+        ],
+        [
+          20,
+          "Body Slam"
+        ],
+        [
+          25,
+          "Rest"
+        ],
+        [
+          30,
+          "Counter"
+        ],
+        [
+          35,
+          "Bullet Seed"
+        ],
+        [
+          40,
+          "Super Fang"
+        ],
+        [
+          45,
+          "Belch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Belly Drum"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ]
+      ]
+    }
+  ]
+}

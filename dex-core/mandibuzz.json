@@ -1,0 +1,295 @@
+{
+  "name": "Mandibuzz",
+  "national": "0630",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bone Vulture Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 39.5,
+        "imperial": 87.1
+      },
+      "ability": {
+        "normal": [
+          "Big Pecks",
+          "Overcoat"
+        ],
+        "hidden": "Weak Armor"
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 65,
+        "def": 105,
+        "satk": 55,
+        "sdef": 95,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Bone Rush"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Toxic"
+        ],
+        [
+          null,
+          "Sky Attack"
+        ],
+        [
+          null,
+          "Pluck"
+        ],
+        [
+          null,
+          "Flatter"
+        ],
+        [
+          18,
+          "Tailwind"
+        ],
+        [
+          24,
+          "Knock Off"
+        ],
+        [
+          30,
+          "Iron Defense"
+        ],
+        [
+          36,
+          "Whirlwind"
+        ],
+        [
+          42,
+          "Air Slash"
+        ],
+        [
+          48,
+          "Dark Pulse"
+        ],
+        [
+          57,
+          "Nasty Plot"
+        ],
+        [
+          64,
+          "Defog"
+        ],
+        [
+          72,
+          "Attract"
+        ],
+        [
+          80,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Mean Look"
+        ],
+        [
+          "egg",
+          "Roost"
+        ]
+      ]
+    }
+  ]
+}

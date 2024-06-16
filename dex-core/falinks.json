@@ -1,0 +1,250 @@
+{
+  "name": "Falinks",
+  "national": "0870",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Formation Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 62,
+        "imperial": 136.7
+      },
+      "ability": {
+        "normal": [
+          "Battle Armor"
+        ],
+        "hidden": "Defiant"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 100,
+        "def": 100,
+        "satk": 70,
+        "sdef": 60,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          5,
+          "Rock Smash"
+        ],
+        [
+          10,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Bulk Up"
+        ],
+        [
+          25,
+          "Endure"
+        ],
+        [
+          30,
+          "Reversal"
+        ],
+        [
+          35,
+          "First Impression"
+        ],
+        [
+          40,
+          "No Retreat"
+        ],
+        [
+          45,
+          "Iron Defense"
+        ],
+        [
+          50,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Megahorn"
+        ],
+        [
+          60,
+          "Counter"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ]
+      ]
+    }
+  ]
+}

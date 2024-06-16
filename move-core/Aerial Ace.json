@@ -1,0 +1,8 @@
+{
+  "name": "Aerial Ace",
+  "power": 60,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user confounds the target with speed, then slashes. This attack never misses."
+}

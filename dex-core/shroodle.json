@@ -1,0 +1,283 @@
+{
+  "name": "Shroodle",
+  "national": "0944",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Toxic Mouse Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.7,
+        "imperial": 1.5
+      },
+      "ability": {
+        "normal": [
+          "Unburden",
+          "Pickpocket"
+        ],
+        "hidden": "Prankster"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 65,
+        "def": 35,
+        "satk": 40,
+        "sdef": 35,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          5,
+          "Acid Spray"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          11,
+          "Switcheroo"
+        ],
+        [
+          14,
+          "Poison Fang"
+        ],
+        [
+          18,
+          "Flatter"
+        ],
+        [
+          21,
+          "Slash"
+        ],
+        [
+          25,
+          "U-turn"
+        ],
+        [
+          29,
+          "Poison Jab"
+        ],
+        [
+          33,
+          "Taunt"
+        ],
+        [
+          36,
+          "Substitute"
+        ],
+        [
+          40,
+          "Knock Off"
+        ],
+        [
+          45,
+          "Gunk Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Super Fang"
+        ],
+        [
+          "egg",
+          "Swagger"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Cross Poison"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

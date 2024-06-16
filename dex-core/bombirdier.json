@@ -1,0 +1,303 @@
+{
+  "name": "Bombirdier",
+  "national": "0962",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Item Drop Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 42.9,
+        "imperial": 94.6
+      },
+      "ability": {
+        "normal": [
+          "Big Pecks",
+          "Keen Eye"
+        ],
+        "hidden": "Rocky Payload"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 103,
+        "def": 85,
+        "satk": 60,
+        "sdef": 85,
+        "spd": 82
+      },
+      "moves": [
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Memento"
+        ],
+        [
+          null,
+          "Hone Claws"
+        ],
+        [
+          7,
+          "Thief"
+        ],
+        [
+          11,
+          "Rock Throw"
+        ],
+        [
+          16,
+          "Whirlwind"
+        ],
+        [
+          20,
+          "Pluck"
+        ],
+        [
+          24,
+          "Torment"
+        ],
+        [
+          29,
+          "Rock Tomb"
+        ],
+        [
+          36,
+          "Payback"
+        ],
+        [
+          42,
+          "Dual Wingbeat"
+        ],
+        [
+          47,
+          "Rock Slide"
+        ],
+        [
+          53,
+          "Knock Off"
+        ],
+        [
+          60,
+          "Parting Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Power Trip"
+        ]
+      ]
+    }
+  ]
+}

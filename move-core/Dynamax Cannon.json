@@ -1,0 +1,8 @@
+{
+  "name": "Dynamax Cannon",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user condenses energy within its body and unleashes that energy from its core to inflict damage."
+}

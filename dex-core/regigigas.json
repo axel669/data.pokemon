@@ -1,0 +1,270 @@
+{
+  "name": "Regigigas",
+  "national": "0486",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Colossal Pokémon",
+      "height": {
+        "metric": 3.7,
+        "imperial": 146
+      },
+      "weight": {
+        "metric": 420,
+        "imperial": 925.9
+      },
+      "ability": {
+        "normal": [
+          "Slow Start"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 160,
+        "def": 110,
+        "satk": 80,
+        "sdef": 110,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          6,
+          "Payback"
+        ],
+        [
+          12,
+          "Facade"
+        ],
+        [
+          18,
+          "Stomp"
+        ],
+        [
+          24,
+          "Protect"
+        ],
+        [
+          30,
+          "Knock Off"
+        ],
+        [
+          36,
+          "Mega Punch"
+        ],
+        [
+          42,
+          "Body Press"
+        ],
+        [
+          48,
+          "Wide Guard"
+        ],
+        [
+          54,
+          "Zen Headbutt"
+        ],
+        [
+          60,
+          "Heavy Slam"
+        ],
+        [
+          66,
+          "Hammer Arm"
+        ],
+        [
+          72,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Crush Grip"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ]
+      ]
+    }
+  ]
+}

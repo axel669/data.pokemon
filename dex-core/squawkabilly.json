@@ -1,0 +1,1002 @@
+{
+  "name": "Squawkabilly",
+  "national": "0931",
+  "forms": [
+    {
+      "name": "Green Plumage",
+      "species": "Parrot Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 2.4,
+        "imperial": 5.3
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Hustle"
+        ],
+        "hidden": "Guts"
+      },
+      "stats": {
+        "hp": 82,
+        "atk": 96,
+        "def": 51,
+        "satk": 45,
+        "sdef": 51,
+        "spd": 92
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Mimic"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Torment"
+        ],
+        [
+          13,
+          "Aerial Ace"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Uproar"
+        ],
+        [
+          27,
+          "Copycat"
+        ],
+        [
+          30,
+          "Fly"
+        ],
+        [
+          34,
+          "Facade"
+        ],
+        [
+          38,
+          "Swagger"
+        ],
+        [
+          42,
+          "Brave Bird"
+        ],
+        [
+          47,
+          "Roost"
+        ],
+        [
+          52,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    },
+    {
+      "name": "Blue Plumage",
+      "species": "Parrot Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 2.4,
+        "imperial": 5.3
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Hustle"
+        ],
+        "hidden": "Guts"
+      },
+      "stats": {
+        "hp": 82,
+        "atk": 96,
+        "def": 51,
+        "satk": 45,
+        "sdef": 51,
+        "spd": 92
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Mimic"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Torment"
+        ],
+        [
+          13,
+          "Aerial Ace"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Uproar"
+        ],
+        [
+          27,
+          "Copycat"
+        ],
+        [
+          30,
+          "Fly"
+        ],
+        [
+          34,
+          "Facade"
+        ],
+        [
+          38,
+          "Swagger"
+        ],
+        [
+          42,
+          "Brave Bird"
+        ],
+        [
+          47,
+          "Roost"
+        ],
+        [
+          52,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    },
+    {
+      "name": "Yellow Plumage",
+      "species": "Parrot Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 2.4,
+        "imperial": 5.3
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Hustle"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 82,
+        "atk": 96,
+        "def": 51,
+        "satk": 45,
+        "sdef": 51,
+        "spd": 92
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Mimic"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Torment"
+        ],
+        [
+          13,
+          "Aerial Ace"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Uproar"
+        ],
+        [
+          27,
+          "Copycat"
+        ],
+        [
+          30,
+          "Fly"
+        ],
+        [
+          34,
+          "Facade"
+        ],
+        [
+          38,
+          "Swagger"
+        ],
+        [
+          42,
+          "Brave Bird"
+        ],
+        [
+          47,
+          "Roost"
+        ],
+        [
+          52,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    },
+    {
+      "name": "White Plumage",
+      "species": "Parrot Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 2.4,
+        "imperial": 5.3
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Hustle"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 82,
+        "atk": 96,
+        "def": 51,
+        "satk": 45,
+        "sdef": 51,
+        "spd": 92
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Mimic"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Torment"
+        ],
+        [
+          13,
+          "Aerial Ace"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Uproar"
+        ],
+        [
+          27,
+          "Copycat"
+        ],
+        [
+          30,
+          "Fly"
+        ],
+        [
+          34,
+          "Facade"
+        ],
+        [
+          38,
+          "Swagger"
+        ],
+        [
+          42,
+          "Brave Bird"
+        ],
+        [
+          47,
+          "Roost"
+        ],
+        [
+          52,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Final Gambit"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "name": "Baxcalibur",
+  "national": "0998",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ice Dragon Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 210,
+        "imperial": 463
+      },
+      "ability": {
+        "normal": [
+          "Thermal Exchange"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 115,
+        "atk": 145,
+        "def": 92,
+        "satk": 75,
+        "sdef": 86,
+        "spd": 87
+      },
+      "moves": [
+        [
+          "evo",
+          "Glaive Rush"
+        ],
+        [
+          null,
+          "Snowscape"
+        ],
+        [
+          null,
+          "Breaking Swipe"
+        ],
+        [
+          null,
+          "Dragon Tail"
+        ],
+        [
+          null,
+          "Ice Shard"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          6,
+          "Icy Wind"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          18,
+          "Focus Energy"
+        ],
+        [
+          24,
+          "Bite"
+        ],
+        [
+          29,
+          "Ice Fang"
+        ],
+        [
+          35,
+          "Dragon Claw"
+        ],
+        [
+          42,
+          "Take Down"
+        ],
+        [
+          48,
+          "Ice Beam"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          62,
+          "Icicle Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Icicle Spear"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Freeze-Dry"
+        ]
+      ]
+    }
+  ]
+}

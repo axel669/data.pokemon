@@ -1,0 +1,279 @@
+{
+  "name": "Cloyster",
+  "national": "0091",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bivalve Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 132.5,
+        "imperial": 292.1
+      },
+      "ability": {
+        "normal": [
+          "Shell Armor",
+          "Skill Link"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 95,
+        "def": 180,
+        "satk": 85,
+        "sdef": 45,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Icicle Spear"
+        ],
+        [
+          null,
+          "Icicle Crash"
+        ],
+        [
+          null,
+          "Shell Smash"
+        ],
+        [
+          null,
+          "Ice Shard"
+        ],
+        [
+          null,
+          "Toxic Spikes"
+        ],
+        [
+          null,
+          "Iron Defense"
+        ],
+        [
+          null,
+          "Whirlpool"
+        ],
+        [
+          null,
+          "Spikes"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Aurora Beam"
+        ],
+        [
+          null,
+          "Ice Beam"
+        ],
+        [
+          null,
+          "Hydro Pump"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          5,
+          "Razor Shell"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "egg",
+          "Bubble Beam"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ]
+      ]
+    }
+  ]
+}

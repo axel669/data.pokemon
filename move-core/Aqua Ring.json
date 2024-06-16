@@ -1,0 +1,8 @@
+{
+  "name": "Aqua Ring",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user envelops itself in a veil made of water. It regains some HP every turn."
+}

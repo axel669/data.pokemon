@@ -1,0 +1,8 @@
+{
+  "name": "Baton Pass",
+  "power": null,
+  "accuracy": 101,
+  "pp": 40,
+  "effect": null,
+  "desc": "The user switches places with a party Pokémon in waiting and passes along any stat changes."
+}

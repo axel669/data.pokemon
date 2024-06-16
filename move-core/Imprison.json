@@ -1,0 +1,8 @@
+{
+  "name": "Imprison",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "If opposing Pokémon know any move also known by the user, they are prevented from using it."
+}

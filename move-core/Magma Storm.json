@@ -1,0 +1,8 @@
+{
+  "name": "Magma Storm",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 5,
+  "effect": 100,
+  "desc": "The user traps the target inside a maelstrom of fire that inflicts damage for four to five turns."
+}

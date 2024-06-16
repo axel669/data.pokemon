@@ -1,0 +1,8 @@
+{
+  "name": "Fairy Wind",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user attacks by stirring up a fairy wind to strike the target."
+}

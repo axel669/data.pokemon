@@ -1,0 +1,275 @@
+{
+  "name": "Tsareena",
+  "national": "0763",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fruit Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 21.4,
+        "imperial": 47.2
+      },
+      "ability": {
+        "normal": [
+          "Leaf Guard",
+          "Queenly Majesty"
+        ],
+        "hidden": "Sweet Veil"
+      },
+      "stats": {
+        "hp": 72,
+        "atk": 120,
+        "def": 98,
+        "satk": 50,
+        "sdef": 98,
+        "spd": 72
+      },
+      "moves": [
+        [
+          "evo",
+          "Trop Kick"
+        ],
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Swagger"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Power Whip"
+        ],
+        [
+          null,
+          "Play Nice"
+        ],
+        [
+          16,
+          "Sweet Scent"
+        ],
+        [
+          22,
+          "Magical Leaf"
+        ],
+        [
+          28,
+          "Stomp"
+        ],
+        [
+          34,
+          "Teeter Dance"
+        ],
+        [
+          40,
+          "Aromatic Mist"
+        ],
+        [
+          46,
+          "Leaf Storm"
+        ],
+        [
+          58,
+          "High Jump Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ]
+      ]
+    }
+  ]
+}

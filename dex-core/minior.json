@@ -1,0 +1,494 @@
+{
+  "name": "Minior",
+  "national": "0774",
+  "forms": [
+    {
+      "name": "Meteor Form",
+      "species": "Meteor Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 40,
+        "imperial": 88.2
+      },
+      "ability": {
+        "normal": [
+          "Shields Down"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 100,
+        "satk": 60,
+        "sdef": 100,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          3,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Rollout"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Swift"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Self-Destruct"
+        ],
+        [
+          24,
+          "Stealth Rock"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          31,
+          "Rock Polish"
+        ],
+        [
+          36,
+          "Cosmic Power"
+        ],
+        [
+          38,
+          "Power Gem"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          45,
+          "Shell Smash"
+        ],
+        [
+          50,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    },
+    {
+      "name": "Core Form",
+      "species": "Meteor Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Shields Down"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 60,
+        "satk": 100,
+        "sdef": 60,
+        "spd": 120
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          3,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Rollout"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Swift"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Self-Destruct"
+        ],
+        [
+          24,
+          "Stealth Rock"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          31,
+          "Rock Polish"
+        ],
+        [
+          36,
+          "Cosmic Power"
+        ],
+        [
+          38,
+          "Power Gem"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          45,
+          "Shell Smash"
+        ],
+        [
+          50,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    }
+  ]
+}

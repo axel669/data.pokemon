@@ -1,0 +1,227 @@
+{
+  "name": "Steenee",
+  "national": "0762",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fruit Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 8.2,
+        "imperial": 18.1
+      },
+      "ability": {
+        "normal": [
+          "Leaf Guard",
+          "Oblivious"
+        ],
+        "hidden": "Sweet Veil"
+      },
+      "stats": {
+        "hp": 52,
+        "atk": 40,
+        "def": 48,
+        "satk": 40,
+        "sdef": 48,
+        "spd": 62
+      },
+      "moves": [
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Play Nice"
+        ],
+        [
+          16,
+          "Sweet Scent"
+        ],
+        [
+          22,
+          "Magical Leaf"
+        ],
+        [
+          28,
+          "Stomp"
+        ],
+        [
+          34,
+          "Teeter Dance"
+        ],
+        [
+          40,
+          "Aromatic Mist"
+        ],
+        [
+          46,
+          "Leaf Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ]
+      ]
+    }
+  ]
+}

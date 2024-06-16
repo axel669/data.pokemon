@@ -1,0 +1,8 @@
+{
+  "name": "Coaching",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats."
+}

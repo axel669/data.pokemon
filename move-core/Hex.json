@@ -1,0 +1,8 @@
+{
+  "name": "Hex",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "This relentless attack does massive damage to a target affected by status conditions."
+}

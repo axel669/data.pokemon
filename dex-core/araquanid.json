@@ -1,0 +1,250 @@
+{
+  "name": "Araquanid",
+  "national": "0752",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Bubble Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 82,
+        "imperial": 180.8
+      },
+      "ability": {
+        "normal": [
+          "Water Bubble"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 70,
+        "def": 92,
+        "satk": 50,
+        "sdef": 132,
+        "spd": 42
+      },
+      "moves": [
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          null,
+          "Infestation"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Aqua Ring"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          26,
+          "Crunch"
+        ],
+        [
+          32,
+          "Soak"
+        ],
+        [
+          38,
+          "Entrainment"
+        ],
+        [
+          44,
+          "Lunge"
+        ],
+        [
+          50,
+          "Liquidation"
+        ],
+        [
+          56,
+          "Leech Life"
+        ],
+        [
+          62,
+          "Mirror Coat"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Sticky Web"
+        ]
+      ]
+    }
+  ]
+}

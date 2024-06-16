@@ -1,0 +1,507 @@
+{
+  "name": "Clefable",
+  "national": "0036",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fairy Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 40,
+        "imperial": 88.2
+      },
+      "ability": {
+        "normal": [
+          "Cute Charm",
+          "Magic Guard"
+        ],
+        "hidden": "Unaware"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 70,
+        "def": 73,
+        "satk": 95,
+        "sdef": 90,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Metronome"
+        ],
+        [
+          null,
+          "Meteor Mash"
+        ],
+        [
+          null,
+          "Moonblast"
+        ],
+        [
+          null,
+          "Life Dew"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Present"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Heal Pulse"
+        ],
+        [
+          "rem",
+          "Pound"
+        ],
+        [
+          "rem",
+          "Growl"
+        ],
+        [
+          "rem",
+          "Sing"
+        ],
+        [
+          "rem",
+          "Defense Curl"
+        ],
+        [
+          "rem",
+          "Splash"
+        ],
+        [
+          "rem",
+          "Sweet Kiss"
+        ],
+        [
+          "rem",
+          "Charm"
+        ],
+        [
+          "rem",
+          "Encore"
+        ],
+        [
+          "rem",
+          "Moonlight"
+        ],
+        [
+          "rem",
+          "Follow Me"
+        ],
+        [
+          "rem",
+          "Cosmic Power"
+        ],
+        [
+          "rem",
+          "Gravity"
+        ],
+        [
+          "rem",
+          "Healing Wish"
+        ],
+        [
+          "rem",
+          "Copycat"
+        ],
+        [
+          "rem",
+          "After You"
+        ],
+        [
+          "rem",
+          "Stored Power"
+        ],
+        [
+          "rem",
+          "Disarming Voice"
+        ],
+        [
+          "pre",
+          "Pound"
+        ],
+        [
+          "pre",
+          "Growl"
+        ],
+        [
+          "pre",
+          "Sing"
+        ],
+        [
+          "pre",
+          "Defense Curl"
+        ],
+        [
+          "pre",
+          "Disarming Voice"
+        ],
+        [
+          "pre",
+          "Splash"
+        ],
+        [
+          "pre",
+          "Sweet Kiss"
+        ],
+        [
+          "pre",
+          "Charm"
+        ],
+        [
+          "pre",
+          "Copycat"
+        ],
+        [
+          "pre",
+          "Stored Power"
+        ],
+        [
+          "pre",
+          "Encore"
+        ],
+        [
+          "pre",
+          "After You"
+        ],
+        [
+          "pre",
+          "Moonlight"
+        ],
+        [
+          "pre",
+          "Gravity"
+        ],
+        [
+          "pre",
+          "Follow Me"
+        ],
+        [
+          "pre",
+          "Cosmic Power"
+        ],
+        [
+          "pre",
+          "Healing Wish"
+        ]
+      ]
+    }
+  ]
+}

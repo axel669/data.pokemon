@@ -1,0 +1,8 @@
+{
+  "name": "Overheat",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat."
+}

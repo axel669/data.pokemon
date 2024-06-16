@@ -1,0 +1,8 @@
+{
+  "name": "Echoed Voice",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks the target with an echoing voice. If this move is used consecutively by any Pokémon, its power is boosted."
+}

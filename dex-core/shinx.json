@@ -1,0 +1,271 @@
+{
+  "name": "Shinx",
+  "national": "0403",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flash Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 9.5,
+        "imperial": 20.9
+      },
+      "ability": {
+        "normal": [
+          "Rivalry",
+          "Intimidate"
+        ],
+        "hidden": "Guts"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 65,
+        "def": 34,
+        "satk": 40,
+        "sdef": 34,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          4,
+          "Thunder Shock"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          16,
+          "Spark"
+        ],
+        [
+          20,
+          "Roar"
+        ],
+        [
+          24,
+          "Volt Switch"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Thunder Wave"
+        ],
+        [
+          36,
+          "Crunch"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          44,
+          "Swagger"
+        ],
+        [
+          48,
+          "Wild Charge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Take Down"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Shock Wave"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Baby-Doll Eyes"
+        ]
+      ]
+    }
+  ]
+}

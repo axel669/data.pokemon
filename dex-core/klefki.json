@@ -1,0 +1,238 @@
+{
+  "name": "Klefki",
+  "national": "0707",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Key Ring Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 3,
+        "imperial": 6.6
+      },
+      "ability": {
+        "normal": [
+          "Prankster"
+        ],
+        "hidden": "Magician"
+      },
+      "stats": {
+        "hp": 57,
+        "atk": 80,
+        "def": 91,
+        "satk": 80,
+        "sdef": 87,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Tackle"
+        ],
+        [
+          8,
+          "Fairy Wind"
+        ],
+        [
+          12,
+          "Torment"
+        ],
+        [
+          16,
+          "Fairy Lock"
+        ],
+        [
+          20,
+          "Metal Sound"
+        ],
+        [
+          24,
+          "Draining Kiss"
+        ],
+        [
+          28,
+          "Recycle"
+        ],
+        [
+          32,
+          "Imprison"
+        ],
+        [
+          36,
+          "Flash Cannon"
+        ],
+        [
+          40,
+          "Play Rough"
+        ],
+        [
+          44,
+          "Magic Room"
+        ],
+        [
+          48,
+          "Foul Play"
+        ],
+        [
+          52,
+          "Last Resort"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Magnet Rise"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

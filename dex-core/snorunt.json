@@ -1,0 +1,235 @@
+{
+  "name": "Snorunt",
+  "national": "0361",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Snow Hat Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 16.8,
+        "imperial": 37
+      },
+      "ability": {
+        "normal": [
+          "Inner Focus",
+          "Ice Body"
+        ],
+        "hidden": "Moody"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 50,
+        "def": 50,
+        "satk": 50,
+        "sdef": 50,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Double Team"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Protect"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Frost Breath"
+        ],
+        [
+          35,
+          "Bite"
+        ],
+        [
+          40,
+          "Ice Fang"
+        ],
+        [
+          45,
+          "Snowscape"
+        ],
+        [
+          50,
+          "Weather Ball"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          60,
+          "Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Icicle Crash"
+        ]
+      ]
+    }
+  ]
+}

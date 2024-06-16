@@ -1,0 +1,238 @@
+{
+  "name": "Flabébé",
+  "national": "0669",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Single Bloom Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 0.1,
+        "imperial": 0.2
+      },
+      "ability": {
+        "normal": [
+          "Flower Veil"
+        ],
+        "hidden": "Symbiosis"
+      },
+      "stats": {
+        "hp": 44,
+        "atk": 38,
+        "def": 39,
+        "satk": 61,
+        "sdef": 79,
+        "spd": 42
+      },
+      "moves": [
+        [
+          null,
+          "Vine Whip"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          6,
+          "Fairy Wind"
+        ],
+        [
+          10,
+          "Safeguard"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Wish"
+        ],
+        [
+          22,
+          "Magical Leaf"
+        ],
+        [
+          24,
+          "Grassy Terrain"
+        ],
+        [
+          28,
+          "Petal Blizzard"
+        ],
+        [
+          33,
+          "Synthesis"
+        ],
+        [
+          37,
+          "Misty Terrain"
+        ],
+        [
+          41,
+          "Moonblast"
+        ],
+        [
+          45,
+          "Petal Dance"
+        ],
+        [
+          48,
+          "Solar Beam"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ],
+        [
+          "egg",
+          "Tearful Look"
+        ]
+      ]
+    }
+  ]
+}

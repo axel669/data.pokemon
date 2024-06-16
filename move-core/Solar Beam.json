@@ -1,0 +1,8 @@
+{
+  "name": "Solar Beam",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user gathers light on the first turn, then blasts a bundled beam on the next turn."
+}

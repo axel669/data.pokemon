@@ -1,0 +1,250 @@
+{
+  "name": "Fidough",
+  "national": "0926",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Puppy Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 10.9,
+        "imperial": 24
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo"
+        ],
+        "hidden": "Klutz"
+      },
+      "stats": {
+        "hp": 37,
+        "atk": 55,
+        "def": 70,
+        "satk": 30,
+        "sdef": 55,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          3,
+          "Lick"
+        ],
+        [
+          6,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Covet"
+        ],
+        [
+          11,
+          "Bite"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          18,
+          "Play Rough"
+        ],
+        [
+          22,
+          "Work Up"
+        ],
+        [
+          26,
+          "Baton Pass"
+        ],
+        [
+          30,
+          "Roar"
+        ],
+        [
+          33,
+          "Double-Edge"
+        ],
+        [
+          36,
+          "Charm"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Copycat"
+        ]
+      ]
+    }
+  ]
+}

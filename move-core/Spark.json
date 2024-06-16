@@ -1,0 +1,8 @@
+{
+  "name": "Spark",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": 30,
+  "desc": "The user attacks the target with an electrically charged tackle. This may also leave the target with paralysis."
+}

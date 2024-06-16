@@ -1,0 +1,275 @@
+{
+  "name": "Yanmega",
+  "national": "0469",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ogre Darner Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 51.5,
+        "imperial": 113.5
+      },
+      "ability": {
+        "normal": [
+          "Speed Boost",
+          "Tinted Lens"
+        ],
+        "hidden": "Frisk"
+      },
+      "stats": {
+        "hp": 86,
+        "atk": 76,
+        "def": 86,
+        "satk": 116,
+        "sdef": 56,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Double Team"
+        ],
+        [
+          null,
+          "Night Slash"
+        ],
+        [
+          null,
+          "Air Slash"
+        ],
+        [
+          null,
+          "Bug Buzz"
+        ],
+        [
+          14,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Detect"
+        ],
+        [
+          22,
+          "Supersonic"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Bug Bite"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          38,
+          "Feint"
+        ],
+        [
+          43,
+          "Slash"
+        ],
+        [
+          46,
+          "Screech"
+        ],
+        [
+          49,
+          "U-turn"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "rem",
+          "Hypnosis"
+        ],
+        [
+          "pre",
+          "Air Cutter"
+        ],
+        [
+          "pre",
+          "Hypnosis"
+        ],
+        [
+          "pre",
+          "Wing Attack"
+        ]
+      ]
+    }
+  ]
+}

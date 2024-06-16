@@ -1,0 +1,8 @@
+{
+  "name": "Perish Song",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "Any Pokémon that hears this song faints in three turns, unless it switches out of battle."
+}

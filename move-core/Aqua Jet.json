@@ -1,0 +1,8 @@
+{
+  "name": "Aqua Jet",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first."
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Luvdisc",
+  "national": "0370",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rendezvous Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 8.7,
+        "imperial": 19.2
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim"
+        ],
+        "hidden": "Hydration"
+      },
+      "stats": {
+        "hp": 43,
+        "atk": 30,
+        "def": 55,
+        "satk": 40,
+        "sdef": 65,
+        "spd": 97
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          4,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Agility"
+        ],
+        [
+          13,
+          "Wish"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Attract"
+        ],
+        [
+          22,
+          "Draining Kiss"
+        ],
+        [
+          26,
+          "Flail"
+        ],
+        [
+          31,
+          "Sweet Kiss"
+        ],
+        [
+          34,
+          "Take Down"
+        ],
+        [
+          37,
+          "Baby-Doll Eyes"
+        ],
+        [
+          40,
+          "Aqua Ring"
+        ],
+        [
+          42,
+          "Soak"
+        ],
+        [
+          46,
+          "Hydro Pump"
+        ],
+        [
+          49,
+          "Safeguard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Splash"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ]
+      ]
+    }
+  ]
+}

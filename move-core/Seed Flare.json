@@ -1,0 +1,8 @@
+{
+  "name": "Seed Flare",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": 40,
+  "desc": "The user emits a shock wave from its body to attack the target. This may also harshly lower the target's Sp. Def stat."
+}

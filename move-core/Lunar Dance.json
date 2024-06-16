@@ -1,0 +1,8 @@
+{
+  "name": "Lunar Dance",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user faints. In return, the Pokémon taking its place will have its HP and PP restored and its status conditions cured."
+}

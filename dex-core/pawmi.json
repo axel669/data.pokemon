@@ -1,0 +1,251 @@
+{
+  "name": "Pawmi",
+  "national": "0921",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mouse Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.5,
+        "imperial": 5.5
+      },
+      "ability": {
+        "normal": [
+          "Static",
+          "Natural Cure"
+        ],
+        "hidden": "Iron Fist"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 20,
+        "satk": 40,
+        "sdef": 25,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          3,
+          "Thunder Shock"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          12,
+          "Nuzzle"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          27,
+          "Thunder Wave"
+        ],
+        [
+          31,
+          "Entrainment"
+        ],
+        [
+          35,
+          "Slam"
+        ],
+        [
+          38,
+          "Discharge"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          44,
+          "Wild Charge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Mach Punch"
+        ],
+        [
+          "egg",
+          "Sweet Kiss"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Wish"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "name": "Combee",
+  "national": "0415",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tiny Bee Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 5.5,
+        "imperial": 12.1
+      },
+      "ability": {
+        "normal": [
+          "Honey Gather"
+        ],
+        "hidden": "Hustle"
+      },
+      "stats": {
+        "hp": 30,
+        "atk": 30,
+        "def": 42,
+        "satk": 30,
+        "sdef": 42,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          null,
+          "Struggle Bug"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ]
+      ]
+    }
+  ]
+}

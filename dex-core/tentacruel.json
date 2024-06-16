@@ -1,0 +1,307 @@
+{
+  "name": "Tentacruel",
+  "national": "0073",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Jellyfish Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 55,
+        "imperial": 121.3
+      },
+      "ability": {
+        "normal": [
+          "Clear Body",
+          "Liquid Ooze"
+        ],
+        "hidden": "Rain Dish"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 65,
+        "satk": 80,
+        "sdef": 120,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Reflect Type"
+        ],
+        [
+          12,
+          "Supersonic"
+        ],
+        [
+          16,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Screech"
+        ],
+        [
+          24,
+          "Bubble Beam"
+        ],
+        [
+          28,
+          "Hex"
+        ],
+        [
+          34,
+          "Acid Armor"
+        ],
+        [
+          40,
+          "Poison Jab"
+        ],
+        [
+          46,
+          "Surf"
+        ],
+        [
+          52,
+          "Sludge Wave"
+        ],
+        [
+          58,
+          "Hydro Pump"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Aurora Beam"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "name": "Skeledirge",
+  "national": "0911",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Singer Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 326.5,
+        "imperial": 719.8
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Unaware"
+      },
+      "stats": {
+        "hp": 104,
+        "atk": 75,
+        "def": 100,
+        "satk": 110,
+        "sdef": 75,
+        "spd": 66
+      },
+      "moves": [
+        [
+          "evo",
+          "Torch Song"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          7,
+          "Lick"
+        ],
+        [
+          10,
+          "Round"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          17,
+          "Incinerate"
+        ],
+        [
+          24,
+          "Snarl"
+        ],
+        [
+          28,
+          "Roar"
+        ],
+        [
+          32,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Shadow Ball"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          47,
+          "Will-O-Wisp"
+        ],
+        [
+          47,
+          "Hex"
+        ],
+        [
+          58,
+          "Fire Blast"
+        ],
+        [
+          64,
+          "Overheat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM153",
+          "Blast Burn"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Encore"
+        ],
+        [
+          "egg",
+          "Slack Off"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "rem",
+          "Sing"
+        ],
+        [
+          "rem",
+          "Yawn"
+        ],
+        [
+          "pre",
+          "Yawn"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Torch Song",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat."
+}

@@ -1,0 +1,254 @@
+{
+  "name": "Regice",
+  "national": "0378",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Iceberg Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 175,
+        "imperial": 385.8
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 50,
+        "def": 100,
+        "satk": 100,
+        "sdef": 200,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Icy Wind"
+        ],
+        [
+          null,
+          "Charge Beam"
+        ],
+        [
+          6,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Ancient Power"
+        ],
+        [
+          18,
+          "Stomp"
+        ],
+        [
+          24,
+          "Ice Beam"
+        ],
+        [
+          30,
+          "Curse"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          42,
+          "Hammer Arm"
+        ],
+        [
+          48,
+          "Blizzard"
+        ],
+        [
+          54,
+          "Superpower"
+        ],
+        [
+          60,
+          "Lock-On"
+        ],
+        [
+          66,
+          "Zap Cannon"
+        ],
+        [
+          72,
+          "Hyper Beam"
+        ],
+        [
+          78,
+          "Explosion"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    }
+  ]
+}

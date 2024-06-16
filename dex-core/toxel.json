@@ -1,0 +1,111 @@
+{
+  "name": "Toxel",
+  "national": "0848",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Baby Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 11,
+        "imperial": 24.3
+      },
+      "ability": {
+        "normal": [
+          "Rattled",
+          "Static"
+        ],
+        "hidden": "Klutz"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 38,
+        "def": 35,
+        "satk": 54,
+        "sdef": 35,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Belch"
+        ],
+        [
+          null,
+          "Nuzzle"
+        ],
+        [
+          null,
+          "Tearful Look"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "name": "Bonsly",
+  "national": "0438",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bonsai Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 15,
+        "imperial": 33.1
+      },
+      "ability": {
+        "normal": [
+          "Sturdy",
+          "Rock Head"
+        ],
+        "hidden": "Rattled"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 80,
+        "def": 95,
+        "satk": 10,
+        "sdef": 45,
+        "spd": 10
+      },
+      "moves": [
+        [
+          null,
+          "Fake Tears"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          4,
+          "Flail"
+        ],
+        [
+          8,
+          "Rock Throw"
+        ],
+        [
+          12,
+          "Block"
+        ],
+        [
+          16,
+          "Mimic"
+        ],
+        [
+          20,
+          "Rock Tomb"
+        ],
+        [
+          24,
+          "Tearful Look"
+        ],
+        [
+          28,
+          "Sucker Punch"
+        ],
+        [
+          32,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Low Kick"
+        ],
+        [
+          40,
+          "Counter"
+        ],
+        [
+          44,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Headbutt"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Rock Polish"
+        ]
+      ]
+    }
+  ]
+}

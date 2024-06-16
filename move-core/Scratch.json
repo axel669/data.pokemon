@@ -1,0 +1,8 @@
+{
+  "name": "Scratch",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": null,
+  "desc": "Hard, pointed, sharp claws rake the target to inflict damage."
+}

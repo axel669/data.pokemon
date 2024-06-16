@@ -1,0 +1,630 @@
+{
+  "name": "Thundurus",
+  "national": "0642",
+  "forms": [
+    {
+      "name": "Incarnate Forme",
+      "species": "Bolt Strike Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 61,
+        "imperial": 134.5
+      },
+      "ability": {
+        "normal": [
+          "Prankster"
+        ],
+        "hidden": "Defiant"
+      },
+      "stats": {
+        "hp": 79,
+        "atk": 115,
+        "def": 70,
+        "satk": 125,
+        "sdef": 80,
+        "spd": 111
+      },
+      "moves": [
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Swagger"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          20,
+          "Shock Wave"
+        ],
+        [
+          25,
+          "Agility"
+        ],
+        [
+          30,
+          "Charge"
+        ],
+        [
+          35,
+          "Volt Switch"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Discharge"
+        ],
+        [
+          50,
+          "Uproar"
+        ],
+        [
+          55,
+          "Hammer Arm"
+        ],
+        [
+          60,
+          "Rain Dance"
+        ],
+        [
+          65,
+          "Thunder"
+        ],
+        [
+          70,
+          "Thrash"
+        ],
+        [
+          75,
+          "Wildbolt Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ]
+      ]
+    },
+    {
+      "name": "Therian Forme",
+      "species": "Bolt Strike Pokémon",
+      "height": {
+        "metric": 3,
+        "imperial": 118
+      },
+      "weight": {
+        "metric": 61,
+        "imperial": 134.5
+      },
+      "ability": {
+        "normal": [
+          "Volt Absorb"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 79,
+        "atk": 105,
+        "def": 70,
+        "satk": 145,
+        "sdef": 80,
+        "spd": 101
+      },
+      "moves": [
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Swagger"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          20,
+          "Shock Wave"
+        ],
+        [
+          25,
+          "Agility"
+        ],
+        [
+          30,
+          "Charge"
+        ],
+        [
+          35,
+          "Volt Switch"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Discharge"
+        ],
+        [
+          50,
+          "Uproar"
+        ],
+        [
+          55,
+          "Hammer Arm"
+        ],
+        [
+          60,
+          "Rain Dance"
+        ],
+        [
+          65,
+          "Thunder"
+        ],
+        [
+          70,
+          "Thrash"
+        ],
+        [
+          75,
+          "Wildbolt Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ]
+      ]
+    }
+  ]
+}

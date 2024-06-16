@@ -1,0 +1,295 @@
+{
+  "name": "Comfey",
+  "national": "0764",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Posy Picker Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 0.3,
+        "imperial": 0.7
+      },
+      "ability": {
+        "normal": [
+          "Flower Veil",
+          "Triage"
+        ],
+        "hidden": "Natural Cure"
+      },
+      "stats": {
+        "hp": 51,
+        "atk": 52,
+        "def": 90,
+        "satk": 82,
+        "sdef": 110,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          3,
+          "Vine Whip"
+        ],
+        [
+          6,
+          "Helping Hand"
+        ],
+        [
+          9,
+          "Draining Kiss"
+        ],
+        [
+          12,
+          "Charm"
+        ],
+        [
+          15,
+          "Magical Leaf"
+        ],
+        [
+          18,
+          "Synthesis"
+        ],
+        [
+          21,
+          "Leech Seed"
+        ],
+        [
+          24,
+          "Grass Knot"
+        ],
+        [
+          27,
+          "Sweet Kiss"
+        ],
+        [
+          30,
+          "Floral Healing"
+        ],
+        [
+          33,
+          "Petal Blizzard"
+        ],
+        [
+          36,
+          "Bind"
+        ],
+        [
+          39,
+          "Play Rough"
+        ],
+        [
+          42,
+          "Sweet Scent"
+        ],
+        [
+          45,
+          "Petal Dance"
+        ],
+        [
+          48,
+          "Grassy Terrain"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "After You"
+        ]
+      ]
+    }
+  ]
+}

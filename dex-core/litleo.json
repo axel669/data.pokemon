@@ -1,0 +1,267 @@
+{
+  "name": "Litleo",
+  "national": "0667",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Lion Cub Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 13.5,
+        "imperial": 29.8
+      },
+      "ability": {
+        "normal": [
+          "Rivalry",
+          "Unnerve"
+        ],
+        "hidden": "Moxie"
+      },
+      "stats": {
+        "hp": 62,
+        "atk": 50,
+        "def": 58,
+        "satk": 73,
+        "sdef": 54,
+        "spd": 72
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Work Up"
+        ],
+        [
+          11,
+          "Headbutt"
+        ],
+        [
+          15,
+          "Noble Roar"
+        ],
+        [
+          20,
+          "Take Down"
+        ],
+        [
+          23,
+          "Fire Fang"
+        ],
+        [
+          28,
+          "Endeavor"
+        ],
+        [
+          33,
+          "Echoed Voice"
+        ],
+        [
+          36,
+          "Flamethrower"
+        ],
+        [
+          39,
+          "Crunch"
+        ],
+        [
+          43,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Incinerate"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Fire Spin"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Flare Blitz"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ]
+      ]
+    }
+  ]
+}

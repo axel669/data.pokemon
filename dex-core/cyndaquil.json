@@ -1,0 +1,254 @@
+{
+  "name": "Cyndaquil",
+  "national": "0155",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Mouse Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 7.9,
+        "imperial": 17.4
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Flash Fire"
+      },
+      "stats": {
+        "hp": 39,
+        "atk": 52,
+        "def": 43,
+        "satk": 60,
+        "sdef": 50,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          6,
+          "Smokescreen"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          19,
+          "Flame Wheel"
+        ],
+        [
+          22,
+          "Defense Curl"
+        ],
+        [
+          28,
+          "Flame Charge"
+        ],
+        [
+          31,
+          "Swift"
+        ],
+        [
+          37,
+          "Lava Plume"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          46,
+          "Inferno"
+        ],
+        [
+          49,
+          "Rollout"
+        ],
+        [
+          55,
+          "Double-Edge"
+        ],
+        [
+          58,
+          "Overheat"
+        ],
+        [
+          64,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Reversal"
+        ],
+        [
+          "egg",
+          "Extrasensory"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Covet"
+        ]
+      ]
+    }
+  ]
+}

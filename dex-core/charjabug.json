@@ -1,0 +1,230 @@
+{
+  "name": "Charjabug",
+  "national": "0737",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Battery Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 10.5,
+        "imperial": 23.1
+      },
+      "ability": {
+        "normal": [
+          "Battery"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 57,
+        "atk": 82,
+        "def": 95,
+        "satk": 55,
+        "sdef": 75,
+        "spd": 36
+      },
+      "moves": [
+        [
+          "evo",
+          "Charge"
+        ],
+        [
+          null,
+          "Vise Grip"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          29,
+          "Sticky Web"
+        ],
+        [
+          36,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          50,
+          "Dig"
+        ],
+        [
+          57,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Discharge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Discharge"
+        ]
+      ]
+    }
+  ]
+}

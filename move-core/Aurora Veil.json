@@ -1,0 +1,8 @@
+{
+  "name": "Aurora Veil",
+  "power": null,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing."
+}

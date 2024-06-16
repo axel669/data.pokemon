@@ -1,0 +1,266 @@
+{
+  "name": "Iron Crown",
+  "national": "1023",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 156,
+        "imperial": 343.9
+      },
+      "ability": {
+        "normal": [
+          "Quark Drive"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 72,
+        "def": 100,
+        "satk": 122,
+        "sdef": 108,
+        "spd": 98
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          7,
+          "Smart Strike"
+        ],
+        [
+          14,
+          "Slash"
+        ],
+        [
+          21,
+          "Iron Defense"
+        ],
+        [
+          28,
+          "Psyshock"
+        ],
+        [
+          35,
+          "Psycho Cut"
+        ],
+        [
+          42,
+          "Flash Cannon"
+        ],
+        [
+          49,
+          "Sacred Sword"
+        ],
+        [
+          56,
+          "Tachyon Cutter"
+        ],
+        [
+          63,
+          "Future Sight"
+        ],
+        [
+          70,
+          "Volt Switch"
+        ],
+        [
+          77,
+          "Quick Guard"
+        ],
+        [
+          84,
+          "Metal Burst"
+        ],
+        [
+          91,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Morning Sun",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user restores its own HP. The amount of HP regained varies with the weather."
+}

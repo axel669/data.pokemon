@@ -1,0 +1,8 @@
+{
+  "name": "Sand Attack",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "Sand is hurled in the target's face, lowering the target's accuracy."
+}

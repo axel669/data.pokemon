@@ -1,0 +1,299 @@
+{
+  "name": "Riolu",
+  "national": "0447",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Emanation Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 20.2,
+        "imperial": 44.5
+      },
+      "ability": {
+        "normal": [
+          "Steadfast",
+          "Inner Focus"
+        ],
+        "hidden": "Prankster"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 70,
+        "def": 40,
+        "satk": 35,
+        "sdef": 40,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Endure"
+        ],
+        [
+          4,
+          "Feint"
+        ],
+        [
+          8,
+          "Metal Claw"
+        ],
+        [
+          12,
+          "Counter"
+        ],
+        [
+          16,
+          "Work Up"
+        ],
+        [
+          20,
+          "Rock Smash"
+        ],
+        [
+          24,
+          "Vacuum Wave"
+        ],
+        [
+          28,
+          "Screech"
+        ],
+        [
+          32,
+          "Quick Guard"
+        ],
+        [
+          36,
+          "Force Palm"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          44,
+          "Helping Hand"
+        ],
+        [
+          48,
+          "Copycat"
+        ],
+        [
+          52,
+          "Final Gambit"
+        ],
+        [
+          56,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Bite"
+        ],
+        [
+          "egg",
+          "High Jump Kick"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Cross Chop"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ],
+        [
+          "egg",
+          "Circle Throw"
+        ]
+      ]
+    }
+  ]
+}

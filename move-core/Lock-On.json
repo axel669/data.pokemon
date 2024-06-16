@@ -1,0 +1,8 @@
+{
+  "name": "Lock-On",
+  "power": null,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user takes sure aim at the target. This ensures the user's next move does not miss that target."
+}

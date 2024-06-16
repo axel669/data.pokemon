@@ -1,0 +1,210 @@
+{
+  "name": "Regieleki",
+  "national": "0894",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Electron Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 145,
+        "imperial": 319.7
+      },
+      "ability": {
+        "normal": [
+          "Transistor"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 50,
+        "satk": 100,
+        "sdef": 50,
+        "spd": 200
+      },
+      "moves": [
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          6,
+          "Electroweb"
+        ],
+        [
+          12,
+          "Ancient Power"
+        ],
+        [
+          18,
+          "Shock Wave"
+        ],
+        [
+          24,
+          "Thunder Wave"
+        ],
+        [
+          30,
+          "Extreme Speed"
+        ],
+        [
+          36,
+          "Thunder Cage"
+        ],
+        [
+          42,
+          "Thunderbolt"
+        ],
+        [
+          48,
+          "Magnet Rise"
+        ],
+        [
+          54,
+          "Thrash"
+        ],
+        [
+          60,
+          "Lock-On"
+        ],
+        [
+          66,
+          "Zap Cannon"
+        ],
+        [
+          72,
+          "Hyper Beam"
+        ],
+        [
+          78,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    }
+  ]
+}

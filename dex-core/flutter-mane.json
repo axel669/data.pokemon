@@ -1,0 +1,270 @@
+{
+  "name": "Flutter Mane",
+  "national": "0987",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 55,
+        "def": 55,
+        "satk": 135,
+        "sdef": 135,
+        "spd": 135
+      },
+      "moves": [
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Spite"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          7,
+          "Psybeam"
+        ],
+        [
+          14,
+          "Mean Look"
+        ],
+        [
+          21,
+          "Memento"
+        ],
+        [
+          28,
+          "Wish"
+        ],
+        [
+          35,
+          "Dazzling Gleam"
+        ],
+        [
+          42,
+          "Shadow Ball"
+        ],
+        [
+          49,
+          "Mystical Fire"
+        ],
+        [
+          56,
+          "Power Gem"
+        ],
+        [
+          63,
+          "Psyshock"
+        ],
+        [
+          70,
+          "Phantom Force"
+        ],
+        [
+          77,
+          "Pain Split"
+        ],
+        [
+          84,
+          "Moonblast"
+        ],
+        [
+          91,
+          "Perish Song"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "rem",
+          "Sunny Day"
+        ]
+      ]
+    }
+  ]
+}

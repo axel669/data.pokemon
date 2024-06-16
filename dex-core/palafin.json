@@ -1,0 +1,646 @@
+{
+  "name": "Palafin",
+  "national": "0964",
+  "forms": [
+    {
+      "name": "Zero Form",
+      "species": "Dolphin Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 60.2,
+        "imperial": 132.7
+      },
+      "ability": {
+        "normal": [
+          "Zero to Hero"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 70,
+        "def": 72,
+        "satk": 53,
+        "sdef": 62,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Flip Turn"
+        ],
+        [
+          null,
+          "Jet Punch"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Focus Energy"
+        ],
+        [
+          13,
+          "Aqua Jet"
+        ],
+        [
+          17,
+          "Double Hit"
+        ],
+        [
+          21,
+          "Dive"
+        ],
+        [
+          25,
+          "Charm"
+        ],
+        [
+          29,
+          "Acrobatics"
+        ],
+        [
+          34,
+          "Encore"
+        ],
+        [
+          39,
+          "Aqua Tail"
+        ],
+        [
+          44,
+          "Mist"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ],
+        [
+          55,
+          "Focus Punch"
+        ],
+        [
+          61,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Bounce"
+        ],
+        [
+          "egg",
+          "Boomburst"
+        ]
+      ]
+    },
+    {
+      "name": "Hero Form",
+      "species": "Hero Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 97.4,
+        "imperial": 214.7
+      },
+      "ability": {
+        "normal": [
+          "Zero to Hero"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 160,
+        "def": 97,
+        "satk": 106,
+        "sdef": 87,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Flip Turn"
+        ],
+        [
+          null,
+          "Jet Punch"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Focus Energy"
+        ],
+        [
+          13,
+          "Aqua Jet"
+        ],
+        [
+          17,
+          "Double Hit"
+        ],
+        [
+          21,
+          "Dive"
+        ],
+        [
+          25,
+          "Charm"
+        ],
+        [
+          29,
+          "Acrobatics"
+        ],
+        [
+          34,
+          "Encore"
+        ],
+        [
+          39,
+          "Aqua Tail"
+        ],
+        [
+          44,
+          "Mist"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ],
+        [
+          55,
+          "Focus Punch"
+        ],
+        [
+          61,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Bounce"
+        ],
+        [
+          "egg",
+          "Boomburst"
+        ]
+      ]
+    }
+  ]
+}

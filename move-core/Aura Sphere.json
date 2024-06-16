@@ -1,0 +1,8 @@
+{
+  "name": "Aura Sphere",
+  "power": 80,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user lets loose a pulse of aura power from deep within its body at the target. This attack never misses."
+}

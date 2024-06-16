@@ -1,0 +1,347 @@
+{
+  "name": "Nuzleaf",
+  "national": "0274",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wily Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 28,
+        "imperial": 61.7
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Early Bird"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 70,
+        "def": 40,
+        "satk": 60,
+        "sdef": 40,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Explosion"
+        ],
+        [
+          null,
+          "Swagger"
+        ],
+        [
+          null,
+          "Air Cutter"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Torment"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          9,
+          "Growth"
+        ],
+        [
+          12,
+          "Rollout"
+        ],
+        [
+          18,
+          "Mega Drain"
+        ],
+        [
+          24,
+          "Payback"
+        ],
+        [
+          30,
+          "Synthesis"
+        ],
+        [
+          36,
+          "Sunny Day"
+        ],
+        [
+          43,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Sucker Punch"
+        ],
+        [
+          57,
+          "Leaf Blade"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Take Down"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "pre",
+          "Headbutt"
+        ]
+      ]
+    }
+  ]
+}

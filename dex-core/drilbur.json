@@ -1,0 +1,247 @@
+{
+  "name": "Drilbur",
+  "national": "0529",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mole Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Sand Rush",
+          "Sand Force"
+        ],
+        "hidden": "Mold Breaker"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 85,
+        "def": 40,
+        "satk": 30,
+        "sdef": 45,
+        "spd": 68
+      },
+      "moves": [
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          4,
+          "Scratch"
+        ],
+        [
+          8,
+          "Hone Claws"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          16,
+          "Metal Claw"
+        ],
+        [
+          20,
+          "Sandstorm"
+        ],
+        [
+          24,
+          "Crush Claw"
+        ],
+        [
+          28,
+          "Rock Slide"
+        ],
+        [
+          32,
+          "Dig"
+        ],
+        [
+          36,
+          "Swords Dance"
+        ],
+        [
+          40,
+          "Drill Run"
+        ],
+        [
+          44,
+          "Earthquake"
+        ],
+        [
+          48,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

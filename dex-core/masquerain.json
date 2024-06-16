@@ -1,0 +1,354 @@
+{
+  "name": "Masquerain",
+  "national": "0284",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Eyeball Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 3.6,
+        "imperial": 7.9
+      },
+      "ability": {
+        "normal": [
+          "Intimidate"
+        ],
+        "hidden": "Unnerve"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 60,
+        "def": 62,
+        "satk": 100,
+        "sdef": 82,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Whirlwind"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Soak"
+        ],
+        [
+          17,
+          "Gust"
+        ],
+        [
+          22,
+          "Scary Face"
+        ],
+        [
+          22,
+          "Air Cutter"
+        ],
+        [
+          26,
+          "Stun Spore"
+        ],
+        [
+          32,
+          "Air Slash"
+        ],
+        [
+          38,
+          "Giga Drain"
+        ],
+        [
+          44,
+          "Bug Buzz"
+        ],
+        [
+          52,
+          "Quiver Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Hydro Pump"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Mud Shot"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Fell Stinger"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ],
+        [
+          "pre",
+          "Bubble Beam"
+        ],
+        [
+          "pre",
+          "Agility"
+        ],
+        [
+          "pre",
+          "Mist"
+        ],
+        [
+          "pre",
+          "Haze"
+        ],
+        [
+          "pre",
+          "Baton Pass"
+        ],
+        [
+          "pre",
+          "Sticky Web"
+        ]
+      ]
+    }
+  ]
+}

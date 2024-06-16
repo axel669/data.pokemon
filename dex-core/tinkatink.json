@@ -1,0 +1,243 @@
+{
+  "name": "Tinkatink",
+  "national": "0957",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Metalsmith Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 8.9,
+        "imperial": 19.6
+      },
+      "ability": {
+        "normal": [
+          "Mold Breaker",
+          "Own Tempo"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 45,
+        "def": 45,
+        "satk": 35,
+        "sdef": 64,
+        "spd": 58
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          5,
+          "Baby-Doll Eyes"
+        ],
+        [
+          8,
+          "Metal Claw"
+        ],
+        [
+          11,
+          "Covet"
+        ],
+        [
+          14,
+          "Rock Smash"
+        ],
+        [
+          17,
+          "Draining Kiss"
+        ],
+        [
+          21,
+          "Sweet Kiss"
+        ],
+        [
+          24,
+          "Brutal Swing"
+        ],
+        [
+          27,
+          "Slam"
+        ],
+        [
+          31,
+          "Flash Cannon"
+        ],
+        [
+          35,
+          "Play Rough"
+        ],
+        [
+          39,
+          "Fake Out"
+        ],
+        [
+          43,
+          "Flatter"
+        ],
+        [
+          47,
+          "Skitter Smack"
+        ],
+        [
+          52,
+          "Knock Off"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Quash"
+        ],
+        [
+          "egg",
+          "Ice Hammer"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "name": "Glaceon",
+  "national": "0471",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fresh Snow Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 25.9,
+        "imperial": 57.1
+      },
+      "ability": {
+        "normal": [
+          "Snow Cloak"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 110,
+        "satk": 130,
+        "sdef": 95,
+        "spd": 65
+      },
+      "moves": [
+        [
+          "evo",
+          "Icy Wind"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Take Down"
+        ],
+        [
+          null,
+          "Double-Edge"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Covet"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Swift"
+        ],
+        [
+          null,
+          "Baton Pass"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          20,
+          "Ice Shard"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Ice Fang"
+        ],
+        [
+          35,
+          "Snowscape"
+        ],
+        [
+          40,
+          "Freeze-Dry"
+        ],
+        [
+          45,
+          "Mirror Coat"
+        ],
+        [
+          50,
+          "Blizzard"
+        ],
+        [
+          55,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ]
+      ]
+    }
+  ]
+}

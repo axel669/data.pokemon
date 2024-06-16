@@ -1,0 +1,8 @@
+{
+  "name": "Rock Blast",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks by hurling hard rocks at the target. This move hits two to five times in a row."
+}

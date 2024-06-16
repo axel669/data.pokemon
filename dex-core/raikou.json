@@ -1,0 +1,290 @@
+{
+  "name": "Raikou",
+  "national": "0243",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Thunder Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 178,
+        "imperial": 392.4
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Inner Focus"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 85,
+        "def": 75,
+        "satk": 115,
+        "sdef": 100,
+        "spd": 115
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Charge"
+        ],
+        [
+          null,
+          "Extreme Speed"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          6,
+          "Spark"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          18,
+          "Calm Mind"
+        ],
+        [
+          24,
+          "Roar"
+        ],
+        [
+          30,
+          "Thunder Fang"
+        ],
+        [
+          36,
+          "Howl"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          48,
+          "Extrasensory"
+        ],
+        [
+          54,
+          "Discharge"
+        ],
+        [
+          60,
+          "Reflect"
+        ],
+        [
+          66,
+          "Rain Dance"
+        ],
+        [
+          72,
+          "Thunder"
+        ],
+        [
+          78,
+          "Zap Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    }
+  ]
+}

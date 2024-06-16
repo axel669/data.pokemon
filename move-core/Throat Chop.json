@@ -1,0 +1,8 @@
+{
+  "name": "Throat Chop",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 100,
+  "desc": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Aqua Cutter",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
+}

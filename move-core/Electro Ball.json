@@ -1,0 +1,8 @@
+{
+  "name": "Electro Ball",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power."
+}

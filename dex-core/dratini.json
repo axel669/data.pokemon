@@ -1,0 +1,278 @@
+{
+  "name": "Dratini",
+  "national": "0147",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dragon Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 3.3,
+        "imperial": 7.3
+      },
+      "ability": {
+        "normal": [
+          "Shed Skin"
+        ],
+        "hidden": "Marvel Scale"
+      },
+      "stats": {
+        "hp": 41,
+        "atk": 64,
+        "def": 45,
+        "satk": 50,
+        "sdef": 50,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          5,
+          "Twister"
+        ],
+        [
+          10,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dragon Tail"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Slam"
+        ],
+        [
+          31,
+          "Aqua Tail"
+        ],
+        [
+          35,
+          "Dragon Rush"
+        ],
+        [
+          40,
+          "Safeguard"
+        ],
+        [
+          45,
+          "Rain Dance"
+        ],
+        [
+          50,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Outrage"
+        ],
+        [
+          60,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Extreme Speed"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ]
+      ]
+    }
+  ]
+}

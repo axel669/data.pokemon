@@ -1,0 +1,8 @@
+{
+  "name": "Self-Destruct",
+  "power": 200,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks everything around it by causing an explosion. The user faints upon using this move."
+}

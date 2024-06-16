@@ -1,0 +1,8 @@
+{
+  "name": "Role Play",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user mimics the target completely, copying the target's Ability."
+}

@@ -1,0 +1,858 @@
+{
+  "name": "Terapagos",
+  "national": "1024",
+  "forms": [
+    {
+      "name": "Normal Form",
+      "species": "Tera Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 6.5,
+        "imperial": 14.3
+      },
+      "ability": {
+        "normal": [
+          "Tera Shift"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 65,
+        "def": 85,
+        "satk": 65,
+        "sdef": 85,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Ancient Power"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Protect"
+        ],
+        [
+          40,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Heavy Slam"
+        ],
+        [
+          60,
+          "Tera Starstorm"
+        ],
+        [
+          70,
+          "Double-Edge"
+        ],
+        [
+          80,
+          "Rock Polish"
+        ],
+        [
+          90,
+          "Gyro Ball"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    },
+    {
+      "name": "Terastal Form",
+      "species": "Tera Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 16,
+        "imperial": 35.3
+      },
+      "ability": {
+        "normal": [
+          "Tera Shell"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 95,
+        "def": 110,
+        "satk": 105,
+        "sdef": 110,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Ancient Power"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Protect"
+        ],
+        [
+          40,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Heavy Slam"
+        ],
+        [
+          60,
+          "Tera Starstorm"
+        ],
+        [
+          70,
+          "Double-Edge"
+        ],
+        [
+          80,
+          "Rock Polish"
+        ],
+        [
+          90,
+          "Gyro Ball"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    },
+    {
+      "name": "Stellar Form",
+      "species": "Tera Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 77,
+        "imperial": 169.8
+      },
+      "ability": {
+        "normal": [
+          "Teraform Zero"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 160,
+        "atk": 105,
+        "def": 110,
+        "satk": 130,
+        "sdef": 110,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Ancient Power"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Protect"
+        ],
+        [
+          40,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Heavy Slam"
+        ],
+        [
+          60,
+          "Tera Starstorm"
+        ],
+        [
+          70,
+          "Double-Edge"
+        ],
+        [
+          80,
+          "Rock Polish"
+        ],
+        [
+          90,
+          "Gyro Ball"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ]
+      ]
+    }
+  ]
+}

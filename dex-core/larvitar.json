@@ -1,0 +1,302 @@
+{
+  "name": "Larvitar",
+  "national": "0246",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Skin Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 72,
+        "imperial": 158.7
+      },
+      "ability": {
+        "normal": [
+          "Guts"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 64,
+        "def": 50,
+        "satk": 45,
+        "sdef": 50,
+        "spd": 41
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          3,
+          "Rock Throw"
+        ],
+        [
+          6,
+          "Payback"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Rock Slide"
+        ],
+        [
+          18,
+          "Stomping Tantrum"
+        ],
+        [
+          21,
+          "Screech"
+        ],
+        [
+          24,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Crunch"
+        ],
+        [
+          31,
+          "Earthquake"
+        ],
+        [
+          33,
+          "Stone Edge"
+        ],
+        [
+          36,
+          "Thrash"
+        ],
+        [
+          39,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Stomp"
+        ],
+        [
+          "egg",
+          "Focus Energy"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Outrage"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Iron Defense"
+        ],
+        [
+          "egg",
+          "Dragon Dance"
+        ],
+        [
+          "egg",
+          "Assurance"
+        ],
+        [
+          "egg",
+          "Iron Head"
+        ]
+      ]
+    }
+  ]
+}

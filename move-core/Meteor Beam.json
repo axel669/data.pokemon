@@ -1,0 +1,8 @@
+{
+  "name": "Meteor Beam",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": 100,
+  "desc": "The user gathers energy from space and boosts its Sp. Atk stat on the first turn, then attacks on the next turn."
+}

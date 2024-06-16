@@ -1,0 +1,250 @@
+{
+  "name": "Orthworm",
+  "national": "0968",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Earthworm Pokémon",
+      "height": {
+        "metric": 2.5,
+        "imperial": 98
+      },
+      "weight": {
+        "metric": 310,
+        "imperial": 683.4
+      },
+      "ability": {
+        "normal": [
+          "Earth Eater"
+        ],
+        "hidden": "Sand Veil"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 145,
+        "satk": 60,
+        "sdef": 55,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          7,
+          "Mud-Slap"
+        ],
+        [
+          12,
+          "Smack Down"
+        ],
+        [
+          16,
+          "Bulldoze"
+        ],
+        [
+          21,
+          "Iron Head"
+        ],
+        [
+          26,
+          "Take Down"
+        ],
+        [
+          30,
+          "Dig"
+        ],
+        [
+          34,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Iron Defense"
+        ],
+        [
+          43,
+          "Iron Tail"
+        ],
+        [
+          47,
+          "Earthquake"
+        ],
+        [
+          52,
+          "Shed Tail"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Metal Burst"
+        ],
+        [
+          "egg",
+          "Coil"
+        ]
+      ]
+    }
+  ]
+}

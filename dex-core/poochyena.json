@@ -1,0 +1,255 @@
+{
+  "name": "Poochyena",
+  "national": "0261",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bite Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 13.6,
+        "imperial": 30
+      },
+      "ability": {
+        "normal": [
+          "Run Away",
+          "Quick Feet"
+        ],
+        "hidden": "Rattled"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 55,
+        "def": 35,
+        "satk": 30,
+        "sdef": 30,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          7,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Leer"
+        ],
+        [
+          16,
+          "Roar"
+        ],
+        [
+          19,
+          "Swagger"
+        ],
+        [
+          22,
+          "Assurance"
+        ],
+        [
+          25,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Taunt"
+        ],
+        [
+          31,
+          "Crunch"
+        ],
+        [
+          34,
+          "Yawn"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "Play Rough"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Poison Fang"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Covet"
+        ]
+      ]
+    }
+  ]
+}

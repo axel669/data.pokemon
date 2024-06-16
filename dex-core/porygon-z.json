@@ -1,0 +1,263 @@
+{
+  "name": "Porygon-Z",
+  "national": "0474",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Virtual Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 34,
+        "imperial": 75
+      },
+      "ability": {
+        "normal": [
+          "Adaptability",
+          "Download"
+        ],
+        "hidden": "Analytic"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 80,
+        "def": 70,
+        "satk": 135,
+        "sdef": 75,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Conversion"
+        ],
+        [
+          null,
+          "Nasty Plot"
+        ],
+        [
+          null,
+          "Magnet Rise"
+        ],
+        [
+          null,
+          "Recycle"
+        ],
+        [
+          null,
+          "Trick Room"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          15,
+          "Thunder Shock"
+        ],
+        [
+          20,
+          "Psybeam"
+        ],
+        [
+          25,
+          "Conversion 2"
+        ],
+        [
+          30,
+          "Agility"
+        ],
+        [
+          35,
+          "Recover"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          45,
+          "Tri Attack"
+        ],
+        [
+          50,
+          "Double-Edge"
+        ],
+        [
+          55,
+          "Lock-On"
+        ],
+        [
+          60,
+          "Zap Cannon"
+        ],
+        [
+          65,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "name": "Chandelure",
+  "national": "0609",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Luring Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 34.3,
+        "imperial": 75.6
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire",
+          "Flame Body"
+        ],
+        "hidden": "Infiltrator"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 55,
+        "def": 90,
+        "satk": 145,
+        "sdef": 90,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Fire Spin"
+        ],
+        [
+          null,
+          "Night Shade"
+        ],
+        [
+          null,
+          "Minimize"
+        ],
+        [
+          null,
+          "Confuse Ray"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Curse"
+        ],
+        [
+          null,
+          "Pain Split"
+        ],
+        [
+          null,
+          "Shadow Ball"
+        ],
+        [
+          null,
+          "Will-O-Wisp"
+        ],
+        [
+          null,
+          "Memento"
+        ],
+        [
+          null,
+          "Imprison"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Overheat"
+        ],
+        [
+          null,
+          "Hex"
+        ],
+        [
+          null,
+          "Inferno"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

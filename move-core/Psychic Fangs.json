@@ -1,0 +1,8 @@
+{
+  "name": "Psychic Fangs",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect."
+}

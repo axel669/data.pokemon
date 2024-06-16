@@ -1,0 +1,287 @@
+{
+  "name": "Gulpin",
+  "national": "0316",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Stomach Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 10.3,
+        "imperial": 22.7
+      },
+      "ability": {
+        "normal": [
+          "Liquid Ooze",
+          "Sticky Hold"
+        ],
+        "hidden": "Gluttony"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 43,
+        "def": 53,
+        "satk": 43,
+        "sdef": 53,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          5,
+          "Yawn"
+        ],
+        [
+          8,
+          "Poison Gas"
+        ],
+        [
+          10,
+          "Sludge"
+        ],
+        [
+          12,
+          "Amnesia"
+        ],
+        [
+          17,
+          "Acid Spray"
+        ],
+        [
+          20,
+          "Encore"
+        ],
+        [
+          25,
+          "Toxic"
+        ],
+        [
+          28,
+          "Stockpile"
+        ],
+        [
+          28,
+          "Spit Up"
+        ],
+        [
+          28,
+          "Swallow"
+        ],
+        [
+          33,
+          "Sludge Bomb"
+        ],
+        [
+          36,
+          "Gastro Acid"
+        ],
+        [
+          41,
+          "Belch"
+        ],
+        [
+          44,
+          "Pain Split"
+        ],
+        [
+          49,
+          "Gunk Shot"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Smog"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ],
+        [
+          "egg",
+          "Stuff Cheeks"
+        ]
+      ]
+    }
+  ]
+}

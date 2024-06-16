@@ -1,0 +1,350 @@
+{
+  "name": "Roaring Moon",
+  "national": "1005",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 380,
+        "imperial": 837.8
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 105,
+        "atk": 139,
+        "def": 71,
+        "satk": 55,
+        "sdef": 101,
+        "spd": 119
+      },
+      "moves": [
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          7,
+          "Incinerate"
+        ],
+        [
+          14,
+          "Headbutt"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Dragon Claw"
+        ],
+        [
+          35,
+          "Zen Headbutt"
+        ],
+        [
+          42,
+          "Flamethrower"
+        ],
+        [
+          49,
+          "Night Slash"
+        ],
+        [
+          56,
+          "Dragon Dance"
+        ],
+        [
+          63,
+          "Dragon Rush"
+        ],
+        [
+          70,
+          "Fly"
+        ],
+        [
+          77,
+          "Throat Chop"
+        ],
+        [
+          84,
+          "Roost"
+        ],
+        [
+          91,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "rem",
+          "Sunny Day"
+        ],
+        [
+          "rem",
+          "Jaw Lock"
+        ],
+        [
+          "rem",
+          "Breaking Swipe"
+        ],
+        [
+          "rem",
+          "Scale Shot"
+        ]
+      ]
+    }
+  ]
+}

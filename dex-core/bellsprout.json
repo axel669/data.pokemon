@@ -1,0 +1,254 @@
+{
+  "name": "Bellsprout",
+  "national": "0069",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flower Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Gluttony"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 75,
+        "def": 35,
+        "satk": 70,
+        "sdef": 30,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Vine Whip"
+        ],
+        [
+          7,
+          "Growth"
+        ],
+        [
+          11,
+          "Wrap"
+        ],
+        [
+          13,
+          "Sleep Powder"
+        ],
+        [
+          15,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Stun Spore"
+        ],
+        [
+          23,
+          "Acid"
+        ],
+        [
+          27,
+          "Knock Off"
+        ],
+        [
+          29,
+          "Sweet Scent"
+        ],
+        [
+          35,
+          "Gastro Acid"
+        ],
+        [
+          39,
+          "Razor Leaf"
+        ],
+        [
+          41,
+          "Poison Jab"
+        ],
+        [
+          47,
+          "Slam"
+        ],
+        [
+          52,
+          "Power Whip"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

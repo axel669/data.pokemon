@@ -1,0 +1,370 @@
+{
+  "name": "Forretress",
+  "national": "0205",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bagworm Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 125.8,
+        "imperial": 277.3
+      },
+      "ability": {
+        "normal": [
+          "Sturdy"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 90,
+        "def": 140,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Heavy Slam"
+        ],
+        [
+          null,
+          "Magnet Rise"
+        ],
+        [
+          null,
+          "Toxic Spikes"
+        ],
+        [
+          null,
+          "Bug Bite"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          null,
+          "Zap Cannon"
+        ],
+        [
+          null,
+          "Self-Destruct"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          12,
+          "Take Down"
+        ],
+        [
+          17,
+          "Rapid Spin"
+        ],
+        [
+          20,
+          "Rollout"
+        ],
+        [
+          23,
+          "Curse"
+        ],
+        [
+          28,
+          "Spikes"
+        ],
+        [
+          32,
+          "Payback"
+        ],
+        [
+          36,
+          "Explosion"
+        ],
+        [
+          42,
+          "Iron Defense"
+        ],
+        [
+          46,
+          "Gyro Ball"
+        ],
+        [
+          50,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Pin Missile"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Swift"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Sand Tomb"
+        ],
+        [
+          "egg",
+          "Power Trick"
+        ],
+        [
+          "egg",
+          "Toxic Spikes"
+        ]
+      ]
+    }
+  ]
+}

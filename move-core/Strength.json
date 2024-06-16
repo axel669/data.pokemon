@@ -1,0 +1,8 @@
+{
+  "name": "Strength",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The target is slugged with a punch thrown at maximum power."
+}

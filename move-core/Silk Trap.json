@@ -1,0 +1,8 @@
+{
+  "name": "Silk Trap",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact."
+}

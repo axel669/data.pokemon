@@ -1,0 +1,267 @@
+{
+  "name": "Minccino",
+  "national": "0572",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Chinchilla Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 5.8,
+        "imperial": 12.8
+      },
+      "ability": {
+        "normal": [
+          "Cute Charm",
+          "Technician"
+        ],
+        "hidden": "Skill Link"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 50,
+        "def": 40,
+        "satk": 40,
+        "sdef": 40,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Baby-Doll Eyes"
+        ],
+        [
+          4,
+          "Helping Hand"
+        ],
+        [
+          8,
+          "Echoed Voice"
+        ],
+        [
+          12,
+          "Sing"
+        ],
+        [
+          16,
+          "Charm"
+        ],
+        [
+          20,
+          "Swift"
+        ],
+        [
+          24,
+          "Encore"
+        ],
+        [
+          28,
+          "After You"
+        ],
+        [
+          32,
+          "Tail Slap"
+        ],
+        [
+          36,
+          "Tickle"
+        ],
+        [
+          40,
+          "Slam"
+        ],
+        [
+          44,
+          "Hyper Voice"
+        ],
+        [
+          48,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Tail Whip"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "Tidy Up"
+        ]
+      ]
+    }
+  ]
+}

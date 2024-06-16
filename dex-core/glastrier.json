@@ -1,0 +1,242 @@
+{
+  "name": "Glastrier",
+  "national": "0896",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wild Horse Pokémon",
+      "height": {
+        "metric": 2.2,
+        "imperial": 87
+      },
+      "weight": {
+        "metric": 800,
+        "imperial": 1763.7
+      },
+      "ability": {
+        "normal": [
+          "Chilling Neigh"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 145,
+        "def": 130,
+        "satk": 65,
+        "sdef": 110,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Tail Whip"
+        ],
+        [
+          6,
+          "Double Kick"
+        ],
+        [
+          12,
+          "Avalanche"
+        ],
+        [
+          18,
+          "Stomp"
+        ],
+        [
+          24,
+          "Torment"
+        ],
+        [
+          30,
+          "Mist"
+        ],
+        [
+          36,
+          "Icicle Crash"
+        ],
+        [
+          42,
+          "Take Down"
+        ],
+        [
+          48,
+          "Iron Defense"
+        ],
+        [
+          54,
+          "Thrash"
+        ],
+        [
+          60,
+          "Taunt"
+        ],
+        [
+          66,
+          "Double-Edge"
+        ],
+        [
+          72,
+          "Swords Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ]
+      ]
+    }
+  ]
+}

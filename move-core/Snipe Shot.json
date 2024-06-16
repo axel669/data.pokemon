@@ -1,0 +1,8 @@
+{
+  "name": "Snipe Shot",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target."
+}

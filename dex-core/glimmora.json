@@ -1,0 +1,270 @@
+{
+  "name": "Glimmora",
+  "national": "0970",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ore Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 45,
+        "imperial": 99.2
+      },
+      "ability": {
+        "normal": [
+          "Toxic Debris"
+        ],
+        "hidden": "Corrosion"
+      },
+      "stats": {
+        "hp": 83,
+        "atk": 55,
+        "def": 90,
+        "satk": 130,
+        "sdef": 81,
+        "spd": 86
+      },
+      "moves": [
+        [
+          "evo",
+          "Mortal Spin"
+        ],
+        [
+          null,
+          "Smack Down"
+        ],
+        [
+          null,
+          "Spiky Shield"
+        ],
+        [
+          null,
+          "Toxic Spikes"
+        ],
+        [
+          null,
+          "Rock Throw"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          7,
+          "Acid Spray"
+        ],
+        [
+          11,
+          "Ancient Power"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          18,
+          "Stealth Rock"
+        ],
+        [
+          22,
+          "Venoshock"
+        ],
+        [
+          26,
+          "Sandstorm"
+        ],
+        [
+          29,
+          "Self-Destruct"
+        ],
+        [
+          33,
+          "Rock Slide"
+        ],
+        [
+          39,
+          "Power Gem"
+        ],
+        [
+          44,
+          "Acid Armor"
+        ],
+        [
+          50,
+          "Sludge Wave"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Memento"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "name": "Barraskewda",
+  "national": "0847",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Skewer Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 30,
+        "imperial": 66.1
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim"
+        ],
+        "hidden": "Propeller Tail"
+      },
+      "stats": {
+        "hp": 61,
+        "atk": 123,
+        "def": 60,
+        "satk": 60,
+        "sdef": 50,
+        "spd": 136
+      },
+      "moves": [
+        [
+          null,
+          "Fury Attack"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Aqua Jet"
+        ],
+        [
+          null,
+          "Throat Chop"
+        ],
+        [
+          18,
+          "Agility"
+        ],
+        [
+          24,
+          "Dive"
+        ],
+        [
+          32,
+          "Focus Energy"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          48,
+          "Liquidation"
+        ],
+        [
+          56,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ]
+      ]
+    }
+  ]
+}

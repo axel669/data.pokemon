@@ -1,0 +1,8 @@
+{
+  "name": "Water Gun",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": null,
+  "desc": "The target is blasted with a forceful shot of water."
+}

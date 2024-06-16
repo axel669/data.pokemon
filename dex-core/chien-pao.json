@@ -1,0 +1,242 @@
+{
+  "name": "Chien-Pao",
+  "national": "1002",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ruinous Pokémon",
+      "height": {
+        "metric": 1.9,
+        "imperial": 75
+      },
+      "weight": {
+        "metric": 152.2,
+        "imperial": 335.5
+      },
+      "ability": {
+        "normal": [
+          "Sword of Ruin"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 80,
+        "satk": 90,
+        "sdef": 65,
+        "spd": 135
+      },
+      "moves": [
+        [
+          null,
+          "Spite"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Mean Look"
+        ],
+        [
+          5,
+          "Icy Wind"
+        ],
+        [
+          10,
+          "Payback"
+        ],
+        [
+          15,
+          "Mist"
+        ],
+        [
+          15,
+          "Haze"
+        ],
+        [
+          20,
+          "Ice Shard"
+        ],
+        [
+          25,
+          "Swords Dance"
+        ],
+        [
+          30,
+          "Snowscape"
+        ],
+        [
+          35,
+          "Night Slash"
+        ],
+        [
+          40,
+          "Dark Pulse"
+        ],
+        [
+          45,
+          "Icicle Crash"
+        ],
+        [
+          50,
+          "Ruination"
+        ],
+        [
+          55,
+          "Sucker Punch"
+        ],
+        [
+          60,
+          "Sacred Sword"
+        ],
+        [
+          65,
+          "Recover"
+        ],
+        [
+          70,
+          "Throat Chop"
+        ],
+        [
+          75,
+          "Sheer Cold"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    }
+  ]
+}

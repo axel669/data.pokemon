@@ -1,0 +1,8 @@
+{
+  "name": "Misty Terrain",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns."
+}

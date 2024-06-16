@@ -1,0 +1,319 @@
+{
+  "name": "Garganacl",
+  "national": "0934",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rock Salt Pokémon",
+      "height": {
+        "metric": 2.3,
+        "imperial": 91
+      },
+      "weight": {
+        "metric": 240,
+        "imperial": 529.1
+      },
+      "ability": {
+        "normal": [
+          "Purifying Salt",
+          "Sturdy"
+        ],
+        "hidden": "Clear Body"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 130,
+        "satk": 45,
+        "sdef": 90,
+        "spd": 35
+      },
+      "moves": [
+        [
+          "evo",
+          "Hammer Arm"
+        ],
+        [
+          null,
+          "Block"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Rock Blast"
+        ],
+        [
+          5,
+          "Rock Throw"
+        ],
+        [
+          7,
+          "Mud Shot"
+        ],
+        [
+          10,
+          "Rock Tomb"
+        ],
+        [
+          13,
+          "Rock Polish"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Salt Cure"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          40,
+          "Stealth Rock"
+        ],
+        [
+          44,
+          "Heavy Slam"
+        ],
+        [
+          49,
+          "Earthquake"
+        ],
+        [
+          54,
+          "Stone Edge"
+        ],
+        [
+          60,
+          "Explosion"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Power Gem"
+        ],
+        [
+          "pre",
+          "Smack Down"
+        ],
+        [
+          "pre",
+          "Iron Defense"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Incinerate",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable."
+}

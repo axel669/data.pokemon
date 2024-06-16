@@ -1,0 +1,343 @@
+{
+  "name": "Honchkrow",
+  "national": "0430",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Big Boss Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 27.3,
+        "imperial": 60.2
+      },
+      "ability": {
+        "normal": [
+          "Insomnia",
+          "Super Luck"
+        ],
+        "hidden": "Moxie"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 125,
+        "def": 52,
+        "satk": 105,
+        "sdef": 52,
+        "spd": 71
+      },
+      "moves": [
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          null,
+          "Haze"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Sucker Punch"
+        ],
+        [
+          null,
+          "Night Slash"
+        ],
+        [
+          null,
+          "Quash"
+        ],
+        [
+          25,
+          "Swagger"
+        ],
+        [
+          35,
+          "Nasty Plot"
+        ],
+        [
+          45,
+          "Foul Play"
+        ],
+        [
+          55,
+          "Dark Pulse"
+        ],
+        [
+          65,
+          "Comeuppance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Drill Peck"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Flatter"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Brave Bird"
+        ],
+        [
+          "pre",
+          "Peck"
+        ],
+        [
+          "pre",
+          "Gust"
+        ],
+        [
+          "pre",
+          "Night Shade"
+        ],
+        [
+          "pre",
+          "Assurance"
+        ],
+        [
+          "pre",
+          "Taunt"
+        ],
+        [
+          "pre",
+          "Mean Look"
+        ],
+        [
+          "pre",
+          "Torment"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Jungle Healing",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user becomes one with the jungle, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Rookidee",
+  "national": "0821",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tiny Bird Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 1.8,
+        "imperial": 4
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Unnerve"
+        ],
+        "hidden": "Big Pecks"
+      },
+      "stats": {
+        "hp": 38,
+        "atk": 47,
+        "def": 35,
+        "satk": 33,
+        "sdef": 35,
+        "spd": 57
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          4,
+          "Power Trip"
+        ],
+        [
+          8,
+          "Hone Claws"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Pluck"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Drill Peck"
+        ],
+        [
+          32,
+          "Swagger"
+        ],
+        [
+          36,
+          "Brave Bird"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "egg",
+          "Sand Attack"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Rock Smash"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Tailwind"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

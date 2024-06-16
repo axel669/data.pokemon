@@ -1,0 +1,8 @@
+{
+  "name": "Forest's Curse",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user puts a forest curse on the target. This adds Grass type to the target's type."
+}

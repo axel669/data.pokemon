@@ -1,0 +1,8 @@
+{
+  "name": "Shed Tail",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting."
+}

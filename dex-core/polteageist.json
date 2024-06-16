@@ -1,0 +1,246 @@
+{
+  "name": "Polteageist",
+  "national": "0855",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Black Tea Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.4,
+        "imperial": 0.9
+      },
+      "ability": {
+        "normal": [
+          "Weak Armor"
+        ],
+        "hidden": "Cursed Body"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 65,
+        "def": 65,
+        "satk": 134,
+        "sdef": 114,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Teatime"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Aromatic Mist"
+        ],
+        [
+          null,
+          "Strength Sap"
+        ],
+        [
+          18,
+          "Protect"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          30,
+          "Sweet Scent"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          42,
+          "Nasty Plot"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Memento"
+        ],
+        [
+          60,
+          "Shell Smash"
+        ],
+        [
+          66,
+          "Curse"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Ally Switch"
+        ]
+      ]
+    }
+  ]
+}

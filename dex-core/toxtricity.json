@@ -1,0 +1,712 @@
+{
+  "name": "Toxtricity",
+  "national": "0849",
+  "forms": [
+    {
+      "name": "Amped",
+      "species": "Punk Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 40,
+        "imperial": 88.2
+      },
+      "ability": {
+        "normal": [
+          "Punk Rock",
+          "Plus"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 70,
+        "satk": 114,
+        "sdef": 70,
+        "spd": 75
+      },
+      "moves": [
+        [
+          "evo",
+          "Spark"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Nuzzle"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Belch"
+        ],
+        [
+          null,
+          "Tearful Look"
+        ],
+        [
+          null,
+          "Acid Spray"
+        ],
+        [
+          4,
+          "Charge"
+        ],
+        [
+          8,
+          "Shock Wave"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          16,
+          "Taunt"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Swagger"
+        ],
+        [
+          32,
+          "Toxic"
+        ],
+        [
+          36,
+          "Discharge"
+        ],
+        [
+          40,
+          "Poison Jab"
+        ],
+        [
+          44,
+          "Overdrive"
+        ],
+        [
+          48,
+          "Boomburst"
+        ],
+        [
+          52,
+          "Shift Gear"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    },
+    {
+      "name": "Low Key",
+      "species": "Punk Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 40,
+        "imperial": 88.2
+      },
+      "ability": {
+        "normal": [
+          "Punk Rock",
+          "Minus"
+        ],
+        "hidden": "Technician"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 98,
+        "def": 70,
+        "satk": 114,
+        "sdef": 70,
+        "spd": 75
+      },
+      "moves": [
+        [
+          "evo",
+          "Spark"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Nuzzle"
+        ],
+        [
+          null,
+          "Noble Roar"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          null,
+          "Belch"
+        ],
+        [
+          null,
+          "Tearful Look"
+        ],
+        [
+          null,
+          "Acid Spray"
+        ],
+        [
+          4,
+          "Charge"
+        ],
+        [
+          8,
+          "Shock Wave"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          16,
+          "Taunt"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Swagger"
+        ],
+        [
+          32,
+          "Toxic"
+        ],
+        [
+          36,
+          "Discharge"
+        ],
+        [
+          40,
+          "Poison Jab"
+        ],
+        [
+          44,
+          "Overdrive"
+        ],
+        [
+          48,
+          "Boomburst"
+        ],
+        [
+          52,
+          "Magnetic Flux"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

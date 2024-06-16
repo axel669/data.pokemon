@@ -1,0 +1,8 @@
+{
+  "name": "Bolt Strike",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": 20,
+  "desc": "The user surrounds itself with a great amount of electricity and charges the target. This may also leave the target with paralysis."
+}

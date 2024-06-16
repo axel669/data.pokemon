@@ -1,0 +1,258 @@
+{
+  "name": "Ting-Lu",
+  "national": "1003",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ruinous Pokémon",
+      "height": {
+        "metric": 2.7,
+        "imperial": 106
+      },
+      "weight": {
+        "metric": 699.7,
+        "imperial": 1542.6
+      },
+      "ability": {
+        "normal": [
+          "Vessel of Ruin"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 155,
+        "atk": 110,
+        "def": 125,
+        "satk": 55,
+        "sdef": 80,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Mean Look"
+        ],
+        [
+          null,
+          "Sand Tomb"
+        ],
+        [
+          null,
+          "Spite"
+        ],
+        [
+          5,
+          "Spikes"
+        ],
+        [
+          10,
+          "Payback"
+        ],
+        [
+          15,
+          "Stomp"
+        ],
+        [
+          20,
+          "Bulldoze"
+        ],
+        [
+          25,
+          "Whirlwind"
+        ],
+        [
+          30,
+          "Taunt"
+        ],
+        [
+          35,
+          "Thrash"
+        ],
+        [
+          40,
+          "Dark Pulse"
+        ],
+        [
+          45,
+          "Stomping Tantrum"
+        ],
+        [
+          50,
+          "Ruination"
+        ],
+        [
+          55,
+          "Throat Chop"
+        ],
+        [
+          60,
+          "Rock Slide"
+        ],
+        [
+          65,
+          "Memento"
+        ],
+        [
+          70,
+          "Earthquake"
+        ],
+        [
+          75,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    }
+  ]
+}

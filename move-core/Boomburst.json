@@ -1,0 +1,8 @@
+{
+  "name": "Boomburst",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user attacks everything around it with the destructive power of a terrible explosive sound."
+}

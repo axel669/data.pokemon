@@ -1,0 +1,314 @@
+{
+  "name": "Armarouge",
+  "national": "0936",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Warrior Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 85,
+        "imperial": 187.4
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire"
+        ],
+        "hidden": "Weak Armor"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 60,
+        "def": 100,
+        "satk": 125,
+        "sdef": 80,
+        "spd": 75
+      },
+      "moves": [
+        [
+          "evo",
+          "Psyshock"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Mystical Fire"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          8,
+          "Clear Smog"
+        ],
+        [
+          12,
+          "Fire Spin"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Night Shade"
+        ],
+        [
+          24,
+          "Flame Charge"
+        ],
+        [
+          28,
+          "Incinerate"
+        ],
+        [
+          32,
+          "Lava Plume"
+        ],
+        [
+          37,
+          "Calm Mind"
+        ],
+        [
+          42,
+          "Ally Switch"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Expanding Force"
+        ],
+        [
+          62,
+          "Armor Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "pre",
+          "Celebrate"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Fletchling",
+  "national": "0661",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tiny Robin Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 1.7,
+        "imperial": 3.7
+      },
+      "ability": {
+        "normal": [
+          "Big Pecks"
+        ],
+        "hidden": "Gale Wings"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 43,
+        "satk": 40,
+        "sdef": 38,
+        "spd": 62
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          15,
+          "Flail"
+        ],
+        [
+          20,
+          "Acrobatics"
+        ],
+        [
+          25,
+          "Agility"
+        ],
+        [
+          30,
+          "Aerial Ace"
+        ],
+        [
+          35,
+          "Tailwind"
+        ],
+        [
+          40,
+          "Steel Wing"
+        ],
+        [
+          45,
+          "Roost"
+        ],
+        [
+          50,
+          "Fly"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Flame Charge"
+        ],
+        [
+          "egg",
+          "Quick Guard"
+        ]
+      ]
+    }
+  ]
+}

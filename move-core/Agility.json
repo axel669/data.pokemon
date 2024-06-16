@@ -1,0 +1,8 @@
+{
+  "name": "Agility",
+  "power": null,
+  "accuracy": 101,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat."
+}

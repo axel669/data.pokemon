@@ -1,0 +1,8 @@
+{
+  "name": "Shock Wave",
+  "power": 60,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user strikes the target with a quick jolt of electricity. This attack never misses."
+}

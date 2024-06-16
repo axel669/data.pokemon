@@ -1,0 +1,266 @@
+{
+  "name": "Arboliva",
+  "national": "0930",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Olive Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 48.2,
+        "imperial": 106.3
+      },
+      "ability": {
+        "normal": [
+          "Seed Sower"
+        ],
+        "hidden": "Harvest"
+      },
+      "stats": {
+        "hp": 78,
+        "atk": 69,
+        "def": 90,
+        "satk": 125,
+        "sdef": 109,
+        "spd": 39
+      },
+      "moves": [
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Mirror Coat"
+        ],
+        [
+          null,
+          "Safeguard"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          7,
+          "Growth"
+        ],
+        [
+          10,
+          "Razor Leaf"
+        ],
+        [
+          13,
+          "Helping Hand"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          20,
+          "Mega Drain"
+        ],
+        [
+          23,
+          "Grassy Terrain"
+        ],
+        [
+          29,
+          "Seed Bomb"
+        ],
+        [
+          34,
+          "Energy Ball"
+        ],
+        [
+          39,
+          "Leech Seed"
+        ],
+        [
+          46,
+          "Terrain Pulse"
+        ],
+        [
+          52,
+          "Petal Blizzard"
+        ],
+        [
+          58,
+          "Petal Dance"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

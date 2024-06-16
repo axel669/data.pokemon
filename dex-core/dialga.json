@@ -1,0 +1,638 @@
+{
+  "name": "Dialga",
+  "national": "0483",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Temporal Pokémon",
+      "height": {
+        "metric": 5.4,
+        "imperial": 213
+      },
+      "weight": {
+        "metric": 683,
+        "imperial": 1505.8
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 120,
+        "def": 120,
+        "satk": 150,
+        "sdef": 100,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          8,
+          "Dragon Breath"
+        ],
+        [
+          16,
+          "Ancient Power"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          32,
+          "Flash Cannon"
+        ],
+        [
+          40,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Aura Sphere"
+        ],
+        [
+          56,
+          "Power Gem"
+        ],
+        [
+          64,
+          "Metal Burst"
+        ],
+        [
+          72,
+          "Earth Power"
+        ],
+        [
+          80,
+          "Iron Tail"
+        ],
+        [
+          88,
+          "Roar of Time"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ]
+      ]
+    },
+    {
+      "name": "Origin Forme",
+      "species": "Temporal Pokémon",
+      "height": {
+        "metric": 7,
+        "imperial": 276
+      },
+      "weight": {
+        "metric": 850,
+        "imperial": 1873.9
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 120,
+        "satk": 150,
+        "sdef": 120,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Metal Claw"
+        ],
+        [
+          8,
+          "Dragon Breath"
+        ],
+        [
+          16,
+          "Ancient Power"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          32,
+          "Flash Cannon"
+        ],
+        [
+          40,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Aura Sphere"
+        ],
+        [
+          56,
+          "Power Gem"
+        ],
+        [
+          64,
+          "Metal Burst"
+        ],
+        [
+          72,
+          "Earth Power"
+        ],
+        [
+          80,
+          "Iron Tail"
+        ],
+        [
+          88,
+          "Roar of Time"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

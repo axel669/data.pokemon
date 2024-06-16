@@ -1,0 +1,8 @@
+{
+  "name": "Lunge",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Speed Swap",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user exchanges Speed stats with the target."
+}

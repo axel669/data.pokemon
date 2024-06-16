@@ -1,0 +1,267 @@
+{
+  "name": "Skrelp",
+  "national": "0690",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mock Kelp Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 7.3,
+        "imperial": 16.1
+      },
+      "ability": {
+        "normal": [
+          "Poison Point",
+          "Poison Touch"
+        ],
+        "hidden": "Adaptability"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 60,
+        "def": 60,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          5,
+          "Acid"
+        ],
+        [
+          10,
+          "Water Gun"
+        ],
+        [
+          15,
+          "Tail Whip"
+        ],
+        [
+          20,
+          "Double Team"
+        ],
+        [
+          25,
+          "Poison Tail"
+        ],
+        [
+          30,
+          "Water Pulse"
+        ],
+        [
+          35,
+          "Toxic"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          45,
+          "Aqua Tail"
+        ],
+        [
+          50,
+          "Sludge Bomb"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM026",
+          "Poison Tail"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Twister"
+        ],
+        [
+          "egg",
+          "Dragon Tail"
+        ]
+      ]
+    }
+  ]
+}

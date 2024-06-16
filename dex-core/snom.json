@@ -1,0 +1,110 @@
+{
+  "name": "Snom",
+  "national": "0872",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Worm Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 3.8,
+        "imperial": 8.4
+      },
+      "ability": {
+        "normal": [
+          "Shield Dust"
+        ],
+        "hidden": "Ice Scales"
+      },
+      "stats": {
+        "hp": 30,
+        "atk": 25,
+        "def": 35,
+        "satk": 45,
+        "sdef": 30,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Struggle Bug"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Fairy Wind"
+        ]
+      ]
+    }
+  ]
+}

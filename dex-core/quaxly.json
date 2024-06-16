@@ -1,0 +1,210 @@
+{
+  "name": "Quaxly",
+  "national": "0912",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Duckling Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 6.1,
+        "imperial": 13.4
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Moxie"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 65,
+        "def": 45,
+        "satk": 50,
+        "sdef": 45,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Work Up"
+        ],
+        [
+          10,
+          "Wing Attack"
+        ],
+        [
+          13,
+          "Aqua Jet"
+        ],
+        [
+          17,
+          "Double Hit"
+        ],
+        [
+          21,
+          "Aqua Cutter"
+        ],
+        [
+          24,
+          "Air Slash"
+        ],
+        [
+          28,
+          "Focus Energy"
+        ],
+        [
+          31,
+          "Acrobatics"
+        ],
+        [
+          35,
+          "Liquidation"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "egg",
+          "Detect"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ]
+      ]
+    }
+  ]
+}

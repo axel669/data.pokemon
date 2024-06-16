@@ -1,0 +1,8 @@
+{
+  "name": "Rising Voltage",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain."
+}

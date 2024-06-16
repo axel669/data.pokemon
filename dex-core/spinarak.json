@@ -1,0 +1,271 @@
+{
+  "name": "Spinarak",
+  "national": "0167",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "String Spit Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Swarm",
+          "Insomnia"
+        ],
+        "hidden": "Sniper"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 60,
+        "def": 40,
+        "satk": 40,
+        "sdef": 40,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          8,
+          "Infestation"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Night Shade"
+        ],
+        [
+          19,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Fury Swipes"
+        ],
+        [
+          26,
+          "Sucker Punch"
+        ],
+        [
+          29,
+          "Agility"
+        ],
+        [
+          33,
+          "Pin Missile"
+        ],
+        [
+          36,
+          "Psychic"
+        ],
+        [
+          40,
+          "Poison Jab"
+        ],
+        [
+          44,
+          "Cross Poison"
+        ],
+        [
+          47,
+          "Sticky Web"
+        ],
+        [
+          51,
+          "Toxic Thread"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Megahorn"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

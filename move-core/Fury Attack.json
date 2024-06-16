@@ -1,0 +1,8 @@
+{
+  "name": "Fury Attack",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user attacks by jabbing the target with a horn, a beak, or the like. This move hits two to five times in a row."
+}

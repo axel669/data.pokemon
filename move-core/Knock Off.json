@@ -1,0 +1,8 @@
+{
+  "name": "Knock Off",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item."
+}

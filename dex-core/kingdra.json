@@ -1,0 +1,279 @@
+{
+  "name": "Kingdra",
+  "national": "0230",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dragon Pokémon",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 152,
+        "imperial": 335.1
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Sniper"
+        ],
+        "hidden": "Damp"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 95,
+        "satk": 95,
+        "sdef": 95,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          null,
+          "Twister"
+        ],
+        [
+          null,
+          "Whirlpool"
+        ],
+        [
+          null,
+          "Yawn"
+        ],
+        [
+          15,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Agility"
+        ],
+        [
+          37,
+          "Water Pulse"
+        ],
+        [
+          44,
+          "Dragon Pulse"
+        ],
+        [
+          51,
+          "Hydro Pump"
+        ],
+        [
+          58,
+          "Dragon Dance"
+        ],
+        [
+          65,
+          "Rain Dance"
+        ],
+        [
+          72,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Aurora Beam"
+        ],
+        [
+          "egg",
+          "Splash"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

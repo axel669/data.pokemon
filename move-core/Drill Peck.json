@@ -1,0 +1,8 @@
+{
+  "name": "Drill Peck",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "A corkscrewing attack that strikes the target with a sharp beak acting as a drill."
+}

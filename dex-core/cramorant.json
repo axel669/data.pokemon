@@ -1,0 +1,266 @@
+{
+  "name": "Cramorant",
+  "national": "0845",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Gulp Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 18,
+        "imperial": 39.7
+      },
+      "ability": {
+        "normal": [
+          "Gulp Missile"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 85,
+        "def": 55,
+        "satk": 85,
+        "sdef": 95,
+        "spd": 85
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Stockpile"
+        ],
+        [
+          null,
+          "Spit Up"
+        ],
+        [
+          null,
+          "Swallow"
+        ],
+        [
+          7,
+          "Water Gun"
+        ],
+        [
+          14,
+          "Fury Attack"
+        ],
+        [
+          21,
+          "Pluck"
+        ],
+        [
+          28,
+          "Dive"
+        ],
+        [
+          35,
+          "Drill Peck"
+        ],
+        [
+          42,
+          "Amnesia"
+        ],
+        [
+          49,
+          "Thrash"
+        ],
+        [
+          56,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Aerial Ace"
+        ],
+        [
+          "egg",
+          "Roost"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Aqua Cutter"
+        ],
+        [
+          "rem",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

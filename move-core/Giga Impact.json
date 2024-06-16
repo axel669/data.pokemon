@@ -1,0 +1,8 @@
+{
+  "name": "Giga Impact",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user charges at the target using every bit of its power. The user can't move on the next turn."
+}

@@ -1,0 +1,295 @@
+{
+  "name": "Drakloak",
+  "national": "0886",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Caretaker Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 11,
+        "imperial": 24.3
+      },
+      "ability": {
+        "normal": [
+          "Clear Body",
+          "Infiltrator"
+        ],
+        "hidden": "Cursed Body"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 80,
+        "def": 50,
+        "satk": 60,
+        "sdef": 50,
+        "spd": 102
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Pulse"
+        ],
+        [
+          null,
+          "Infestation"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          6,
+          "Lock-On"
+        ],
+        [
+          12,
+          "Assurance"
+        ],
+        [
+          18,
+          "Hex"
+        ],
+        [
+          24,
+          "Agility"
+        ],
+        [
+          30,
+          "Double Hit"
+        ],
+        [
+          36,
+          "U-turn"
+        ],
+        [
+          42,
+          "Dragon Dance"
+        ],
+        [
+          48,
+          "Phantom Force"
+        ],
+        [
+          54,
+          "Take Down"
+        ],
+        [
+          61,
+          "Dragon Rush"
+        ],
+        [
+          66,
+          "Double-Edge"
+        ],
+        [
+          72,
+          "Last Resort"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "Dragon Tail"
+        ]
+      ]
+    }
+  ]
+}

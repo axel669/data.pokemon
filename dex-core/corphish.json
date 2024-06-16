@@ -1,0 +1,279 @@
+{
+  "name": "Corphish",
+  "national": "0341",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ruffian Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 11.5,
+        "imperial": 25.4
+      },
+      "ability": {
+        "normal": [
+          "Hyper Cutter",
+          "Shell Armor"
+        ],
+        "hidden": "Adaptability"
+      },
+      "stats": {
+        "hp": 43,
+        "atk": 80,
+        "def": 65,
+        "satk": 50,
+        "sdef": 35,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          8,
+          "Taunt"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Knock Off"
+        ],
+        [
+          20,
+          "Double Hit"
+        ],
+        [
+          24,
+          "Protect"
+        ],
+        [
+          28,
+          "Night Slash"
+        ],
+        [
+          32,
+          "Razor Shell"
+        ],
+        [
+          36,
+          "Swords Dance"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          44,
+          "Crabhammer"
+        ],
+        [
+          48,
+          "Endeavor"
+        ],
+        [
+          52,
+          "Guillotine"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Slash"
+        ],
+        [
+          "egg",
+          "Metal Claw"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ]
+      ]
+    }
+  ]
+}

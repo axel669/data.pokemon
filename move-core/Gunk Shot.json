@@ -1,0 +1,8 @@
+{
+  "name": "Gunk Shot",
+  "power": 120,
+  "accuracy": 80,
+  "pp": 5,
+  "effect": 30,
+  "desc": "The user shoots filthy garbage at the target to attack. This may also poison the target."
+}

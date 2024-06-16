@@ -1,0 +1,8 @@
+{
+  "name": "Super Fang",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half."
+}

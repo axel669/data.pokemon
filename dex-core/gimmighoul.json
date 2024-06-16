@@ -1,0 +1,206 @@
+{
+  "name": "Gimmighoul",
+  "national": "0999",
+  "forms": [
+    {
+      "name": "Chest Form",
+      "species": "Coin Chest Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 5,
+        "imperial": 11
+      },
+      "ability": {
+        "normal": [
+          "Rattled"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 70,
+        "satk": 75,
+        "sdef": 70,
+        "spd": 10
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ]
+      ]
+    },
+    {
+      "name": "Roaming Form",
+      "species": "Coin Hunter Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 0.1,
+        "imperial": 0.2
+      },
+      "ability": {
+        "normal": [
+          "Run Away"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 30,
+        "def": 25,
+        "satk": 75,
+        "sdef": 45,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ]
+      ]
+    }
+  ]
+}

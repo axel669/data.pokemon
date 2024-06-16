@@ -1,0 +1,227 @@
+{
+  "name": "Trapinch",
+  "national": "0328",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ant Pit Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 15,
+        "imperial": 33.1
+      },
+      "ability": {
+        "normal": [
+          "Hyper Cutter",
+          "Arena Trap"
+        ],
+        "hidden": "Sheer Force"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 100,
+        "def": 45,
+        "satk": 45,
+        "sdef": 45,
+        "spd": 10
+      },
+      "moves": [
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          12,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Sand Tomb"
+        ],
+        [
+          20,
+          "Bulldoze"
+        ],
+        [
+          24,
+          "Dig"
+        ],
+        [
+          28,
+          "Crunch"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          36,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          44,
+          "Superpower"
+        ],
+        [
+          48,
+          "Fissure"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "egg",
+          "Gust"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Fury Cutter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ]
+      ]
+    }
+  ]
+}

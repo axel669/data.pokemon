@@ -1,0 +1,202 @@
+{
+  "name": "Grubbin",
+  "national": "0736",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Larva Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 4.4,
+        "imperial": 9.7
+      },
+      "ability": {
+        "normal": [
+          "Swarm"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 47,
+        "atk": 62,
+        "def": 45,
+        "satk": 55,
+        "sdef": 45,
+        "spd": 46
+      },
+      "moves": [
+        [
+          null,
+          "Vise Grip"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          5,
+          "String Shot"
+        ],
+        [
+          10,
+          "Bug Bite"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          21,
+          "Spark"
+        ],
+        [
+          25,
+          "Sticky Web"
+        ],
+        [
+          30,
+          "X-Scissor"
+        ],
+        [
+          35,
+          "Crunch"
+        ],
+        [
+          40,
+          "Dig"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Discharge"
+        ]
+      ]
+    }
+  ]
+}

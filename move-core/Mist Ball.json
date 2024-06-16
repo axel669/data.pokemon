@@ -1,0 +1,8 @@
+{
+  "name": "Mist Ball",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": 50,
+  "desc": "A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat."
+}

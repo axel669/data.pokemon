@@ -1,0 +1,8 @@
+{
+  "name": "Rage Fist",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power."
+}

@@ -1,0 +1,323 @@
+{
+  "name": "Drifblim",
+  "national": "0426",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Blimp Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 15,
+        "imperial": 33.1
+      },
+      "ability": {
+        "normal": [
+          "Aftermath",
+          "Unburden"
+        ],
+        "hidden": "Flare Boost"
+      },
+      "stats": {
+        "hp": 150,
+        "atk": 80,
+        "def": 44,
+        "satk": 90,
+        "sdef": 54,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Phantom Force"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Strength Sap"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Minimize"
+        ],
+        [
+          12,
+          "Payback"
+        ],
+        [
+          16,
+          "Hex"
+        ],
+        [
+          20,
+          "Shadow Ball"
+        ],
+        [
+          24,
+          "Spit Up"
+        ],
+        [
+          24,
+          "Swallow"
+        ],
+        [
+          24,
+          "Stockpile"
+        ],
+        [
+          31,
+          "Self-Destruct"
+        ],
+        [
+          36,
+          "Destiny Bond"
+        ],
+        [
+          42,
+          "Baton Pass"
+        ],
+        [
+          48,
+          "Tailwind"
+        ],
+        [
+          54,
+          "Explosion"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Hypnosis"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

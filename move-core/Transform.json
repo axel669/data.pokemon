@@ -1,0 +1,8 @@
+{
+  "name": "Transform",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user transforms into a copy of the target, right down to having the same move set."
+}

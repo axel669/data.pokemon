@@ -1,0 +1,398 @@
+{
+  "name": "Zangoose",
+  "national": "0335",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cat Ferret Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 40.3,
+        "imperial": 88.8
+      },
+      "ability": {
+        "normal": [
+          "Immunity"
+        ],
+        "hidden": "Toxic Boost"
+      },
+      "stats": {
+        "hp": 73,
+        "atk": 115,
+        "def": 60,
+        "satk": 60,
+        "sdef": 60,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          8,
+          "Fury Cutter"
+        ],
+        [
+          12,
+          "Metal Claw"
+        ],
+        [
+          15,
+          "Hone Claws"
+        ],
+        [
+          19,
+          "Slash"
+        ],
+        [
+          22,
+          "Power Trip"
+        ],
+        [
+          26,
+          "Crush Claw"
+        ],
+        [
+          29,
+          "False Swipe"
+        ],
+        [
+          33,
+          "Switcheroo"
+        ],
+        [
+          36,
+          "Detect"
+        ],
+        [
+          40,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Taunt"
+        ],
+        [
+          47,
+          "Swords Dance"
+        ],
+        [
+          50,
+          "Close Combat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "rem",
+          "Double Kick"
+        ],
+        [
+          "rem",
+          "Disable"
+        ],
+        [
+          "rem",
+          "Counter"
+        ],
+        [
+          "rem",
+          "Fury Swipes"
+        ],
+        [
+          "rem",
+          "Curse"
+        ],
+        [
+          "rem",
+          "Flail"
+        ],
+        [
+          "rem",
+          "Belly Drum"
+        ],
+        [
+          "rem",
+          "Feint"
+        ],
+        [
+          "rem",
+          "Night Slash"
+        ],
+        [
+          "rem",
+          "Double Hit"
+        ],
+        [
+          "rem",
+          "Quick Guard"
+        ],
+        [
+          "rem",
+          "Final Gambit"
+        ]
+      ]
+    }
+  ]
+}

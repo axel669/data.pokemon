@@ -1,0 +1,295 @@
+{
+  "name": "Seel",
+  "national": "0086",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Lion Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 90,
+        "imperial": 198.4
+      },
+      "ability": {
+        "normal": [
+          "Thick Fat",
+          "Hydration"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 45,
+        "def": 55,
+        "satk": 45,
+        "sdef": 70,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          7,
+          "Charm"
+        ],
+        [
+          11,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Encore"
+        ],
+        [
+          17,
+          "Ice Shard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Aqua Ring"
+        ],
+        [
+          27,
+          "Aurora Beam"
+        ],
+        [
+          31,
+          "Aqua Jet"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          37,
+          "Take Down"
+        ],
+        [
+          41,
+          "Dive"
+        ],
+        [
+          43,
+          "Aqua Tail"
+        ],
+        [
+          47,
+          "Ice Beam"
+        ],
+        [
+          51,
+          "Safeguard"
+        ],
+        [
+          53,
+          "Snowscape"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Horn Drill"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Lick"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

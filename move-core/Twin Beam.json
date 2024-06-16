@@ -1,0 +1,8 @@
+{
+  "name": "Twin Beam",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row."
+}

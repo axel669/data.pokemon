@@ -1,0 +1,8 @@
+{
+  "name": "Curse",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "A move that has different effects depending on whether the user is a Ghost type or not."
+}

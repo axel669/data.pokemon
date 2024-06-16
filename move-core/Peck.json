@@ -1,0 +1,8 @@
+{
+  "name": "Peck",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": null,
+  "desc": "The target is jabbed with a sharply pointed beak or horn to inflict damage."
+}

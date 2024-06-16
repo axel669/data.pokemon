@@ -1,0 +1,234 @@
+{
+  "name": "Eelektrik",
+  "national": "0603",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "EleFish Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 22,
+        "imperial": 48.5
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 85,
+        "def": 70,
+        "satk": 75,
+        "sdef": 70,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Crunch"
+        ],
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Spark"
+        ],
+        [
+          null,
+          "Charge Beam"
+        ],
+        [
+          9,
+          "Bind"
+        ],
+        [
+          19,
+          "Acid"
+        ],
+        [
+          29,
+          "Discharge"
+        ],
+        [
+          44,
+          "Thunderbolt"
+        ],
+        [
+          49,
+          "Acid Spray"
+        ],
+        [
+          54,
+          "Coil"
+        ],
+        [
+          59,
+          "Wild Charge"
+        ],
+        [
+          64,
+          "Gastro Acid"
+        ],
+        [
+          69,
+          "Zap Cannon"
+        ],
+        [
+          74,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ]
+      ]
+    }
+  ]
+}

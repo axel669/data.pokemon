@@ -1,0 +1,262 @@
+{
+  "name": "Surskit",
+  "national": "0283",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Pond Skater Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 1.7,
+        "imperial": 3.7
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim"
+        ],
+        "hidden": "Rain Dish"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 32,
+        "satk": 50,
+        "sdef": 52,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Sweet Scent"
+        ],
+        [
+          14,
+          "Soak"
+        ],
+        [
+          17,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Agility"
+        ],
+        [
+          25,
+          "Mist"
+        ],
+        [
+          25,
+          "Haze"
+        ],
+        [
+          35,
+          "Baton Pass"
+        ],
+        [
+          38,
+          "Sticky Web"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Hydro Pump"
+        ],
+        [
+          "egg",
+          "Psybeam"
+        ],
+        [
+          "egg",
+          "Mud Shot"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Fell Stinger"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

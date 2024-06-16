@@ -1,0 +1,8 @@
+{
+  "name": "Stomping Tantrum",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "Driven by frustration, the user attacks the target. This move's power is doubled if the user's previous move failed."
+}

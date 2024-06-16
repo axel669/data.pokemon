@@ -1,0 +1,202 @@
+{
+  "name": "Foongus",
+  "national": "0590",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mushroom Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Effect Spore"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 69,
+        "atk": 55,
+        "def": 45,
+        "satk": 55,
+        "sdef": 55,
+        "spd": 15
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Growth"
+        ],
+        [
+          8,
+          "Stun Spore"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Synthesis"
+        ],
+        [
+          20,
+          "Clear Smog"
+        ],
+        [
+          24,
+          "Sweet Scent"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          32,
+          "Ingrain"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Rage Powder"
+        ],
+        [
+          44,
+          "Solar Beam"
+        ],
+        [
+          48,
+          "Spore"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ]
+      ]
+    }
+  ]
+}

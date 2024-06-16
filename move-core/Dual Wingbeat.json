@@ -1,0 +1,8 @@
+{
+  "name": "Dual Wingbeat",
+  "power": 40,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user slams the target with its wings to inflict damage. The target is hit twice in a row."
+}

@@ -1,0 +1,274 @@
+{
+  "name": "Vileplume",
+  "national": "0045",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flower Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 18.6,
+        "imperial": 41
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Effect Spore"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 85,
+        "satk": 110,
+        "sdef": 90,
+        "spd": 50
+      },
+      "moves": [
+        [
+          "evo",
+          "Petal Blizzard"
+        ],
+        [
+          null,
+          "Acid"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Poison Powder"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Sleep Powder"
+        ],
+        [
+          null,
+          "Petal Dance"
+        ],
+        [
+          null,
+          "Toxic"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Moonlight"
+        ],
+        [
+          null,
+          "Grassy Terrain"
+        ],
+        [
+          null,
+          "Moonblast"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Razor Leaf"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "After You"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

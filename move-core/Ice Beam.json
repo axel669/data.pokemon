@@ -1,0 +1,8 @@
+{
+  "name": "Ice Beam",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": 10,
+  "desc": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen."
+}

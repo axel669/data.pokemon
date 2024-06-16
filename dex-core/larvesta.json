@@ -1,0 +1,246 @@
+{
+  "name": "Larvesta",
+  "national": "0636",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Torch Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 28.8,
+        "imperial": 63.5
+      },
+      "ability": {
+        "normal": [
+          "Flame Body"
+        ],
+        "hidden": "Swarm"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 85,
+        "def": 55,
+        "satk": 50,
+        "sdef": 55,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          6,
+          "Flame Charge"
+        ],
+        [
+          12,
+          "Struggle Bug"
+        ],
+        [
+          18,
+          "Flame Wheel"
+        ],
+        [
+          30,
+          "Screech"
+        ],
+        [
+          36,
+          "Leech Life"
+        ],
+        [
+          42,
+          "Bug Buzz"
+        ],
+        [
+          48,
+          "Take Down"
+        ],
+        [
+          54,
+          "Amnesia"
+        ],
+        [
+          60,
+          "Double-Edge"
+        ],
+        [
+          66,
+          "Flare Blitz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Absorb"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ]
+      ]
+    }
+  ]
+}

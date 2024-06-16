@@ -1,0 +1,299 @@
+{
+  "name": "Coalossal",
+  "national": "0839",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Coal Pokémon",
+      "height": {
+        "metric": 2.8,
+        "imperial": 110
+      },
+      "weight": {
+        "metric": 310.5,
+        "imperial": 684.5
+      },
+      "ability": {
+        "normal": [
+          "Steam Engine",
+          "Flame Body"
+        ],
+        "hidden": "Flash Fire"
+      },
+      "stats": {
+        "hp": 110,
+        "atk": 80,
+        "def": 120,
+        "satk": 80,
+        "sdef": 90,
+        "spd": 30
+      },
+      "moves": [
+        [
+          "evo",
+          "Tar Shot"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Smack Down"
+        ],
+        [
+          null,
+          "Flame Charge"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          27,
+          "Incinerate"
+        ],
+        [
+          37,
+          "Stealth Rock"
+        ],
+        [
+          45,
+          "Heat Crash"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          63,
+          "Stone Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM189",
+          "Heat Crash"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Mud-Slap"
+        ],
+        [
+          "egg",
+          "Block"
+        ]
+      ]
+    }
+  ]
+}

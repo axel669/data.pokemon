@@ -1,0 +1,8 @@
+{
+  "name": "Magical Leaf",
+  "power": 60,
+  "accuracy": 101,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user scatters curious leaves that chase the target. This attack never misses."
+}

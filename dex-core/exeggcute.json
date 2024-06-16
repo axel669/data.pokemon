@@ -1,0 +1,258 @@
+{
+  "name": "Exeggcute",
+  "national": "0102",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Egg Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 2.5,
+        "imperial": 5.5
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Harvest"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 40,
+        "def": 80,
+        "satk": 60,
+        "sdef": 45,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          5,
+          "Reflect"
+        ],
+        [
+          10,
+          "Leech Seed"
+        ],
+        [
+          15,
+          "Mega Drain"
+        ],
+        [
+          20,
+          "Confusion"
+        ],
+        [
+          25,
+          "Synthesis"
+        ],
+        [
+          30,
+          "Bullet Seed"
+        ],
+        [
+          35,
+          "Giga Drain"
+        ],
+        [
+          40,
+          "Extrasensory"
+        ],
+        [
+          45,
+          "Uproar"
+        ],
+        [
+          50,
+          "Worry Seed"
+        ],
+        [
+          55,
+          "Solar Beam"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Stun Spore"
+        ],
+        [
+          "egg",
+          "Sleep Powder"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Moonlight"
+        ],
+        [
+          "egg",
+          "Ancient Power"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Block"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Pounce",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user attacks by pouncing on the target. This also lowers the target's Speed stat."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Iron Tail",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "effect": 30,
+  "desc": "The target is slammed with a steel-hard tail. This may also lower the target's Defense stat."
+}

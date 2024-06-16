@@ -1,0 +1,42 @@
+{
+  "name": "Cosmog",
+  "national": "0789",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Nebula Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 0.1,
+        "imperial": 0.2
+      },
+      "ability": {
+        "normal": [
+          "Unaware"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 31,
+        "satk": 29,
+        "sdef": 31,
+        "spd": 37
+      },
+      "moves": [
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Teleport"
+        ]
+      ]
+    }
+  ]
+}

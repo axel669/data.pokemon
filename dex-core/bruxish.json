@@ -1,0 +1,267 @@
+{
+  "name": "Bruxish",
+  "national": "0779",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Gnash Teeth Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 19,
+        "imperial": 41.9
+      },
+      "ability": {
+        "normal": [
+          "Dazzling",
+          "Strong Jaw"
+        ],
+        "hidden": "Wonder Skin"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 105,
+        "def": 70,
+        "satk": 70,
+        "sdef": 70,
+        "spd": 92
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Astonish"
+        ],
+        [
+          9,
+          "Confusion"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          17,
+          "Aqua Jet"
+        ],
+        [
+          20,
+          "Disable"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          28,
+          "Crunch"
+        ],
+        [
+          33,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Screech"
+        ],
+        [
+          41,
+          "Psychic Fangs"
+        ],
+        [
+          44,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Super Fang"
+        ],
+        [
+          "egg",
+          "Poison Fang"
+        ],
+        [
+          "egg",
+          "Water Pulse"
+        ],
+        [
+          "egg",
+          "Ice Fang"
+        ]
+      ]
+    }
+  ]
+}

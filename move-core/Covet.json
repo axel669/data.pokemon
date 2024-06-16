@@ -1,0 +1,8 @@
+{
+  "name": "Covet",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": null,
+  "desc": "The user endearingly approaches the target, then steals the target's held item."
+}

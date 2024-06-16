@@ -1,0 +1,8 @@
+{
+  "name": "Freezing Glare",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": 10,
+  "desc": "The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
+}

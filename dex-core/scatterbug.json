@@ -1,0 +1,75 @@
+{
+  "name": "Scatterbug",
+  "national": "0664",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scatterdust Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.5,
+        "imperial": 5.5
+      },
+      "ability": {
+        "normal": [
+          "Shield Dust",
+          "Compound Eyes"
+        ],
+        "hidden": "Friend Guard"
+      },
+      "stats": {
+        "hp": 38,
+        "atk": 35,
+        "def": 40,
+        "satk": 27,
+        "sdef": 25,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          6,
+          "Stun Spore"
+        ],
+        [
+          15,
+          "Bug Bite"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "Poison Powder"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ]
+      ]
+    }
+  ]
+}

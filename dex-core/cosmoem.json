@@ -1,0 +1,46 @@
+{
+  "name": "Cosmoem",
+  "national": "0790",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Protostar Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 999.9,
+        "imperial": 2204.4
+      },
+      "ability": {
+        "normal": [
+          "Sturdy"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 43,
+        "atk": 29,
+        "def": 131,
+        "satk": 29,
+        "sdef": 131,
+        "spd": 37
+      },
+      "moves": [
+        [
+          "evo",
+          "Cosmic Power"
+        ],
+        [
+          null,
+          "Teleport"
+        ],
+        [
+          "pre",
+          "Splash"
+        ]
+      ]
+    }
+  ]
+}

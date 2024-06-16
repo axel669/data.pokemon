@@ -1,0 +1,286 @@
+{
+  "name": "Raging Bolt",
+  "national": "1021",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 5.2,
+        "imperial": 205
+      },
+      "weight": {
+        "metric": 480,
+        "imperial": 1058.2
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 125,
+        "atk": 73,
+        "def": 91,
+        "satk": 137,
+        "sdef": 89,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Twister"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          null,
+          "Shock Wave"
+        ],
+        [
+          null,
+          "Stomp"
+        ],
+        [
+          7,
+          "Charge"
+        ],
+        [
+          14,
+          "Dragon Breath"
+        ],
+        [
+          21,
+          "Electric Terrain"
+        ],
+        [
+          28,
+          "Discharge"
+        ],
+        [
+          35,
+          "Dragon Tail"
+        ],
+        [
+          42,
+          "Calm Mind"
+        ],
+        [
+          49,
+          "Thunderclap"
+        ],
+        [
+          56,
+          "Dragon Hammer"
+        ],
+        [
+          63,
+          "Rising Voltage"
+        ],
+        [
+          70,
+          "Dragon Pulse"
+        ],
+        [
+          77,
+          "Zap Cannon"
+        ],
+        [
+          84,
+          "Body Press"
+        ],
+        [
+          91,
+          "Thunder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "rem",
+          "Ancient Power"
+        ]
+      ]
+    }
+  ]
+}

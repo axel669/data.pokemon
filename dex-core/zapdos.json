@@ -1,0 +1,510 @@
+{
+  "name": "Zapdos",
+  "national": "0145",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Electric Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 52.6,
+        "imperial": 116
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Static"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 90,
+        "def": 85,
+        "satk": 125,
+        "sdef": 90,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          10,
+          "Light Screen"
+        ],
+        [
+          15,
+          "Pluck"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Charge"
+        ],
+        [
+          35,
+          "Drill Peck"
+        ],
+        [
+          40,
+          "Roost"
+        ],
+        [
+          45,
+          "Discharge"
+        ],
+        [
+          50,
+          "Rain Dance"
+        ],
+        [
+          55,
+          "Thunder"
+        ],
+        [
+          60,
+          "Detect"
+        ],
+        [
+          65,
+          "Magnetic Flux"
+        ],
+        [
+          70,
+          "Zap Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ]
+      ]
+    },
+    {
+      "name": "Galarian",
+      "species": "Strong Legs Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 58.2,
+        "imperial": 128.3
+      },
+      "ability": {
+        "normal": [
+          "Defiant"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 125,
+        "def": 90,
+        "satk": 85,
+        "sdef": 90,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          5,
+          "Rock Smash"
+        ],
+        [
+          10,
+          "Light Screen"
+        ],
+        [
+          15,
+          "Pluck"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Brick Break"
+        ],
+        [
+          35,
+          "Drill Peck"
+        ],
+        [
+          40,
+          "Quick Guard"
+        ],
+        [
+          45,
+          "Thunderous Kick"
+        ],
+        [
+          50,
+          "Bulk Up"
+        ],
+        [
+          55,
+          "Counter"
+        ],
+        [
+          60,
+          "Detect"
+        ],
+        [
+          65,
+          "Close Combat"
+        ],
+        [
+          70,
+          "Reversal"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ]
+      ]
+    }
+  ]
+}

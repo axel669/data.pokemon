@@ -1,0 +1,8 @@
+{
+  "name": "Poison Tail",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": 10,
+  "desc": "The user hits the target with its tail. This move has a heightened chance of landing a critical hit and may also poison the target."
+}

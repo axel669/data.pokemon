@@ -1,0 +1,74 @@
+{
+  "name": "Kricketot",
+  "national": "0401",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cricket Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.2,
+        "imperial": 4.9
+      },
+      "ability": {
+        "normal": [
+          "Shed Skin"
+        ],
+        "hidden": "Run Away"
+      },
+      "stats": {
+        "hp": 37,
+        "atk": 25,
+        "def": 41,
+        "satk": 25,
+        "sdef": 41,
+        "spd": 25
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          6,
+          "Struggle Bug"
+        ],
+        [
+          16,
+          "Bug Bite"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ]
+      ]
+    }
+  ]
+}

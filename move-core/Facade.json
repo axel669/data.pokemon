@@ -1,0 +1,8 @@
+{
+  "name": "Facade",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "This move's power is doubled if the user is poisoned, burned, or paralyzed."
+}

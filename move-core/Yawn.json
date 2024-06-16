@@ -1,0 +1,8 @@
+{
+  "name": "Yawn",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+}

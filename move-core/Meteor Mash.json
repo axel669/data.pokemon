@@ -1,0 +1,8 @@
+{
+  "name": "Meteor Mash",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": 20,
+  "desc": "The target is hit with a hard punch fired like a meteor. This may also boost the user's Attack stat."
+}

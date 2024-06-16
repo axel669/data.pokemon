@@ -1,0 +1,576 @@
+{
+  "name": "Avalugg",
+  "national": "0713",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Iceberg Pokémon",
+      "height": {
+        "metric": 2,
+        "imperial": 79
+      },
+      "weight": {
+        "metric": 505,
+        "imperial": 1113.3
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo",
+          "Ice Body"
+        ],
+        "hidden": "Sturdy"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 117,
+        "def": 184,
+        "satk": 44,
+        "sdef": 46,
+        "spd": 28
+      },
+      "moves": [
+        [
+          "evo",
+          "Body Slam"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          9,
+          "Curse"
+        ],
+        [
+          12,
+          "Icy Wind"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          18,
+          "Avalanche"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          24,
+          "Ice Fang"
+        ],
+        [
+          27,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          41,
+          "Blizzard"
+        ],
+        [
+          46,
+          "Double-Edge"
+        ],
+        [
+          51,
+          "Icicle Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Aurora Veil"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Iceberg Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 262.4,
+        "imperial": 578.5
+      },
+      "ability": {
+        "normal": [
+          "Strong Jaw",
+          "Ice Body"
+        ],
+        "hidden": "Sturdy"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 127,
+        "def": 184,
+        "satk": 34,
+        "sdef": 36,
+        "spd": 38
+      },
+      "moves": [
+        [
+          "evo",
+          "Rock Slide"
+        ],
+        [
+          null,
+          "Powder Snow"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          9,
+          "Curse"
+        ],
+        [
+          12,
+          "Icy Wind"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          18,
+          "Avalanche"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          24,
+          "Ice Fang"
+        ],
+        [
+          27,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          41,
+          "Blizzard"
+        ],
+        [
+          46,
+          "Double-Edge"
+        ],
+        [
+          51,
+          "Stone Edge"
+        ],
+        [
+          61,
+          "Mountain Gale"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Aurora Veil"
+        ]
+      ]
+    }
+  ]
+}

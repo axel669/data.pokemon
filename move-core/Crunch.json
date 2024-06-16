@@ -1,0 +1,8 @@
+{
+  "name": "Crunch",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 20,
+  "desc": "The user crunches up the target with sharp fangs. This may also lower the target's Defense stat."
+}

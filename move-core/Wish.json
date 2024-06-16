@@ -1,0 +1,8 @@
+{
+  "name": "Wish",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP."
+}

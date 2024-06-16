@@ -1,0 +1,218 @@
+{
+  "name": "Kubfu",
+  "national": "0891",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wushu Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 12,
+        "imperial": 26.5
+      },
+      "ability": {
+        "normal": [
+          "Inner Focus"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 90,
+        "def": 60,
+        "satk": 53,
+        "sdef": 50,
+        "spd": 72
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          4,
+          "Endure"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Aerial Ace"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Brick Break"
+        ],
+        [
+          28,
+          "Detect"
+        ],
+        [
+          32,
+          "Bulk Up"
+        ],
+        [
+          36,
+          "Iron Head"
+        ],
+        [
+          40,
+          "Dynamic Punch"
+        ],
+        [
+          44,
+          "Counter"
+        ],
+        [
+          48,
+          "Close Combat"
+        ],
+        [
+          52,
+          "Focus Punch"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ]
+      ]
+    }
+  ]
+}

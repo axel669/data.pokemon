@@ -1,0 +1,374 @@
+{
+  "name": "Cacturne",
+  "national": "0332",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Scarecrow Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 77.4,
+        "imperial": 170.6
+      },
+      "ability": {
+        "normal": [
+          "Sand Veil"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 115,
+        "def": 60,
+        "satk": 115,
+        "sdef": 60,
+        "spd": 55
+      },
+      "moves": [
+        [
+          "evo",
+          "Spiky Shield"
+        ],
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Destiny Bond"
+        ],
+        [
+          10,
+          "Leech Seed"
+        ],
+        [
+          13,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Bullet Seed"
+        ],
+        [
+          19,
+          "Power Trip"
+        ],
+        [
+          22,
+          "Ingrain"
+        ],
+        [
+          26,
+          "Payback"
+        ],
+        [
+          30,
+          "Spikes"
+        ],
+        [
+          35,
+          "Sucker Punch"
+        ],
+        [
+          38,
+          "Pin Missile"
+        ],
+        [
+          44,
+          "Energy Ball"
+        ],
+        [
+          49,
+          "Cotton Spore"
+        ],
+        [
+          54,
+          "Sandstorm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Acid"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "egg",
+          "Fell Stinger"
+        ]
+      ]
+    }
+  ]
+}

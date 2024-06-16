@@ -1,0 +1,8 @@
+{
+  "name": "Water Pledge",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "A column of water hits the target. When used with its fire counterpart, this move's power is boosted and a rainbow appears."
+}

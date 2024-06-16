@@ -1,0 +1,8 @@
+{
+  "name": "Shelter",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
+}

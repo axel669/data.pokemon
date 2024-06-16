@@ -1,0 +1,8 @@
+{
+  "name": "Sleep Talk",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user randomly uses one of the moves it knows. This move can only be used while the user is asleep."
+}

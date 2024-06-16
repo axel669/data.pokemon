@@ -1,0 +1,8 @@
+{
+  "name": "Scary Face",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user frightens the target with a scary face to harshly lower its Speed stat."
+}

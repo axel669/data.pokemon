@@ -1,0 +1,8 @@
+{
+  "name": "Withdraw",
+  "power": null,
+  "accuracy": 101,
+  "pp": 40,
+  "effect": null,
+  "desc": "The user withdraws its body into its hard shell, boosting its Defense stat."
+}

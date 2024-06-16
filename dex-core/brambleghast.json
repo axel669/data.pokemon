@@ -1,0 +1,246 @@
+{
+  "name": "Brambleghast",
+  "national": "0947",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tumbleweed Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 6,
+        "imperial": 13.2
+      },
+      "ability": {
+        "normal": [
+          "Wind Rider"
+        ],
+        "hidden": "Infiltrator"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 115,
+        "def": 70,
+        "satk": 80,
+        "sdef": 70,
+        "spd": 90
+      },
+      "moves": [
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Rollout"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Rapid Spin"
+        ],
+        [
+          13,
+          "Bullet Seed"
+        ],
+        [
+          17,
+          "Infestation"
+        ],
+        [
+          21,
+          "Hex"
+        ],
+        [
+          25,
+          "Mega Drain"
+        ],
+        [
+          29,
+          "Disable"
+        ],
+        [
+          35,
+          "Phantom Force"
+        ],
+        [
+          40,
+          "Giga Drain"
+        ],
+        [
+          45,
+          "Curse"
+        ],
+        [
+          50,
+          "Pain Split"
+        ],
+        [
+          55,
+          "Power Whip"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Beat Up"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Shadow Sneak"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

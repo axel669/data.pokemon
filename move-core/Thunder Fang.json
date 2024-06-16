@@ -1,0 +1,8 @@
+{
+  "name": "Thunder Fang",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": 10,
+  "desc": "The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis."
+}

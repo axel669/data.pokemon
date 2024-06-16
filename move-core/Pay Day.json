@@ -1,0 +1,8 @@
+{
+  "name": "Pay Day",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "Coins are hurled at the target to inflict damage. Money is earned after the battle."
+}

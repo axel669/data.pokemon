@@ -1,0 +1,8 @@
+{
+  "name": "Blue Flare",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "effect": 20,
+  "desc": "The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn."
+}

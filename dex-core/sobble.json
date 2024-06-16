@@ -1,0 +1,206 @@
+{
+  "name": "Sobble",
+  "national": "0816",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Lizard Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Torrent"
+        ],
+        "hidden": "Sniper"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 40,
+        "def": 40,
+        "satk": 70,
+        "sdef": 40,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          6,
+          "Water Gun"
+        ],
+        [
+          8,
+          "Bind"
+        ],
+        [
+          12,
+          "Water Pulse"
+        ],
+        [
+          17,
+          "Tearful Look"
+        ],
+        [
+          20,
+          "Sucker Punch"
+        ],
+        [
+          24,
+          "U-turn"
+        ],
+        [
+          28,
+          "Liquidation"
+        ],
+        [
+          32,
+          "Soak"
+        ],
+        [
+          36,
+          "Rain Dance"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM145",
+          "Water Pledge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Ice Shard"
+        ],
+        [
+          "egg",
+          "Aqua Jet"
+        ],
+        [
+          "egg",
+          "Fell Stinger"
+        ]
+      ]
+    }
+  ]
+}

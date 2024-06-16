@@ -1,0 +1,8 @@
+{
+  "name": "Freeze-dry",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": 10,
+  "desc": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
+}

@@ -1,0 +1,226 @@
+{
+  "name": "Dewpider",
+  "national": "0751",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Bubble Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Water Bubble"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 38,
+        "atk": 40,
+        "def": 52,
+        "satk": 40,
+        "sdef": 72,
+        "spd": 27
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Infestation"
+        ],
+        [
+          4,
+          "Bug Bite"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Aqua Ring"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Soak"
+        ],
+        [
+          32,
+          "Entrainment"
+        ],
+        [
+          36,
+          "Lunge"
+        ],
+        [
+          40,
+          "Liquidation"
+        ],
+        [
+          44,
+          "Leech Life"
+        ],
+        [
+          48,
+          "Mirror Coat"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Sticky Web"
+        ]
+      ]
+    }
+  ]
+}

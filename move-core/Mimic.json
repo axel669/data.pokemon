@@ -1,0 +1,8 @@
+{
+  "name": "Mimic",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user copies the move last used by the target. The copied move can be used until the user of Mimic leaves the battle."
+}

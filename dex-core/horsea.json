@@ -1,0 +1,219 @@
+{
+  "name": "Horsea",
+  "national": "0116",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Dragon Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Sniper"
+        ],
+        "hidden": "Damp"
+      },
+      "stats": {
+        "hp": 30,
+        "atk": 40,
+        "def": 70,
+        "satk": 70,
+        "sdef": 25,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Smokescreen"
+        ],
+        [
+          10,
+          "Twister"
+        ],
+        [
+          15,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Agility"
+        ],
+        [
+          35,
+          "Water Pulse"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          45,
+          "Hydro Pump"
+        ],
+        [
+          50,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Rain Dance"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Aurora Beam"
+        ],
+        [
+          "egg",
+          "Splash"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

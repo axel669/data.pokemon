@@ -1,0 +1,8 @@
+{
+  "name": "Psychic",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": 10,
+  "desc": "The target is hit with a strong telekinetic force to inflict damage. This may also lower the target's Sp. Def stat."
+}

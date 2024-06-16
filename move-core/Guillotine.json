@@ -1,0 +1,8 @@
+{
+  "name": "Guillotine",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "effect": null,
+  "desc": "A vicious tearing attack with big pincers. The target faints instantly if this attack hits."
+}

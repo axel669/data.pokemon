@@ -1,0 +1,283 @@
+{
+  "name": "Hoothoot",
+  "national": "0163",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Owl Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 21.2,
+        "imperial": 46.7
+      },
+      "ability": {
+        "normal": [
+          "Insomnia",
+          "Keen Eye"
+        ],
+        "hidden": "Tinted Lens"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 30,
+        "def": 30,
+        "satk": 36,
+        "sdef": 56,
+        "spd": 50
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          3,
+          "Tackle"
+        ],
+        [
+          6,
+          "Echoed Voice"
+        ],
+        [
+          9,
+          "Confusion"
+        ],
+        [
+          12,
+          "Reflect"
+        ],
+        [
+          15,
+          "Defog"
+        ],
+        [
+          18,
+          "Air Slash"
+        ],
+        [
+          21,
+          "Extrasensory"
+        ],
+        [
+          24,
+          "Take Down"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          33,
+          "Moonblast"
+        ],
+        [
+          36,
+          "Hypnosis"
+        ],
+        [
+          39,
+          "Dream Eater"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Wing Attack"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Supersonic"
+        ],
+        [
+          "egg",
+          "Night Shade"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ]
+      ]
+    }
+  ]
+}

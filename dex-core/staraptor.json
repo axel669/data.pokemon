@@ -1,0 +1,242 @@
+{
+  "name": "Staraptor",
+  "national": "0398",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Predator Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 24.9,
+        "imperial": 54.9
+      },
+      "ability": {
+        "normal": [
+          "Intimidate"
+        ],
+        "hidden": "Reckless"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 120,
+        "def": 70,
+        "satk": 50,
+        "sdef": 60,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Close Combat"
+        ],
+        [
+          null,
+          "Wing Attack"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Double Team"
+        ],
+        [
+          18,
+          "Endeavor"
+        ],
+        [
+          23,
+          "Whirlwind"
+        ],
+        [
+          28,
+          "Aerial Ace"
+        ],
+        [
+          33,
+          "Take Down"
+        ],
+        [
+          41,
+          "Agility"
+        ],
+        [
+          49,
+          "Brave Bird"
+        ],
+        [
+          57,
+          "Final Gambit"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Sand Attack"
+        ],
+        [
+          "egg",
+          "Fury Attack"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Uproar"
+        ],
+        [
+          "egg",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ]
+      ]
+    }
+  ]
+}

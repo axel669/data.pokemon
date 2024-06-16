@@ -1,0 +1,286 @@
+{
+  "name": "Sandy Shocks",
+  "national": "0989",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Paradox Pokémon",
+      "height": {
+        "metric": 2.3,
+        "imperial": 91
+      },
+      "weight": {
+        "metric": 60,
+        "imperial": 132.3
+      },
+      "ability": {
+        "normal": [
+          "Protosynthesis"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 81,
+        "def": 97,
+        "satk": 121,
+        "sdef": 85,
+        "spd": 101
+      },
+      "moves": [
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          7,
+          "Spark"
+        ],
+        [
+          14,
+          "Bulldoze"
+        ],
+        [
+          21,
+          "Charge Beam"
+        ],
+        [
+          28,
+          "Tri Attack"
+        ],
+        [
+          35,
+          "Screech"
+        ],
+        [
+          42,
+          "Heavy Slam"
+        ],
+        [
+          49,
+          "Metal Sound"
+        ],
+        [
+          56,
+          "Discharge"
+        ],
+        [
+          63,
+          "Earth Power"
+        ],
+        [
+          70,
+          "Mirror Coat"
+        ],
+        [
+          77,
+          "Gravity"
+        ],
+        [
+          84,
+          "Zap Cannon"
+        ],
+        [
+          91,
+          "Magnetic Flux"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "rem",
+          "Sunny Day"
+        ]
+      ]
+    }
+  ]
+}

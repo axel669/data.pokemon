@@ -1,0 +1,8 @@
+{
+  "name": "Pound",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": null,
+  "desc": "The target is physically pounded with a long tail, a foreleg, or the like."
+}

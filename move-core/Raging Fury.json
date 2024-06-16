@@ -1,0 +1,8 @@
+{
+  "name": "Raging Fury",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user rampages around spewing flames for two to three turns. The user then becomes confused."
+}

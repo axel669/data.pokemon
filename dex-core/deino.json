@@ -1,0 +1,250 @@
+{
+  "name": "Deino",
+  "national": "0633",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Irate Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 17.3,
+        "imperial": 38.1
+      },
+      "ability": {
+        "normal": [
+          "Hustle"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 52,
+        "atk": 65,
+        "def": 50,
+        "satk": 45,
+        "sdef": 50,
+        "spd": 38
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          4,
+          "Dragon Breath"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          12,
+          "Roar"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Work Up"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          44,
+          "Body Slam"
+        ],
+        [
+          48,
+          "Hyper Voice"
+        ],
+        [
+          52,
+          "Dragon Rush"
+        ],
+        [
+          56,
+          "Nasty Plot"
+        ],
+        [
+          60,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Astonish"
+        ],
+        [
+          "egg",
+          "Head Smash"
+        ],
+        [
+          "egg",
+          "Double Hit"
+        ],
+        [
+          "egg",
+          "Belch"
+        ]
+      ]
+    }
+  ]
+}

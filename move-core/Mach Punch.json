@@ -1,0 +1,8 @@
+{
+  "name": "Mach Punch",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user throws a punch at blinding speed. This move always goes first."
+}

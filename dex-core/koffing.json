@@ -1,0 +1,255 @@
+{
+  "name": "Koffing",
+  "national": "0109",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Poison Gas Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Levitate",
+          "Neutralizing Gas"
+        ],
+        "hidden": "Stench"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 65,
+        "def": 95,
+        "satk": 60,
+        "sdef": 45,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Poison Gas"
+        ],
+        [
+          4,
+          "Smog"
+        ],
+        [
+          8,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Clear Smog"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Sludge"
+        ],
+        [
+          24,
+          "Haze"
+        ],
+        [
+          28,
+          "Self-Destruct"
+        ],
+        [
+          32,
+          "Sludge Bomb"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Belch"
+        ],
+        [
+          44,
+          "Explosion"
+        ],
+        [
+          48,
+          "Memento"
+        ],
+        [
+          52,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Defend Order",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user calls out its underlings to shield its body, boosting its Defense and Sp. Def stats."
+}

@@ -1,0 +1,223 @@
+{
+  "name": "Doduo",
+  "national": "0084",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Twin Bird Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 39.2,
+        "imperial": 86.4
+      },
+      "ability": {
+        "normal": [
+          "Run Away",
+          "Early Bird"
+        ],
+        "hidden": "Tangled Feet"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 85,
+        "def": 45,
+        "satk": 35,
+        "sdef": 35,
+        "spd": 75
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Fury Attack"
+        ],
+        [
+          14,
+          "Pluck"
+        ],
+        [
+          19,
+          "Double Hit"
+        ],
+        [
+          23,
+          "Agility"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Acupressure"
+        ],
+        [
+          33,
+          "Swords Dance"
+        ],
+        [
+          36,
+          "Drill Peck"
+        ],
+        [
+          39,
+          "Endeavor"
+        ],
+        [
+          43,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Sky Attack"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Assurance"
+        ]
+      ]
+    }
+  ]
+}

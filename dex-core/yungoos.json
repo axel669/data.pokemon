@@ -1,0 +1,255 @@
+{
+  "name": "Yungoos",
+  "national": "0734",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Loitering Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 6,
+        "imperial": 13.2
+      },
+      "ability": {
+        "normal": [
+          "Strong Jaw",
+          "Stakeout"
+        ],
+        "hidden": "Adaptability"
+      },
+      "stats": {
+        "hp": 48,
+        "atk": 70,
+        "def": 30,
+        "satk": 30,
+        "sdef": 30,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leer"
+        ],
+        [
+          7,
+          "Payback"
+        ],
+        [
+          10,
+          "Sand Attack"
+        ],
+        [
+          13,
+          "Work Up"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          22,
+          "Mud-Slap"
+        ],
+        [
+          25,
+          "Super Fang"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Scary Face"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          37,
+          "Yawn"
+        ],
+        [
+          40,
+          "Thrash"
+        ],
+        [
+          43,
+          "Rest"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Last Resort"
+        ],
+        [
+          "egg",
+          "Thunder Fang"
+        ],
+        [
+          "egg",
+          "Ice Fang"
+        ],
+        [
+          "egg",
+          "Fire Fang"
+        ]
+      ]
+    }
+  ]
+}

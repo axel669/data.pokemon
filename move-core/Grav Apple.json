@@ -1,0 +1,8 @@
+{
+  "name": "Grav Apple",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat."
+}

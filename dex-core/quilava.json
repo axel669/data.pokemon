@@ -1,0 +1,262 @@
+{
+  "name": "Quilava",
+  "national": "0156",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Volcano Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 19,
+        "imperial": 41.9
+      },
+      "ability": {
+        "normal": [
+          "Blaze"
+        ],
+        "hidden": "Flash Fire"
+      },
+      "stats": {
+        "hp": 58,
+        "atk": 64,
+        "def": 58,
+        "satk": 80,
+        "sdef": 65,
+        "spd": 80
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flame Wheel"
+        ],
+        [
+          24,
+          "Defense Curl"
+        ],
+        [
+          31,
+          "Swift"
+        ],
+        [
+          35,
+          "Flame Charge"
+        ],
+        [
+          42,
+          "Lava Plume"
+        ],
+        [
+          46,
+          "Flamethrower"
+        ],
+        [
+          53,
+          "Inferno"
+        ],
+        [
+          57,
+          "Rollout"
+        ],
+        [
+          64,
+          "Double-Edge"
+        ],
+        [
+          68,
+          "Overheat"
+        ],
+        [
+          75,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM144",
+          "Fire Pledge"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Reversal"
+        ],
+        [
+          "egg",
+          "Extrasensory"
+        ],
+        [
+          "egg",
+          "Howl"
+        ],
+        [
+          "egg",
+          "Covet"
+        ]
+      ]
+    }
+  ]
+}

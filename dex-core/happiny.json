@@ -1,0 +1,187 @@
+{
+  "name": "Happiny",
+  "national": "0440",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Playhouse Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 24.4,
+        "imperial": 53.8
+      },
+      "ability": {
+        "normal": [
+          "Natural Cure",
+          "Serene Grace"
+        ],
+        "hidden": "Friend Guard"
+      },
+      "stats": {
+        "hp": 100,
+        "atk": 5,
+        "def": 5,
+        "satk": 15,
+        "sdef": 65,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Copycat"
+        ],
+        [
+          4,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Sweet Kiss"
+        ],
+        [
+          12,
+          "Disarming Voice"
+        ],
+        [
+          16,
+          "Covet"
+        ],
+        [
+          20,
+          "Charm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "egg",
+          "Seismic Toss"
+        ],
+        [
+          "egg",
+          "Heal Bell"
+        ],
+        [
+          "egg",
+          "Present"
+        ],
+        [
+          "egg",
+          "Gravity"
+        ]
+      ]
+    }
+  ]
+}

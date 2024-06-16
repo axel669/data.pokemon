@@ -1,0 +1,8 @@
+{
+  "name": "Strange Steam",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 10,
+  "effect": 20,
+  "desc": "The user attacks the target by emitting steam. This may also confuse the target."
+}

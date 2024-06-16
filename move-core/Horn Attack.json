@@ -1,0 +1,8 @@
+{
+  "name": "Horn Attack",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": null,
+  "desc": "The target is jabbed with a sharply pointed horn to inflict damage."
+}

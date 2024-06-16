@@ -1,0 +1,8 @@
+{
+  "name": "Flamethrower",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": 10,
+  "desc": "The target is scorched with an intense blast of fire. This may also leave the target with a burn."
+}

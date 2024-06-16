@@ -1,0 +1,8 @@
+{
+  "name": "Quick Guard",
+  "power": null,
+  "accuracy": 101,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user protects itself and its allies from priority moves."
+}

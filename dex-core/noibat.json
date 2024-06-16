@@ -1,0 +1,263 @@
+{
+  "name": "Noibat",
+  "national": "0714",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sound Wave Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 8,
+        "imperial": 17.6
+      },
+      "ability": {
+        "normal": [
+          "Frisk",
+          "Infiltrator"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 30,
+        "def": 35,
+        "satk": 45,
+        "sdef": 40,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          4,
+          "Gust"
+        ],
+        [
+          8,
+          "Supersonic"
+        ],
+        [
+          12,
+          "Double Team"
+        ],
+        [
+          16,
+          "Wing Attack"
+        ],
+        [
+          20,
+          "Bite"
+        ],
+        [
+          24,
+          "Air Cutter"
+        ],
+        [
+          28,
+          "Whirlwind"
+        ],
+        [
+          32,
+          "Super Fang"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          40,
+          "Screech"
+        ],
+        [
+          44,
+          "Roost"
+        ],
+        [
+          49,
+          "Tailwind"
+        ],
+        [
+          52,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "egg",
+          "Dragon Rush"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Defog"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Dipplin",
+  "national": "1011",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Candy Apple Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 4.4,
+        "imperial": 9.7
+      },
+      "ability": {
+        "normal": [
+          "Supersweet Syrup",
+          "Gluttony"
+        ],
+        "hidden": "Sticky Hold"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 110,
+        "satk": 95,
+        "sdef": 80,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Double Hit"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Recycle"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Dragon Tail"
+        ],
+        [
+          8,
+          "Growth"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Bullet Seed"
+        ],
+        [
+          28,
+          "Syrup Bomb"
+        ],
+        [
+          32,
+          "Dragon Pulse"
+        ],
+        [
+          36,
+          "Recover"
+        ],
+        [
+          40,
+          "Energy Ball"
+        ],
+        [
+          44,
+          "Substitute"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "rem",
+          "Infestation"
+        ]
+      ]
+    }
+  ]
+}

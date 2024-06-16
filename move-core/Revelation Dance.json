@@ -1,0 +1,8 @@
+{
+  "name": "Revelation Dance",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks the target by dancing with all its might. This move becomes the same type as the user's type."
+}

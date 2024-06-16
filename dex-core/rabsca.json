@@ -1,0 +1,362 @@
+{
+  "name": "Rabsca",
+  "national": "0954",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Rolling Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 3.5,
+        "imperial": 7.7
+      },
+      "ability": {
+        "normal": [
+          "Synchronize"
+        ],
+        "hidden": "Telepathy"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 50,
+        "def": 85,
+        "satk": 115,
+        "sdef": 100,
+        "spd": 45
+      },
+      "moves": [
+        [
+          "evo",
+          "Revival Blessing"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Struggle Bug"
+        ],
+        [
+          11,
+          "Rollout"
+        ],
+        [
+          15,
+          "Psybeam"
+        ],
+        [
+          20,
+          "Bug Bite"
+        ],
+        [
+          24,
+          "Take Down"
+        ],
+        [
+          29,
+          "Extrasensory"
+        ],
+        [
+          35,
+          "Lunge"
+        ],
+        [
+          40,
+          "Speed Swap"
+        ],
+        [
+          40,
+          "Power Swap"
+        ],
+        [
+          40,
+          "Guard Swap"
+        ],
+        [
+          45,
+          "Bug Buzz"
+        ],
+        [
+          50,
+          "Psychic"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Recover"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Weather Ball"
+        ],
+        [
+          "egg",
+          "Cosmic Power"
+        ],
+        [
+          "rem",
+          "Safeguard"
+        ],
+        [
+          "rem",
+          "Psych Up"
+        ],
+        [
+          "pre",
+          "Mud Shot"
+        ],
+        [
+          "pre",
+          "Dig"
+        ]
+      ]
+    }
+  ]
+}

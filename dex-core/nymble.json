@@ -1,0 +1,178 @@
+{
+  "name": "Nymble",
+  "national": "0919",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Grasshopper Pokémon",
+      "height": {
+        "metric": 0.2,
+        "imperial": 8
+      },
+      "weight": {
+        "metric": 1,
+        "imperial": 2.2
+      },
+      "ability": {
+        "normal": [
+          "Swarm"
+        ],
+        "hidden": "Tinted Lens"
+      },
+      "stats": {
+        "hp": 33,
+        "atk": 46,
+        "def": 40,
+        "satk": 21,
+        "sdef": 25,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          4,
+          "Struggle Bug"
+        ],
+        [
+          6,
+          "Astonish"
+        ],
+        [
+          9,
+          "Assurance"
+        ],
+        [
+          11,
+          "Double Kick"
+        ],
+        [
+          14,
+          "Screech"
+        ],
+        [
+          18,
+          "Endure"
+        ],
+        [
+          22,
+          "Bug Bite"
+        ],
+        [
+          26,
+          "Feint"
+        ],
+        [
+          30,
+          "Agility"
+        ],
+        [
+          38,
+          "Sucker Punch"
+        ],
+        [
+          41,
+          "First Impression"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Skitter Smack"
+        ]
+      ]
+    }
+  ]
+}

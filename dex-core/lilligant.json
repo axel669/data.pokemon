@@ -1,0 +1,592 @@
+{
+  "name": "Lilligant",
+  "national": "0549",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Flowering Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 16.3,
+        "imperial": 35.9
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Own Tempo"
+        ],
+        "hidden": "Leaf Guard"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 60,
+        "def": 75,
+        "satk": 110,
+        "sdef": 75,
+        "spd": 90
+      },
+      "moves": [
+        [
+          "evo",
+          "Petal Dance"
+        ],
+        [
+          null,
+          "Petal Blizzard"
+        ],
+        [
+          null,
+          "Entrainment"
+        ],
+        [
+          null,
+          "Quiver Dance"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Energy Ball"
+        ],
+        [
+          null,
+          "Teeter Dance"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          null,
+          "Synthesis"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          null,
+          "Sleep Powder"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Leech Seed"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "After You"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          5,
+          "Magical Leaf"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Healing Wish"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "pre",
+          "Charm"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Spinning Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 19.2,
+        "imperial": 42.3
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Hustle"
+        ],
+        "hidden": "Leaf Guard"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 105,
+        "def": 75,
+        "satk": 50,
+        "sdef": 75,
+        "spd": 105
+      },
+      "moves": [
+        [
+          "evo",
+          "Victory Dance"
+        ],
+        [
+          null,
+          "Teeter Dance"
+        ],
+        [
+          null,
+          "Solar Blade"
+        ],
+        [
+          null,
+          "Petal Blizzard"
+        ],
+        [
+          null,
+          "After You"
+        ],
+        [
+          null,
+          "Entrainment"
+        ],
+        [
+          null,
+          "Leaf Storm"
+        ],
+        [
+          null,
+          "Defog"
+        ],
+        [
+          null,
+          "Energy Ball"
+        ],
+        [
+          null,
+          "Leaf Blade"
+        ],
+        [
+          null,
+          "Magical Leaf"
+        ],
+        [
+          null,
+          "Mega Kick"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          null,
+          "Synthesis"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          null,
+          "Sleep Powder"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Leech Seed"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          5,
+          "Axe Kick"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Healing Wish"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "pre",
+          "Charm"
+        ]
+      ]
+    }
+  ]
+}

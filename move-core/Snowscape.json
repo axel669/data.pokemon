@@ -1,0 +1,8 @@
+{
+  "name": "Snowscape",
+  "power": null,
+  "accuracy": 101,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types."
+}

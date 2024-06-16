@@ -1,0 +1,275 @@
+{
+  "name": "Alomomola",
+  "national": "0594",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Caring Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 31.6,
+        "imperial": 69.7
+      },
+      "ability": {
+        "normal": [
+          "Healer",
+          "Hydration"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 165,
+        "atk": 75,
+        "def": 80,
+        "satk": 40,
+        "sdef": 45,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Play Nice"
+        ],
+        [
+          5,
+          "Aqua Ring"
+        ],
+        [
+          9,
+          "Aqua Jet"
+        ],
+        [
+          13,
+          "Helping Hand"
+        ],
+        [
+          13,
+          "Wide Guard"
+        ],
+        [
+          21,
+          "Protect"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          29,
+          "Healing Wish"
+        ],
+        [
+          33,
+          "Soak"
+        ],
+        [
+          37,
+          "Wish"
+        ],
+        [
+          41,
+          "Brine"
+        ],
+        [
+          45,
+          "Safeguard"
+        ],
+        [
+          49,
+          "Whirlpool"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Endure"
+        ],
+        [
+          "egg",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Bounce"
+        ]
+      ]
+    }
+  ]
+}

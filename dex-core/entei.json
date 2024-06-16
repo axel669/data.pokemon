@@ -1,0 +1,282 @@
+{
+  "name": "Entei",
+  "national": "0244",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Volcano Pokémon",
+      "height": {
+        "metric": 2.1,
+        "imperial": 83
+      },
+      "weight": {
+        "metric": 198,
+        "imperial": 436.5
+      },
+      "ability": {
+        "normal": [
+          "Pressure"
+        ],
+        "hidden": "Inner Focus"
+      },
+      "stats": {
+        "hp": 115,
+        "atk": 115,
+        "def": 85,
+        "satk": 90,
+        "sdef": 75,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Stomp"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Smokescreen"
+        ],
+        [
+          6,
+          "Flame Wheel"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          18,
+          "Calm Mind"
+        ],
+        [
+          24,
+          "Roar"
+        ],
+        [
+          30,
+          "Fire Fang"
+        ],
+        [
+          36,
+          "Scary Face"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          48,
+          "Extrasensory"
+        ],
+        [
+          54,
+          "Lava Plume"
+        ],
+        [
+          60,
+          "Swagger"
+        ],
+        [
+          66,
+          "Sunny Day"
+        ],
+        [
+          72,
+          "Fire Blast"
+        ],
+        [
+          78,
+          "Eruption"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "rem",
+          "Sacred Fire"
+        ],
+        [
+          "rem",
+          "Extreme Speed"
+        ]
+      ]
+    }
+  ]
+}

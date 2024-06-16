@@ -1,0 +1,8 @@
+{
+  "name": "Flail",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user flails about aimlessly to attack. The less HP the user has, the greater the move's power."
+}

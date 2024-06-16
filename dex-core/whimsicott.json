@@ -1,0 +1,287 @@
+{
+  "name": "Whimsicott",
+  "national": "0547",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Windveiled Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 6.6,
+        "imperial": 14.6
+      },
+      "ability": {
+        "normal": [
+          "Prankster",
+          "Infiltrator"
+        ],
+        "hidden": "Chlorophyll"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 67,
+        "def": 85,
+        "satk": 77,
+        "sdef": 75,
+        "spd": 116
+      },
+      "moves": [
+        [
+          null,
+          "Moonblast"
+        ],
+        [
+          null,
+          "Hurricane"
+        ],
+        [
+          null,
+          "Cotton Guard"
+        ],
+        [
+          null,
+          "Energy Ball"
+        ],
+        [
+          null,
+          "Tailwind"
+        ],
+        [
+          null,
+          "Endeavor"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Memento"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          null,
+          "Charm"
+        ],
+        [
+          null,
+          "Giga Drain"
+        ],
+        [
+          null,
+          "Cotton Spore"
+        ],
+        [
+          null,
+          "Stun Spore"
+        ],
+        [
+          null,
+          "Poison Powder"
+        ],
+        [
+          null,
+          "Solar Beam"
+        ],
+        [
+          null,
+          "Razor Leaf"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          null,
+          "Leech Seed"
+        ],
+        [
+          null,
+          "Mega Drain"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Beat Up"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ]
+      ]
+    }
+  ]
+}

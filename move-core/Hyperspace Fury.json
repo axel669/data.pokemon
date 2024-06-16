@@ -1,0 +1,8 @@
+{
+  "name": "Hyperspace Fury",
+  "power": 100,
+  "accuracy": 101,
+  "pp": 5,
+  "effect": null,
+  "desc": "Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This also lowers the user's Defense stat."
+}

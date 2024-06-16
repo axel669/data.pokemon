@@ -1,0 +1,286 @@
+{
+  "name": "Plusle",
+  "national": "0311",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cheering Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 4.2,
+        "imperial": 9.3
+      },
+      "ability": {
+        "normal": [
+          "Plus"
+        ],
+        "hidden": "Lightning Rod"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 40,
+        "satk": 85,
+        "sdef": 75,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Play Nice"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Helping Hand"
+        ],
+        [
+          7,
+          "Spark"
+        ],
+        [
+          10,
+          "Encore"
+        ],
+        [
+          13,
+          "Switcheroo"
+        ],
+        [
+          16,
+          "Swift"
+        ],
+        [
+          19,
+          "Electro Ball"
+        ],
+        [
+          22,
+          "Copycat"
+        ],
+        [
+          26,
+          "Charge"
+        ],
+        [
+          31,
+          "Discharge"
+        ],
+        [
+          34,
+          "Baton Pass"
+        ],
+        [
+          37,
+          "Agility"
+        ],
+        [
+          40,
+          "Last Resort"
+        ],
+        [
+          43,
+          "Thunder"
+        ],
+        [
+          46,
+          "Nasty Plot"
+        ],
+        [
+          49,
+          "Entrainment"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM098",
+          "Skill Swap"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Sing"
+        ],
+        [
+          "egg",
+          "Sweet Kiss"
+        ],
+        [
+          "egg",
+          "Charm"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "rem",
+          "Nuzzle"
+        ]
+      ]
+    }
+  ]
+}

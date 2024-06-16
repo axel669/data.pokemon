@@ -1,0 +1,8 @@
+{
+  "name": "Sheer Cold",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "effect": null,
+  "desc": "The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types."
+}

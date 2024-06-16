@@ -1,0 +1,8 @@
+{
+  "name": "Rollout",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": null,
+  "desc": "The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits."
+}

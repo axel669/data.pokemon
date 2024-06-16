@@ -1,0 +1,8 @@
+{
+  "name": "Bullet Seed",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user attacks by forcefully shooting seeds at the target. This move hits two to five times in a row."
+}

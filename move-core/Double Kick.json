@@ -1,0 +1,8 @@
+{
+  "name": "Double Kick",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The user attacks by kicking the target twice in a row using two feet."
+}

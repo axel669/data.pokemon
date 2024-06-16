@@ -1,0 +1,299 @@
+{
+  "name": "Hydrapple",
+  "national": "1019",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "—",
+      "height": {
+        "metric": 1.8,
+        "imperial": 71
+      },
+      "weight": {
+        "metric": 93,
+        "imperial": 205
+      },
+      "ability": {
+        "normal": [
+          "Supersweet Syrup",
+          "Regenerator"
+        ],
+        "hidden": "Sticky Hold"
+      },
+      "stats": {
+        "hp": 106,
+        "atk": 80,
+        "def": 110,
+        "satk": 120,
+        "sdef": 80,
+        "spd": 44
+      },
+      "moves": [
+        [
+          "evo",
+          "Fickle Beam"
+        ],
+        [
+          null,
+          "Withdraw"
+        ],
+        [
+          null,
+          "Sweet Scent"
+        ],
+        [
+          null,
+          "Recycle"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          4,
+          "Dragon Tail"
+        ],
+        [
+          8,
+          "Growth"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Bullet Seed"
+        ],
+        [
+          28,
+          "Syrup Bomb"
+        ],
+        [
+          32,
+          "Dragon Pulse"
+        ],
+        [
+          36,
+          "Recover"
+        ],
+        [
+          40,
+          "Energy Ball"
+        ],
+        [
+          44,
+          "Substitute"
+        ],
+        [
+          54,
+          "Power Whip"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "egg",
+          "Defense Curl"
+        ],
+        [
+          "egg",
+          "Rollout"
+        ],
+        [
+          "egg",
+          "Recycle"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "rem",
+          "Yawn"
+        ],
+        [
+          "rem",
+          "Double Hit"
+        ],
+        [
+          "rem",
+          "Infestation"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Weather Ball",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "This move's type and power change depending on the weather at the time the move is used."
+}

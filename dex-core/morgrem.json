@@ -1,0 +1,235 @@
+{
+  "name": "Morgrem",
+  "national": "0860",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Devious Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 12.5,
+        "imperial": 27.6
+      },
+      "ability": {
+        "normal": [
+          "Prankster",
+          "Frisk"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 60,
+        "def": 45,
+        "satk": 75,
+        "sdef": 55,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "False Surrender"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Flatter"
+        ],
+        [
+          null,
+          "Confide"
+        ],
+        [
+          12,
+          "Fake Tears"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Torment"
+        ],
+        [
+          35,
+          "Dark Pulse"
+        ],
+        [
+          40,
+          "Nasty Plot"
+        ],
+        [
+          46,
+          "Play Rough"
+        ],
+        [
+          52,
+          "Foul Play"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Parting Shot"
+        ]
+      ]
+    }
+  ]
+}

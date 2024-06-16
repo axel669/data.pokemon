@@ -1,0 +1,8 @@
+{
+  "name": "Night Slash",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user slashes the target the instant an opportunity arises. This move has a heightened chance of landing a critical hit."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Final Gambit",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user risks everything to attack the target. The user faints but inflicts damage equal to its own HP."
+}

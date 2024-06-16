@@ -1,0 +1,287 @@
+{
+  "name": "Pawmo",
+  "national": "0922",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Mouse Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 6.5,
+        "imperial": 14.3
+      },
+      "ability": {
+        "normal": [
+          "Volt Absorb",
+          "Natural Cure"
+        ],
+        "hidden": "Iron Fist"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 75,
+        "def": 40,
+        "satk": 50,
+        "sdef": 40,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Arm Thrust"
+        ],
+        [
+          null,
+          "Scratch"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          3,
+          "Thunder Shock"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          12,
+          "Nuzzle"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          27,
+          "Thunder Wave"
+        ],
+        [
+          32,
+          "Slam"
+        ],
+        [
+          38,
+          "Entrainment"
+        ],
+        [
+          42,
+          "Discharge"
+        ],
+        [
+          46,
+          "Agility"
+        ],
+        [
+          52,
+          "Wild Charge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM031",
+          "Metal Claw"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM183",
+          "Super Fang"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Mach Punch"
+        ],
+        [
+          "egg",
+          "Sweet Kiss"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Wish"
+        ],
+        [
+          "pre",
+          "Celebrate"
+        ]
+      ]
+    }
+  ]
+}

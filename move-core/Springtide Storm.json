@@ -1,0 +1,8 @@
+{
+  "name": "Springtide Storm",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "effect": 30,
+  "desc": "The user attacks by wrapping opposing Pokémon in fierce winds brimming with love and hate. This may also lower their Attack stats."
+}

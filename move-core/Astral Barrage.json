@@ -1,0 +1,8 @@
+{
+  "name": "Astral Barrage",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user attacks by sending a frightful amount of small ghosts at opposing Pokémon."
+}

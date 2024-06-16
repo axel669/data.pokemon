@@ -1,0 +1,230 @@
+{
+  "name": "Tarountula",
+  "national": "0917",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "String Ball Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 4,
+        "imperial": 8.8
+      },
+      "ability": {
+        "normal": [
+          "Insomnia"
+        ],
+        "hidden": "Stakeout"
+      },
+      "stats": {
+        "hp": 35,
+        "atk": 41,
+        "def": 45,
+        "satk": 29,
+        "sdef": 40,
+        "spd": 20
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          5,
+          "Struggle Bug"
+        ],
+        [
+          8,
+          "Assurance"
+        ],
+        [
+          11,
+          "Feint"
+        ],
+        [
+          14,
+          "Bug Bite"
+        ],
+        [
+          18,
+          "Block"
+        ],
+        [
+          22,
+          "Counter"
+        ],
+        [
+          25,
+          "Headbutt"
+        ],
+        [
+          29,
+          "Sticky Web"
+        ],
+        [
+          33,
+          "Gastro Acid"
+        ],
+        [
+          36,
+          "Circle Throw"
+        ],
+        [
+          40,
+          "Throat Chop"
+        ],
+        [
+          44,
+          "Skitter Smack"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Memento"
+        ],
+        [
+          "egg",
+          "Sucker Punch"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

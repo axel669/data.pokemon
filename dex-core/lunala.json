@@ -1,0 +1,306 @@
+{
+  "name": "Lunala",
+  "national": "0792",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Moone Pokémon",
+      "height": {
+        "metric": 4,
+        "imperial": 157
+      },
+      "weight": {
+        "metric": 120,
+        "imperial": 264.6
+      },
+      "ability": {
+        "normal": [
+          "Shadow Shield"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 137,
+        "atk": 113,
+        "def": 89,
+        "satk": 137,
+        "sdef": 107,
+        "spd": 97
+      },
+      "moves": [
+        [
+          "evo",
+          "Moongeist Beam"
+        ],
+        [
+          null,
+          "Confusion"
+        ],
+        [
+          null,
+          "Hypnosis"
+        ],
+        [
+          null,
+          "Teleport"
+        ],
+        [
+          null,
+          "Cosmic Power"
+        ],
+        [
+          7,
+          "Night Shade"
+        ],
+        [
+          14,
+          "Confuse Ray"
+        ],
+        [
+          21,
+          "Air Slash"
+        ],
+        [
+          28,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Moonlight"
+        ],
+        [
+          42,
+          "Night Daze"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          56,
+          "Moonblast"
+        ],
+        [
+          63,
+          "Phantom Force"
+        ],
+        [
+          70,
+          "Dream Eater"
+        ],
+        [
+          77,
+          "Wide Guard"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM061",
+          "Shadow Claw"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM151",
+          "Phantom Force"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM217",
+          "Future Sight"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "TM220",
+          "Meteor Beam"
+        ],
+        [
+          "pre",
+          "Splash"
+        ]
+      ]
+    }
+  ]
+}

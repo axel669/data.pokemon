@@ -1,0 +1,239 @@
+{
+  "name": "Blitzle",
+  "national": "0522",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Electrified Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 29.8,
+        "imperial": 65.7
+      },
+      "ability": {
+        "normal": [
+          "Lightning Rod",
+          "Motor Drive"
+        ],
+        "hidden": "Sap Sipper"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 60,
+        "def": 32,
+        "satk": 50,
+        "sdef": 32,
+        "spd": 76
+      },
+      "moves": [
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          4,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          11,
+          "Shock Wave"
+        ],
+        [
+          15,
+          "Thunder Wave"
+        ],
+        [
+          18,
+          "Flame Charge"
+        ],
+        [
+          22,
+          "Spark"
+        ],
+        [
+          25,
+          "Stomp"
+        ],
+        [
+          29,
+          "Discharge"
+        ],
+        [
+          33,
+          "Agility"
+        ],
+        [
+          35,
+          "Wild Charge"
+        ],
+        [
+          40,
+          "Thrash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "egg",
+          "Double Kick"
+        ],
+        [
+          "egg",
+          "Sand Attack"
+        ],
+        [
+          "egg",
+          "Screech"
+        ],
+        [
+          "egg",
+          "Feint"
+        ]
+      ]
+    }
+  ]
+}

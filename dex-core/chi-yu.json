@@ -1,0 +1,246 @@
+{
+  "name": "Chi-Yu",
+  "national": "1004",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ruinous Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 4.9,
+        "imperial": 10.8
+      },
+      "ability": {
+        "normal": [
+          "Beads of Ruin"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 80,
+        "def": 80,
+        "satk": 135,
+        "sdef": 120,
+        "spd": 100
+      },
+      "moves": [
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Spite"
+        ],
+        [
+          null,
+          "Mean Look"
+        ],
+        [
+          5,
+          "Flame Wheel"
+        ],
+        [
+          10,
+          "Payback"
+        ],
+        [
+          15,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Flame Charge"
+        ],
+        [
+          25,
+          "Incinerate"
+        ],
+        [
+          30,
+          "Confuse Ray"
+        ],
+        [
+          35,
+          "Nasty Plot"
+        ],
+        [
+          40,
+          "Dark Pulse"
+        ],
+        [
+          45,
+          "Lava Plume"
+        ],
+        [
+          50,
+          "Ruination"
+        ],
+        [
+          55,
+          "Bounce"
+        ],
+        [
+          60,
+          "Swagger"
+        ],
+        [
+          65,
+          "Inferno"
+        ],
+        [
+          70,
+          "Memento"
+        ],
+        [
+          75,
+          "Overheat"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ]
+      ]
+    }
+  ]
+}

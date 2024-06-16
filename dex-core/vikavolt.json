@@ -1,0 +1,330 @@
+{
+  "name": "Vikavolt",
+  "national": "0738",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Stag Beetle Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 45,
+        "imperial": 99.2
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 77,
+        "atk": 70,
+        "def": 90,
+        "satk": 145,
+        "sdef": 75,
+        "spd": 43
+      },
+      "moves": [
+        [
+          "evo",
+          "Thunderbolt"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          null,
+          "Crunch"
+        ],
+        [
+          null,
+          "Charge"
+        ],
+        [
+          null,
+          "Discharge"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          29,
+          "Sticky Web"
+        ],
+        [
+          36,
+          "Bug Buzz"
+        ],
+        [
+          43,
+          "Guillotine"
+        ],
+        [
+          50,
+          "Fly"
+        ],
+        [
+          57,
+          "Agility"
+        ],
+        [
+          64,
+          "Zap Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Discharge"
+        ],
+        [
+          "rem",
+          "Vise Grip"
+        ],
+        [
+          "rem",
+          "Dig"
+        ],
+        [
+          "rem",
+          "Mud-slap"
+        ],
+        [
+          "rem",
+          "Iron Defense"
+        ],
+        [
+          "rem",
+          "X-scissor"
+        ],
+        [
+          "rem",
+          "Bug Bite"
+        ],
+        [
+          "pre",
+          "Vise Grip"
+        ],
+        [
+          "pre",
+          "Mud-slap"
+        ],
+        [
+          "pre",
+          "Bug Bite"
+        ],
+        [
+          "pre",
+          "X-scissor"
+        ],
+        [
+          "pre",
+          "Dig"
+        ],
+        [
+          "pre",
+          "Iron Defense"
+        ]
+      ]
+    }
+  ]
+}

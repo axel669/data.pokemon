@@ -1,0 +1,243 @@
+{
+  "name": "Porygon2",
+  "national": "0233",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Virtual Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 32.5,
+        "imperial": 71.7
+      },
+      "ability": {
+        "normal": [
+          "Trace",
+          "Download"
+        ],
+        "hidden": "Analytic"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 80,
+        "def": 90,
+        "satk": 105,
+        "sdef": 95,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Defense Curl"
+        ],
+        [
+          null,
+          "Conversion"
+        ],
+        [
+          null,
+          "Recycle"
+        ],
+        [
+          null,
+          "Magnet Rise"
+        ],
+        [
+          15,
+          "Thunder Shock"
+        ],
+        [
+          20,
+          "Psybeam"
+        ],
+        [
+          25,
+          "Conversion 2"
+        ],
+        [
+          30,
+          "Agility"
+        ],
+        [
+          35,
+          "Recover"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          45,
+          "Tri Attack"
+        ],
+        [
+          50,
+          "Lock-On"
+        ],
+        [
+          55,
+          "Zap Cannon"
+        ],
+        [
+          60,
+          "Hyper Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM016",
+          "Psybeam"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "pre",
+          "Double-edge"
+        ]
+      ]
+    }
+  ]
+}

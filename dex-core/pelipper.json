@@ -1,0 +1,319 @@
+{
+  "name": "Pelipper",
+  "national": "0279",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Bird Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 28,
+        "imperial": 61.7
+      },
+      "ability": {
+        "normal": [
+          "Keen Eye",
+          "Drizzle"
+        ],
+        "hidden": "Rain Dish"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 50,
+        "def": 100,
+        "satk": 95,
+        "sdef": 70,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Air Slash"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Tailwind"
+        ],
+        [
+          null,
+          "Agility"
+        ],
+        [
+          null,
+          "Quick Attack"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          null,
+          "Soak"
+        ],
+        [
+          15,
+          "Wing Attack"
+        ],
+        [
+          20,
+          "Water Pulse"
+        ],
+        [
+          28,
+          "Stockpile"
+        ],
+        [
+          28,
+          "Spit Up"
+        ],
+        [
+          28,
+          "Swallow"
+        ],
+        [
+          34,
+          "Fling"
+        ],
+        [
+          41,
+          "Mist"
+        ],
+        [
+          48,
+          "Roost"
+        ],
+        [
+          55,
+          "Hurricane"
+        ],
+        [
+          62,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM164",
+          "Brave Bird"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM216",
+          "Feather Dance"
+        ],
+        [
+          "egg",
+          "Gust"
+        ],
+        [
+          "egg",
+          "Twister"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Air Cutter"
+        ],
+        [
+          "egg",
+          "Aerial Ace"
+        ],
+        [
+          "egg",
+          "Aqua Ring"
+        ],
+        [
+          "egg",
+          "Wide Guard"
+        ],
+        [
+          "egg",
+          "Soak"
+        ]
+      ]
+    }
+  ]
+}

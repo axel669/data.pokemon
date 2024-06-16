@@ -1,0 +1,8 @@
+{
+  "name": "Drum Beating",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat."
+}

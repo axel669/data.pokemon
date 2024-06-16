@@ -1,0 +1,238 @@
+{
+  "name": "Veluza",
+  "national": "0976",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Jettison Pokémon",
+      "height": {
+        "metric": 2.5,
+        "imperial": 98
+      },
+      "weight": {
+        "metric": 90,
+        "imperial": 198.4
+      },
+      "ability": {
+        "normal": [
+          "Mold Breaker"
+        ],
+        "hidden": "Sharpness"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 102,
+        "def": 73,
+        "satk": 78,
+        "sdef": 65,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Aqua Jet"
+        ],
+        [
+          7,
+          "Pluck"
+        ],
+        [
+          11,
+          "Water Pulse"
+        ],
+        [
+          15,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Slash"
+        ],
+        [
+          25,
+          "Aqua Cutter"
+        ],
+        [
+          30,
+          "Fillet Away"
+        ],
+        [
+          35,
+          "Night Slash"
+        ],
+        [
+          40,
+          "Psycho Cut"
+        ],
+        [
+          45,
+          "Liquidation"
+        ],
+        [
+          50,
+          "Crunch"
+        ],
+        [
+          55,
+          "Final Gambit"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM041",
+          "Stored Power"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM138",
+          "Psychic Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM218",
+          "Expanding Force"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Recover"
+        ]
+      ]
+    }
+  ]
+}

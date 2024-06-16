@@ -1,0 +1,8 @@
+{
+  "name": "Slash",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "effect": null,
+  "desc": "The target is attacked with a slash of claws, scythes, or the like. This move has a heightened chance of landing a critical hit."
+}

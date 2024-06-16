@@ -1,0 +1,8 @@
+{
+  "name": "Burning Jealousy",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": 100,
+  "desc": "The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn."
+}

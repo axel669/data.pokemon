@@ -1,0 +1,230 @@
+{
+  "name": "Oddish",
+  "national": "0043",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Weed Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 5.4,
+        "imperial": 11.9
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll"
+        ],
+        "hidden": "Run Away"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 55,
+        "satk": 75,
+        "sdef": 65,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          4,
+          "Acid"
+        ],
+        [
+          8,
+          "Sweet Scent"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          14,
+          "Poison Powder"
+        ],
+        [
+          16,
+          "Stun Spore"
+        ],
+        [
+          18,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Giga Drain"
+        ],
+        [
+          24,
+          "Toxic"
+        ],
+        [
+          28,
+          "Moonblast"
+        ],
+        [
+          32,
+          "Grassy Terrain"
+        ],
+        [
+          36,
+          "Moonlight"
+        ],
+        [
+          40,
+          "Petal Dance"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Razor Leaf"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "After You"
+        ],
+        [
+          "egg",
+          "Strength Sap"
+        ]
+      ]
+    }
+  ]
+}

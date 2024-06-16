@@ -1,0 +1,8 @@
+{
+  "name": "High Jump Kick",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": null,
+  "desc": "The target is attacked with a knee kick from a jump. If this move misses, the user takes damage instead."
+}

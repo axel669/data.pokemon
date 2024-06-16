@@ -1,0 +1,298 @@
+{
+  "name": "Toedscool",
+  "national": "0948",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Woodear Pokémon",
+      "height": {
+        "metric": 0.9,
+        "imperial": 35
+      },
+      "weight": {
+        "metric": 33,
+        "imperial": 72.8
+      },
+      "ability": {
+        "normal": [
+          "Mycelium Might"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 40,
+        "def": 35,
+        "satk": 50,
+        "sdef": 100,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          4,
+          "Absorb"
+        ],
+        [
+          8,
+          "Poison Powder"
+        ],
+        [
+          8,
+          "Stun Spore"
+        ],
+        [
+          12,
+          "Supersonic"
+        ],
+        [
+          15,
+          "Tackle"
+        ],
+        [
+          16,
+          "Mega Drain"
+        ],
+        [
+          20,
+          "Screech"
+        ],
+        [
+          24,
+          "Mud Shot"
+        ],
+        [
+          28,
+          "Hex"
+        ],
+        [
+          32,
+          "Seed Bomb"
+        ],
+        [
+          36,
+          "Spore"
+        ],
+        [
+          40,
+          "Growth"
+        ],
+        [
+          44,
+          "Giga Drain"
+        ],
+        [
+          48,
+          "Earth Power"
+        ],
+        [
+          52,
+          "Power Whip"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Toxic"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Knock Off"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "egg",
+          "Acupressure"
+        ],
+        [
+          "egg",
+          "Rage Powder"
+        ]
+      ]
+    }
+  ]
+}

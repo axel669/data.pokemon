@@ -1,0 +1,8 @@
+{
+  "name": "Dive",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user dives on the first turn, then floats up and attacks on the next turn."
+}

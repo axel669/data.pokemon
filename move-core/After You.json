@@ -1,0 +1,8 @@
+{
+  "name": "After You",
+  "power": null,
+  "accuracy": 101,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user helps the target and makes it use its move right after the user."
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Joltik",
+  "national": "0595",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Attaching Pokémon",
+      "height": {
+        "metric": 0.1,
+        "imperial": 4
+      },
+      "weight": {
+        "metric": 0.6,
+        "imperial": 1.3
+      },
+      "ability": {
+        "normal": [
+          "Compound Eyes",
+          "Unnerve"
+        ],
+        "hidden": "Swarm"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 47,
+        "def": 50,
+        "satk": 57,
+        "sdef": 50,
+        "spd": 65
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Fury Cutter"
+        ],
+        [
+          4,
+          "Electroweb"
+        ],
+        [
+          8,
+          "Bug Bite"
+        ],
+        [
+          12,
+          "String Shot"
+        ],
+        [
+          16,
+          "Thunder Wave"
+        ],
+        [
+          20,
+          "Electro Ball"
+        ],
+        [
+          24,
+          "Agility"
+        ],
+        [
+          28,
+          "Sucker Punch"
+        ],
+        [
+          32,
+          "Slash"
+        ],
+        [
+          37,
+          "Discharge"
+        ],
+        [
+          40,
+          "Screech"
+        ],
+        [
+          44,
+          "Gastro Acid"
+        ],
+        [
+          48,
+          "Bug Buzz"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Poison Sting"
+        ],
+        [
+          "egg",
+          "Double Team"
+        ],
+        [
+          "egg",
+          "Struggle Bug"
+        ],
+        [
+          "egg",
+          "Infestation"
+        ],
+        [
+          "egg",
+          "Lunge"
+        ]
+      ]
+    }
+  ]
+}

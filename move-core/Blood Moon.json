@@ -1,0 +1,8 @@
+{
+  "name": "Blood Moon",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
+}

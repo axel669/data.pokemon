@@ -1,0 +1,191 @@
+{
+  "name": "Goomy",
+  "national": "0704",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Soft Tissue Pokémon",
+      "height": {
+        "metric": 0.3,
+        "imperial": 12
+      },
+      "weight": {
+        "metric": 2.8,
+        "imperial": 6.2
+      },
+      "ability": {
+        "normal": [
+          "Sap Sipper",
+          "Hydration"
+        ],
+        "hidden": "Gooey"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 50,
+        "def": 35,
+        "satk": 55,
+        "sdef": 75,
+        "spd": 40
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          5,
+          "Water Gun"
+        ],
+        [
+          10,
+          "Dragon Breath"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          20,
+          "Flail"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          30,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Dragon Pulse"
+        ],
+        [
+          41,
+          "Curse"
+        ],
+        [
+          45,
+          "Body Slam"
+        ],
+        [
+          50,
+          "Muddy Water"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ]
+      ]
+    }
+  ]
+}

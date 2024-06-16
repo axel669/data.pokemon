@@ -1,0 +1,8 @@
+{
+  "name": "Rock Tomb",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement."
+}

@@ -1,0 +1,503 @@
+{
+  "name": "Shiftry",
+  "national": "0275",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Wicked Pokémon",
+      "height": {
+        "metric": 1.3,
+        "imperial": 51
+      },
+      "weight": {
+        "metric": 59.6,
+        "imperial": 131.4
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Early Bird"
+        ],
+        "hidden": "Pickpocket"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 100,
+        "def": 60,
+        "satk": 90,
+        "sdef": 60,
+        "spd": 80
+      },
+      "moves": [
+        [
+          "evo",
+          "Leaf Blade"
+        ],
+        [
+          null,
+          "Sunny Day"
+        ],
+        [
+          null,
+          "Air Cutter"
+        ],
+        [
+          null,
+          "Payback"
+        ],
+        [
+          null,
+          "Hurricane"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM057",
+          "False Swipe"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM105",
+          "X-Scissor"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM190",
+          "Solar Blade"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Take Down"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ],
+        [
+          "egg",
+          "Night Slash"
+        ],
+        [
+          "egg",
+          "Defog"
+        ],
+        [
+          "rem",
+          "Whirlwind"
+        ],
+        [
+          "rem",
+          "Tackle"
+        ],
+        [
+          "rem",
+          "Absorb"
+        ],
+        [
+          "rem",
+          "Mega Drain"
+        ],
+        [
+          "rem",
+          "Growth"
+        ],
+        [
+          "rem",
+          "Razor Leaf"
+        ],
+        [
+          "rem",
+          "Harden"
+        ],
+        [
+          "rem",
+          "Explosion"
+        ],
+        [
+          "rem",
+          "Rollout"
+        ],
+        [
+          "rem",
+          "Swagger"
+        ],
+        [
+          "rem",
+          "Synthesis"
+        ],
+        [
+          "rem",
+          "Beat Up"
+        ],
+        [
+          "rem",
+          "Fake Out"
+        ],
+        [
+          "rem",
+          "Torment"
+        ],
+        [
+          "rem",
+          "Astonish"
+        ],
+        [
+          "rem",
+          "Extrasensory"
+        ],
+        [
+          "rem",
+          "Sucker Punch"
+        ],
+        [
+          "pre",
+          "Razor Leaf"
+        ],
+        [
+          "pre",
+          "Tackle"
+        ],
+        [
+          "pre",
+          "Absorb"
+        ],
+        [
+          "pre",
+          "Harden"
+        ],
+        [
+          "pre",
+          "Explosion"
+        ],
+        [
+          "pre",
+          "Swagger"
+        ],
+        [
+          "pre",
+          "Fake Out"
+        ],
+        [
+          "pre",
+          "Torment"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Growth"
+        ],
+        [
+          "pre",
+          "Rollout"
+        ],
+        [
+          "pre",
+          "Mega Drain"
+        ],
+        [
+          "pre",
+          "Synthesis"
+        ],
+        [
+          "pre",
+          "Extrasensory"
+        ],
+        [
+          "pre",
+          "Sucker Punch"
+        ],
+        [
+          "pre",
+          "Headbutt"
+        ]
+      ]
+    }
+  ]
+}

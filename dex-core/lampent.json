@@ -1,0 +1,275 @@
+{
+  "name": "Lampent",
+  "national": "0608",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Lamp Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 13,
+        "imperial": 28.7
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire",
+          "Flame Body"
+        ],
+        "hidden": "Infiltrator"
+      },
+      "stats": {
+        "hp": 60,
+        "atk": 40,
+        "def": 60,
+        "satk": 95,
+        "sdef": 60,
+        "spd": 55
+      },
+      "moves": [
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Minimize"
+        ],
+        [
+          null,
+          "Smog"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          12,
+          "Confuse Ray"
+        ],
+        [
+          16,
+          "Hex"
+        ],
+        [
+          20,
+          "Will-O-Wisp"
+        ],
+        [
+          24,
+          "Fire Spin"
+        ],
+        [
+          28,
+          "Night Shade"
+        ],
+        [
+          32,
+          "Curse"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Inferno"
+        ],
+        [
+          46,
+          "Imprison"
+        ],
+        [
+          52,
+          "Pain Split"
+        ],
+        [
+          58,
+          "Overheat"
+        ],
+        [
+          64,
+          "Memento"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM161",
+          "Trick Room"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM195",
+          "Burning Jealousy"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM207",
+          "Temper Flare"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Acid Armor"
+        ],
+        [
+          "egg",
+          "Power Split"
+        ],
+        [
+          "egg",
+          "Clear Smog"
+        ]
+      ]
+    }
+  ]
+}

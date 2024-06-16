@@ -1,0 +1,8 @@
+{
+  "name": "Dragon Energy",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": null,
+  "desc": "Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power."
+}

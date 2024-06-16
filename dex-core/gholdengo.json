@@ -1,0 +1,242 @@
+{
+  "name": "Gholdengo",
+  "national": "1000",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Coin Entity Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 30,
+        "imperial": 66.1
+      },
+      "ability": {
+        "normal": [
+          "Good as Gold"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 87,
+        "atk": 60,
+        "def": 95,
+        "satk": 133,
+        "sdef": 91,
+        "spd": 84
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          7,
+          "Night Shade"
+        ],
+        [
+          14,
+          "Confuse Ray"
+        ],
+        [
+          21,
+          "Substitute"
+        ],
+        [
+          28,
+          "Metal Sound"
+        ],
+        [
+          35,
+          "Shadow Ball"
+        ],
+        [
+          42,
+          "Recover"
+        ],
+        [
+          49,
+          "Power Gem"
+        ],
+        [
+          56,
+          "Make It Rain"
+        ],
+        [
+          63,
+          "Nasty Plot"
+        ],
+        [
+          70,
+          "Memento"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM054",
+          "Psyshock"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM101",
+          "Power Gem"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM109",
+          "Trick"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM198",
+          "Poltergeist"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ]
+      ]
+    }
+  ]
+}

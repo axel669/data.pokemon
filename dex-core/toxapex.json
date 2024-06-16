@@ -1,0 +1,259 @@
+{
+  "name": "Toxapex",
+  "national": "0748",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Brutal Star Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 14.5,
+        "imperial": 32
+      },
+      "ability": {
+        "normal": [
+          "Merciless",
+          "Limber"
+        ],
+        "hidden": "Regenerator"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 63,
+        "def": 152,
+        "satk": 53,
+        "sdef": 142,
+        "spd": 35
+      },
+      "moves": [
+        [
+          "evo",
+          "Baneful Bunker"
+        ],
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Peck"
+        ],
+        [
+          null,
+          "Wide Guard"
+        ],
+        [
+          15,
+          "Venoshock"
+        ],
+        [
+          20,
+          "Recover"
+        ],
+        [
+          25,
+          "Pin Missile"
+        ],
+        [
+          30,
+          "Toxic Spikes"
+        ],
+        [
+          35,
+          "Liquidation"
+        ],
+        [
+          42,
+          "Acid Spray"
+        ],
+        [
+          49,
+          "Poison Jab"
+        ],
+        [
+          56,
+          "Toxic"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM029",
+          "Hex"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM102",
+          "Gunk Shot"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Infestation"
+        ]
+      ]
+    }
+  ]
+}

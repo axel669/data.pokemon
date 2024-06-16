@@ -1,0 +1,8 @@
+{
+  "name": "Leaf Blade",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user handles a sharp leaf like a sword and cuts the target to inflict damage. This move has a heightened chance of landing a critical hit."
+}

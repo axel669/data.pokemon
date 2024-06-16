@@ -1,0 +1,294 @@
+{
+  "name": "Pineco",
+  "national": "0204",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bagworm Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 7.2,
+        "imperial": 15.9
+      },
+      "ability": {
+        "normal": [
+          "Sturdy"
+        ],
+        "hidden": "Overcoat"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 90,
+        "satk": 35,
+        "sdef": 35,
+        "spd": 15
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Protect"
+        ],
+        [
+          6,
+          "Self-Destruct"
+        ],
+        [
+          9,
+          "Bug Bite"
+        ],
+        [
+          12,
+          "Take Down"
+        ],
+        [
+          17,
+          "Rapid Spin"
+        ],
+        [
+          20,
+          "Rollout"
+        ],
+        [
+          23,
+          "Curse"
+        ],
+        [
+          28,
+          "Spikes"
+        ],
+        [
+          31,
+          "Payback"
+        ],
+        [
+          34,
+          "Explosion"
+        ],
+        [
+          39,
+          "Iron Defense"
+        ],
+        [
+          42,
+          "Gyro Ball"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM076",
+          "Rock Blast"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Pin Missile"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Swift"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Sand Tomb"
+        ],
+        [
+          "egg",
+          "Power Trick"
+        ],
+        [
+          "egg",
+          "Toxic Spikes"
+        ]
+      ]
+    }
+  ]
+}

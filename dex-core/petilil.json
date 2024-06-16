@@ -1,0 +1,203 @@
+{
+  "name": "Petilil",
+  "national": "0548",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Bulb Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 6.6,
+        "imperial": 14.6
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Own Tempo"
+        ],
+        "hidden": "Leaf Guard"
+      },
+      "stats": {
+        "hp": 45,
+        "atk": 35,
+        "def": 50,
+        "satk": 70,
+        "sdef": 50,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          3,
+          "Helping Hand"
+        ],
+        [
+          6,
+          "Stun Spore"
+        ],
+        [
+          9,
+          "Mega Drain"
+        ],
+        [
+          12,
+          "Charm"
+        ],
+        [
+          15,
+          "Magical Leaf"
+        ],
+        [
+          18,
+          "Sleep Powder"
+        ],
+        [
+          21,
+          "Giga Drain"
+        ],
+        [
+          24,
+          "Leech Seed"
+        ],
+        [
+          27,
+          "After You"
+        ],
+        [
+          30,
+          "Energy Ball"
+        ],
+        [
+          33,
+          "Synthesis"
+        ],
+        [
+          36,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Entrainment"
+        ],
+        [
+          42,
+          "Leaf Storm"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM131",
+          "Pollen Puff"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Healing Wish"
+        ],
+        [
+          "egg",
+          "Worry Seed"
+        ]
+      ]
+    }
+  ]
+}

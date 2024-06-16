@@ -1,0 +1,242 @@
+{
+  "name": "Clauncher",
+  "national": "0692",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Water Gun Pokémon",
+      "height": {
+        "metric": 0.5,
+        "imperial": 20
+      },
+      "weight": {
+        "metric": 8.3,
+        "imperial": 18.3
+      },
+      "ability": {
+        "normal": [
+          "Mega Launcher"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 53,
+        "def": 62,
+        "satk": 58,
+        "sdef": 63,
+        "spd": 44
+      },
+      "moves": [
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          5,
+          "Vise Grip"
+        ],
+        [
+          10,
+          "Flail"
+        ],
+        [
+          15,
+          "Aqua Jet"
+        ],
+        [
+          20,
+          "Smack Down"
+        ],
+        [
+          25,
+          "Hone Claws"
+        ],
+        [
+          30,
+          "Water Pulse"
+        ],
+        [
+          35,
+          "Swords Dance"
+        ],
+        [
+          40,
+          "Aura Sphere"
+        ],
+        [
+          45,
+          "Bounce"
+        ],
+        [
+          50,
+          "Muddy Water"
+        ],
+        [
+          55,
+          "Crabhammer"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM112",
+          "Aura Sphere"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "egg",
+          "Bubble Beam"
+        ],
+        [
+          "egg",
+          "Aqua Tail"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ]
+      ]
+    }
+  ]
+}

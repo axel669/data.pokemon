@@ -1,0 +1,411 @@
+{
+  "name": "Ludicolo",
+  "national": "0272",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Carefree Pokémon",
+      "height": {
+        "metric": 1.5,
+        "imperial": 59
+      },
+      "weight": {
+        "metric": 55,
+        "imperial": 121.3
+      },
+      "ability": {
+        "normal": [
+          "Swift Swim",
+          "Rain Dish"
+        ],
+        "hidden": "Own Tempo"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 70,
+        "def": 70,
+        "satk": 90,
+        "sdef": 100,
+        "spd": 70
+      },
+      "moves": [
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          null,
+          "Rain Dance"
+        ],
+        [
+          null,
+          "Bubble Beam"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM067",
+          "Fire Punch"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM069",
+          "Ice Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM080",
+          "Metronome"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Razor Leaf"
+        ],
+        [
+          "egg",
+          "Sweet Scent"
+        ],
+        [
+          "egg",
+          "Synthesis"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ],
+        [
+          "rem",
+          "Growl"
+        ],
+        [
+          "rem",
+          "Mist"
+        ],
+        [
+          "rem",
+          "Water Gun"
+        ],
+        [
+          "rem",
+          "Hydro Pump"
+        ],
+        [
+          "rem",
+          "Absorb"
+        ],
+        [
+          "rem",
+          "Mega Drain"
+        ],
+        [
+          "rem",
+          "Fury Swipes"
+        ],
+        [
+          "rem",
+          "Flail"
+        ],
+        [
+          "rem",
+          "Knock Off"
+        ],
+        [
+          "rem",
+          "Teeter Dance"
+        ],
+        [
+          "rem",
+          "Astonish"
+        ],
+        [
+          "rem",
+          "Energy Ball"
+        ],
+        [
+          "rem",
+          "Zen Headbutt"
+        ],
+        [
+          "pre",
+          "Growl"
+        ],
+        [
+          "pre",
+          "Water Gun"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Teeter Dance"
+        ],
+        [
+          "pre",
+          "Absorb"
+        ],
+        [
+          "pre",
+          "Knock Off"
+        ],
+        [
+          "pre",
+          "Flail"
+        ],
+        [
+          "pre",
+          "Mist"
+        ],
+        [
+          "pre",
+          "Mega Drain"
+        ],
+        [
+          "pre",
+          "Fury Swipes"
+        ],
+        [
+          "pre",
+          "Leech Seed"
+        ],
+        [
+          "pre",
+          "Giga Drain"
+        ],
+        [
+          "pre",
+          "Zen Headbutt"
+        ],
+        [
+          "pre",
+          "Energy Ball"
+        ],
+        [
+          "pre",
+          "Hydro Pump"
+        ]
+      ]
+    }
+  ]
+}

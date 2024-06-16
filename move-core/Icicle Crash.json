@@ -1,0 +1,8 @@
+{
+  "name": "Icicle Crash",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "effect": 30,
+  "desc": "The user attacks by crashing large icicles onto the target. This may also make the target flinch."
+}

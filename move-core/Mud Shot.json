@@ -1,0 +1,8 @@
+{
+  "name": "Mud Shot",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat."
+}

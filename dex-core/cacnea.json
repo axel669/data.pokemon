@@ -1,0 +1,330 @@
+{
+  "name": "Cacnea",
+  "national": "0331",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Cactus Pokémon",
+      "height": {
+        "metric": 0.4,
+        "imperial": 16
+      },
+      "weight": {
+        "metric": 51.3,
+        "imperial": 113.1
+      },
+      "ability": {
+        "normal": [
+          "Sand Veil"
+        ],
+        "hidden": "Water Absorb"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 85,
+        "def": 40,
+        "satk": 85,
+        "sdef": 40,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Poison Sting"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          4,
+          "Absorb"
+        ],
+        [
+          7,
+          "Growth"
+        ],
+        [
+          10,
+          "Leech Seed"
+        ],
+        [
+          13,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Bullet Seed"
+        ],
+        [
+          19,
+          "Power Trip"
+        ],
+        [
+          22,
+          "Ingrain"
+        ],
+        [
+          26,
+          "Payback"
+        ],
+        [
+          30,
+          "Spikes"
+        ],
+        [
+          34,
+          "Sucker Punch"
+        ],
+        [
+          38,
+          "Pin Missile"
+        ],
+        [
+          42,
+          "Energy Ball"
+        ],
+        [
+          46,
+          "Cotton Spore"
+        ],
+        [
+          50,
+          "Sandstorm"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM045",
+          "Venoshock"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM062",
+          "Foul Play"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM068",
+          "Thunder Punch"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM073",
+          "Drain Punch"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM090",
+          "Spikes"
+        ],
+        [
+          "TM091",
+          "Toxic Spikes"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM140",
+          "Nasty Plot"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM192",
+          "Focus Punch"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Acid"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Teeter Dance"
+        ],
+        [
+          "egg",
+          "Block"
+        ],
+        [
+          "egg",
+          "Switcheroo"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "egg",
+          "Fell Stinger"
+        ]
+      ]
+    }
+  ]
+}

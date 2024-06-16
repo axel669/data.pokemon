@@ -1,0 +1,247 @@
+{
+  "name": "Dondozo",
+  "national": "0977",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Big Catfish Pokémon",
+      "height": {
+        "metric": 12,
+        "imperial": 472
+      },
+      "weight": {
+        "metric": 220,
+        "imperial": 485
+      },
+      "ability": {
+        "normal": [
+          "Unaware",
+          "Oblivious"
+        ],
+        "hidden": "Water Veil"
+      },
+      "stats": {
+        "hp": 150,
+        "atk": 100,
+        "def": 115,
+        "satk": 65,
+        "sdef": 65,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Tickle"
+        ],
+        [
+          10,
+          "Flail"
+        ],
+        [
+          15,
+          "Rest"
+        ],
+        [
+          15,
+          "Sleep Talk"
+        ],
+        [
+          20,
+          "Dive"
+        ],
+        [
+          25,
+          "Noble Roar"
+        ],
+        [
+          30,
+          "Soak"
+        ],
+        [
+          35,
+          "Body Slam"
+        ],
+        [
+          40,
+          "Aqua Tail"
+        ],
+        [
+          45,
+          "Rain Dance"
+        ],
+        [
+          50,
+          "Order Up"
+        ],
+        [
+          55,
+          "Heavy Slam"
+        ],
+        [
+          60,
+          "Double-Edge"
+        ],
+        [
+          65,
+          "Wave Crash"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Yawn"
+        ]
+      ]
+    }
+  ]
+}

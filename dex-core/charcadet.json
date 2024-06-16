@@ -1,0 +1,170 @@
+{
+  "name": "Charcadet",
+  "national": "0935",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Fire Child Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 10.5,
+        "imperial": 23.1
+      },
+      "ability": {
+        "normal": [
+          "Flash Fire"
+        ],
+        "hidden": "Flame Body"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 50,
+        "def": 40,
+        "satk": 50,
+        "sdef": 40,
+        "spd": 35
+      },
+      "moves": [
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          8,
+          "Clear Smog"
+        ],
+        [
+          12,
+          "Fire Spin"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Night Shade"
+        ],
+        [
+          24,
+          "Flame Charge"
+        ],
+        [
+          28,
+          "Incinerate"
+        ],
+        [
+          32,
+          "Lava Plume"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM042",
+          "Night Shade"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Spite"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "name": "Hitmontop",
+  "national": "0237",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Handstand Pokémon",
+      "height": {
+        "metric": 1.4,
+        "imperial": 55
+      },
+      "weight": {
+        "metric": 48,
+        "imperial": 105.8
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Technician"
+        ],
+        "hidden": "Steadfast"
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 95,
+        "def": 95,
+        "satk": 35,
+        "sdef": 110,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Triple Kick"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Feint"
+        ],
+        [
+          null,
+          "Helping Hand"
+        ],
+        [
+          null,
+          "Focus Energy"
+        ],
+        [
+          null,
+          "Fake Out"
+        ],
+        [
+          4,
+          "Quick Attack"
+        ],
+        [
+          8,
+          "Gyro Ball"
+        ],
+        [
+          12,
+          "Detect"
+        ],
+        [
+          16,
+          "Rapid Spin"
+        ],
+        [
+          21,
+          "Wide Guard"
+        ],
+        [
+          21,
+          "Quick Guard"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Agility"
+        ],
+        [
+          32,
+          "Dig"
+        ],
+        [
+          36,
+          "Close Combat"
+        ],
+        [
+          40,
+          "Counter"
+        ],
+        [
+          44,
+          "Endeavor"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM058",
+          "Brick Break"
+        ],
+        [
+          "TM064",
+          "Bulk Up"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM132",
+          "Baton Pass"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM184",
+          "Vacuum Wave"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM213",
+          "Coaching"
+        ],
+        [
+          "TM229",
+          "Upper Hand"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "High Jump Kick"
+        ],
+        [
+          "egg",
+          "Mach Punch"
+        ],
+        [
+          "egg",
+          "Rapid Spin"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Vacuum Wave"
+        ],
+        [
+          "egg",
+          "Bullet Punch"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "name": "Magnezone",
+  "national": "0462",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Magnet Area Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 180,
+        "imperial": 396.8
+      },
+      "ability": {
+        "normal": [
+          "Magnet Pull",
+          "Sturdy"
+        ],
+        "hidden": "Analytic"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 70,
+        "def": 115,
+        "satk": 130,
+        "sdef": 90,
+        "spd": 60
+      },
+      "moves": [
+        [
+          null,
+          "Electric Terrain"
+        ],
+        [
+          null,
+          "Mirror Coat"
+        ],
+        [
+          null,
+          "Magnetic Flux"
+        ],
+        [
+          null,
+          "Tri Attack"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Thunder Wave"
+        ],
+        [
+          null,
+          "Thunder Shock"
+        ],
+        [
+          null,
+          "Supersonic"
+        ],
+        [
+          12,
+          "Electro Ball"
+        ],
+        [
+          16,
+          "Gyro Ball"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Magnet Rise"
+        ],
+        [
+          34,
+          "Flash Cannon"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          46,
+          "Metal Sound"
+        ],
+        [
+          52,
+          "Light Screen"
+        ],
+        [
+          58,
+          "Lock-On"
+        ],
+        [
+          64,
+          "Zap Cannon"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM023",
+          "Charge Beam"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM048",
+          "Volt Switch"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM072",
+          "Electro Ball"
+        ],
+        [
+          "TM074",
+          "Reflect"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM082",
+          "Thunder Wave"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM089",
+          "Body Press"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM096",
+          "Eerie Impulse"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM136",
+          "Electric Terrain"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM173",
+          "Charge"
+        ],
+        [
+          "TM178",
+          "Gravity"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM210",
+          "Supercell Slam"
+        ],
+        [
+          "TM211",
+          "Electroweb"
+        ],
+        [
+          "TM223",
+          "Metal Sound"
+        ],
+        [
+          "TM225",
+          "Hard Press"
+        ],
+        [
+          "egg",
+          "Explosion"
+        ],
+        [
+          "egg",
+          "Electroweb"
+        ]
+      ]
+    }
+  ]
+}

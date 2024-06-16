@@ -1,0 +1,8 @@
+{
+  "name": "Shell Smash",
+  "power": null,
+  "accuracy": 101,
+  "pp": 15,
+  "effect": null,
+  "desc": "The user breaks its shell, which lowers its Defense and Sp. Def stats but sharply boosts its Attack, Sp. Atk, and Speed stats."
+}

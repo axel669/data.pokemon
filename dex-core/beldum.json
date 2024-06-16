@@ -1,0 +1,62 @@
+{
+  "name": "Beldum",
+  "national": "0374",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Iron Ball Pokémon",
+      "height": {
+        "metric": 0.6,
+        "imperial": 24
+      },
+      "weight": {
+        "metric": 95.2,
+        "imperial": 209.9
+      },
+      "ability": {
+        "normal": [
+          "Clear Body"
+        ],
+        "hidden": "Light Metal"
+      },
+      "stats": {
+        "hp": 40,
+        "atk": 55,
+        "def": 80,
+        "satk": 35,
+        "sdef": 60,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ]
+      ]
+    }
+  ]
+}

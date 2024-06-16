@@ -1,0 +1,8 @@
+{
+  "name": "Vise Grip",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": null,
+  "desc": "The target is gripped and squeezed from both sides to inflict damage."
+}

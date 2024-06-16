@@ -1,0 +1,327 @@
+{
+  "name": "Dewgong",
+  "national": "0087",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sea Lion Pokémon",
+      "height": {
+        "metric": 1.7,
+        "imperial": 67
+      },
+      "weight": {
+        "metric": 120,
+        "imperial": 264.6
+      },
+      "ability": {
+        "normal": [
+          "Thick Fat",
+          "Hydration"
+        ],
+        "hidden": "Ice Body"
+      },
+      "stats": {
+        "hp": 90,
+        "atk": 70,
+        "def": 80,
+        "satk": 70,
+        "sdef": 95,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Sheer Cold"
+        ],
+        [
+          null,
+          "Headbutt"
+        ],
+        [
+          null,
+          "Growl"
+        ],
+        [
+          null,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Encore"
+        ],
+        [
+          17,
+          "Ice Shard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Aqua Ring"
+        ],
+        [
+          27,
+          "Aurora Beam"
+        ],
+        [
+          31,
+          "Aqua Jet"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          39,
+          "Take Down"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          49,
+          "Aqua Tail"
+        ],
+        [
+          55,
+          "Ice Beam"
+        ],
+        [
+          61,
+          "Safeguard"
+        ],
+        [
+          65,
+          "Snowscape"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM043",
+          "Fling"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM053",
+          "Smart Strike"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM106",
+          "Drill Run"
+        ],
+        [
+          "TM110",
+          "Liquidation"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM181",
+          "Knock Off"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Horn Drill"
+        ],
+        [
+          "egg",
+          "Disable"
+        ],
+        [
+          "egg",
+          "Lick"
+        ],
+        [
+          "egg",
+          "Perish Song"
+        ],
+        [
+          "egg",
+          "Fake Out"
+        ],
+        [
+          "egg",
+          "Stockpile"
+        ],
+        [
+          "egg",
+          "Spit Up"
+        ],
+        [
+          "egg",
+          "Swallow"
+        ],
+        [
+          "egg",
+          "Entrainment"
+        ],
+        [
+          "egg",
+          "Belch"
+        ],
+        [
+          "pre",
+          "Charm"
+        ]
+      ]
+    }
+  ]
+}

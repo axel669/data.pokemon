@@ -1,0 +1,279 @@
+{
+  "name": "Mabosstiff",
+  "national": "0943",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Boss Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 61,
+        "imperial": 134.5
+      },
+      "ability": {
+        "normal": [
+          "Intimidate",
+          "Guard Dog"
+        ],
+        "hidden": "Stakeout"
+      },
+      "stats": {
+        "hp": 80,
+        "atk": 120,
+        "def": 90,
+        "satk": 60,
+        "sdef": 70,
+        "spd": 85
+      },
+      "moves": [
+        [
+          "evo",
+          "Comeuppance"
+        ],
+        [
+          null,
+          "Leer"
+        ],
+        [
+          null,
+          "Scary Face"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          4,
+          "Lick"
+        ],
+        [
+          7,
+          "Snarl"
+        ],
+        [
+          10,
+          "Hone Claws"
+        ],
+        [
+          14,
+          "Bite"
+        ],
+        [
+          18,
+          "Roar"
+        ],
+        [
+          22,
+          "Headbutt"
+        ],
+        [
+          26,
+          "Payback"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          39,
+          "Swagger"
+        ],
+        [
+          43,
+          "Reversal"
+        ],
+        [
+          48,
+          "Jaw Lock"
+        ],
+        [
+          55,
+          "Double-Edge"
+        ],
+        [
+          60,
+          "Outrage"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM003",
+          "Fake Tears"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM008",
+          "Fire Fang"
+        ],
+        [
+          "TM009",
+          "Thunder Fang"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM030",
+          "Snarl"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM063",
+          "Psychic Fangs"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM094",
+          "Dark Pulse"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM117",
+          "Hyper Voice"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM177",
+          "Spite"
+        ],
+        [
+          "TM199",
+          "Lash Out"
+        ],
+        [
+          "TM202",
+          "Pain Split"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Destiny Bond"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Retaliate"
+        ],
+        [
+          "egg",
+          "Play Rough"
+        ]
+      ]
+    }
+  ]
+}

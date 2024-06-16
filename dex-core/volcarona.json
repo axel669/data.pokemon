@@ -1,0 +1,326 @@
+{
+  "name": "Volcarona",
+  "national": "0637",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sun Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 46,
+        "imperial": 101.4
+      },
+      "ability": {
+        "normal": [
+          "Flame Body"
+        ],
+        "hidden": "Swarm"
+      },
+      "stats": {
+        "hp": 85,
+        "atk": 60,
+        "def": 65,
+        "satk": 135,
+        "sdef": 105,
+        "spd": 100
+      },
+      "moves": [
+        [
+          "evo",
+          "Quiver Dance"
+        ],
+        [
+          null,
+          "Fiery Dance"
+        ],
+        [
+          null,
+          "Struggle Bug"
+        ],
+        [
+          null,
+          "Flame Charge"
+        ],
+        [
+          null,
+          "Flare Blitz"
+        ],
+        [
+          null,
+          "Fire Spin"
+        ],
+        [
+          null,
+          "Gust"
+        ],
+        [
+          null,
+          "Ember"
+        ],
+        [
+          null,
+          "Double-Edge"
+        ],
+        [
+          null,
+          "Take Down"
+        ],
+        [
+          null,
+          "Whirlwind"
+        ],
+        [
+          null,
+          "String Shot"
+        ],
+        [
+          18,
+          "Flame Wheel"
+        ],
+        [
+          24,
+          "Bug Bite"
+        ],
+        [
+          30,
+          "Screech"
+        ],
+        [
+          36,
+          "Leech Life"
+        ],
+        [
+          42,
+          "Bug Buzz"
+        ],
+        [
+          48,
+          "Heat Wave"
+        ],
+        [
+          54,
+          "Amnesia"
+        ],
+        [
+          62,
+          "Hurricane"
+        ],
+        [
+          70,
+          "Fire Blast"
+        ],
+        [
+          78,
+          "Rage Powder"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM014",
+          "Acrobatics"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM024",
+          "Fire Spin"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM038",
+          "Flame Charge"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM083",
+          "Poison Jab"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM107",
+          "Will-O-Wisp"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM125",
+          "Flamethrower"
+        ],
+        [
+          "TM128",
+          "Amnesia"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM141",
+          "Fire Blast"
+        ],
+        [
+          "TM147",
+          "Wild Charge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM157",
+          "Overheat"
+        ],
+        [
+          "TM160",
+          "Hurricane"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM165",
+          "Flare Blitz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "egg",
+          "Thrash"
+        ],
+        [
+          "egg",
+          "Absorb"
+        ],
+        [
+          "egg",
+          "Harden"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ]
+      ]
+    }
+  ]
+}

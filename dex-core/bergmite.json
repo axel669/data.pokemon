@@ -1,0 +1,223 @@
+{
+  "name": "Bergmite",
+  "national": "0712",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Ice Chunk Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 99.5,
+        "imperial": 219.4
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo",
+          "Ice Body"
+        ],
+        "hidden": "Sturdy"
+      },
+      "stats": {
+        "hp": 55,
+        "atk": 69,
+        "def": 85,
+        "satk": 32,
+        "sdef": 35,
+        "spd": 28
+      },
+      "moves": [
+        [
+          null,
+          "Harden"
+        ],
+        [
+          null,
+          "Rapid Spin"
+        ],
+        [
+          3,
+          "Tackle"
+        ],
+        [
+          6,
+          "Powder Snow"
+        ],
+        [
+          9,
+          "Curse"
+        ],
+        [
+          12,
+          "Icy Wind"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          18,
+          "Avalanche"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          24,
+          "Ice Fang"
+        ],
+        [
+          27,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          39,
+          "Blizzard"
+        ],
+        [
+          42,
+          "Double-Edge"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM010",
+          "Ice Fang"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM052",
+          "Snowscape"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM187",
+          "Icicle Spear"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Aurora Veil"
+        ]
+      ]
+    }
+  ]
+}

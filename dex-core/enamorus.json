@@ -1,0 +1,518 @@
+{
+  "name": "Enamorus",
+  "national": "0905",
+  "forms": [
+    {
+      "name": "Incarnate Forme",
+      "species": "Love-Hate Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 48,
+        "imperial": 105.8
+      },
+      "ability": {
+        "normal": [
+          "Cute Charm"
+        ],
+        "hidden": "Contrary"
+      },
+      "stats": {
+        "hp": 74,
+        "atk": 115,
+        "def": 70,
+        "satk": 135,
+        "sdef": 80,
+        "spd": 106
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          5,
+          "Torment"
+        ],
+        [
+          10,
+          "Flatter"
+        ],
+        [
+          15,
+          "Twister"
+        ],
+        [
+          20,
+          "Draining Kiss"
+        ],
+        [
+          25,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Imprison"
+        ],
+        [
+          35,
+          "Mystical Fire"
+        ],
+        [
+          40,
+          "Dazzling Gleam"
+        ],
+        [
+          45,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Uproar"
+        ],
+        [
+          55,
+          "Superpower"
+        ],
+        [
+          60,
+          "Healing Wish"
+        ],
+        [
+          65,
+          "Moonblast"
+        ],
+        [
+          70,
+          "Outrage"
+        ],
+        [
+          75,
+          "Springtide Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ]
+      ]
+    },
+    {
+      "name": "Therian Forme",
+      "species": "Love-Hate Pokémon",
+      "height": {
+        "metric": 1.6,
+        "imperial": 63
+      },
+      "weight": {
+        "metric": 48,
+        "imperial": 105.8
+      },
+      "ability": {
+        "normal": [
+          "Overcoat"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 74,
+        "atk": 115,
+        "def": 110,
+        "satk": 135,
+        "sdef": 100,
+        "spd": 46
+      },
+      "moves": [
+        [
+          null,
+          "Astonish"
+        ],
+        [
+          null,
+          "Fairy Wind"
+        ],
+        [
+          5,
+          "Torment"
+        ],
+        [
+          10,
+          "Flatter"
+        ],
+        [
+          15,
+          "Twister"
+        ],
+        [
+          20,
+          "Draining Kiss"
+        ],
+        [
+          25,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Imprison"
+        ],
+        [
+          35,
+          "Mystical Fire"
+        ],
+        [
+          40,
+          "Dazzling Gleam"
+        ],
+        [
+          45,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Uproar"
+        ],
+        [
+          55,
+          "Superpower"
+        ],
+        [
+          60,
+          "Healing Wish"
+        ],
+        [
+          65,
+          "Moonblast"
+        ],
+        [
+          70,
+          "Outrage"
+        ],
+        [
+          75,
+          "Springtide Storm"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM004",
+          "Agility"
+        ],
+        [
+          "TM006",
+          "Scary Face"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM059",
+          "Zen Headbutt"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM087",
+          "Taunt"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM127",
+          "Play Rough"
+        ],
+        [
+          "TM129",
+          "Calm Mind"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM139",
+          "Misty Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM158",
+          "Focus Blast"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM201",
+          "Misty Explosion"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ]
+      ]
+    }
+  ]
+}

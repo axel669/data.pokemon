@@ -1,0 +1,279 @@
+{
+  "name": "Sunflora",
+  "national": "0192",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Sun Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 8.5,
+        "imperial": 18.7
+      },
+      "ability": {
+        "normal": [
+          "Chlorophyll",
+          "Solar Power"
+        ],
+        "hidden": "Early Bird"
+      },
+      "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 55,
+        "satk": 105,
+        "sdef": 85,
+        "spd": 30
+      },
+      "moves": [
+        [
+          null,
+          "Pound"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Growth"
+        ],
+        [
+          4,
+          "Ingrain"
+        ],
+        [
+          7,
+          "Absorb"
+        ],
+        [
+          10,
+          "Mega Drain"
+        ],
+        [
+          13,
+          "Leech Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          19,
+          "Worry Seed"
+        ],
+        [
+          22,
+          "Giga Drain"
+        ],
+        [
+          25,
+          "Bullet Seed"
+        ],
+        [
+          28,
+          "Petal Dance"
+        ],
+        [
+          31,
+          "Solar Beam"
+        ],
+        [
+          34,
+          "Double-Edge"
+        ],
+        [
+          39,
+          "Sunny Day"
+        ],
+        [
+          43,
+          "Leaf Storm"
+        ],
+        [
+          50,
+          "Petal Blizzard"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM020",
+          "Trailblaze"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM033",
+          "Magical Leaf"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM056",
+          "Bullet Seed"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM071",
+          "Seed Bomb"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM079",
+          "Dazzling Gleam"
+        ],
+        [
+          "TM081",
+          "Grass Knot"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM119",
+          "Energy Ball"
+        ],
+        [
+          "TM122",
+          "Encore"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM137",
+          "Grassy Terrain"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM159",
+          "Leaf Storm"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM194",
+          "Grassy Glide"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM206",
+          "Petal Blizzard"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Leech Seed"
+        ],
+        [
+          "egg",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Encore"
+        ],
+        [
+          "egg",
+          "Morning Sun"
+        ],
+        [
+          "egg",
+          "Ingrain"
+        ],
+        [
+          "egg",
+          "Grassy Terrain"
+        ],
+        [
+          "pre",
+          "Endeavor"
+        ],
+        [
+          "pre",
+          "Synthesis"
+        ],
+        [
+          "pre",
+          "Seed Bomb"
+        ]
+      ]
+    }
+  ]
+}

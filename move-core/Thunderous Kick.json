@@ -1,0 +1,8 @@
+{
+  "name": "Thunderous Kick",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": null,
+  "desc": "The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat."
+}

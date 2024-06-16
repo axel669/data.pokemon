@@ -1,0 +1,468 @@
+{
+  "name": "Sliggoo",
+  "national": "0705",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Soft Tissue Pokémon",
+      "height": {
+        "metric": 0.8,
+        "imperial": 31
+      },
+      "weight": {
+        "metric": 17.5,
+        "imperial": 38.6
+      },
+      "ability": {
+        "normal": [
+          "Sap Sipper",
+          "Hydration"
+        ],
+        "hidden": "Gooey"
+      },
+      "stats": {
+        "hp": 68,
+        "atk": 75,
+        "def": 53,
+        "satk": 83,
+        "sdef": 113,
+        "spd": 60
+      },
+      "moves": [
+        [
+          "evo",
+          "Acid Spray"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Acid Armor"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          20,
+          "Flail"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          30,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Dragon Pulse"
+        ],
+        [
+          43,
+          "Curse"
+        ],
+        [
+          49,
+          "Body Slam"
+        ],
+        [
+          56,
+          "Muddy Water"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM175",
+          "Toxic"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ],
+        [
+          "pre",
+          "Body Slam"
+        ]
+      ]
+    },
+    {
+      "name": "Hisuian",
+      "species": "Snail Pokémon",
+      "height": {
+        "metric": 0.7,
+        "imperial": 28
+      },
+      "weight": {
+        "metric": 68.5,
+        "imperial": 151
+      },
+      "ability": {
+        "normal": [
+          "Sap Sipper",
+          "Shell Armor"
+        ],
+        "hidden": "Gooey"
+      },
+      "stats": {
+        "hp": 58,
+        "atk": 75,
+        "def": 83,
+        "satk": 83,
+        "sdef": 113,
+        "spd": 40
+      },
+      "moves": [
+        [
+          "evo",
+          "Shelter"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Absorb"
+        ],
+        [
+          null,
+          "Acid Armor"
+        ],
+        [
+          null,
+          "Dragon Breath"
+        ],
+        [
+          15,
+          "Protect"
+        ],
+        [
+          20,
+          "Flail"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          30,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Dragon Pulse"
+        ],
+        [
+          43,
+          "Curse"
+        ],
+        [
+          49,
+          "Iron Head"
+        ],
+        [
+          56,
+          "Muddy Water"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM002",
+          "Charm"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM013",
+          "Acid Spray"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM093",
+          "Flash Cannon"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM124",
+          "Ice Spinner"
+        ],
+        [
+          "TM126",
+          "Thunderbolt"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM148",
+          "Sludge Bomb"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM166",
+          "Thunder"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM170",
+          "Steel Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM180",
+          "Gyro Ball"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM214",
+          "Sludge Wave"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Counter"
+        ],
+        [
+          "egg",
+          "Life Dew"
+        ],
+        [
+          "pre",
+          "Body Slam"
+        ]
+      ]
+    }
+  ]
+}

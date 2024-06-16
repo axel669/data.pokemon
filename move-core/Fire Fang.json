@@ -1,0 +1,8 @@
+{
+  "name": "Fire Fang",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "effect": 10,
+  "desc": "The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn."
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Mudbray",
+  "national": "0749",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Donkey Pokémon",
+      "height": {
+        "metric": 1,
+        "imperial": 39
+      },
+      "weight": {
+        "metric": 110,
+        "imperial": 242.5
+      },
+      "ability": {
+        "normal": [
+          "Own Tempo",
+          "Stamina"
+        ],
+        "hidden": "Inner Focus"
+      },
+      "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 70,
+        "satk": 45,
+        "sdef": 55,
+        "spd": 45
+      },
+      "moves": [
+        [
+          null,
+          "Mud-Slap"
+        ],
+        [
+          null,
+          "Rock Smash"
+        ],
+        [
+          4,
+          "Iron Defense"
+        ],
+        [
+          8,
+          "Double Kick"
+        ],
+        [
+          12,
+          "Bulldoze"
+        ],
+        [
+          16,
+          "Stomp"
+        ],
+        [
+          20,
+          "Strength"
+        ],
+        [
+          24,
+          "Counter"
+        ],
+        [
+          28,
+          "High Horsepower"
+        ],
+        [
+          32,
+          "Heavy Slam"
+        ],
+        [
+          36,
+          "Earthquake"
+        ],
+        [
+          40,
+          "Mega Kick"
+        ],
+        [
+          44,
+          "Superpower"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM012",
+          "Low Kick"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM039",
+          "Low Sweep"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM084",
+          "Stomping Tantrum"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM104",
+          "Iron Defense"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM121",
+          "Heavy Slam"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM167",
+          "Close Combat"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM172",
+          "Roar"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM179",
+          "Smack Down"
+        ],
+        [
+          "TM186",
+          "High Horsepower"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM205",
+          "Endeavor"
+        ],
+        [
+          "TM224",
+          "Curse"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Roar"
+        ],
+        [
+          "egg",
+          "Fissure"
+        ],
+        [
+          "egg",
+          "Endeavor"
+        ],
+        [
+          "egg",
+          "Smack Down"
+        ]
+      ]
+    }
+  ]
+}

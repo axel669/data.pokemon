@@ -1,0 +1,239 @@
+{
+  "name": "Yanma",
+  "national": "0193",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Clear Wing Pokémon",
+      "height": {
+        "metric": 1.2,
+        "imperial": 47
+      },
+      "weight": {
+        "metric": 38,
+        "imperial": 83.8
+      },
+      "ability": {
+        "normal": [
+          "Speed Boost",
+          "Compound Eyes"
+        ],
+        "hidden": "Frisk"
+      },
+      "stats": {
+        "hp": 65,
+        "atk": 65,
+        "def": 45,
+        "satk": 75,
+        "sdef": 45,
+        "spd": 95
+      },
+      "moves": [
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          11,
+          "Double Team"
+        ],
+        [
+          14,
+          "Air Cutter"
+        ],
+        [
+          17,
+          "Detect"
+        ],
+        [
+          22,
+          "Supersonic"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Bug Bite"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          38,
+          "Hypnosis"
+        ],
+        [
+          43,
+          "Wing Attack"
+        ],
+        [
+          46,
+          "Screech"
+        ],
+        [
+          49,
+          "U-turn"
+        ],
+        [
+          54,
+          "Air Slash"
+        ],
+        [
+          57,
+          "Bug Buzz"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM018",
+          "Thief"
+        ],
+        [
+          "TM021",
+          "Pounce"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM088",
+          "Swords Dance"
+        ],
+        [
+          "TM095",
+          "Leech Life"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM114",
+          "Shadow Ball"
+        ],
+        [
+          "TM120",
+          "Psychic"
+        ],
+        [
+          "TM134",
+          "Reversal"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM185",
+          "Lunge"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM228",
+          "Psychic Noise"
+        ],
+        [
+          "egg",
+          "Whirlwind"
+        ],
+        [
+          "egg",
+          "Double-Edge"
+        ],
+        [
+          "egg",
+          "Feint"
+        ]
+      ]
+    }
+  ]
+}

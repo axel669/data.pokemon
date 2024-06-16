@@ -1,0 +1,8 @@
+{
+  "name": "Sketch",
+  "power": null,
+  "accuracy": 101,
+  "pp": 1,
+  "effect": null,
+  "desc": "This move enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+}

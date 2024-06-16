@@ -1,0 +1,8 @@
+{
+  "name": "Diamond Storm",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "effect": 50,
+  "desc": "The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply boost the user's Defense stat."
+}

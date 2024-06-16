@@ -1,0 +1,354 @@
+{
+  "name": "Vibrava",
+  "national": "0329",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Vibration Pokémon",
+      "height": {
+        "metric": 1.1,
+        "imperial": 43
+      },
+      "weight": {
+        "metric": 15.3,
+        "imperial": 33.7
+      },
+      "ability": {
+        "normal": [
+          "Levitate"
+        ],
+        "hidden": null
+      },
+      "stats": {
+        "hp": 50,
+        "atk": 70,
+        "def": 50,
+        "satk": 50,
+        "sdef": 50,
+        "spd": 70
+      },
+      "moves": [
+        [
+          "evo",
+          "Dragon Breath"
+        ],
+        [
+          null,
+          "Sand Attack"
+        ],
+        [
+          null,
+          "Bite"
+        ],
+        [
+          null,
+          "Dig"
+        ],
+        [
+          12,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Sand Tomb"
+        ],
+        [
+          20,
+          "Dragon Tail"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Bug Buzz"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Earth Power"
+        ],
+        [
+          44,
+          "Earthquake"
+        ],
+        [
+          50,
+          "Uproar"
+        ],
+        [
+          56,
+          "Dragon Rush"
+        ],
+        [
+          62,
+          "Boomburst"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM005",
+          "Mud-Slap"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM015",
+          "Struggle Bug"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM027",
+          "Aerial Ace"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM036",
+          "Rock Tomb"
+        ],
+        [
+          "TM040",
+          "Air Cutter"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM049",
+          "Sunny Day"
+        ],
+        [
+          "TM051",
+          "Sandstorm"
+        ],
+        [
+          "TM055",
+          "Dig"
+        ],
+        [
+          "TM060",
+          "U-turn"
+        ],
+        [
+          "TM065",
+          "Air Slash"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM078",
+          "Dragon Claw"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM086",
+          "Rock Slide"
+        ],
+        [
+          "TM097",
+          "Fly"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM108",
+          "Crunch"
+        ],
+        [
+          "TM111",
+          "Giga Drain"
+        ],
+        [
+          "TM113",
+          "Tailwind"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM116",
+          "Stealth Rock"
+        ],
+        [
+          "TM118",
+          "Heat Wave"
+        ],
+        [
+          "TM133",
+          "Earth Power"
+        ],
+        [
+          "TM149",
+          "Earthquake"
+        ],
+        [
+          "TM150",
+          "Stone Edge"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM156",
+          "Outrage"
+        ],
+        [
+          "TM162",
+          "Bug Buzz"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM168",
+          "Solar Beam"
+        ],
+        [
+          "TM169",
+          "Draco Meteor"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM176",
+          "Sand Tomb"
+        ],
+        [
+          "TM182",
+          "Bug Bite"
+        ],
+        [
+          "TM191",
+          "Uproar"
+        ],
+        [
+          "TM197",
+          "Dual Wingbeat"
+        ],
+        [
+          "TM215",
+          "Scorching Sands"
+        ],
+        [
+          "TM221",
+          "Throat Chop"
+        ],
+        [
+          "egg",
+          "Gust"
+        ],
+        [
+          "egg",
+          "Quick Attack"
+        ],
+        [
+          "egg",
+          "Flail"
+        ],
+        [
+          "egg",
+          "Fury Cutter"
+        ],
+        [
+          "egg",
+          "Feint"
+        ],
+        [
+          "egg",
+          "Bug Bite"
+        ],
+        [
+          "egg",
+          "First Impression"
+        ],
+        [
+          "rem",
+          "Supersonic"
+        ],
+        [
+          "rem",
+          "Fissure"
+        ],
+        [
+          "rem",
+          "Crunch"
+        ],
+        [
+          "rem",
+          "Superpower"
+        ],
+        [
+          "rem",
+          "Astonish"
+        ],
+        [
+          "rem",
+          "Bulldoze"
+        ],
+        [
+          "pre",
+          "Astonish"
+        ],
+        [
+          "pre",
+          "Bulldoze"
+        ],
+        [
+          "pre",
+          "Crunch"
+        ],
+        [
+          "pre",
+          "Superpower"
+        ],
+        [
+          "pre",
+          "Fissure"
+        ]
+      ]
+    }
+  ]
+}

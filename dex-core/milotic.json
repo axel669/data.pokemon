@@ -1,0 +1,331 @@
+{
+  "name": "Milotic",
+  "national": "0350",
+  "forms": [
+    {
+      "name": "Standard",
+      "species": "Tender Pokémon",
+      "height": {
+        "metric": 6.2,
+        "imperial": 244
+      },
+      "weight": {
+        "metric": 162,
+        "imperial": 357.1
+      },
+      "ability": {
+        "normal": [
+          "Marvel Scale",
+          "Competitive"
+        ],
+        "hidden": "Cute Charm"
+      },
+      "stats": {
+        "hp": 95,
+        "atk": 60,
+        "def": 79,
+        "satk": 100,
+        "sdef": 125,
+        "spd": 81
+      },
+      "moves": [
+        [
+          "evo",
+          "Water Pulse"
+        ],
+        [
+          null,
+          "Tackle"
+        ],
+        [
+          null,
+          "Wrap"
+        ],
+        [
+          null,
+          "Water Gun"
+        ],
+        [
+          null,
+          "Splash"
+        ],
+        [
+          null,
+          "Flail"
+        ],
+        [
+          4,
+          "Disarming Voice"
+        ],
+        [
+          8,
+          "Twister"
+        ],
+        [
+          12,
+          "Aqua Ring"
+        ],
+        [
+          16,
+          "Attract"
+        ],
+        [
+          20,
+          "Life Dew"
+        ],
+        [
+          24,
+          "Dragon Tail"
+        ],
+        [
+          28,
+          "Recover"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Safeguard"
+        ],
+        [
+          40,
+          "Surf"
+        ],
+        [
+          44,
+          "Rain Dance"
+        ],
+        [
+          48,
+          "Coil"
+        ],
+        [
+          52,
+          "Hydro Pump"
+        ],
+        [
+          "TM001",
+          "Take Down"
+        ],
+        [
+          "TM007",
+          "Protect"
+        ],
+        [
+          "TM011",
+          "Water Pulse"
+        ],
+        [
+          "TM017",
+          "Confuse Ray"
+        ],
+        [
+          "TM019",
+          "Disarming Voice"
+        ],
+        [
+          "TM022",
+          "Chilling Water"
+        ],
+        [
+          "TM025",
+          "Facade"
+        ],
+        [
+          "TM028",
+          "Bulldoze"
+        ],
+        [
+          "TM032",
+          "Swift"
+        ],
+        [
+          "TM034",
+          "Icy Wind"
+        ],
+        [
+          "TM035",
+          "Mud Shot"
+        ],
+        [
+          "TM037",
+          "Draining Kiss"
+        ],
+        [
+          "TM044",
+          "Dragon Tail"
+        ],
+        [
+          "TM046",
+          "Avalanche"
+        ],
+        [
+          "TM047",
+          "Endure"
+        ],
+        [
+          "TM050",
+          "Rain Dance"
+        ],
+        [
+          "TM066",
+          "Body Slam"
+        ],
+        [
+          "TM070",
+          "Sleep Talk"
+        ],
+        [
+          "TM075",
+          "Light Screen"
+        ],
+        [
+          "TM077",
+          "Waterfall"
+        ],
+        [
+          "TM085",
+          "Rest"
+        ],
+        [
+          "TM092",
+          "Imprison"
+        ],
+        [
+          "TM099",
+          "Iron Head"
+        ],
+        [
+          "TM100",
+          "Dragon Dance"
+        ],
+        [
+          "TM103",
+          "Substitute"
+        ],
+        [
+          "TM115",
+          "Dragon Pulse"
+        ],
+        [
+          "TM123",
+          "Surf"
+        ],
+        [
+          "TM130",
+          "Helping Hand"
+        ],
+        [
+          "TM135",
+          "Ice Beam"
+        ],
+        [
+          "TM142",
+          "Hydro Pump"
+        ],
+        [
+          "TM143",
+          "Blizzard"
+        ],
+        [
+          "TM152",
+          "Giga Impact"
+        ],
+        [
+          "TM163",
+          "Hyper Beam"
+        ],
+        [
+          "TM171",
+          "Tera Blast"
+        ],
+        [
+          "TM174",
+          "Haze"
+        ],
+        [
+          "TM188",
+          "Scald"
+        ],
+        [
+          "TM193",
+          "Weather Ball"
+        ],
+        [
+          "TM196",
+          "Flip Turn"
+        ],
+        [
+          "TM200",
+          "Scale Shot"
+        ],
+        [
+          "TM203",
+          "Psych Up"
+        ],
+        [
+          "TM204",
+          "Double-Edge"
+        ],
+        [
+          "TM208",
+          "Whirlpool"
+        ],
+        [
+          "TM209",
+          "Muddy Water"
+        ],
+        [
+          "TM212",
+          "Triple Axel"
+        ],
+        [
+          "TM219",
+          "Skitter Smack"
+        ],
+        [
+          "TM222",
+          "Breaking Swipe"
+        ],
+        [
+          "TM226",
+          "Dragon Cheer"
+        ],
+        [
+          "TM227",
+          "Alluring Voice"
+        ],
+        [
+          "egg",
+          "Mist"
+        ],
+        [
+          "egg",
+          "Hypnosis"
+        ],
+        [
+          "egg",
+          "Confuse Ray"
+        ],
+        [
+          "egg",
+          "Haze"
+        ],
+        [
+          "egg",
+          "Dragon Breath"
+        ],
+        [
+          "egg",
+          "Mirror Coat"
+        ],
+        [
+          "egg",
+          "Tickle"
+        ]
+      ]
+    }
+  ]
+}
