@@ -27,6 +27,10 @@
         "sdef": 106,
         "spd": 77
       },
+      "types": [
+        "fire",
+        "steel"
+      ],
       "moves": [
         [
           null,

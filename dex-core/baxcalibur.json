@@ -27,6 +27,10 @@
         "sdef": 86,
         "spd": 87
       },
+      "types": [
+        "dragon",
+        "ice"
+      ],
       "moves": [
         [
           "evo",

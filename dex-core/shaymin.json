@@ -27,6 +27,9 @@
         "sdef": 100,
         "spd": 100
       },
+      "types": [
+        "grass"
+      ],
       "moves": [
         [
           null,
@@ -255,6 +258,10 @@
         "sdef": 75,
         "spd": 127
       },
+      "types": [
+        "grass",
+        "flying"
+      ],
       "moves": [
         [
           null,

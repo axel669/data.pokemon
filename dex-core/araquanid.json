@@ -27,6 +27,10 @@
         "sdef": 132,
         "spd": 42
       },
+      "types": [
+        "water",
+        "bug"
+      ],
       "moves": [
         [
           null,

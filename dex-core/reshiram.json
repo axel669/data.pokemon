@@ -27,6 +27,10 @@
         "sdef": 120,
         "spd": 90
       },
+      "types": [
+        "dragon",
+        "fire"
+      ],
       "moves": [
         [
           null,

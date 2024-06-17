@@ -27,6 +27,9 @@
         "sdef": 79,
         "spd": 42
       },
+      "types": [
+        "fairy"
+      ],
       "moves": [
         [
           null,

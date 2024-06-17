@@ -27,6 +27,10 @@
         "sdef": 30,
         "spd": 20
       },
+      "types": [
+        "ice",
+        "bug"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,10 @@
         "sdef": 129,
         "spd": 108
       },
+      "types": [
+        "grass",
+        "fighting"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,10 @@
         "sdef": 105,
         "spd": 81
       },
+      "types": [
+        "bug",
+        "fighting"
+      ],
       "moves": [
         [
           null,

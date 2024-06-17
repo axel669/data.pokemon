@@ -28,6 +28,10 @@
         "sdef": 65,
         "spd": 50
       },
+      "types": [
+        "dark",
+        "ghost"
+      ],
       "moves": [
         [
           null,
@@ -436,6 +440,10 @@
         "sdef": 115,
         "spd": 20
       },
+      "types": [
+        "dark",
+        "ghost"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 70
       },
+      "types": [
+        "electric",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

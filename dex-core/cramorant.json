@@ -27,6 +27,10 @@
         "sdef": 95,
         "spd": 85
       },
+      "types": [
+        "flying",
+        "water"
+      ],
       "moves": [
         [
           null,

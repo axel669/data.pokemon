@@ -27,6 +27,10 @@
         "sdef": 55,
         "spd": 60
       },
+      "types": [
+        "bug",
+        "fire"
+      ],
       "moves": [
         [
           null,

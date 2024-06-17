@@ -27,6 +27,9 @@
         "sdef": 85,
         "spd": 120
       },
+      "types": [
+        "grass"
+      ],
       "moves": [
         [
           "evo",
@@ -423,6 +426,9 @@
         "sdef": 85,
         "spd": 145
       },
+      "types": [
+        "grass"
+      ],
       "moves": [
         [
           "evo",

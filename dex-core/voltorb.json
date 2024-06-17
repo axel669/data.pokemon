@@ -28,6 +28,9 @@
         "sdef": 55,
         "spd": 100
       },
+      "types": [
+        "electric"
+      ],
       "moves": [
         [
           null,
@@ -253,6 +256,10 @@
         "sdef": 55,
         "spd": 100
       },
+      "types": [
+        "electric",
+        "grass"
+      ],
       "moves": [
         [
           null,

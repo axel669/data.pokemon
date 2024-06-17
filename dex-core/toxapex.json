@@ -28,6 +28,10 @@
         "sdef": 142,
         "spd": 35
       },
+      "types": [
+        "poison",
+        "water"
+      ],
       "moves": [
         [
           "evo",

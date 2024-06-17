@@ -27,6 +27,10 @@
         "sdef": 90,
         "spd": 100
       },
+      "types": [
+        "electric",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -279,6 +283,10 @@
         "sdef": 90,
         "spd": 100
       },
+      "types": [
+        "fighting",
+        "flying"
+      ],
       "moves": [
         [
           null,

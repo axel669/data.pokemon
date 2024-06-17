@@ -28,6 +28,10 @@
         "sdef": 50,
         "spd": 75
       },
+      "types": [
+        "normal",
+        "grass"
+      ],
       "moves": [
         [
           null,

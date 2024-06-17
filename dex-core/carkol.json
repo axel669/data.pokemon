@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 50
       },
+      "types": [
+        "rock",
+        "fire"
+      ],
       "moves": [
         [
           "evo",

@@ -28,6 +28,10 @@
         "sdef": 86,
         "spd": 23
       },
+      "types": [
+        "steel",
+        "psychic"
+      ],
       "moves": [
         [
           null,

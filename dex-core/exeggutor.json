@@ -27,6 +27,10 @@
         "sdef": 75,
         "spd": 55
       },
+      "types": [
+        "grass",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",
@@ -367,6 +371,10 @@
         "sdef": 75,
         "spd": 45
       },
+      "types": [
+        "grass",
+        "dragon"
+      ],
       "moves": [
         [
           "evo",

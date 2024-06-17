@@ -28,6 +28,9 @@
         "sdef": 80,
         "spd": 95
       },
+      "types": [
+        "fire"
+      ],
       "moves": [
         [
           "evo",
@@ -345,6 +348,10 @@
         "sdef": 80,
         "spd": 90
       },
+      "types": [
+        "fire",
+        "rock"
+      ],
       "moves": [
         [
           "evo",

@@ -28,6 +28,9 @@
         "sdef": 100,
         "spd": 50
       },
+      "types": [
+        "poison"
+      ],
       "moves": [
         [
           null,
@@ -393,6 +396,10 @@
         "sdef": 100,
         "spd": 50
       },
+      "types": [
+        "poison",
+        "dark"
+      ],
       "moves": [
         [
           null,

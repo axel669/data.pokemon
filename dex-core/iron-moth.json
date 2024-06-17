@@ -27,6 +27,10 @@
         "sdef": 110,
         "spd": 110
       },
+      "types": [
+        "fire",
+        "poison"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,10 @@
         "sdef": 101,
         "spd": 60
       },
+      "types": [
+        "water",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

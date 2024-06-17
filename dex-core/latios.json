@@ -27,6 +27,10 @@
         "sdef": 110,
         "spd": 110
       },
+      "types": [
+        "dragon",
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -383,6 +387,10 @@
         "sdef": 120,
         "spd": 110
       },
+      "types": [
+        "dragon",
+        "psychic"
+      ],
       "moves": [
         [
           null,

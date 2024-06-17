@@ -28,6 +28,10 @@
         "sdef": 85,
         "spd": 67
       },
+      "types": [
+        "flying",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

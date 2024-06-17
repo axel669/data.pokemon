@@ -28,6 +28,9 @@
         "sdef": 40,
         "spd": 60
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           null,
@@ -280,6 +283,9 @@
         "sdef": 40,
         "spd": 60
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           null,

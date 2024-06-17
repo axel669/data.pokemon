@@ -28,6 +28,9 @@
         "sdef": 85,
         "spd": 35
       },
+      "types": [
+        "ground"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,10 @@
         "sdef": 80,
         "spd": 75
       },
+      "types": [
+        "fire",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",

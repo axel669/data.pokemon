@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 65
       },
+      "types": [
+        "bug",
+        "steel"
+      ],
       "moves": [
         [
           "evo",
@@ -348,6 +352,10 @@
         "sdef": 100,
         "spd": 75
       },
+      "types": [
+        "bug",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

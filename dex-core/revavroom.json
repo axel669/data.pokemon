@@ -27,6 +27,10 @@
         "sdef": 67,
         "spd": 90
       },
+      "types": [
+        "steel",
+        "poison"
+      ],
       "moves": [
         [
           "evo",

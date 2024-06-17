@@ -27,6 +27,10 @@
         "sdef": 77,
         "spd": 91
       },
+      "types": [
+        "electric",
+        "ghost"
+      ],
       "moves": [
         [
           null,
@@ -263,6 +267,10 @@
         "sdef": 107,
         "spd": 86
       },
+      "types": [
+        "electric",
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -499,6 +507,10 @@
         "sdef": 107,
         "spd": 86
       },
+      "types": [
+        "electric",
+        "water"
+      ],
       "moves": [
         [
           null,
@@ -735,6 +747,10 @@
         "sdef": 107,
         "spd": 86
       },
+      "types": [
+        "electric",
+        "ice"
+      ],
       "moves": [
         [
           null,
@@ -971,6 +987,10 @@
         "sdef": 107,
         "spd": 86
       },
+      "types": [
+        "electric",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -1207,6 +1227,10 @@
         "sdef": 107,
         "spd": 86
       },
+      "types": [
+        "electric",
+        "grass"
+      ],
       "moves": [
         [
           null,

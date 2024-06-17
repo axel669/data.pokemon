@@ -28,6 +28,10 @@
         "sdef": 103,
         "spd": 29
       },
+      "types": [
+        "psychic",
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

@@ -28,6 +28,10 @@
         "sdef": 115,
         "spd": 58
       },
+      "types": [
+        "dark",
+        "fighting"
+      ],
       "moves": [
         [
           null,

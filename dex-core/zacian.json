@@ -27,6 +27,9 @@
         "sdef": 115,
         "spd": 138
       },
+      "types": [
+        "fairy"
+      ],
       "moves": [
         [
           null,
@@ -283,6 +286,10 @@
         "sdef": 115,
         "spd": 148
       },
+      "types": [
+        "fairy",
+        "steel"
+      ],
       "moves": [
         [
           null,

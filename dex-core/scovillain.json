@@ -28,6 +28,10 @@
         "sdef": 65,
         "spd": 75
       },
+      "types": [
+        "grass",
+        "fire"
+      ],
       "moves": [
         [
           "evo",

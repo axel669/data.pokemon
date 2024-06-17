@@ -28,6 +28,10 @@
         "sdef": 55,
         "spd": 45
       },
+      "types": [
+        "electric",
+        "steel"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,9 @@
         "sdef": 70,
         "spd": 110
       },
+      "types": [
+        "normal"
+      ],
       "moves": [
         [
           null,
@@ -313,6 +316,9 @@
         "sdef": 70,
         "spd": 100
       },
+      "types": [
+        "fighting"
+      ],
       "moves": [
         [
           null,
@@ -570,6 +576,10 @@
         "sdef": 70,
         "spd": 100
       },
+      "types": [
+        "fighting",
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -851,6 +861,10 @@
         "sdef": 70,
         "spd": 100
       },
+      "types": [
+        "fighting",
+        "water"
+      ],
       "moves": [
         [
           null,

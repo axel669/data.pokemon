@@ -27,6 +27,10 @@
         "sdef": 100,
         "spd": 45
       },
+      "types": [
+        "bug",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",

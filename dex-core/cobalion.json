@@ -27,6 +27,10 @@
         "sdef": 72,
         "spd": 108
       },
+      "types": [
+        "steel",
+        "fighting"
+      ],
       "moves": [
         [
           null,

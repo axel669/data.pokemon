@@ -27,6 +27,10 @@
         "sdef": 75,
         "spd": 43
       },
+      "types": [
+        "bug",
+        "electric"
+      ],
       "moves": [
         [
           "evo",

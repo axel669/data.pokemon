@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 60
       },
+      "types": [
+        "dark",
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

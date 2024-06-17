@@ -27,6 +27,10 @@
         "sdef": 90,
         "spd": 106
       },
+      "types": [
+        "poison",
+        "psychic"
+      ],
       "moves": [
         [
           null,

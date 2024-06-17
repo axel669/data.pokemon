@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 35
       },
+      "types": [
+        "fire",
+        "ground"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,10 @@
         "sdef": 25,
         "spd": 20
       },
+      "types": [
+        "normal",
+        "fairy"
+      ],
       "moves": [
         [
           null,

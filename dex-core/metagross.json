@@ -27,6 +27,10 @@
         "sdef": 90,
         "spd": 70
       },
+      "types": [
+        "steel",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",
@@ -367,6 +371,10 @@
         "sdef": 110,
         "spd": 110
       },
+      "types": [
+        "steel",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",

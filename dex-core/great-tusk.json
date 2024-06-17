@@ -27,6 +27,10 @@
         "sdef": 53,
         "spd": 87
       },
+      "types": [
+        "ground",
+        "fighting"
+      ],
       "moves": [
         [
           null,

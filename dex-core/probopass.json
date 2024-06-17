@@ -28,6 +28,10 @@
         "sdef": 150,
         "spd": 40
       },
+      "types": [
+        "rock",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

@@ -27,6 +27,10 @@
         "sdef": 70,
         "spd": 106
       },
+      "types": [
+        "ground",
+        "steel"
+      ],
       "moves": [
         [
           null,

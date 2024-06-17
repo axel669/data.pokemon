@@ -28,6 +28,10 @@
         "sdef": 51,
         "spd": 92
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -277,6 +281,10 @@
         "sdef": 51,
         "spd": 92
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -526,6 +534,10 @@
         "sdef": 51,
         "spd": 92
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -775,6 +787,10 @@
         "sdef": 51,
         "spd": 92
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           null,

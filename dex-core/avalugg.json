@@ -28,6 +28,9 @@
         "sdef": 46,
         "spd": 28
       },
+      "types": [
+        "ice"
+      ],
       "moves": [
         [
           "evo",
@@ -305,6 +308,10 @@
         "sdef": 36,
         "spd": 38
       },
+      "types": [
+        "ice",
+        "rock"
+      ],
       "moves": [
         [
           "evo",

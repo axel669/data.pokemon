@@ -28,6 +28,10 @@
         "sdef": 120,
         "spd": 100
       },
+      "types": [
+        "water",
+        "poison"
+      ],
       "moves": [
         [
           null,

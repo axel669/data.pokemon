@@ -28,6 +28,10 @@
         "sdef": 54,
         "spd": 80
       },
+      "types": [
+        "ghost",
+        "flying"
+      ],
       "moves": [
         [
           "evo",

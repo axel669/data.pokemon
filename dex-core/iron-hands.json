@@ -27,6 +27,10 @@
         "sdef": 68,
         "spd": 50
       },
+      "types": [
+        "fighting",
+        "electric"
+      ],
       "moves": [
         [
           null,

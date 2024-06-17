@@ -27,6 +27,10 @@
         "sdef": 85,
         "spd": 125
       },
+      "types": [
+        "dark",
+        "ice"
+      ],
       "moves": [
         [
           null,

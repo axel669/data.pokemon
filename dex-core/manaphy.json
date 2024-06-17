@@ -27,6 +27,9 @@
         "sdef": 100,
         "spd": 100
       },
+      "types": [
+        "water"
+      ],
       "moves": [
         [
           null,

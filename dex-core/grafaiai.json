@@ -28,6 +28,10 @@
         "sdef": 72,
         "spd": 110
       },
+      "types": [
+        "poison",
+        "normal"
+      ],
       "moves": [
         [
           "evo",

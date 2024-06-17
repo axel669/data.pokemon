@@ -27,6 +27,10 @@
         "sdef": 45,
         "spd": 55
       },
+      "types": [
+        "grass",
+        "poison"
+      ],
       "moves": [
         [
           null,

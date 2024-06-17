@@ -27,6 +27,10 @@
         "sdef": 128,
         "spd": 90
       },
+      "types": [
+        "normal",
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -351,6 +355,10 @@
         "sdef": 77,
         "spd": 128
       },
+      "types": [
+        "normal",
+        "fighting"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,9 @@
         "sdef": 80,
         "spd": 111
       },
+      "types": [
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -315,6 +318,9 @@
         "sdef": 90,
         "spd": 121
       },
+      "types": [
+        "flying"
+      ],
       "moves": [
         [
           null,

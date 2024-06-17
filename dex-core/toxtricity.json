@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 75
       },
+      "types": [
+        "electric",
+        "poison"
+      ],
       "moves": [
         [
           "evo",
@@ -381,6 +385,10 @@
         "sdef": 70,
         "spd": 75
       },
+      "types": [
+        "electric",
+        "poison"
+      ],
       "moves": [
         [
           "evo",

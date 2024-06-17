@@ -28,6 +28,10 @@
         "sdef": 55,
         "spd": 55
       },
+      "types": [
+        "water",
+        "dark"
+      ],
       "moves": [
         [
           "evo",

@@ -27,6 +27,10 @@
         "sdef": 150,
         "spd": 50
       },
+      "types": [
+        "rock",
+        "fairy"
+      ],
       "moves": [
         [
           null,
@@ -331,6 +335,10 @@
         "sdef": 110,
         "spd": 110
       },
+      "types": [
+        "rock",
+        "fairy"
+      ],
       "moves": [
         [
           null,

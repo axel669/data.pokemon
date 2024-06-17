@@ -28,6 +28,10 @@
         "sdef": 55,
         "spd": 45
       },
+      "types": [
+        "bug",
+        "poison"
+      ],
       "moves": [
         [
           null,

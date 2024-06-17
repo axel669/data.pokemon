@@ -28,6 +28,9 @@
         "sdef": 70,
         "spd": 120
       },
+      "types": [
+        "ground"
+      ],
       "moves": [
         [
           "evo",
@@ -313,6 +316,10 @@
         "sdef": 70,
         "spd": 110
       },
+      "types": [
+        "ground",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

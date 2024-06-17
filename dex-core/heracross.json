@@ -28,6 +28,10 @@
         "sdef": 95,
         "spd": 85
       },
+      "types": [
+        "bug",
+        "fighting"
+      ],
       "moves": [
         [
           null,
@@ -360,6 +364,10 @@
         "sdef": 105,
         "spd": 75
       },
+      "types": [
+        "bug",
+        "fighting"
+      ],
       "moves": [
         [
           null,

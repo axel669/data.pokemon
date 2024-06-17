@@ -27,6 +27,10 @@
         "sdef": 80,
         "spd": 100
       },
+      "types": [
+        "ground",
+        "dragon"
+      ],
       "moves": [
         [
           "evo",

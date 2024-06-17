@@ -27,6 +27,10 @@
         "sdef": 81,
         "spd": 86
       },
+      "types": [
+        "rock",
+        "poison"
+      ],
       "moves": [
         [
           "evo",

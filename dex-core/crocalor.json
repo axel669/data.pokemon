@@ -27,6 +27,9 @@
         "sdef": 58,
         "spd": 49
       },
+      "types": [
+        "fire"
+      ],
       "moves": [
         [
           null,

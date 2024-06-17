@@ -27,6 +27,9 @@
         "sdef": 90,
         "spd": 130
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -483,6 +486,9 @@
         "sdef": 100,
         "spd": 130
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -939,6 +945,9 @@
         "sdef": 120,
         "spd": 140
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           null,

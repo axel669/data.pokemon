@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 90
       },
+      "types": [
+        "fighting",
+        "steel"
+      ],
       "moves": [
         [
           "evo",
@@ -436,6 +440,10 @@
         "sdef": 70,
         "spd": 112
       },
+      "types": [
+        "fighting",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

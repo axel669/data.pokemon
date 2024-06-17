@@ -28,6 +28,10 @@
         "sdef": 82,
         "spd": 56
       },
+      "types": [
+        "ghost",
+        "grass"
+      ],
       "moves": [
         [
           "evo",

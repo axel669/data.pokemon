@@ -27,6 +27,10 @@
         "sdef": 69,
         "spd": 126
       },
+      "types": [
+        "fire",
+        "flying"
+      ],
       "moves": [
         [
           null,

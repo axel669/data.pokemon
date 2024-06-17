@@ -27,6 +27,10 @@
         "sdef": 71,
         "spd": 108
       },
+      "types": [
+        "fire",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",

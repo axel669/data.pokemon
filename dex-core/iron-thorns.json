@@ -27,6 +27,10 @@
         "sdef": 84,
         "spd": 72
       },
+      "types": [
+        "rock",
+        "electric"
+      ],
       "moves": [
         [
           null,

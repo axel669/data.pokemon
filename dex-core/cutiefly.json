@@ -28,6 +28,10 @@
         "sdef": 40,
         "spd": 84
       },
+      "types": [
+        "bug",
+        "fairy"
+      ],
       "moves": [
         [
           null,

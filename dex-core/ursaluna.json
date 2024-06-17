@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 50
       },
+      "types": [
+        "ground",
+        "normal"
+      ],
       "moves": [
         [
           "evo",
@@ -432,6 +436,10 @@
         "sdef": 65,
         "spd": 52
       },
+      "types": [
+        "ground",
+        "normal"
+      ],
       "moves": [
         [
           null,

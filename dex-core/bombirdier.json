@@ -28,6 +28,10 @@
         "sdef": 85,
         "spd": 82
       },
+      "types": [
+        "flying",
+        "dark"
+      ],
       "moves": [
         [
           null,

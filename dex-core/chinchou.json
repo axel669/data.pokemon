@@ -28,6 +28,10 @@
         "sdef": 56,
         "spd": 67
       },
+      "types": [
+        "water",
+        "electric"
+      ],
       "moves": [
         [
           null,

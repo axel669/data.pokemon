@@ -28,6 +28,9 @@
         "sdef": 65,
         "spd": 55
       },
+      "types": [
+        "normal"
+      ],
       "moves": [
         [
           null,
@@ -262,6 +265,9 @@
         "sdef": 85,
         "spd": 75
       },
+      "types": [
+        "normal"
+      ],
       "moves": [
         [
           null,

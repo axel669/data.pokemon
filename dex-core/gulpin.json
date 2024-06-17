@@ -28,6 +28,9 @@
         "sdef": 53,
         "spd": 40
       },
+      "types": [
+        "poison"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 40
       },
+      "types": [
+        "fire",
+        "ground"
+      ],
       "moves": [
         [
           "evo",
@@ -404,6 +408,10 @@
         "sdef": 105,
         "spd": 20
       },
+      "types": [
+        "fire",
+        "ground"
+      ],
       "moves": [
         [
           "evo",

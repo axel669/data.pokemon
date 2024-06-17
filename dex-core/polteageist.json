@@ -27,6 +27,9 @@
         "sdef": 114,
         "spd": 70
       },
+      "types": [
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

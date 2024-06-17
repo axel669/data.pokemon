@@ -28,6 +28,9 @@
         "sdef": 60,
         "spd": 70
       },
+      "types": [
+        "dark"
+      ],
       "moves": [
         [
           "evo",

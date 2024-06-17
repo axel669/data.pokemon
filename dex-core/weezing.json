@@ -28,6 +28,9 @@
         "sdef": 70,
         "spd": 60
       },
+      "types": [
+        "poison"
+      ],
       "moves": [
         [
           "evo",
@@ -297,6 +300,10 @@
         "sdef": 70,
         "spd": 60
       },
+      "types": [
+        "poison",
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

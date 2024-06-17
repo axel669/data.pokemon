@@ -27,6 +27,10 @@
         "sdef": 82,
         "spd": 80
       },
+      "types": [
+        "bug",
+        "flying"
+      ],
       "moves": [
         [
           null,

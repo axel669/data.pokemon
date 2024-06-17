@@ -27,6 +27,10 @@
         "sdef": 125,
         "spd": 85
       },
+      "types": [
+        "ice",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -283,6 +287,10 @@
         "sdef": 100,
         "spd": 95
       },
+      "types": [
+        "psychic",
+        "flying"
+      ],
       "moves": [
         [
           null,

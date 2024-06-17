@@ -27,6 +27,9 @@
         "sdef": 105,
         "spd": 105
       },
+      "types": [
+        "ghost"
+      ],
       "moves": [
         [
           null,

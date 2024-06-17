@@ -28,6 +28,10 @@
         "sdef": 123,
         "spd": 44
       },
+      "types": [
+        "poison",
+        "dragon"
+      ],
       "moves": [
         [
           null,

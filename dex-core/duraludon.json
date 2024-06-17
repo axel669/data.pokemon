@@ -28,6 +28,10 @@
         "sdef": 50,
         "spd": 85
       },
+      "types": [
+        "steel",
+        "dragon"
+      ],
       "moves": [
         [
           null,

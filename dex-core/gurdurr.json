@@ -28,6 +28,9 @@
         "sdef": 50,
         "spd": 40
       },
+      "types": [
+        "fighting"
+      ],
       "moves": [
         [
           null,

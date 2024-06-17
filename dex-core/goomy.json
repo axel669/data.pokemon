@@ -28,6 +28,9 @@
         "sdef": 75,
         "spd": 40
       },
+      "types": [
+        "dragon"
+      ],
       "moves": [
         [
           null,

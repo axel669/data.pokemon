@@ -28,6 +28,10 @@
         "sdef": 100,
         "spd": 20
       },
+      "types": [
+        "poison",
+        "ground"
+      ],
       "moves": [
         [
           "evo",

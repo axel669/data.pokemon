@@ -28,6 +28,10 @@
         "sdef": 50,
         "spd": 65
       },
+      "types": [
+        "dark",
+        "fire"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 123
       },
+      "types": [
+        "flying",
+        "dragon"
+      ],
       "moves": [
         [
           "evo",

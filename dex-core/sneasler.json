@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 120
       },
+      "types": [
+        "fighting",
+        "poison"
+      ],
       "moves": [
         [
           "evo",

@@ -28,6 +28,10 @@
         "sdef": 41,
         "spd": 60
       },
+      "types": [
+        "water",
+        "ground"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,10 @@
         "sdef": 100,
         "spd": 70
       },
+      "types": [
+        "grass",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",
@@ -395,6 +399,10 @@
         "sdef": 95,
         "spd": 60
       },
+      "types": [
+        "grass",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",

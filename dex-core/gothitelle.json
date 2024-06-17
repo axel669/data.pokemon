@@ -28,6 +28,9 @@
         "sdef": 110,
         "spd": 65
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           null,

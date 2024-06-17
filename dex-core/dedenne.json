@@ -28,6 +28,10 @@
         "sdef": 67,
         "spd": 101
       },
+      "types": [
+        "electric",
+        "fairy"
+      ],
       "moves": [
         [
           null,

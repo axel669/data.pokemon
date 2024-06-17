@@ -27,6 +27,10 @@
         "sdef": 95,
         "spd": 82
       },
+      "types": [
+        "dragon",
+        "water"
+      ],
       "moves": [
         [
           null,
@@ -225,6 +229,10 @@
         "sdef": 95,
         "spd": 82
       },
+      "types": [
+        "dragon",
+        "water"
+      ],
       "moves": [
         [
           null,
@@ -423,6 +431,10 @@
         "sdef": 95,
         "spd": 82
       },
+      "types": [
+        "dragon",
+        "water"
+      ],
       "moves": [
         [
           null,

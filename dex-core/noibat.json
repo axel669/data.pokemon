@@ -28,6 +28,10 @@
         "sdef": 40,
         "spd": 55
       },
+      "types": [
+        "flying",
+        "dragon"
+      ],
       "moves": [
         [
           null,

@@ -28,6 +28,10 @@
         "sdef": 30,
         "spd": 65
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           null,

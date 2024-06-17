@@ -27,6 +27,9 @@
         "sdef": 95,
         "spd": 65
       },
+      "types": [
+        "water"
+      ],
       "moves": [
         [
           "evo",

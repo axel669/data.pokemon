@@ -27,6 +27,9 @@
         "sdef": 96,
         "spd": 110
       },
+      "types": [
+        "grass"
+      ],
       "moves": [
         [
           null,
@@ -311,6 +314,10 @@
         "sdef": 96,
         "spd": 110
       },
+      "types": [
+        "grass",
+        "water"
+      ],
       "moves": [
         [
           null,
@@ -595,6 +602,10 @@
         "sdef": 96,
         "spd": 110
       },
+      "types": [
+        "grass",
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -879,6 +890,10 @@
         "sdef": 96,
         "spd": 110
       },
+      "types": [
+        "grass",
+        "rock"
+      ],
       "moves": [
         [
           null,

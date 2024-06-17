@@ -28,6 +28,10 @@
         "sdef": 90,
         "spd": 90
       },
+      "types": [
+        "fighting",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

@@ -27,6 +27,9 @@
         "sdef": 65,
         "spd": 65
       },
+      "types": [
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -311,6 +314,9 @@
         "sdef": 65,
         "spd": 65
       },
+      "types": [
+        "ice"
+      ],
       "moves": [
         [
           null,

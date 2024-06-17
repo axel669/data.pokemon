@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 50
       },
+      "types": [
+        "water",
+        "fairy"
+      ],
       "moves": [
         [
           null,

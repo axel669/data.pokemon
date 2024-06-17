@@ -27,6 +27,9 @@
         "sdef": 60,
         "spd": 105
       },
+      "types": [
+        "dark"
+      ],
       "moves": [
         [
           "evo",
@@ -375,6 +378,10 @@
         "sdef": 60,
         "spd": 110
       },
+      "types": [
+        "normal",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

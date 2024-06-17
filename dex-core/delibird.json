@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 75
       },
+      "types": [
+        "ice",
+        "flying"
+      ],
       "moves": [
         [
           null,

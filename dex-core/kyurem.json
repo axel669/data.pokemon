@@ -27,6 +27,10 @@
         "sdef": 90,
         "spd": 95
       },
+      "types": [
+        "dragon",
+        "ice"
+      ],
       "moves": [
         [
           null,
@@ -335,6 +339,10 @@
         "sdef": 100,
         "spd": 95
       },
+      "types": [
+        "dragon",
+        "ice"
+      ],
       "moves": [
         [
           null,
@@ -643,6 +651,10 @@
         "sdef": 90,
         "spd": 95
       },
+      "types": [
+        "dragon",
+        "ice"
+      ],
       "moves": [
         [
           null,

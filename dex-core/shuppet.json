@@ -28,6 +28,9 @@
         "sdef": 33,
         "spd": 45
       },
+      "types": [
+        "ghost"
+      ],
       "moves": [
         [
           null,

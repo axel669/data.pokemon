@@ -28,6 +28,10 @@
         "sdef": 25,
         "spd": 15
       },
+      "types": [
+        "water",
+        "ground"
+      ],
       "moves": [
         [
           null,
@@ -337,6 +341,10 @@
         "sdef": 25,
         "spd": 15
       },
+      "types": [
+        "poison",
+        "ground"
+      ],
       "moves": [
         [
           null,

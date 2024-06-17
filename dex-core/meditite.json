@@ -27,6 +27,10 @@
         "sdef": 55,
         "spd": 60
       },
+      "types": [
+        "fighting",
+        "psychic"
+      ],
       "moves": [
         [
           null,

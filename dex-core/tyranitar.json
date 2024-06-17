@@ -27,6 +27,10 @@
         "sdef": 100,
         "spd": 61
       },
+      "types": [
+        "rock",
+        "dark"
+      ],
       "moves": [
         [
           null,
@@ -495,6 +499,10 @@
         "sdef": 120,
         "spd": 71
       },
+      "types": [
+        "rock",
+        "dark"
+      ],
       "moves": [
         [
           null,

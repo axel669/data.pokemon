@@ -28,6 +28,9 @@
         "sdef": 150,
         "spd": 80
       },
+      "types": [
+        "dragon"
+      ],
       "moves": [
         [
           "evo",
@@ -349,6 +352,10 @@
         "sdef": 150,
         "spd": 60
       },
+      "types": [
+        "steel",
+        "dragon"
+      ],
       "moves": [
         [
           "evo",

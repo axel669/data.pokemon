@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 80
       },
+      "types": [
+        "normal",
+        "flying"
+      ],
       "moves": [
         [
           "evo",
@@ -285,6 +289,10 @@
         "sdef": 70,
         "spd": 65
       },
+      "types": [
+        "psychic",
+        "flying"
+      ],
       "moves": [
         [
           "evo",

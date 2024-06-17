@@ -28,6 +28,9 @@
         "sdef": 51,
         "spd": 51
       },
+      "types": [
+        "dark"
+      ],
       "moves": [
         [
           null,

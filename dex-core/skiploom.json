@@ -28,6 +28,10 @@
         "sdef": 65,
         "spd": 80
       },
+      "types": [
+        "grass",
+        "flying"
+      ],
       "moves": [
         [
           null,

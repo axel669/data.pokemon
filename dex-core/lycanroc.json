@@ -28,6 +28,9 @@
         "sdef": 65,
         "spd": 112
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           "evo",
@@ -333,6 +336,9 @@
         "sdef": 75,
         "spd": 82
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           "evo",
@@ -677,6 +683,9 @@
         "sdef": 65,
         "spd": 110
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           "evo",

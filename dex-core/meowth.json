@@ -28,6 +28,9 @@
         "sdef": 40,
         "spd": 90
       },
+      "types": [
+        "normal"
+      ],
       "moves": [
         [
           null,
@@ -329,6 +332,9 @@
         "sdef": 40,
         "spd": 90
       },
+      "types": [
+        "dark"
+      ],
       "moves": [
         [
           null,
@@ -630,6 +636,9 @@
         "sdef": 40,
         "spd": 40
       },
+      "types": [
+        "steel"
+      ],
       "moves": [
         [
           null,

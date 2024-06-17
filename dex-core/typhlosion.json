@@ -27,6 +27,9 @@
         "sdef": 85,
         "spd": 100
       },
+      "types": [
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -371,6 +374,10 @@
         "sdef": 85,
         "spd": 95
       },
+      "types": [
+        "fire",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

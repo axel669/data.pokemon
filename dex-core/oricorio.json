@@ -27,6 +27,10 @@
         "sdef": 70,
         "spd": 93
       },
+      "types": [
+        "fire",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -271,6 +275,10 @@
         "sdef": 70,
         "spd": 93
       },
+      "types": [
+        "electric",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -515,6 +523,10 @@
         "sdef": 70,
         "spd": 93
       },
+      "types": [
+        "psychic",
+        "flying"
+      ],
       "moves": [
         [
           null,
@@ -759,6 +771,10 @@
         "sdef": 70,
         "spd": 93
       },
+      "types": [
+        "ghost",
+        "flying"
+      ],
       "moves": [
         [
           null,

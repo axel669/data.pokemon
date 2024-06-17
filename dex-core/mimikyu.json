@@ -27,6 +27,10 @@
         "sdef": 105,
         "spd": 96
       },
+      "types": [
+        "ghost",
+        "fairy"
+      ],
       "moves": [
         [
           null,

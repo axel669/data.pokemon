@@ -28,6 +28,10 @@
         "sdef": 40,
         "spd": 60
       },
+      "types": [
+        "dark",
+        "steel"
+      ],
       "moves": [
         [
           null,

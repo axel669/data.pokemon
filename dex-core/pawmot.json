@@ -28,6 +28,10 @@
         "sdef": 60,
         "spd": 105
       },
+      "types": [
+        "electric",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",

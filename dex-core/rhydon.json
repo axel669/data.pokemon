@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 40
       },
+      "types": [
+        "ground",
+        "rock"
+      ],
       "moves": [
         [
           "evo",

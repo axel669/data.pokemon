@@ -28,6 +28,10 @@
         "sdef": 68,
         "spd": 74
       },
+      "types": [
+        "water",
+        "rock"
+      ],
       "moves": [
         [
           "evo",

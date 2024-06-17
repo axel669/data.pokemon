@@ -28,6 +28,9 @@
         "sdef": 110,
         "spd": 80
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           "evo",

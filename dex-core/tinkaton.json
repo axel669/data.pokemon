@@ -28,6 +28,10 @@
         "sdef": 105,
         "spd": 94
       },
+      "types": [
+        "fairy",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

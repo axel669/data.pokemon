@@ -27,6 +27,10 @@
         "sdef": 115,
         "spd": 135
       },
+      "types": [
+        "electric",
+        "dragon"
+      ],
       "moves": [
         [
           null,

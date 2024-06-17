@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 70
       },
+      "types": [
+        "water",
+        "ice"
+      ],
       "moves": [
         [
           "evo",

@@ -28,6 +28,10 @@
         "sdef": 95,
         "spd": 85
       },
+      "types": [
+        "water",
+        "dragon"
+      ],
       "moves": [
         [
           null,

@@ -27,6 +27,9 @@
         "sdef": 110,
         "spd": 100
       },
+      "types": [
+        "normal"
+      ],
       "moves": [
         [
           null,

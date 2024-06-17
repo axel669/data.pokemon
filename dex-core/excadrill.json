@@ -28,6 +28,10 @@
         "sdef": 65,
         "spd": 88
       },
+      "types": [
+        "ground",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

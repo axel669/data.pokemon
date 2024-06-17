@@ -27,6 +27,10 @@
         "sdef": 71,
         "spd": 122
       },
+      "types": [
+        "water",
+        "dark"
+      ],
       "moves": [
         [
           "evo",
@@ -375,6 +379,10 @@
         "sdef": 71,
         "spd": 132
       },
+      "types": [
+        "water",
+        "dark"
+      ],
       "moves": [
         [
           "evo",

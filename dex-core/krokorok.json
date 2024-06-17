@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 74
       },
+      "types": [
+        "ground",
+        "dark"
+      ],
       "moves": [
         [
           null,

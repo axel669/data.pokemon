@@ -28,6 +28,10 @@
         "sdef": 60,
         "spd": 80
       },
+      "types": [
+        "ice",
+        "ground"
+      ],
       "moves": [
         [
           "evo",

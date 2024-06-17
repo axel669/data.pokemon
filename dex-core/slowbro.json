@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 30
       },
+      "types": [
+        "water",
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -420,6 +424,10 @@
         "sdef": 80,
         "spd": 30
       },
+      "types": [
+        "water",
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -813,6 +821,10 @@
         "sdef": 70,
         "spd": 30
       },
+      "types": [
+        "poison",
+        "psychic"
+      ],
       "moves": [
         [
           "evo",

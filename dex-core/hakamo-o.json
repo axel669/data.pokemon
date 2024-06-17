@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 65
       },
+      "types": [
+        "dragon",
+        "fighting"
+      ],
       "moves": [
         [
           null,

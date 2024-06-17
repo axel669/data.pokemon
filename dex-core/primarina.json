@@ -27,6 +27,10 @@
         "sdef": 116,
         "spd": 60
       },
+      "types": [
+        "water",
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

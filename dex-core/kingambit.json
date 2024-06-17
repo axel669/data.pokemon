@@ -28,6 +28,10 @@
         "sdef": 85,
         "spd": 50
       },
+      "types": [
+        "dark",
+        "steel"
+      ],
       "moves": [
         [
           "evo",

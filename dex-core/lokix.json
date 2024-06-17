@@ -27,6 +27,10 @@
         "sdef": 55,
         "spd": 92
       },
+      "types": [
+        "bug",
+        "dark"
+      ],
       "moves": [
         [
           "evo",

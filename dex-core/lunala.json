@@ -27,6 +27,10 @@
         "sdef": 107,
         "spd": 97
       },
+      "types": [
+        "psychic",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

@@ -27,6 +27,10 @@
         "sdef": 91,
         "spd": 84
       },
+      "types": [
+        "steel",
+        "ghost"
+      ],
       "moves": [
         [
           null,

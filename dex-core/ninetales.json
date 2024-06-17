@@ -27,6 +27,9 @@
         "sdef": 100,
         "spd": 100
       },
+      "types": [
+        "fire"
+      ],
       "moves": [
         [
           null,
@@ -427,6 +430,10 @@
         "sdef": 100,
         "spd": 109
       },
+      "types": [
+        "ice",
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

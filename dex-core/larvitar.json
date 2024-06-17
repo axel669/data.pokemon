@@ -27,6 +27,10 @@
         "sdef": 50,
         "spd": 41
       },
+      "types": [
+        "rock",
+        "ground"
+      ],
       "moves": [
         [
           null,

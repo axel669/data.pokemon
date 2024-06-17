@@ -27,6 +27,9 @@
         "sdef": 49,
         "spd": 40
       },
+      "types": [
+        "steel"
+      ],
       "moves": [
         [
           null,

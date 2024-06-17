@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 115
       },
+      "types": [
+        "dark",
+        "ice"
+      ],
       "moves": [
         [
           null,
@@ -353,6 +357,10 @@
         "sdef": 75,
         "spd": 115
       },
+      "types": [
+        "fighting",
+        "poison"
+      ],
       "moves": [
         [
           null,

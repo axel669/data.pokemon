@@ -27,6 +27,10 @@
         "sdef": 100,
         "spd": 81
       },
+      "types": [
+        "water",
+        "flying"
+      ],
       "moves": [
         [
           "evo",
@@ -347,6 +351,10 @@
         "sdef": 130,
         "spd": 81
       },
+      "types": [
+        "water",
+        "flying"
+      ],
       "moves": [
         [
           "evo",

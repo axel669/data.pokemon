@@ -27,6 +27,9 @@
         "sdef": 55,
         "spd": 95
       },
+      "types": [
+        "electric"
+      ],
       "moves": [
         [
           null,

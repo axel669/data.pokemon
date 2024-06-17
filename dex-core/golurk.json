@@ -28,6 +28,10 @@
         "sdef": 80,
         "spd": 55
       },
+      "types": [
+        "ground",
+        "ghost"
+      ],
       "moves": [
         [
           null,

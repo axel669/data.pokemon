@@ -27,6 +27,10 @@
         "sdef": 125,
         "spd": 99
       },
+      "types": [
+        "poison",
+        "fairy"
+      ],
       "moves": [
         [
           null,

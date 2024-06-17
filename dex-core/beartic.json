@@ -28,6 +28,9 @@
         "sdef": 80,
         "spd": 50
       },
+      "types": [
+        "ice"
+      ],
       "moves": [
         [
           "evo",

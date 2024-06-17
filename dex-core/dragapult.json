@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 142
       },
+      "types": [
+        "dragon",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

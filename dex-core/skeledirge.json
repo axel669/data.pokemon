@@ -27,6 +27,10 @@
         "sdef": 75,
         "spd": 66
       },
+      "types": [
+        "fire",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",

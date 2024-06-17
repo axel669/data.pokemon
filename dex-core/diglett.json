@@ -28,6 +28,9 @@
         "sdef": 45,
         "spd": 95
       },
+      "types": [
+        "ground"
+      ],
       "moves": [
         [
           null,
@@ -289,6 +292,10 @@
         "sdef": 45,
         "spd": 90
       },
+      "types": [
+        "ground",
+        "steel"
+      ],
       "moves": [
         [
           null,

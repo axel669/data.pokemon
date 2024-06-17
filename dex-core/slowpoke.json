@@ -28,6 +28,10 @@
         "sdef": 40,
         "spd": 15
       },
+      "types": [
+        "water",
+        "psychic"
+      ],
       "moves": [
         [
           null,
@@ -349,6 +353,9 @@
         "sdef": 40,
         "spd": 15
       },
+      "types": [
+        "psychic"
+      ],
       "moves": [
         [
           null,

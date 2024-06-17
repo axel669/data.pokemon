@@ -28,6 +28,10 @@
         "sdef": 70,
         "spd": 40
       },
+      "types": [
+        "bug",
+        "poison"
+      ],
       "moves": [
         [
           "evo",

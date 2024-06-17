@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 78
       },
+      "types": [
+        "water",
+        "ghost"
+      ],
       "moves": [
         [
           null,
@@ -313,6 +317,10 @@
         "sdef": 75,
         "spd": 78
       },
+      "types": [
+        "water",
+        "ghost"
+      ],
       "moves": [
         [
           null,

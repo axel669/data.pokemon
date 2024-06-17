@@ -27,6 +27,9 @@
         "sdef": 130,
         "spd": 60
       },
+      "types": [
+        "fairy"
+      ],
       "moves": [
         [
           "evo",

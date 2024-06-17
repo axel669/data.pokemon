@@ -28,6 +28,10 @@
         "sdef": 45,
         "spd": 35
       },
+      "types": [
+        "rock",
+        "ground"
+      ],
       "moves": [
         [
           null,
@@ -313,6 +317,10 @@
         "sdef": 45,
         "spd": 35
       },
+      "types": [
+        "rock",
+        "electric"
+      ],
       "moves": [
         [
           null,

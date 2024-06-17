@@ -28,6 +28,10 @@
         "sdef": 64,
         "spd": 90
       },
+      "types": [
+        "flying",
+        "fighting"
+      ],
       "moves": [
         [
           null,

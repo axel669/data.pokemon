@@ -28,6 +28,10 @@
         "sdef": 115,
         "spd": 80
       },
+      "types": [
+        "psychic",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",
@@ -576,6 +580,10 @@
         "sdef": 115,
         "spd": 110
       },
+      "types": [
+        "psychic",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",

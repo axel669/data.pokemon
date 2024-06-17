@@ -27,6 +27,9 @@
         "sdef": 30,
         "spd": 40
       },
+      "types": [
+        "ground"
+      ],
       "moves": [
         [
           null,
@@ -347,6 +350,10 @@
         "sdef": 35,
         "spd": 40
       },
+      "types": [
+        "ice",
+        "steel"
+      ],
       "moves": [
         [
           null,

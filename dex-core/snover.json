@@ -27,6 +27,10 @@
         "sdef": 60,
         "spd": 40
       },
+      "types": [
+        "grass",
+        "ice"
+      ],
       "moves": [
         [
           null,

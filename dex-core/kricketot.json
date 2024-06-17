@@ -27,6 +27,9 @@
         "sdef": 41,
         "spd": 25
       },
+      "types": [
+        "bug"
+      ],
       "moves": [
         [
           null,

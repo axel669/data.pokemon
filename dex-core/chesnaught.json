@@ -27,6 +27,10 @@
         "sdef": 75,
         "spd": 64
       },
+      "types": [
+        "grass",
+        "fighting"
+      ],
       "moves": [
         [
           "evo",

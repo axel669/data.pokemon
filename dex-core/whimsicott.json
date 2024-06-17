@@ -28,6 +28,10 @@
         "sdef": 75,
         "spd": 116
       },
+      "types": [
+        "grass",
+        "fairy"
+      ],
       "moves": [
         [
           null,

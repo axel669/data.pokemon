@@ -27,6 +27,10 @@
         "sdef": 115,
         "spd": 111
       },
+      "types": [
+        "fairy",
+        "psychic"
+      ],
       "moves": [
         [
           null,

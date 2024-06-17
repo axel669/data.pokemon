@@ -28,6 +28,9 @@
         "sdef": 55,
         "spd": 73
       },
+      "types": [
+        "ice"
+      ],
       "moves": [
         [
           null,

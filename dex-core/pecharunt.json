@@ -27,6 +27,10 @@
         "sdef": 88,
         "spd": 88
       },
+      "types": [
+        "poison",
+        "ghost"
+      ],
       "moves": [
         [
           null,

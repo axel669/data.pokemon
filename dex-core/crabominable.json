@@ -28,6 +28,10 @@
         "sdef": 67,
         "spd": 43
       },
+      "types": [
+        "fighting",
+        "ice"
+      ],
       "moves": [
         [
           "evo",

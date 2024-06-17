@@ -28,6 +28,10 @@
         "sdef": 46,
         "spd": 45
       },
+      "types": [
+        "dark",
+        "psychic"
+      ],
       "moves": [
         [
           null,

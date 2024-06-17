@@ -28,6 +28,9 @@
         "sdef": 55,
         "spd": 75
       },
+      "types": [
+        "rock"
+      ],
       "moves": [
         [
           null,

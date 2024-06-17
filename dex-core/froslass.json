@@ -27,6 +27,10 @@
         "sdef": 70,
         "spd": 110
       },
+      "types": [
+        "ice",
+        "ghost"
+      ],
       "moves": [
         [
           "evo",
