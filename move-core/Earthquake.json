@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user sets off an earthquake that strikes every Pokémon around it."
+  "desc": "The user sets off an earthquake that strikes every Pokémon around it.",
+  "type": "ground",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": 10,
-  "desc": "The user attacks by playing rough with the target. This may also lower the target's Attack stat."
+  "desc": "The user attacks by playing rough with the target. This may also lower the target's Attack stat.",
+  "type": "fairy",
+  "category": "physical"
 }

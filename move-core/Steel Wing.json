@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 25,
   "effect": 10,
-  "desc": "The target is hit with wings of steel. This may also boost the user's Defense stat."
+  "desc": "The target is hit with wings of steel. This may also boost the user's Defense stat.",
+  "type": "steel",
+  "category": "physical"
 }

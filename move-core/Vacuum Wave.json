@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": null,
-  "desc": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first."
+  "desc": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.",
+  "type": "fighting",
+  "category": "special"
 }

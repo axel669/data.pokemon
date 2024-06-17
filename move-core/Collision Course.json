@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it's a supereffective hit."
+  "desc": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it's a supereffective hit.",
+  "type": "fighting",
+  "category": "physical"
 }

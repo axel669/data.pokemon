@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user strikes the target with a burning lash. This also lowers the target's Defense stat."
+  "desc": "The user strikes the target with a burning lash. This also lowers the target's Defense stat.",
+  "type": "fire",
+  "category": "physical"
 }

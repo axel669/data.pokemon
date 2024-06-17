@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+  "desc": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+  "type": "water",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 70,
   "pp": 5,
   "effect": 10,
-  "desc": "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen."
+  "desc": "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.",
+  "type": "ice",
+  "category": "special"
 }

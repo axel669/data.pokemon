@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue."
+  "desc": "The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.",
+  "type": "water",
+  "category": "special"
 }

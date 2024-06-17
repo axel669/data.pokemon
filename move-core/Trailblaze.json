@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat."
+  "desc": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.",
+  "type": "grass",
+  "category": "physical"
 }

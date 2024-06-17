@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia."
+  "desc": "A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.",
+  "type": "grass",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 20,
   "effect": null,
-  "desc": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat."
+  "desc": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.",
+  "type": "dragon",
+  "category": "physical"
 }

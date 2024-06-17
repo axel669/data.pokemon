@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness."
+  "desc": "A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.",
+  "type": "flying",
+  "category": "other"
 }

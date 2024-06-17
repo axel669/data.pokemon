@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user levitates using electrically generated magnetism for five turns."
+  "desc": "The user levitates using electrically generated magnetism for five turns.",
+  "type": "electric",
+  "category": "other"
 }

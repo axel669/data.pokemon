@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user makes the target see a frightening mirage. It inflicts damage equal to the user's level."
+  "desc": "The user makes the target see a frightening mirage. It inflicts damage equal to the user's level.",
+  "type": "ghost",
+  "category": "special"
 }

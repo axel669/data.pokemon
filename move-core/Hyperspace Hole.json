@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "Using a hyperspace hole, the user appears right next to the target and strikes. This attack can hit a target using a move such as Protect or Detect."
+  "desc": "Using a hyperspace hole, the user appears right next to the target and strikes. This attack can hit a target using a move such as Protect or Detect.",
+  "type": "psychic",
+  "category": "special"
 }

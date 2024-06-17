@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 5,
   "effect": 10,
-  "desc": "The target is attacked with an intense blast of all- consuming fire. This may also leave the target with a burn."
+  "desc": "The target is attacked with an intense blast of all- consuming fire. This may also leave the target with a burn.",
+  "type": "fire",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 50,
-  "desc": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also boost the user's Sp. Atk stat."
+  "desc": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also boost the user's Sp. Atk stat.",
+  "type": "fire",
+  "category": "special"
 }

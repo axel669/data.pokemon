@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact."
+  "desc": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.",
+  "type": "poison",
+  "category": "other"
 }

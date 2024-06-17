@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
+  "desc": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat.",
+  "type": "steel",
+  "category": "other"
 }

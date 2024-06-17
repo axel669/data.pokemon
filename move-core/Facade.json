@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "This move's power is doubled if the user is poisoned, burned, or paralyzed."
+  "desc": "This move's power is doubled if the user is poisoned, burned, or paralyzed.",
+  "type": "normal",
+  "category": "physical"
 }

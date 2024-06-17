@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 25,
   "effect": 30,
-  "desc": "The target is bitten with viciously sharp fangs. This may also make the target flinch."
+  "desc": "The target is bitten with viciously sharp fangs. This may also make the target flinch.",
+  "type": "dark",
+  "category": "physical"
 }

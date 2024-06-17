@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Ability."
+  "desc": "The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Ability.",
+  "type": "ghost",
+  "category": "special"
 }

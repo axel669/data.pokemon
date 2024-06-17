@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 10,
   "effect": null,
-  "desc": "The user fiercely attacks the target using its entire body."
+  "desc": "The user fiercely attacks the target using its entire body.",
+  "type": "ground",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit."
+  "desc": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit.",
+  "type": "electric",
+  "category": "special"
 }

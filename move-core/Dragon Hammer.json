@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user wields its body like a hammer to attack the target and inflict damage."
+  "desc": "The user wields its body like a hammer to attack the target and inflict damage.",
+  "type": "dragon",
+  "category": "physical"
 }

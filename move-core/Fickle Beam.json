@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": 30,
-  "desc": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power."
+  "desc": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.",
+  "type": "dragon",
+  "category": "special"
 }

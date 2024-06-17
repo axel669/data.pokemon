@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": null,
-  "desc": "Using its tough and impressive horn, the user rams into the target with no letup."
+  "desc": "Using its tough and impressive horn, the user rams into the target with no letup.",
+  "type": "bug",
+  "category": "physical"
 }

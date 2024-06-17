@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 25,
   "effect": 10,
-  "desc": "The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target."
+  "desc": "The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target.",
+  "type": "psychic",
+  "category": "special"
 }

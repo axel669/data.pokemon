@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn."
+  "desc": "The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn.",
+  "type": "flying",
+  "category": "physical"
 }

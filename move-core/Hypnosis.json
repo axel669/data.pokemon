@@ -4,5 +4,7 @@
   "accuracy": 60,
   "pp": 20,
   "effect": null,
-  "desc": "The user employs hypnotic suggestion to make the target fall asleep."
+  "desc": "The user employs hypnotic suggestion to make the target fall asleep.",
+  "type": "psychic",
+  "category": "other"
 }

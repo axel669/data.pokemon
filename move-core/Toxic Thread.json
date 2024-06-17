@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 100,
-  "desc": "The user shoots poisonous threads to poison the target and lower the target's Speed stat."
+  "desc": "The user shoots poisonous threads to poison the target and lower the target's Speed stat.",
+  "type": "poison",
+  "category": "other"
 }

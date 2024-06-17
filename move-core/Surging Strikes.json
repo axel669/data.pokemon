@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This move always lands a critical hit."
+  "desc": "The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This move always lands a critical hit.",
+  "type": "water",
+  "category": "physical"
 }

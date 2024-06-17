@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat."
+  "desc": "The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat.",
+  "type": "poison",
+  "category": "special"
 }

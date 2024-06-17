@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": null,
-  "desc": "The target is attacked with a powerful beam. The user can't move on the next turn."
+  "desc": "The target is attacked with a powerful beam. The user can't move on the next turn.",
+  "type": "normal",
+  "category": "special"
 }

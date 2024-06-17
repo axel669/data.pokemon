@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user."
+  "desc": "The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user.",
+  "type": "bug",
+  "category": "other"
 }

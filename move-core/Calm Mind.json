@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user quietly focuses its mind and calms its spirit to boost its Sp. Atk and Sp. Def stats."
+  "desc": "The user quietly focuses its mind and calms its spirit to boost its Sp. Atk and Sp. Def stats.",
+  "type": "psychic",
+  "category": "other"
 }

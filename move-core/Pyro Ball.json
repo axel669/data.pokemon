@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": 10,
-  "desc": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn."
+  "desc": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.",
+  "type": "fire",
+  "category": "physical"
 }

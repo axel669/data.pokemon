@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
+  "desc": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.",
+  "type": "rock",
+  "category": "physical"
 }

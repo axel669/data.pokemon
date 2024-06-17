@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 20,
-  "desc": "This move is either physical or special-whichever will inflict more damage. This may also poison the target."
+  "desc": "This move is either physical or special-whichever will inflict more damage. This may also poison the target.",
+  "type": "poison",
+  "category": "special"
 }

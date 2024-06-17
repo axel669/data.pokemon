@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user raises its allies' morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+  "desc": "The user raises its allies' morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.",
+  "type": "dragon",
+  "category": "other"
 }

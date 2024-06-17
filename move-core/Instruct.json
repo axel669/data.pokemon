@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user instructs the target to reuse the move last used by the target."
+  "desc": "The user instructs the target to reuse the move last used by the target.",
+  "type": "psychic",
+  "category": "other"
 }

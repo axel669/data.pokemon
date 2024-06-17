@@ -4,5 +4,7 @@
   "accuracy": 50,
   "pp": 5,
   "effect": 100,
-  "desc": "The user attacks by punching the target with full concentrated power. This also confuses the target."
+  "desc": "The user attacks by punching the target with full concentrated power. This also confuses the target.",
+  "type": "fighting",
+  "category": "physical"
 }

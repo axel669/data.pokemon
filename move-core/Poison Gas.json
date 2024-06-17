@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 40,
   "effect": null,
-  "desc": "A cloud of poison gas is sprayed in the faces of opposing Pokémon, poisoning those it hits."
+  "desc": "A cloud of poison gas is sprayed in the faces of opposing Pokémon, poisoning those it hits.",
+  "type": "poison",
+  "category": "other"
 }

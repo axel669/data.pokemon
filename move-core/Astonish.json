@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 30,
-  "desc": "The user attacks the target by crying out in a startling fashion. This may also make the target flinch."
+  "desc": "The user attacks the target by crying out in a startling fashion. This may also make the target flinch.",
+  "type": "ghost",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 80,
   "pp": 10,
   "effect": 30,
-  "desc": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon."
+  "desc": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon.",
+  "type": "flying",
+  "category": "special"
 }

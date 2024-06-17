@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user slams its rugged body into the target to attack. This also damages the user quite a lot."
+  "desc": "The user slams its rugged body into the target to attack. This also damages the user quite a lot.",
+  "type": "grass",
+  "category": "physical"
 }

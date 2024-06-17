@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "Morpeko attacks and boosts its Speed stat with the energy stored in its cheeks. This move's type changes depending on the user's form."
+  "desc": "Morpeko attacks and boosts its Speed stat with the energy stored in its cheeks. This move's type changes depending on the user's form.",
+  "type": "electric",
+  "category": "physical"
 }

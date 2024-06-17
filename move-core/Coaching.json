@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats."
+  "desc": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.",
+  "type": "fighting",
+  "category": "other"
 }

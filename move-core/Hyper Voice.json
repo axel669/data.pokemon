@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks by letting loose a horribly loud, resounding cry."
+  "desc": "The user attacks by letting loose a horribly loud, resounding cry.",
+  "type": "normal",
+  "category": "special"
 }

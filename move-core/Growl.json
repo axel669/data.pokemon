@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 40,
   "effect": null,
-  "desc": "The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats."
+  "desc": "The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.",
+  "type": "normal",
+  "category": "other"
 }

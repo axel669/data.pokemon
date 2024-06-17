@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 30,
-  "desc": "The target is attacked with a shock wave. This may also leave the target with paralysis."
+  "desc": "The target is attacked with a shock wave. This may also leave the target with paralysis.",
+  "type": "fighting",
+  "category": "physical"
 }

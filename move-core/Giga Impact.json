@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": null,
-  "desc": "The user charges at the target using every bit of its power. The user can't move on the next turn."
+  "desc": "The user charges at the target using every bit of its power. The user can't move on the next turn.",
+  "type": "normal",
+  "category": "physical"
 }

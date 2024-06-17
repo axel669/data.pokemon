@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 30,
-  "desc": "The user slams the target with its steel-hard head. This may also make the target flinch."
+  "desc": "The user slams the target with its steel-hard head. This may also make the target flinch.",
+  "type": "steel",
+  "category": "physical"
 }

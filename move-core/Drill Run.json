@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 10,
   "effect": null,
-  "desc": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit."
+  "desc": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit.",
+  "type": "ground",
+  "category": "physical"
 }

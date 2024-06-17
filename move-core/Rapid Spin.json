@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 40,
   "effect": null,
-  "desc": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat."
+  "desc": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.",
+  "type": "normal",
+  "category": "physical"
 }

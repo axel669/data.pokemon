@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 35,
   "effect": null,
-  "desc": "The target is jabbed with a sharply pointed beak or horn to inflict damage."
+  "desc": "The target is jabbed with a sharply pointed beak or horn to inflict damage.",
+  "type": "flying",
+  "category": "physical"
 }

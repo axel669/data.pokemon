@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user emits a healing pulse that restores the target's HP by up to half its max HP."
+  "desc": "The user emits a healing pulse that restores the target's HP by up to half its max HP.",
+  "type": "psychic",
+  "category": "other"
 }

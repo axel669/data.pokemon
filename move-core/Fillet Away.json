@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP."
+  "desc": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP.",
+  "type": "normal",
+  "category": "other"
 }

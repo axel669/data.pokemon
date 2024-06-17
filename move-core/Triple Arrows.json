@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target's Defense stat or make it flinch."
+  "desc": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target's Defense stat or make it flinch.",
+  "type": "fighting",
+  "category": "physical"
 }

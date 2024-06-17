@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 15,
   "effect": null,
-  "desc": "The user flies up into the sky on the first turn, then attacks on the next turn."
+  "desc": "The user flies up into the sky on the first turn, then attacks on the next turn.",
+  "type": "flying",
+  "category": "physical"
 }

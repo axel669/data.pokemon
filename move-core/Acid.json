@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": 10,
-  "desc": "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats."
+  "desc": "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+  "type": "poison",
+  "category": "special"
 }

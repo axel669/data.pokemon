@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn."
+  "desc": "The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn.",
+  "type": "grass",
+  "category": "physical"
 }

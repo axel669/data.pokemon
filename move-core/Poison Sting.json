@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 35,
   "effect": 30,
-  "desc": "The user stabs the target with a poisonous stinger to inflict damage. This may also poison the target."
+  "desc": "The user stabs the target with a poisonous stinger to inflict damage. This may also poison the target.",
+  "type": "poison",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": null,
-  "desc": "The user intimidates the target with the pattern on its belly to cause paralysis."
+  "desc": "The user intimidates the target with the pattern on its belly to cause paralysis.",
+  "type": "normal",
+  "category": "other"
 }

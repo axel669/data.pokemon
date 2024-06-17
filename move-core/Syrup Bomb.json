@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": 100,
-  "desc": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+  "desc": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.",
+  "type": "grass",
+  "category": "special"
 }

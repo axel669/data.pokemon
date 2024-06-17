@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 40,
   "effect": null,
-  "desc": "The user just flops and splashes around to no effect at all..."
+  "desc": "The user just flops and splashes around to no effect at all...",
+  "type": "normal",
+  "category": "other"
 }

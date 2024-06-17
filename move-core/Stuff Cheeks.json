@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user eats its held Berry, then sharply boosts its Defense stat."
+  "desc": "The user eats its held Berry, then sharply boosts its Defense stat.",
+  "type": "normal",
+  "category": "other"
 }

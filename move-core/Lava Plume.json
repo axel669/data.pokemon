@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 30,
-  "desc": "The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn."
+  "desc": "The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.",
+  "type": "fire",
+  "category": "special"
 }

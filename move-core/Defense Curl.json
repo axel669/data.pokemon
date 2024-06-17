@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 40,
   "effect": null,
-  "desc": "The user curls up and boosts its Defense stat."
+  "desc": "The user curls up and boosts its Defense stat.",
+  "type": "normal",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 20,
   "effect": null,
-  "desc": "The user attacks by shooting sharp spikes at the target. This move hits two to five times in a row."
+  "desc": "The user attacks by shooting sharp spikes at the target. This move hits two to five times in a row.",
+  "type": "bug",
+  "category": "physical"
 }

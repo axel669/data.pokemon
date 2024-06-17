@@ -4,5 +4,7 @@
   "accuracy": 70,
   "pp": 5,
   "effect": 10,
-  "desc": "The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat."
+  "desc": "The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.",
+  "type": "fighting",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": 10,
-  "desc": "The user attacks with a prehistoric power. This may also boost all the user's stats at once."
+  "desc": "The user attacks with a prehistoric power. This may also boost all the user's stats at once.",
+  "type": "rock",
+  "category": "special"
 }

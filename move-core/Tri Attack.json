@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 20,
-  "desc": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target."
+  "desc": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.",
+  "type": "normal",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user strikes the target with a quick jolt of electricity. This attack never misses."
+  "desc": "The user strikes the target with a quick jolt of electricity. This attack never misses.",
+  "type": "electric",
+  "category": "special"
 }

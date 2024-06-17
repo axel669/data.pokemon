@@ -4,5 +4,7 @@
   "accuracy": 70,
   "pp": 20,
   "effect": 40,
-  "desc": "The target is attacked with a discharge of filthy gases. This may also poison the target."
+  "desc": "The target is attacked with a discharge of filthy gases. This may also poison the target.",
+  "type": "poison",
+  "category": "special"
 }

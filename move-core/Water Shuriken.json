@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user hits the target with throwing stars two to five times in a row. This move always goes first."
+  "desc": "The user hits the target with throwing stars two to five times in a row. This move always goes first.",
+  "type": "water",
+  "category": "special"
 }

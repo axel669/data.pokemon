@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 25,
   "effect": null,
-  "desc": "The target is blasted with a forceful shot of water."
+  "desc": "The target is blasted with a forceful shot of water.",
+  "type": "water",
+  "category": "special"
 }

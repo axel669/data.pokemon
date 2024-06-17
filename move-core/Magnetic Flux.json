@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability."
+  "desc": "The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability.",
+  "type": "electric",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 40,
   "effect": null,
-  "desc": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+  "desc": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+  "type": "normal",
+  "category": "physical"
 }

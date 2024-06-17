@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": 30,
-  "desc": "The user licks the target with a long tongue to inflict damage. This may also leave the target with paralysis."
+  "desc": "The user licks the target with a long tongue to inflict damage. This may also leave the target with paralysis.",
+  "type": "ghost",
+  "category": "physical"
 }

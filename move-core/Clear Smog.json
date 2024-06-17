@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated."
+  "desc": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated.",
+  "type": "poison",
+  "category": "special"
 }

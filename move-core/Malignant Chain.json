@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": 50,
-  "desc": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned."
+  "desc": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.",
+  "type": "poison",
+  "category": "special"
 }

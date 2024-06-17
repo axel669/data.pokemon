@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The target is crushed with great force. The more HP the target has left, the greater the move's power."
+  "desc": "The target is crushed with great force. The more HP the target has left, the greater the move's power.",
+  "type": "normal",
+  "category": "physical"
 }

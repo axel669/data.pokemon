@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat-whichever is higher for the user.Stellar: Inflicts damage with the user's Attack or Sp. Atk stat- whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats."
+  "desc": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat-whichever is higher for the user.Stellar: Inflicts damage with the user's Attack or Sp. Atk stat- whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats.",
+  "type": "normal",
+  "category": "special"
 }

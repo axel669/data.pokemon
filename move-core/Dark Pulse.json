@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 20,
-  "desc": "The user releases a horrible aura imbued with ill intent. This may also make the target flinch."
+  "desc": "The user releases a horrible aura imbued with ill intent. This may also make the target flinch.",
+  "type": "dark",
+  "category": "special"
 }

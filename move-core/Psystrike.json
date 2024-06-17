@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user materializes an odd psychic wave to attack the target. This move deals physical damage."
+  "desc": "The user materializes an odd psychic wave to attack the target. This move deals physical damage.",
+  "type": "psychic",
+  "category": "special"
 }

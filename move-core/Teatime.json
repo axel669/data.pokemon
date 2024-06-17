@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user has teatime with all the Pokémon currently in the battle. Each Pokémon eats its held Berry."
+  "desc": "The user has teatime with all the Pokémon currently in the battle. Each Pokémon eats its held Berry.",
+  "type": "normal",
+  "category": "other"
 }

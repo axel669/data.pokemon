@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 40,
   "effect": null,
-  "desc": "The user howls loudly to rouse itself and its allies. This boosts their Attack stats."
+  "desc": "The user howls loudly to rouse itself and its allies. This boosts their Attack stats.",
+  "type": "normal",
+  "category": "other"
 }

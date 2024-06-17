@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+  "desc": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.",
+  "type": "poison",
+  "category": "other"
 }

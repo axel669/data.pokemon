@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user maximizes its Attack stat but loses HP equal to half its max HP."
+  "desc": "The user maximizes its Attack stat but loses HP equal to half its max HP.",
+  "type": "normal",
+  "category": "other"
 }

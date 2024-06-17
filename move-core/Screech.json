@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 40,
   "effect": null,
-  "desc": "An earsplitting screech harshly lowers the target's Defense stat."
+  "desc": "An earsplitting screech harshly lowers the target's Defense stat.",
+  "type": "normal",
+  "category": "other"
 }

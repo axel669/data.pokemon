@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured."
+  "desc": "The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.",
+  "type": "psychic",
+  "category": "other"
 }

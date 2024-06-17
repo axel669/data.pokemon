@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing."
+  "desc": "The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing.",
+  "type": "ghost",
+  "category": "physical"
 }

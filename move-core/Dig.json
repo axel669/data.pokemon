@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user burrows into the ground on the first turn, then attacks on the next turn."
+  "desc": "The user burrows into the ground on the first turn, then attacks on the next turn.",
+  "type": "ground",
+  "category": "physical"
 }

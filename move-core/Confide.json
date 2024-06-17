@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat."
+  "desc": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat.",
+  "type": "normal",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": null,
-  "desc": "The user summons a ruinous disaster. This cuts the target's HP in half."
+  "desc": "The user summons a ruinous disaster. This cuts the target's HP in half.",
+  "type": "dark",
+  "category": "special"
 }

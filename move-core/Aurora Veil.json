@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing."
+  "desc": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing.",
+  "type": "ice",
+  "category": "other"
 }

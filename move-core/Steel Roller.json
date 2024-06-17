@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain."
+  "desc": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain.",
+  "type": "steel",
+  "category": "physical"
 }

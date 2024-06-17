@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 20,
-  "desc": "The user charges at the target and may make it flinch."
+  "desc": "The user charges at the target and may make it flinch.",
+  "type": "water",
+  "category": "physical"
 }

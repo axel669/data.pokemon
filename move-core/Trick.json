@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user catches the target off guard and swaps the target's held item with its own."
+  "desc": "The user catches the target off guard and swaps the target's held item with its own.",
+  "type": "psychic",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat."
+  "desc": "The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat.",
+  "type": "grass",
+  "category": "physical"
 }

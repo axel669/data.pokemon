@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 20,
-  "desc": "The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch."
+  "desc": "The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.",
+  "type": "dark",
+  "category": "special"
 }

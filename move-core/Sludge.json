@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 30,
-  "desc": "The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target."
+  "desc": "The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target.",
+  "type": "poison",
+  "category": "special"
 }

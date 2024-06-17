@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns."
+  "desc": "The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns.",
+  "type": "flying",
+  "category": "other"
 }

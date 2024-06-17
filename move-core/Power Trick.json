@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user employs its psychic power to switch its Attack stat with its Defense stat."
+  "desc": "The user employs its psychic power to switch its Attack stat with its Defense stat.",
+  "type": "psychic",
+  "category": "other"
 }

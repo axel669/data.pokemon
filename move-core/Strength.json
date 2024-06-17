@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The target is slugged with a punch thrown at maximum power."
+  "desc": "The target is slugged with a punch thrown at maximum power.",
+  "type": "normal",
+  "category": "physical"
 }

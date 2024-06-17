@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 25,
   "effect": 10,
-  "desc": "The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn."
+  "desc": "The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn.",
+  "type": "fire",
+  "category": "physical"
 }

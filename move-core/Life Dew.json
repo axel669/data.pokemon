@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle."
+  "desc": "The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle.",
+  "type": "water",
+  "category": "other"
 }

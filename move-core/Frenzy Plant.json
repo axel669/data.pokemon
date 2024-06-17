@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": null,
-  "desc": "The user slams the target with the roots of an enormous tree. The user can't move on the next turn."
+  "desc": "The user slams the target with the roots of an enormous tree. The user can't move on the next turn.",
+  "type": "grass",
+  "category": "special"
 }

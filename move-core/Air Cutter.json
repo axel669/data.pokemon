@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 25,
   "effect": null,
-  "desc": "The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit."
+  "desc": "The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit.",
+  "type": "flying",
+  "category": "special"
 }

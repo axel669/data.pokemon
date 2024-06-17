@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 15,
   "effect": null,
-  "desc": "The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon."
+  "desc": "The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.",
+  "type": "dark",
+  "category": "special"
 }

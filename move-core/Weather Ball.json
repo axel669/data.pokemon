@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "This move's type and power change depending on the weather at the time the move is used."
+  "desc": "This move's type and power change depending on the weather at the time the move is used.",
+  "type": "normal",
+  "category": "special"
 }

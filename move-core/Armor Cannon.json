@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user shoots its own armor out as blazing projectiles. This also lowers the user's Defense and Sp. Def stats."
+  "desc": "The user shoots its own armor out as blazing projectiles. This also lowers the user's Defense and Sp. Def stats.",
+  "type": "fire",
+  "category": "special"
 }

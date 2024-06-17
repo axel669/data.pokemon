@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": null,
-  "desc": "The user wags its tail cutely, making opposing Pokémon less wary. This lowers their Defense stats."
+  "desc": "The user wags its tail cutely, making opposing Pokémon less wary. This lowers their Defense stats.",
+  "type": "normal",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 30,
   "pp": 5,
   "effect": null,
-  "desc": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits."
+  "desc": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.",
+  "type": "normal",
+  "category": "physical"
 }

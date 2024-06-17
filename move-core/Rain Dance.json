@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user summons a heavy rain that falls for five turns, powering up Water-type attacks. The rain also lowers the power of Fire-type attacks."
+  "desc": "The user summons a heavy rain that falls for five turns, powering up Water-type attacks. The rain also lowers the power of Fire-type attacks.",
+  "type": "water",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user shrouds itself in electricity and smashes into the target. This also damages the user a little."
+  "desc": "The user shrouds itself in electricity and smashes into the target. This also damages the user a little.",
+  "type": "electric",
+  "category": "physical"
 }

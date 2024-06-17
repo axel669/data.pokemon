@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user eats the dreams of a sleeping target. The user's HP is restored by up to half the damage taken by the target."
+  "desc": "The user eats the dreams of a sleeping target. The user's HP is restored by up to half the damage taken by the target.",
+  "type": "psychic",
+  "category": "special"
 }

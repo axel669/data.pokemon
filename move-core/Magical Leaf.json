@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user scatters curious leaves that chase the target. This attack never misses."
+  "desc": "The user scatters curious leaves that chase the target. This attack never misses.",
+  "type": "grass",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat."
+  "desc": "The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat.",
+  "type": "poison",
+  "category": "other"
 }

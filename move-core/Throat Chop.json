@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 100,
-  "desc": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns."
+  "desc": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns.",
+  "type": "dark",
+  "category": "physical"
 }

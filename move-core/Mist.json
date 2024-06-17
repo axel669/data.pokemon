@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 30,
   "effect": null,
-  "desc": "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns."
+  "desc": "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.",
+  "type": "ice",
+  "category": "other"
 }

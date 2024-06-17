@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 40,
   "effect": null,
-  "desc": "A horrible sound like scraping metal harshly lowers the target's Sp. Def stat."
+  "desc": "A horrible sound like scraping metal harshly lowers the target's Sp. Def stat.",
+  "type": "steel",
+  "category": "other"
 }

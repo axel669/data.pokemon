@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target."
+  "desc": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target.",
+  "type": "psychic",
+  "category": "special"
 }

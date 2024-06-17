@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+  "desc": "The user pins the target with a dark, arresting look. The target becomes unable to flee.",
+  "type": "normal",
+  "category": "other"
 }

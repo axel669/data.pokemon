@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": null,
-  "desc": "The target is hammered with a large pincer. This move has a heightened chance of landing a critical hit."
+  "desc": "The target is hammered with a large pincer. This move has a heightened chance of landing a critical hit.",
+  "type": "water",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears."
+  "desc": "A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears.",
+  "type": "grass",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user stirs up a violent petal blizzard and damages everything around it."
+  "desc": "The user stirs up a violent petal blizzard and damages everything around it.",
+  "type": "grass",
+  "category": "physical"
 }

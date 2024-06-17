@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
+  "desc": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first.",
+  "type": "water",
+  "category": "physical"
 }

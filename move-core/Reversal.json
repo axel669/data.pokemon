@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "An all-out attack that becomes more powerful the less HP the user has."
+  "desc": "An all-out attack that becomes more powerful the less HP the user has.",
+  "type": "fighting",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user tickles the target into laughing, lowering its Attack and Defense stats."
+  "desc": "The user tickles the target into laughing, lowering its Attack and Defense stats.",
+  "type": "normal",
+  "category": "other"
 }

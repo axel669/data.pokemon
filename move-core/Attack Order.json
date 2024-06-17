@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user calls out its underlings to pummel the target. This move has a heightened chance of landing a critical hit."
+  "desc": "The user calls out its underlings to pummel the target. This move has a heightened chance of landing a critical hit.",
+  "type": "bug",
+  "category": "physical"
 }

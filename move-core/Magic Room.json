@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+  "desc": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.",
+  "type": "psychic",
+  "category": "other"
 }

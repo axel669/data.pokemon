@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 20,
   "effect": 100,
-  "desc": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns."
+  "desc": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.",
+  "type": "normal",
+  "category": "physical"
 }

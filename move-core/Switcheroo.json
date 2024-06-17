@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user trades held items with the target faster than the eye can follow."
+  "desc": "The user trades held items with the target faster than the eye can follow.",
+  "type": "dark",
+  "category": "other"
 }

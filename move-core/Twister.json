@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 20,
-  "desc": "The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch."
+  "desc": "The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch.",
+  "type": "dragon",
+  "category": "special"
 }

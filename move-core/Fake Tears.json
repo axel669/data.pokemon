@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat."
+  "desc": "The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat.",
+  "type": "dark",
+  "category": "other"
 }

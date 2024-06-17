@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses."
+  "desc": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.",
+  "type": "dark",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": 100,
-  "desc": "The user attacks by blowing its cold breath on the target. This move always lands a critical hit."
+  "desc": "The user attacks by blowing its cold breath on the target. This move always lands a critical hit.",
+  "type": "ice",
+  "category": "special"
 }

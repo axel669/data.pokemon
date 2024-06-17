@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": null,
-  "desc": "The user violently whirls its vines, tentacles, or the like to lash the target."
+  "desc": "The user violently whirls its vines, tentacles, or the like to lash the target.",
+  "type": "grass",
+  "category": "physical"
 }

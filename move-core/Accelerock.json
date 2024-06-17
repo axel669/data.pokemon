@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user smashes into the target at high speed. This move always goes first."
+  "desc": "The user smashes into the target at high speed. This move always goes first.",
+  "type": "rock",
+  "category": "physical"
 }

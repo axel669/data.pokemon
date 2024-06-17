@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 10,
   "effect": null,
-  "desc": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+  "desc": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.",
+  "type": "fighting",
+  "category": "physical"
 }

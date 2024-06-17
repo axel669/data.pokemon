@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": null,
-  "desc": "The user unleashes a strong beam. The recoil from this move harshly lowers the user's Sp. Atk stat."
+  "desc": "The user unleashes a strong beam. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+  "type": "fairy",
+  "category": "special"
 }

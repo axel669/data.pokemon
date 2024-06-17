@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user inflicts damage by cutting down the target's HP to roughly equal the user's HP."
+  "desc": "The user inflicts damage by cutting down the target's HP to roughly equal the user's HP.",
+  "type": "normal",
+  "category": "physical"
 }

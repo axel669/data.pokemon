@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user scatters a cloud of magic powder that changes the target's type to Psychic."
+  "desc": "The user scatters a cloud of magic powder that changes the target's type to Psychic.",
+  "type": "psychic",
+  "category": "other"
 }

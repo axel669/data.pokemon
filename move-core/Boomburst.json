@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks everything around it with the destructive power of a terrible explosive sound."
+  "desc": "The user attacks everything around it with the destructive power of a terrible explosive sound.",
+  "type": "normal",
+  "category": "special"
 }

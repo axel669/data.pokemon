@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 35,
   "effect": 10,
-  "desc": "The target is raked with steel claws. This may also boost the user's Attack stat."
+  "desc": "The target is raked with steel claws. This may also boost the user's Attack stat.",
+  "type": "steel",
+  "category": "physical"
 }

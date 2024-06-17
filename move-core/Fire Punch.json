@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 10,
-  "desc": "The target is attacked with a fiery punch. This may also leave the target with a burn."
+  "desc": "The target is attacked with a fiery punch. This may also leave the target with a burn.",
+  "type": "fire",
+  "category": "physical"
 }

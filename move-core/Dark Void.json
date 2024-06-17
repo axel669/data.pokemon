@@ -4,5 +4,7 @@
   "accuracy": 50,
   "pp": 10,
   "effect": null,
-  "desc": "Opposing Pokémon are dragged into a world of total darkness that puts them to sleep."
+  "desc": "Opposing Pokémon are dragged into a world of total darkness that puts them to sleep.",
+  "type": "dark",
+  "category": "other"
 }

@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user sharpens its claws to boost its Attack stat and accuracy."
+  "desc": "The user sharpens its claws to boost its Attack stat and accuracy.",
+  "type": "dark",
+  "category": "other"
 }

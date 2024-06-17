@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 100,
-  "desc": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+  "desc": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.",
+  "type": "electric",
+  "category": "physical"
 }

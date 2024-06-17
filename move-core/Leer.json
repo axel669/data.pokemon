@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": null,
-  "desc": "The user gives opposing Pokémon an intimidating leer that lowers their Defense stats."
+  "desc": "The user gives opposing Pokémon an intimidating leer that lowers their Defense stats.",
+  "type": "normal",
+  "category": "other"
 }

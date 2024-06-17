@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 40,
   "effect": null,
-  "desc": "The Pokémon congratulates you on your special day!"
+  "desc": "The Pokémon congratulates you on your special day!",
+  "type": "normal",
+  "category": "other"
 }

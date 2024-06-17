@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 5,
   "effect": null,
-  "desc": "The user fires a beam of steel that it collected from its entire body. This also damages the user."
+  "desc": "The user fires a beam of steel that it collected from its entire body. This also damages the user.",
+  "type": "steel",
+  "category": "special"
 }

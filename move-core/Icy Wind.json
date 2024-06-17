@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats."
+  "desc": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats.",
+  "type": "ice",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "By moving rapidly, the user makes illusory copies of itself to boost its evasiveness."
+  "desc": "By moving rapidly, the user makes illusory copies of itself to boost its evasiveness.",
+  "type": "normal",
+  "category": "other"
 }

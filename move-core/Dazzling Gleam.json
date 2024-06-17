@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user damages opposing Pokémon by emitting a powerful flash."
+  "desc": "The user damages opposing Pokémon by emitting a powerful flash.",
+  "type": "fairy",
+  "category": "special"
 }

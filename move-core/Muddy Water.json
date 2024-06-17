@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": 30,
-  "desc": "The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy."
+  "desc": "The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.",
+  "type": "water",
+  "category": "special"
 }

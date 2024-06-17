@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 50,
-  "desc": "The user bites the target with toxic fangs. This may also leave the target badly poisoned."
+  "desc": "The user bites the target with toxic fangs. This may also leave the target badly poisoned.",
+  "type": "poison",
+  "category": "physical"
 }

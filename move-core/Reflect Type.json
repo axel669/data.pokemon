@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user reflects the target's type to become the same type as the target."
+  "desc": "The user reflects the target's type to become the same type as the target.",
+  "type": "normal",
+  "category": "other"
 }

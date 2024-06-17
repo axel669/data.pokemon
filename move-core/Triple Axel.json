@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": null,
-  "desc": "A consecutive three-kick attack that becomes more powerful with each successful hit."
+  "desc": "A consecutive three-kick attack that becomes more powerful with each successful hit.",
+  "type": "ice",
+  "category": "physical"
 }

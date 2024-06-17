@@ -4,5 +4,7 @@
   "accuracy": 80,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row."
+  "desc": "The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row.",
+  "type": "normal",
+  "category": "physical"
 }

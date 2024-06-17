@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves."
+  "desc": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves.",
+  "type": "normal",
+  "category": "physical"
 }

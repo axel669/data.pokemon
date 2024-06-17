@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "A move that has different effects depending on whether the user is a Ghost type or not."
+  "desc": "A move that has different effects depending on whether the user is a Ghost type or not.",
+  "type": "ghost",
+  "category": "other"
 }

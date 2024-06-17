@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": 70,
-  "desc": "The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat."
+  "desc": "The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat.",
+  "type": "electric",
+  "category": "special"
 }

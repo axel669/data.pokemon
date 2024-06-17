@@ -4,5 +4,7 @@
   "accuracy": 50,
   "pp": 5,
   "effect": 100,
-  "desc": "The user attacks by firing an electric blast like a cannon. This also leaves the target with paralysis."
+  "desc": "The user attacks by firing an electric blast like a cannon. This also leaves the target with paralysis.",
+  "type": "electric",
+  "category": "special"
 }

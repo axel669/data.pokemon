@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone."
+  "desc": "The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.",
+  "type": "ground",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat."
+  "desc": "Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat.",
+  "type": "dark",
+  "category": "other"
 }

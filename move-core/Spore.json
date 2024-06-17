@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user scatters bursts of spores that induce sleep."
+  "desc": "The user scatters bursts of spores that induce sleep.",
+  "type": "grass",
+  "category": "other"
 }

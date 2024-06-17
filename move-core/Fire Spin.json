@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 15,
   "effect": 100,
-  "desc": "The user traps the target inside a fierce vortex of fire that inflicts damage for four to five turns."
+  "desc": "The user traps the target inside a fierce vortex of fire that inflicts damage for four to five turns.",
+  "type": "fire",
+  "category": "special"
 }

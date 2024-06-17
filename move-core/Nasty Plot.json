@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user stimulates its brain by thinking bad thoughts. This sharply boosts the user's Sp. Atk stat."
+  "desc": "The user stimulates its brain by thinking bad thoughts. This sharply boosts the user's Sp. Atk stat.",
+  "type": "dark",
+  "category": "other"
 }

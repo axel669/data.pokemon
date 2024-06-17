@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row."
+  "desc": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row.",
+  "type": "steel",
+  "category": "physical"
 }

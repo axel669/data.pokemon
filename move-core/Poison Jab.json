@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 30,
-  "desc": "The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target."
+  "desc": "The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target.",
+  "type": "poison",
+  "category": "physical"
 }

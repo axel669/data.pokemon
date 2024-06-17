@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user slashes at the target by crossing its scythes, claws, or the like as if they were a pair of scissors."
+  "desc": "The user slashes at the target by crossing its scythes, claws, or the like as if they were a pair of scissors.",
+  "type": "bug",
+  "category": "physical"
 }

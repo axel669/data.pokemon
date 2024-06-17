@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user performs a wobbly dance that confuses every Pokémon around it."
+  "desc": "The user performs a wobbly dance that confuses every Pokémon around it.",
+  "type": "normal",
+  "category": "other"
 }

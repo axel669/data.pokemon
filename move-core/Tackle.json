@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 35,
   "effect": null,
-  "desc": "A physical attack in which the user charges and slams into the target with its whole body."
+  "desc": "A physical attack in which the user charges and slams into the target with its whole body.",
+  "type": "normal",
+  "category": "physical"
 }

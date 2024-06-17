@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 30,
   "effect": null,
-  "desc": "The user changes its type to make itself resistant to the type of the move the target used last."
+  "desc": "The user changes its type to make itself resistant to the type of the move the target used last.",
+  "type": "normal",
+  "category": "other"
 }

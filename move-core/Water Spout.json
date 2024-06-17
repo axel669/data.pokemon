@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power."
+  "desc": "The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power.",
+  "type": "water",
+  "category": "special"
 }

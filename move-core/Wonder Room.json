@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns."
+  "desc": "The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.",
+  "type": "psychic",
+  "category": "other"
 }

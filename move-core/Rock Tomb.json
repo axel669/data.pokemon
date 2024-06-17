@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 15,
   "effect": null,
-  "desc": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement."
+  "desc": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement.",
+  "type": "rock",
+  "category": "physical"
 }

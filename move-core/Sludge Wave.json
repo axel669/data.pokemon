@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 10,
-  "desc": "The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits."
+  "desc": "The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits.",
+  "type": "poison",
+  "category": "special"
 }

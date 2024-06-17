@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": null,
-  "desc": "The user attacks by kicking the target twice in a row using two feet."
+  "desc": "The user attacks by kicking the target twice in a row using two feet.",
+  "type": "fighting",
+  "category": "physical"
 }

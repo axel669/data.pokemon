@@ -4,5 +4,7 @@
   "accuracy": 75,
   "pp": 35,
   "effect": null,
-  "desc": "The user scatters a cloud of poisonous dust that poisons the target."
+  "desc": "The user scatters a cloud of poisonous dust that poisons the target.",
+  "type": "poison",
+  "category": "other"
 }

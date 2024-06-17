@@ -4,5 +4,7 @@
   "accuracy": 80,
   "pp": 5,
   "effect": null,
-  "desc": "The target is blasted by a huge volume of water launched under great pressure."
+  "desc": "The target is blasted by a huge volume of water launched under great pressure.",
+  "type": "water",
+  "category": "special"
 }

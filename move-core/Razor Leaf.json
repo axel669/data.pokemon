@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 25,
   "effect": null,
-  "desc": "Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit."
+  "desc": "Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit.",
+  "type": "grass",
+  "category": "physical"
 }

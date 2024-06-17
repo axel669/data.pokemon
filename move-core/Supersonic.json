@@ -4,5 +4,7 @@
   "accuracy": 55,
   "pp": 20,
   "effect": null,
-  "desc": "The user generates odd sound waves from its body that confuse the target."
+  "desc": "The user generates odd sound waves from its body that confuse the target.",
+  "type": "normal",
+  "category": "other"
 }

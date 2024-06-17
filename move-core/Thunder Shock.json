@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 30,
   "effect": 10,
-  "desc": "The user attacks the target with a jolt of electricity. This may also leave the target with paralysis."
+  "desc": "The user attacks the target with a jolt of electricity. This may also leave the target with paralysis.",
+  "type": "electric",
+  "category": "special"
 }

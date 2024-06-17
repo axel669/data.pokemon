@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user rotates its gears, boosting its Attack stat and sharply boosting its Speed stat."
+  "desc": "The user rotates its gears, boosting its Attack stat and sharply boosting its Speed stat.",
+  "type": "steel",
+  "category": "other"
 }

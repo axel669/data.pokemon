@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 30,
   "effect": null,
-  "desc": "A wondrous wall of light is put up to reduce damage from special moves for five turns."
+  "desc": "A wondrous wall of light is put up to reduce damage from special moves for five turns.",
+  "type": "psychic",
+  "category": "other"
 }

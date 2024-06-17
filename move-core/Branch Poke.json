@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 40,
   "effect": null,
-  "desc": "The user attacks the target by poking it with a sharply pointed branch."
+  "desc": "The user attacks the target by poking it with a sharply pointed branch.",
+  "type": "grass",
+  "category": "physical"
 }

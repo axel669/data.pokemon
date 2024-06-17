@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 20,
   "effect": null,
-  "desc": "A reckless full-body charge attack for slamming into the target. This also damages the user a little."
+  "desc": "A reckless full-body charge attack for slamming into the target. This also damages the user a little.",
+  "type": "normal",
+  "category": "physical"
 }

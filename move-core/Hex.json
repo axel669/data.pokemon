@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "This relentless attack does massive damage to a target affected by status conditions."
+  "desc": "This relentless attack does massive damage to a target affected by status conditions.",
+  "type": "ghost",
+  "category": "special"
 }

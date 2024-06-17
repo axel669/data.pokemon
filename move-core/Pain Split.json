@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself."
+  "desc": "The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself.",
+  "type": "normal",
+  "category": "other"
 }

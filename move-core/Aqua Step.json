@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat."
+  "desc": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat.",
+  "type": "water",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks with a swift chop. This move can also break barriers, such as Light Screen and Reflect."
+  "desc": "The user attacks with a swift chop. This move can also break barriers, such as Light Screen and Reflect.",
+  "type": "fighting",
+  "category": "physical"
 }

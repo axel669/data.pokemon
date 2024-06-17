@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat."
+  "desc": "The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat.",
+  "type": "grass",
+  "category": "other"
 }

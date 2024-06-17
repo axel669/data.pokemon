@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user creates a bizarre area in which slower Pokémon get to move first for five turns."
+  "desc": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
+  "type": "psychic",
+  "category": "other"
 }

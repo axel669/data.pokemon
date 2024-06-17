@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user boosts all its stats by using some of its own HP."
+  "desc": "The user boosts all its stats by using some of its own HP.",
+  "type": "dragon",
+  "category": "other"
 }

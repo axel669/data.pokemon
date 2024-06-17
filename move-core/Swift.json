@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "Star-shaped rays are shot at opposing Pokémon. This attack never misses."
+  "desc": "Star-shaped rays are shot at opposing Pokémon. This attack never misses.",
+  "type": "normal",
+  "category": "special"
 }

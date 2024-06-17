@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user shoots a torrent of water that changes the target's type to Water."
+  "desc": "The user shoots a torrent of water that changes the target's type to Water.",
+  "type": "water",
+  "category": "other"
 }

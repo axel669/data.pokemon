@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees."
+  "desc": "The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.",
+  "type": "psychic",
+  "category": "other"
 }

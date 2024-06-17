@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user restores its own HP by up to half its max HP. It regains more HP in a sandstorm."
+  "desc": "The user restores its own HP by up to half its max HP. It regains more HP in a sandstorm.",
+  "type": "ground",
+  "category": "other"
 }

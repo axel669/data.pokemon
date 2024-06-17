@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row."
+  "desc": "The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row.",
+  "type": "fighting",
+  "category": "physical"
 }

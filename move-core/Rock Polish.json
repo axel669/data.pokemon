@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user polishes its body to reduce drag. This sharply boosts the user's Speed stat."
+  "desc": "The user polishes its body to reduce drag. This sharply boosts the user's Speed stat.",
+  "type": "rock",
+  "category": "other"
 }

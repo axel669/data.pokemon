@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target."
+  "desc": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.",
+  "type": "psychic",
+  "category": "other"
 }

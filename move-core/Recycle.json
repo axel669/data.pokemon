@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user recycles a held item that has been used in battle so it can be used again."
+  "desc": "The user recycles a held item that has been used in battle so it can be used again.",
+  "type": "normal",
+  "category": "other"
 }

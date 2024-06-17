@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 10,
   "effect": 10,
-  "desc": "The user attacks by exhaling hot breath on opposing Pokémon. This may also leave them with a burn."
+  "desc": "The user attacks by exhaling hot breath on opposing Pokémon. This may also leave them with a burn.",
+  "type": "fire",
+  "category": "special"
 }

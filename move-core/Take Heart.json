@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats."
+  "desc": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats.",
+  "type": "psychic",
+  "category": "other"
 }

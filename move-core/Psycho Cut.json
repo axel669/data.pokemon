@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit."
+  "desc": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit.",
+  "type": "psychic",
+  "category": "physical"
 }

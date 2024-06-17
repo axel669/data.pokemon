@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+  "desc": "The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+  "type": "normal",
+  "category": "other"
 }

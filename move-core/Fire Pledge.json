@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "A column of fire hits the target. When used with its grass counterpart, this move's power is boosted and a vast sea of fire appears."
+  "desc": "A column of fire hits the target. When used with its grass counterpart, this move's power is boosted and a vast sea of fire appears.",
+  "type": "fire",
+  "category": "special"
 }

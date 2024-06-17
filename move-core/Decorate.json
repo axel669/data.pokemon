@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 15,
   "effect": null,
-  "desc": "The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target."
+  "desc": "The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target.",
+  "type": "fairy",
+  "category": "other"
 }

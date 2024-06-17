@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user assists an ally by boosting the power of that ally's attack."
+  "desc": "The user assists an ally by boosting the power of that ally's attack.",
+  "type": "normal",
+  "category": "other"
 }

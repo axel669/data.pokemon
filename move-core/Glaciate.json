@@ -4,5 +4,7 @@
   "accuracy": 95,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks by blowing freezing cold air at opposing Pokémon. This also lowers their Speed stats."
+  "desc": "The user attacks by blowing freezing cold air at opposing Pokémon. This also lowers their Speed stats.",
+  "type": "ice",
+  "category": "special"
 }

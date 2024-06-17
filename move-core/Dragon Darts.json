@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once."
+  "desc": "The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once.",
+  "type": "dragon",
+  "category": "physical"
 }

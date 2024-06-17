@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 20,
-  "desc": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat."
+  "desc": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.",
+  "type": "water",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user rampages and attacks for two to three turns. The user then becomes confused."
+  "desc": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+  "type": "normal",
+  "category": "physical"
 }

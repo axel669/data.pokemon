@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power."
+  "desc": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power.",
+  "type": "dark",
+  "category": "physical"
 }

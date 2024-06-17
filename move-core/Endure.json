@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession."
+  "desc": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession.",
+  "type": "normal",
+  "category": "other"
 }

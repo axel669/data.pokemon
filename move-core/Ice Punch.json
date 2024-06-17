@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": 10,
-  "desc": "The target is attacked with an icy punch. This may also leave the target frozen."
+  "desc": "The target is attacked with an icy punch. This may also leave the target frozen.",
+  "type": "ice",
+  "category": "physical"
 }

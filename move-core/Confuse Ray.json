@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The target is exposed to a sinister ray that causes confusion."
+  "desc": "The target is exposed to a sinister ray that causes confusion.",
+  "type": "ghost",
+  "category": "other"
 }

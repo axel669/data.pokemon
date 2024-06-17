@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": 10,
-  "desc": "The user attacks with an odd, unseeable power. This may also make the target flinch."
+  "desc": "The user attacks with an odd, unseeable power. This may also make the target flinch.",
+  "type": "psychic",
+  "category": "special"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+  "desc": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+  "type": "dark",
+  "category": "physical"
 }

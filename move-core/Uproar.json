@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep."
+  "desc": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.",
+  "type": "normal",
+  "category": "special"
 }

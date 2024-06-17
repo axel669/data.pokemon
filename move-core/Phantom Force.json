@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+  "desc": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+  "type": "ghost",
+  "category": "physical"
 }

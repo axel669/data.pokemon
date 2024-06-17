@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 10,
   "effect": null,
-  "desc": "The user employs its psychic power to exchange Abilities with the target."
+  "desc": "The user employs its psychic power to exchange Abilities with the target.",
+  "type": "psychic",
+  "category": "other"
 }

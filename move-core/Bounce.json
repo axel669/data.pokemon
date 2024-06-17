@@ -4,5 +4,7 @@
   "accuracy": 85,
   "pp": 5,
   "effect": 30,
-  "desc": "The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis."
+  "desc": "The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis.",
+  "type": "flying",
+  "category": "physical"
 }

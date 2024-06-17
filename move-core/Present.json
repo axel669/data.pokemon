@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks by giving the target a gift with a hidden trap. The gift restores HP sometimes, however."
+  "desc": "The user attacks by giving the target a gift with a hidden trap. The gift restores HP sometimes, however.",
+  "type": "normal",
+  "category": "physical"
 }

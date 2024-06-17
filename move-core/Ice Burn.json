@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": 30,
-  "desc": "The turn after using this move, the user surrounds the target with an ultracold, freezing wind to inflict damage. This may also leave the target with a burn."
+  "desc": "The turn after using this move, the user surrounds the target with an ultracold, freezing wind to inflict damage. This may also leave the target with a burn.",
+  "type": "ice",
+  "category": "special"
 }

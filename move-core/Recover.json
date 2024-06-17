@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user regenerates its cells, restoring its own HP by up to half its max HP."
+  "desc": "The user regenerates its cells, restoring its own HP by up to half its max HP.",
+  "type": "normal",
+  "category": "other"
 }

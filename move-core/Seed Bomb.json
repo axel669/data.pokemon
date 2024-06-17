@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user attacks by slamming a barrage of hard-shelled seeds down on the target from above."
+  "desc": "The user attacks by slamming a barrage of hard-shelled seeds down on the target from above.",
+  "type": "grass",
+  "category": "physical"
 }

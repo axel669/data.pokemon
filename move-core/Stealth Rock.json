@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle."
+  "desc": "The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle.",
+  "type": "rock",
+  "category": "other"
 }

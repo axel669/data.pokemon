@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": 30,
-  "desc": "The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch."
+  "desc": "The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch.",
+  "type": "electric",
+  "category": "physical"
 }

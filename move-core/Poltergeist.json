@@ -4,5 +4,7 @@
   "accuracy": 90,
   "pp": 5,
   "effect": null,
-  "desc": "The user attacks by controlling the target's item. This move fails if the target isn't holding an item."
+  "desc": "The user attacks by controlling the target's item. This move fails if the target isn't holding an item.",
+  "type": "ghost",
+  "category": "physical"
 }

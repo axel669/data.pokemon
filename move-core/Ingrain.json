@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 20,
   "effect": null,
-  "desc": "The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out."
+  "desc": "The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out.",
+  "type": "grass",
+  "category": "other"
 }

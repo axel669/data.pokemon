@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 5,
   "effect": null,
-  "desc": "The user disappears on the first turn, then attacks on the next turn. This move hits even if the target protects itself."
+  "desc": "The user disappears on the first turn, then attacks on the next turn. This move hits even if the target protects itself.",
+  "type": "ghost",
+  "category": "physical"
 }

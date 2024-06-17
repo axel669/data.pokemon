@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 20,
   "effect": null,
-  "desc": "The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy."
+  "desc": "The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy.",
+  "type": "normal",
+  "category": "other"
 }

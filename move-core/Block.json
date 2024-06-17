@@ -4,5 +4,7 @@
   "accuracy": 101,
   "pp": 5,
   "effect": null,
-  "desc": "The user blocks the target's way with arms spread wide to prevent the target from fleeing."
+  "desc": "The user blocks the target's way with arms spread wide to prevent the target from fleeing.",
+  "type": "normal",
+  "category": "other"
 }

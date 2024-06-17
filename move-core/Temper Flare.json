@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 10,
   "effect": null,
-  "desc": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+  "desc": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.",
+  "type": "fire",
+  "category": "physical"
 }

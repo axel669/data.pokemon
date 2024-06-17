@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 40,
   "effect": null,
-  "desc": "The user attacks by pelting the target with leaves."
+  "desc": "The user attacks by pelting the target with leaves.",
+  "type": "grass",
+  "category": "physical"
 }

@@ -4,5 +4,7 @@
   "accuracy": 100,
   "pp": 15,
   "effect": null,
-  "desc": "The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats."
+  "desc": "The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.",
+  "type": "dragon",
+  "category": "physical"
 }
