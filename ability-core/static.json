@@ -1,0 +1,5 @@
+{
+  "name": "Static",
+  "effect": "If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed.",
+  "desc": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it."
+}

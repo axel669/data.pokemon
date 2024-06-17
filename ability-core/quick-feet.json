@@ -1,0 +1,5 @@
+{
+  "name": "Quick Feet",
+  "effect": "Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed.",
+  "desc": "Boosts the Speed stat if the Pokémon has a status condition."
+}

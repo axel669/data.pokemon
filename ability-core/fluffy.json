@@ -1,0 +1,5 @@
+{
+  "name": "Fluffy",
+  "effect": "Fluffy reduces damage from contact moves by 50%, but Fire-type moves do double damage. Fire-type moves that make contact do regular damage.",
+  "desc": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+}

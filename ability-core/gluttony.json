@@ -1,0 +1,5 @@
+{
+  "name": "Gluttony",
+  "effect": "A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%.",
+  "desc": "If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less."
+}

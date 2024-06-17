@@ -1,0 +1,5 @@
+{
+  "name": "Rough Skin",
+  "effect": "When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP.",
+  "desc": "The Pokémon's rough skin damages attackers that make direct contact with it."
+}

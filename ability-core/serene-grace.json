@@ -1,0 +1,5 @@
+{
+  "name": "Serene Grace",
+  "effect": "Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance).",
+  "desc": "Raises the likelihood of additional effects occurring when the Pokémon uses its moves."
+}

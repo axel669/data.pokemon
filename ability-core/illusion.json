@@ -1,0 +1,5 @@
+{
+  "name": "Illusion",
+  "effect": "When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted.",
+  "desc": "The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party."
+}

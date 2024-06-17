@@ -1,0 +1,5 @@
+{
+  "name": "Sniper",
+  "effect": "Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.",
+  "desc": "If the Pokémon's attack lands a critical hit, the attack is powered up even further."
+}

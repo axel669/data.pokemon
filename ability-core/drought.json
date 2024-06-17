@@ -1,0 +1,5 @@
+{
+  "name": "Drought",
+  "effect": "Drought creates harsh sunlight when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.",
+  "desc": "Turns the sunlight harsh when the Pokémon enters a battle."
+}

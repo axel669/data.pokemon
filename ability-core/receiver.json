@@ -1,0 +1,5 @@
+{
+  "name": "Receiver",
+  "effect": "A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.",
+  "desc": "The Pokémon copies the Ability of a defeated ally."
+}

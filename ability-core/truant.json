@@ -1,0 +1,5 @@
+{
+  "name": "Truant",
+  "effect": "Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around.",
+  "desc": "Each time the Pokémon uses a move, it spends the next turn loafing around."
+}

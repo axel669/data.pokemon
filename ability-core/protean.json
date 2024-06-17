@@ -1,0 +1,5 @@
+{
+  "name": "Protean",
+  "effect": "Protean changes the Pokémon's type to that of its previously used attack.",
+  "desc": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Refrigerate",
+  "effect": "Refrigerate causes all Normal-type attacking moves used by the Pokémon to become Ice-type, and increase in power by 20%.",
+  "desc": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little."
+}

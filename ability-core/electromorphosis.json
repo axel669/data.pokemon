@@ -1,0 +1,5 @@
+{
+  "name": "Electromorphosis",
+  "effect": "If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled.",
+  "desc": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+}

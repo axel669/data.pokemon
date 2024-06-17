@@ -1,0 +1,5 @@
+{
+  "name": "Weak Armor",
+  "effect": "When a Pokémon with Weak Armor is hit by a physical move, its Defense drops one stage, but its Speed increases by one stage.",
+  "desc": "The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted."
+}

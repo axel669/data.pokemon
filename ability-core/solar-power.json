@@ -1,0 +1,5 @@
+{
+  "name": "Solar Power",
+  "effect": "During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn.",
+  "desc": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn."
+}

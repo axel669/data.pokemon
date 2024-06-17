@@ -1,0 +1,5 @@
+{
+  "name": "Fur Coat",
+  "effect": "Fur Coat reduces damage taken from physical attacks by 50%.",
+  "desc": "Halves the damage from physical moves."
+}

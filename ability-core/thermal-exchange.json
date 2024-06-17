@@ -1,0 +1,5 @@
+{
+  "name": "Thermal Exchange",
+  "effect": "Raises Attack when hit by a Fire-type move. Cannot be burned.\n",
+  "desc": "Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned."
+}

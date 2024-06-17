@@ -1,0 +1,5 @@
+{
+  "name": "Shields Down",
+  "effect": "Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.",
+  "desc": "When its HP drops to half or less, the Pokémon's shell breaks and it becomes aggressive."
+}

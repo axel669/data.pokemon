@@ -1,0 +1,5 @@
+{
+  "name": "Guard Dog",
+  "effect": "Boosts Attack if intimidated, and prevents being forced to switch out.\n",
+  "desc": "Boosts the Pokémon's Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work."
+}

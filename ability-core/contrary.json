@@ -1,0 +1,5 @@
+{
+  "name": "Contrary",
+  "effect": "Makes stat changes have an opposite effect.\n",
+  "desc": "Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them— and attempts to lower its stats will boost them."
+}

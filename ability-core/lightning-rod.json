@@ -1,0 +1,5 @@
+{
+  "name": "Lightning Rod",
+  "effect": "Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles.",
+  "desc": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+}

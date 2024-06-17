@@ -1,0 +1,5 @@
+{
+  "name": "Reckless",
+  "effect": "Reckless increases the power of recoil moves by 20%. By extension, this means the amount of recoil damage taken will increase as more damage is dealt (except for High Jump Kick and Jump Kick which are based on the user's HP).",
+  "desc": "Powers up moves that have recoil damage."
+}

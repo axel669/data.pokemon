@@ -1,0 +1,5 @@
+{
+  "name": "Technician",
+  "effect": "Technician increases the power of moves - that are usually base power 60 or below - by 50%.",
+  "desc": "Powers up weak moves so the Pokémon can deal more damage with them."
+}

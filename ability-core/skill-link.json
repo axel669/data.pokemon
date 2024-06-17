@@ -1,0 +1,5 @@
+{
+  "name": "Skill Link",
+  "effect": "Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.",
+  "desc": "Maximizes the number of times multistrike moves hit."
+}

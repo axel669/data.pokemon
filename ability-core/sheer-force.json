@@ -1,0 +1,5 @@
+{
+  "name": "Sheer Force",
+  "effect": "Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects.",
+  "desc": "Removes any additional effects from the Pokémon's moves, but increases the moves' power."
+}

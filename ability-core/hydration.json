@@ -1,0 +1,5 @@
+{
+  "name": "Hydration",
+  "effect": "A Pokémon with Hydration will cure itself of any status conditions during rain, at the end of each turn. This includes self-inflicted conditions such as from using Rest.",
+  "desc": "Cures the Pokémon's status conditions in rain."
+}

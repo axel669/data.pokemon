@@ -1,0 +1,5 @@
+{
+  "name": "Motor Drive",
+  "effect": "Raises Speed if hit by an Electric-type move.\n",
+  "desc": "The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted."
+}

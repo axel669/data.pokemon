@@ -1,0 +1,5 @@
+{
+  "name": "Comatose",
+  "effect": "Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze).",
+  "desc": "The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state."
+}

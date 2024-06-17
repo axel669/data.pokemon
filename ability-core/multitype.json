@@ -1,0 +1,5 @@
+{
+  "name": "Multitype",
+  "effect": "Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.",
+  "desc": "Changes the Pokémon's type to match the plate it holds."
+}

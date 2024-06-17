@@ -1,0 +1,5 @@
+{
+  "name": "Flame Body",
+  "effect": "If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned.",
+  "desc": "Contact with the Pokémon may burn the attacker."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Sturdy",
+  "effect": "Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold).",
+  "desc": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Dancer",
+  "effect": "When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower).",
+  "desc": "Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself."
+}

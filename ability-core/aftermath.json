@@ -1,0 +1,5 @@
+{
+  "name": "Aftermath",
+  "effect": "If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP.",
+  "desc": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact."
+}

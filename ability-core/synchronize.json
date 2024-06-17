@@ -1,0 +1,5 @@
+{
+  "name": "Synchronize",
+  "effect": "If the opponent causes a burn, paralysis, or poisoning of a Pokémon with Synchronize, the opponent receives the status condition too. Self-inflicted status conditions (for example through the use of an item) are not passed on.",
+  "desc": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition."
+}

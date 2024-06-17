@@ -1,0 +1,5 @@
+{
+  "name": "Poison Heal",
+  "effect": "Restores HP if the Pokémon is poisoned.\n",
+  "desc": "If poisoned, the Pokémon has its HP restored instead of taking damage."
+}

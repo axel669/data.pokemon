@@ -1,0 +1,5 @@
+{
+  "name": "Berserk",
+  "effect": "Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.",
+  "desc": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less."
+}
